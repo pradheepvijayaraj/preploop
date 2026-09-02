@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2019_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Phylogenetic position and morphological features of Ramapithecus.\n(b) Ethno-archaeological analysis of hunting activities of contemporary tribal communities.\n(c) Distribution of Tibeto-Burman group of languages in India.\n(d) Use of doctrine of Karma and rebirth in justifying the Varna system.\n(e) The Jajmani system and contemporary market economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          109,
+          118,
+          113,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 266
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 270
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Describe the Palaeolithic culture with special reference to Soanian tradition. Indicate the problems of describing the Indian Palaeolithic.\n(b) What has been the contribution of tribal people to the Indian Independence movement ?\n(c) Describe the impact of Buddhism on the tribal populations of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          122,
+          124
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 281
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) What kind of society may be reconstructed from the archaeological evidences of Harappan culture ?\n(b) Discuss the impact of media on the social life of Indian villages.\n(c) Critically assess the existing plans and programmes meant for tribal welfare.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          115,
+          127
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 284
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Give an account of the contributions of Iravati Karve and B. S. Guha to the analysis of race and caste in India.\n(b) What has been the impact of development projects on the environment and livelihood of forest-dwelling tribes?\n(c) Identify some special programmes for particularly vulnerable Tribal Groups (erstwhile PTGs).",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          120,
+          127
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 277
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 284
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each:\n(a) Ethnicity and regionalism.\n(b) Panchayati Raj as a facilitator of social inclusion in rural society.\n(c) Anthropological understanding of communalism.\n(d) Issues relating to tribal education.\n(e) Distribution of Neolithic sites in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 148,
+        "subtags": [
+          111,
+          49,
+          119,
+          107
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 276
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 264
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Identify the theoretical concepts that have emerged out of village studies in India.\n(b) Critically discuss the role of NGOs in tribal development.\n(c) Describe the impact of industrialization on the economic and social aspects of India's villages.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 272,
+        "subtags": [
+          127
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss how the elements of Little and Great Traditions combine in the emergence of social/political/religious movements, giving any one example to illustrate the issue.\n(b) Write about the role of colonial administration in the development of Anthropology in India.\n(c) What are the salient issues faced by pastoral communities in India? Discuss with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 268,
+        "subtags": [
+          114,
+          119
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss with appropriate examples how tribal unrest may be understood as emerging out of an incompatibility between tribes and the nation-state.\n(b) What has been the impact of non-Hindu religions on the emancipation of Schedule Castes in India ?\n(c) What are the constitutional safeguards to protect the interests of the Indian tribes ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 282,
+        "subtags": [
+          45,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    }
+  ]
+}

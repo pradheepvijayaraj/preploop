@@ -1,0 +1,401 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2021_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all the following. Write in your QCA Booklet the significance of these locations whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry :\n(i) Ziro Valley\n(ii) Khecheopalri Lake\n(iii) Toranmal\n(iv) Subarnarekha River\n(v) Koderma\n(vi) Sir Creek\n(vii) Periyar Wildlife Sanctuary\n(viii) Peechi Dam\n(ix) Digha Beach\n(x) Pamban Island\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Discuss the geo-political impact of bilateral relationship between India and Bhutan.\n(c) Discuss the economic significance of volcanic soils of India.\n(d) Give a reasoned account of difference between sugar industry of North and Peninsular India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 323,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 323,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 321
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Landslide is a major problem in Himalayan region. Discuss its causes and mitigation measures.\n(b) Appraise why drought is one of the most common climatic extremes in India.\n(c) Discuss the ecological and economic challenges of river linking in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          155
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the importance of solar energy in future economic development of India.\n(b) Critically examine the importance of Smart Cities Programme for solving urban problems in India.\n(c) Examine the significance of ecotourism in relation to socio-economic development and biodiversity conservation in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          162,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the reserves, distribution and production of all varieties of coal in India.\n(b) Describe the salient features of east-flowing rivers of India.\n(c) Critically examine the problems of inter-State border disputes in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          155,
+          164
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 321
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the salient features of Project Tiger in India.\n(b) Describe the problems of cloud burst in India giving suitable examples.\n(c) Discuss the role of watershed management for soil and water conservation in hilly regions of India.\n(d) Critically examine the relevance of Ravenstein's law of population migration with reference to India.\n(e) Discuss Ashok Mitra's classification method of Indian cities.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          163,
+          165,
+          155
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the impact of tropical cyclones and western disturbances on the climate of India.\n(b) Examine the critical issues of groundwater resources in India.\n(c) Describe the structure and relief features of Deccan Plateau.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 312,
+        "subtags": [
+          4
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically examine how Panchayati Raj system is catalyst in decentralized planning in India.\n(b) Identify the major industrial corridors of India and discuss the characteristics of Bengaluru-Mumbai Corridor.\n(c) Assess the growth of multinational corporations in liberalized economic environment of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) Examine how information and communication technology has boosted the development of certain regions of India.\n(b) Discuss the Command Area Development Programme and its impact on eliminating regional inequalities in India.\n(c) Critically assess the status of balance of trade in India and suggest some measures to combat the issues.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          160
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 317
+        }
+      ]
+    }
+  ]
+}

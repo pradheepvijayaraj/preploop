@@ -1,0 +1,525 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper 2 · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "MEDICAL-SCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2015_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) A 40-year-old Non-Resident Indian visiting India develops acute, sudden breathlessness one week after landing in India. A resident of USA, he has no such previous history of breathlessness.\n(i) List the differential diagnosis.\n(ii) How would you investigate this patient ?\n(b) A newborn baby weighing 1·5 kg develops respiratory distress on the first day of life.\n(i) List the differential diagnosis.\n(ii) How would you assess this baby ?\n(iii) How would you manage the most common condition manifesting with respiratory distress in the newborn ?\n(c) A 30-year-old business executive, who is asymptomatic, has been tested positive for Hepatitis-B surface antigen.\n(i) How would you further investigate this individual ?\n(ii) What steps would you take for the management ?\n(d) (i) Define \"Infant Mortality Rate (IMR)\".\n(ii) List the major causes of IMR in India.\n(iii) What are the key steps that can bring down the IMR in India ?\n(e) A 25-year-old unmarried female presents with asymptomatic depigmented macules of varying sizes over the breast, back, arms and legs for the last two years.\n(i) List the differential diagnosis.\n(ii) How would you investigate this patient ?\n(iii) How would you treat the most common condition manifesting with the given symptomatology ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) A 60-year-old gentleman presents with anaemia, Hb 6·8 gm/dl. Apart from weakness, there are no localizing symptoms or signs. He was diagnosed with myocardial infarction 8 years earlier and remains asymptomatic on atorvastatin and low dose aspirin since the M.I.\n(i) What is the likely cause for anaemia in this patient ?\n(ii) Which laboratory investigations are helpful in his management ?\n(iii) What is the appropriate treatment for this condition ?\n(b) A 10-year-old boy presented with history of recurrent joint swelling of knees, elbows and ankles, following trivial injuries. His maternal uncle had similar illness.\n(i) What is the nature of disease and the likely diagnosis ?\n(ii) Which investigations can confirm this disease ?\n(iii) What is the medical management in this young patient ?\n(iv) What is the advice for his mother ?\n(c) A 45-year-old lady develops itchy, hyperpigmented, scaly lesions on face. These lesions become worse after the use of hair dye which she started using five months earlier.\n(i) What is the most likely diagnosis ?\n(ii) How can this diagnosis be confirmed ?\n(iii) What medical advice can be given to this lady ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 17.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 17.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 18.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 18.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) A 45-year-old gentleman presented in emergency with haematemesis. Examination revealed massive splenomegaly.\n(i) List five differential diagnosis of ‘massive splenomegaly’.\n(ii) What is the most likely diagnosis in this patient ?\n(iii) Which investigations are warranted in the patient described above ?\n(iv) Enumerate the steps in the initial management of this patient in emergency.\n(b) An 11-month-old infant is brought to hospital with delayed weaning and history of recurrent diarrhoeal episodes. The child is apathic, weighs 5·5 kg, has depigmented hair and oedema over the limbs.\n(i) What is the most likely diagnosis ?\n(ii) Enumerate the clinical assessment and investigations that would be helpful in this infant.\n(iii) Enumerate the ten essential steps and two phases of treatment for this child.\n(c) An 18-year-old unmarried young lady, highly conscious of her body image, develops severe weight loss. She has amenorrhoea for 7 months and her food intake is minimal.\n(i) What is the most likely diagnosis ?\n(ii) What is the management in such a case ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          308,
+          314
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 18.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 18.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 17.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 17.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A 23-year-old young man presents to medical emergency with recurrent seizures for 2 days.\n(i) Enumerate the points in clinical history and examination that are relevant to the diagnosis.\n(ii) Which investigations are warranted to arrive at the diagnosis ?\n(iii) List the steps in the management of this patient in emergency.\n(iv) Name three common diseases that can manifest with recurrent seizures.\n(b) “Globally, about a quarter of all neonatal deaths are caused by birth asphyxia.” What are the guidelines and interventions in resource-limited settings for effective resuscitation to reduce neonatal mortality ?\n(c) A term neonate born to Rh negative mother is brought at 22 hours of life with jaundice, fever and one episode of convulsion.\n(i) What is the most likely diagnosis and its basis ?\n(ii) Enumerate the key investigations and principles of management.\n(iii) List four important long-term complications of this disease.\n(iv) Mention the preventive measures.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          306
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 17.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 17.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "c",
+          "marks": 18.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 18.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) (i) List the causes of tongue ulcer.\n(ii) State the predisposing factors which may lead to the development of tongue carcinoma.\n(iii) What is the preferred modality of treatment in carcinoma of the tongue ?\n(b) A 55-year-old male presents with acute urinary retention.\n(i) List the differential diagnosis.\n(ii) What steps would you take to relieve him of his condition ?\n(iii) How would you investigate this patient to reach at the diagnosis ?\n(c) (i) What is the objective of Pre Conception Pre Natal Diagnostic Techniques (PCPNDT) Act ?\n(ii) Enumerate the forms that must be filled by the attending doctors while carrying out a pre-natal ultrasound.\n(iii) If a medical doctor is found to be violating the PCPNDT Act, what is the legal provision for punishment prescribed under the Act ?\n(d) (i) What is PAP smear ?\n(ii) Briefly state its procedure.\n(iii) How do you interpret the test results ?\n(e) (i) Define the sensitivity and specificity of a diagnostic test.\n(ii) Briefly discuss the role of Rapid Diagnostic Test (RDT) in malaria comparing it with the slide test.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          315,
+          313
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 471,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 471,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Draw a flow chart on how you would evaluate a 50-year-old lady presenting with abnormal uterine bleeding.\n(ii) How does menopause influence the bone mineral density ?\n(iii) What measures can be taken by a peri-menopausal woman to safeguard against osteoporosis ? List them.\n(b) (i) List the causes of haematuria.\n(ii) Briefly discuss the management of carcinoma of the prostate.\n(c) Briefly discuss the proposed goals and targets under the Integrated Reproductive, Maternal, Newborn, Child and Adolescent Health in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 469,
+        "subtags": [
+          309,
+          315
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) (i) What are the key clinical features of abdominal tuberculosis ?\n(ii) How would you investigate a patient suspected to be a case of abdominal tuberculosis ?\n(iii) Briefly discuss the role of surgery in the management of a patient with abdominal tuberculosis.\n(b) (i) What are “vector-borne diseases” ?\n(ii) List any five vector-borne diseases specifying the vector in each.\n(iii) Specify the “International Travel Health Regulations” that have been derived to check the spread of vector-borne diseases.\n(c) (i) What is trial of labour ?\n(ii) How would you manage a trial of labour in a patient who has had a Caesarean Section previously ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          315,
+          310
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) A 7-year-old girl is brought with a history of dog-bite five minutes ago. She has abrasions on her hand, but no bleeding.\n(i) What category of bite would this injury fall under ?\n(ii) What are the first-aid measures which need to be given to this child ?\n(iii) What prophylactic steps would you take to prevent rabies in this child ?\n(b) A 25-year-old married lady presents with history of 10 weeks amenorrhoea, acute lower abdominal pain and fainting. On clinical examination, she has tachycardia, hypotension and pelvic tenderness.\n(i) What is the most likely diagnosis ?\n(ii) How would you investigate such a patient ?\n(iii) How would you manage such a patient ? List the key points.\n(c) (i) List the five most commonly found cancers in India.\n(ii) Enumerate the clinical features of carcinoma of upper third of oesophagus.\n(iii) How would you manage a case of carcinoma of upper third of oesophagus ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          311,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

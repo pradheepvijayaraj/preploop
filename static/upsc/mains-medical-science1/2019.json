@@ -1,0 +1,506 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2019_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Discuss the Functional Components, Nucleus, Course, Distribution of Seventh Cranial Nerve.\n(b) A 52 year old chronic alcoholic man has difficulty in his gait with imbalance and tendency to fall. Elaborate the underlying physiology of motor coordination and features of cerebellar dysfunction.\n(c) A 35 year old man presented with complaints of generalised weakness, loss of appetite and yellowish discolouration of eyes. The liver function test was done and the report is as follows :\nTotal bilirubin : 10 mg/dL (0.1–1.2 mg/dL)\nDirect bilirubin : 9 mg/dL (< 0.3 mg/dL)\nAlanine transaminase (ALT) : 31 IU/L (< 35 IU/L)\nAspartate transaminase (AST) : 33 IU/L (< 40 IU/L)\nAlkaline phosphatase (ALP) : 800 IU/L (45–150 IU/L)\n(i) What is the most likely diagnosis and why ?\n(ii) What will be the expected findings in urine and stool ?\n(d) (i) Enumerate palmar spaces of Hand.\n(d) (ii) Enumerate the Developmental Components of thoraco Abdominal Diaphragm.\n(e) Describe Bronchopulmonary segment of lungs. Add a note on the importance of organ transplantation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Describe the knee joint under the following headings :\n1. Types, Articular surface\n2. Ligaments\n3. Relations\n4. Blood supply and nerve supply\n5. Movements\n(b) (i) Enumerate various hormones secreted by pituitary gland with their cell types.\n(b) (ii) A 28 year old man noticed marked enlargement of bones of his hands and feet along with coarsening of facial features and prognathism. He was diagnosed as a case of pituitary adenoma.\nWhat ailment he is suffering from and its features ? Describe physiological status of anterior pituitary hormones of this patient and its control mechanism.\n(c) (i) Discuss the principle and the steps involved in real time PCR. Enlist any five applications of PCR in medicine.\n(c) (ii) Explain the significance of selenium in biochemical processes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the physiological mechanism involved in control and maintenance of tone, posture and equilibrium and its various anatomical structures and pathways.\n(a) (ii) Elaborate types and stages of sleep along with EEG findings. Describe neuronal and neurohumoral mechanism causing sleep with possible role of serotonin in it.\n(b) Discuss in detail the hormonal regulation of calcium and phosphate homeostasis. Add a note on the causes and clinical manifestations of hypocalcemia.\n(c) Describe stomach under the following headings :\n1. Position\n2. Gross features\n3. Peritoneal and visceral relation\n4. Blood supply and lymphatic drainage\n5. Clinical anatomy",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Explain in detail the absorption and biochemical role of vitamin K in the body. Add a note on the deficiency manifestations of vitamin K along with relevant laboratory investigations for confirmation.\n(a) (ii) Define clearance. Explain its significance and enumerate the methods available for its determination.\n(b) (i) Illustrate a diagram of Neuromuscular function elaborating neuromuscular transmission and muscular contraction.\n(b) (ii) Describe various Cardiovascular changes during physical exercises.\n(c) (i) Describe the gross anatomy, blood supply and applied importance of Thyroid gland.\n(c) (ii) Enumerate the different types of myelineted fibers in the cerebral white matter.\n(c) (iii) Enumerate the Developmental Components of Inferior vena cava.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          299,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 4.0
+            },
+            {
+              "label": "iii",
+              "marks": 3.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) What are the major cell derived mediators of Inflammation ? Describe their role in acute Inflammation.\n(b) (i) Discuss the laboratory diagnosis of acute meningococcal meningitis.\n(b) (ii) Discuss the laboratory diagnosis of HIV in an asymptomatic individual.\n(c) Discuss general toxicity associated with the use of cytotoxic drugs.\n(d) What are the growth factors involved in Regeneration and repair of tissues ?\n(e) Explain violent asphyxial death. Write about various types of violent asphyxial death.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          302,
+          303,
+          304
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 462
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Give the laboratory findings in a case of Acute Myeloid leukemia (PML/RARA) fusion gene type.\n(a) (ii) Give the etiopathogenesis, Gross and microscopic picture of Acute bacterial osteomyelitis.\n(b) What are different classes of oral hypoglycaemic drugs used in the management of diabetes mellitus ? Discuss the mechanism of action, side effects and clinical uses of sulphonyl urea.\n(c) (i) Discuss epidemiology, pathogenesis and laboratory diagnosis of Polio virus infection.\n(c) (ii) Enumerate infections caused by candida species. Suggest a laboratory approach for the diagnosis of invasive candidial infections.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 7.5
+            },
+            {
+              "label": "ii",
+              "marks": 7.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) What is DNA finger printing ? What precautions should be taken while collecting various samples from living human being for this test ? What is DNA Bill ?\n(b) Discuss the process of wound healing. What is the significance of stages of wound healing in Medico-legal cases ?\n(c) Explain why :\n(i) Fungal infections have been on the rise over the past few decades.\n(ii) Sudden withdrawal of Clonidine causes rebound hypertension.\n(iii) Artemether-Lumefantrine combination for treatment of malaria should be administered with fatty food.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 462
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Briefly describe the pathogenesis and laboratory diagnosis of enteric fever.\n(a) (ii) Describe in brief the life-cycle of Plasmodium vivax. How will you make a laboratory diagnosis of malaria ?\n(b) Give the pathogenesis, Urinary findings and Immunoflorescence picture in Acute Post infection glomerulonephritis.\n(c) Discuss precisely the mechanism of action, side effects and medical uses of the following :\n(i) Allopurinol\n(ii) Telmisartan",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          301,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        }
+      ]
+    }
+  ]
+}

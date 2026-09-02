@@ -1,0 +1,40 @@
+node_modules
+
+# Local agent and editor state
+.opencode/
+.codex/
+.agents/
+.idea/
+.vscode/
+*.log
+*.tmp
+*.swp
+
+# Output
+.output
+.vercel
+.netlify
+.wrangler
+/.svelte-kit
+/build
+/coverage
+__pycache__/
+*.py[cod]
+/src-tauri/target
+/src-tauri/models/granite-r2-q8_0.gguf
+/src-tauri/models/*.gguf.download
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env
+.venv/
+.env
+.env.*
+!.env.example
+!.env.test
+
+# Vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*

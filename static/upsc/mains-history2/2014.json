@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains History Paper 2 · 2014",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2014,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2014_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2014_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"Plassey did not complete the British conquest of India. Had the English been convincingly defeated in any subsequent battle in India, then (the battle of) Plassey would have remained as a minor episode in the history of India.\"\n(b) \"Montague-Chelmsford reform proposals introduced 'dyarchy', but blurred the lines of responsibility.\"\n(c) \"The military, feudal and traditional overtones of the Revolt of 1857 were overshadowed by its nationalist or proto-nationalist character.\"\n(d) \"The 'safety-valve thesis' does not adequately explain the birth of the Indian National Congress in 1885.\"\n(e) \"M.K. Gandhi made a gross mistake in championing the Khilafat cause, an extra-territorial issue which cut at the very roots of Indian nationality.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          202,
+          0,
+          197,
+          199
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 357
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The Dual System of Government was a complete failure from the outset. In the first place, the abuse of the private trade reached a greater height than ever. In the second place, the demands of the Company for the increase led to gross oppression of the peasantry.\" Examine.\n(b) \"...instead of rejecting the plan (Cabinet Mission Plan), they (the Congress Leadership) resorted to a half-baked legalistic stratagem to reserve their position on its long-term arrangements and accepted its short-term provisions.\" Critically examine.\n(c) \"Dalit Movements for empowerment in independent India have essentially been for carving out political space through electoral politics.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 353,
+        "subtags": [
+          202,
+          203
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 361
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Politics remained for the bulk of the Moderates very much a part-time affair. The Congress was not a political party, but an annual three-day show...\" Elucidate.\n(b) \"The Anti-Partition Agitation (1909) had an economic character in Bengal unlike the Extremist Agitation in Maharashtra which had a religious character.\" Examine.\n(c) \"Sardar Patel accomplished a silent revolution by ensuring the absorption and assimilation of a multitude of principalities without shedding even a drop of blood.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 360,
+        "subtags": [
+          206
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Though Sri Ramakrishna became the prophet of neo-Hinduism, he never claimed to have founded any new religion.\" Elaborate.\n(b) \"Why did the British finally quit India on 15th August, 1947? The Imperialist answer is that independence was simply the fulfilment of Britain's self-appointed mission to assist the Indian people to self-government.\" Examine.\n(c) To what extent did the Freedom Movement in India influence the Liberation Movement in Africa?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          193,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each : 10x5=50\n(a) \"Rousseau strove to reconcile the liberty of the individual and the institution of Government through a new vision of the Contract-Theory of Government.\"\n(b) \"The commercial and industrial interests created a veritable hothouse atmosphere in Europe for the establishment of colonies.\"\n(c) \"Enlightened despots (Europe) were not necessarily politically liberal.\"\n(d) \"... the passing of the 'Reform Act' marked the real beginning of modern party organisation in England ... In a real sense, the present political system of England dates from 1832.\"\n(e) \"The Russo-Japanese War helped in the rise of Japan as a great power.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 133,
+        "subtags": [
+          42,
+          41,
+          43
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 133
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 133
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"American Revolution seems to have come with remarkable suddenness. A roster of talented leaders emerged during 1763 to 1775 to make it happen.\" Elucidate.\n(b) \"If we were to define our conception of the State, our answer would be that the State is the banker of the poor. The government would finance and supervise the purchase of productive equipments and the formation of social workshops.\" In light of the above statement of Louis Blanc, throw light on the Pre-Marxist Socialist Thought in Europe.\n(c) To what extent did the expansion of European Powers in the late 19th century help in the modernization of Africa?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          201,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The Declaration of Rights was the death-warrant of the system of privilege, and so of the ancient regime ... Yet in the history of ideas it belonged rather to the past than to the future.\" Examine.\n(b) Critically examine the socio-cultural and economic impact of migration in Europe and Asia in the 18th and 19th centuries.\n(c) Discuss the circumstances leading to the Suez Crisis of 1956 and examine its repercussions on global politics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          192,
+          43
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Europe was eclipsed through European folly due to the two world wars.\" Elucidate.\n(b) \"The language of narrow nationalism held at Frankfurt destroyed the German Revolution; as the fatal idea of aggrandisement of the House of Savoy destroyed the Italian Revolution.\" Discuss.\n(c) Discuss the nature of American overseas expansion in Asia and explain the consequences.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          206,
+          193
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        }
+      ]
+    }
+  ]
+}

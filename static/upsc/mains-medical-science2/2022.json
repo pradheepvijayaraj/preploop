@@ -1,0 +1,503 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2022_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) Enumerate the imaging modalities used in the diagnosis of cardiac diseases. List their specific indications in diagnosing cardiac illnesses.\n(b) Outline the pharmacological and non-pharmacological management of anxiety disorders.\n(c) A 3 year old girl, who weighs 12 kg, presents with a history of loose stools mixed with blood and mucus, and fever for 3 days. On examination, she is active and feeling excessively thirsty. There is some loss of skin turgor.\n(i) Write your complete diagnosis.\n(ii) Name the most common micro-organism responsible for this condition.\n(iii) Write two most important life-threatening complications of this condition.\n(iv) Outline the management of the condition in this girl.\n(d) (i) Give two examples for each of the following types of vaccines used in under-5 children :\n1. Capsular polysaccharide vaccines\n2. Conjugate vaccines\n3. Recombinant vaccines\n(ii) Define the following terms :\n1. Herd effect\n2. Vaccine efficacy\n(e) (i) State the various modes of transmission of scabies.\n(ii) What is the mite burden in a classical case of scabies during\n1. an initial infection\n2. in reinfection\n3. in Norwegian scabies\n(iii) Describe the distribution of cutaneous findings in scabies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          311,
+          309,
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss in brief the etiology, clinical features, diagnosis and treatment of nephrotic syndrome in a 40 year old adult.\n(b) A 2 year old unimmunized boy weighing 6 kg presented with fever, cough, and difficult breathing for 5 days. There was a history of fever with maculopapular rash lasting for 3 days around 7 days prior to this episode. The child is febrile, has a pulse rate 116/min, respiratory rate : 72/min, SpO2 88%. There is severe chest indrawing and nasal flaring. Auscultation revealed bronchial breath sounds on left side and bilateral crepitations.\n(i) State the complete diagnosis.\n(ii) Enumerate 3 most important complications associated with this condition.\n(iii) How would you assess the severity of illness in this child ?\n(iv) Discuss in brief the management of this child.\n(c) (i) What are the four 'P's used to describe clinical manifestation of lichen planus ?\n(ii) What are the common sites of cutaneous involvement in lichen planus ?\n(iii) Describe Koebner phenomena. List the disorders where this phenomena can be observed.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) Discuss in brief about the diet and exercise related advice given to a 35 year old male diagnosed with non-insulin dependent diabetes mellitus.\n(ii) Write the acute complications of Insulin dependent diabetes mellitus and outline their management.\n(b) A 22 year old primi mother comes to you with complaint of \"NOT ENOUGH MILK\". Due to this, her baby remains hungry and is constantly biting at her nipples. She is feeling soreness in the nipples.\n(i) How will you assess the mother-child duo to identify the underlying etiology of \"NOT ENOUGH MILK\" ? Discuss briefly.\n(ii) Outline the 4 criteria each for \"correct positioning\" and \"correct attachment\" of the baby for proper breastfeeding.\n(iii) Discuss in brief the management of sore nipples.\n(c) Following an acute episode of diarrhoea a 3 month old infant wearing diaper daily develops rash on skin surfaces that are in direct contact with diaper.\n(i) What is your diagnosis ? Describe clinical picture of this disorder.\n(ii) How do you treat skin condition of this child ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A 25 year old female has presented to the medicine OPD with complaints of excessive tiredness, cold intolerance and menstrual irregularities.\n(i) Write the name of thyroid disorder that can lead to above manifestations.\n(ii) Tabulate the differentiating cardiovascular clinical manifestations in hypothyroidism and hyperthyroidism.\n(iii) Outline the pharmacological management of hypothyroidism and hyperthyroidism. What are the blood investigations conducted to monitor the treatment of hypothyroidism and hyperthyroidism ?\n(b) A 6 week old sick looking young infant is brought to a primary health centre with suspicion of \"Possible Bacterial Infection\" as per Integrated Management of Neonatal and Childhood Illness (IMNCI) strategy.\n(i) How will you assess this child, and classify as having \"Possible Serious Bacterial Infection\" or \"Local Bacterial Infection\" ?\n(ii) State the treatments for \"Possible Serious Bacterial Infection\" and \"Local Bacterial Infection\", as per IMNCI strategy.\n(c) A young epileptic patient was put on antiseizure drug Lamotrigine. Three weeks later he develops an eruption consisting of purpuric macules and bullae all over skin with involvement of lips, oral mucous membrane and eyes. Skin was tender to touch.\n(i) What is the differential diagnosis in this case ?\n(ii) How will you manage this condition ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 469,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) (i) Name the clinical tests for checking sapheno-femoral junction competence and deep venous system patency.\n(ii) Enumerate the complications of varicose veins.\n(iii) Briefly discuss the management of venous ulcer.\n(b) A 65 year old male came to casualty with acute retention of urine. He also gave history of nocturia, urgency, dribbling and thin stream of urine for two years.\n(i) How will you manage acute retention of urine in this patient ?\n(ii) Briefly outline the definitive management in this patient.\n(c) Outline the management of a 35 year old multigraveda patient who has presented to the emergency department in a state of shock. She has delivered a dead baby at home 2 hours back and the placenta has not delivered. She has a previous history of lower segment caesarean section.\n(d) (i) Enumerate the contraindications which limit the usage of oral contraceptive pills in a woman.\n(ii) Discuss the causes for failure of sterilization procedure in males and in females.\n(e) State the National Guidelines on feeding of infant and young child. What are the goals which these guidelines strive to achieve ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          306,
+          310,
+          312,
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 470,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) Define 'pre-eclampsia'. Enumerate the risk factors which may lead to this condition. What are its clinical signs and what are its alarming symptoms ? Outline in brief its management.\n(b) Describe clinical features, diagnosis and management of ileo-caecal tuberculosis.\n(c) (i) What are the objectives of investigating an epidemic ?\n(ii) Briefly state the various steps you would undertake while investigating an epidemic.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          309,
+          313
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 471,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) A 40 year old lady came to casualty with pain in the right upper abdomen associated with vomitings for 5 days. On examination, she was found to be having tenderness in right hypochondrium; the rest of the abdomen was normal. Ultrasound abdomen revealed a thick walled gallbladder with gall stones and pericholecystic fluid.\n(i) What is the clinical diagnosis and how will you manage this condition ?\n(ii) Enumerate the complications of gall stones.\n(iii) What is Mirizzi Syndrome ? How would you investigate and manage it ?\n(b) (i) What is the total content of iron in the human body ?\n(ii) What are its bodily functions ?\n(iii) State the interventions being undertaken under the 'Anaemia Mukt Bharat Strategy'.\n(c) (i) What is the current consensus on prescribing Hormone replacement therapy (HRT) in post menopausal women ?\n(ii) Discuss its merits and demerits.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          314,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) The 'End TB Strategy' is an evolution over the previous strategies to win over tuberculosis.\n(i) What are the key principles of the 'End TB Strategy' ?\n(ii) What are the 'pillars and components' of this strategy ?\n(iii) What are the major barriers that have thwarted the progress in the battle against the disease ?\n(b) (i) What has been the impact of HPV vaccination in India ?\n(ii) Discuss the currently available Human Papilloma Virus (HPV) Vaccines and their schedules.\n(c) A 60 year old lady comes to surgery OPD with 6x4 cm lump in her right breast with nipple discharge.\n(i) What will be the possible findings on clinical examination if this lump were to be malignant ?\n(ii) How will you investigate this patient ?\n(iii) What are the important structures which are to be preserved during modified radical mastectomy ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 473,
+        "subtags": [
+          307,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

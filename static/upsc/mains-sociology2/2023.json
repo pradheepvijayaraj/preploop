@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2023_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, on the following questions in about 150 words each:\n(a) Highlight the significant features of A.R. Desai's 'Dialectical Perspective' to study Indian Society.\n(b) \"The decade of 1950s was the golden period of village studies in Indian Sociology.\" Explain the statement.\n(c) Analyse the differences between the attributional and interactional approach in studying the caste system.\n(d) Are Tradition and Modernity antithetical to each other? Comment.\n(e) Discuss the main features of Land Reforms in post-independence India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          45,
+          427,
+          428
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 585
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 586
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Do you agree with the view of Andre Beteille that India's villages are representative of Indian society's basic civilizational values ? Present a sociological overview.\n(b) Elaborate the salient features and the role of middle class in India's democracy and development.\n(c) Analyse the role of market and modern forces in understanding the changing trends in marriage systems in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 586,
+        "subtags": [
+          429,
+          430
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 588
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Contextualize Louis Dumont's concept of 'binary opposition' with reference to caste system in India.\n(b) Define the concepts of 'Descent' and 'Alliance'. Differentiate between North Indian and South Indian Kinship systems with examples.\n(c) Critically examine the concept of Sanskritization with suitable illustrations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          430
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Analyse the perspectives of Isolation, Assimilation and Integration in understanding the trajectories of Indian Tribal Development.\n(b) Explain the implications and the impact of globalization in situating the changing agrarian class structure in India.\n(c) Critique the victory narratives of Green Revolution in the context of Indian society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 60,
+        "subtags": [
+          429,
+          433
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 591
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, on the following questions in about 150 words each:\n(a) Citing some case studies, expand the concept of 'Development-induced Displacement'.\n(b) Examine the concept of 'Cultural Pluralism' in the context of India's Unity in Diversity.\n(c) Highlight the salient features of the New Education Policy (NEP) 2020.\n(d) Analyse the sociological interconnections between Social Media and Mass Mobilization in India.\n(e) Discuss the nature of regional variations in sex ratio in India, stating reasons thereof.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 599,
+        "subtags": [
+          431,
+          445,
+          438,
+          440
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 599
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 596
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 598
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) How do you account for the increasing significance of religion in public and personal spheres in the context of secularization thesis in India ? Explain.\n(b) In the face of rising global climatic concerns, how do you contextualize the relevance of Chipko Movement and its Gandhian tone ? Answer analytically.\n(c) What actionable measures would you suggest to curb the recurrent child labour menace in India ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 589,
+        "subtags": [
+          438,
+          434
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 596
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 592
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Do you think that the decades of Dalit political mobilizations and movements have helped in strengthening India's democracy? Substantiate your arguments with facts.\n(b) What is 'reverse migration'? Discuss its features, causes and consequences in India.\n(c) Discuss the phenomenon of rural-urban continuum with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 595,
+        "subtags": [
+          47
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 145
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the thematic linkages between 'Patriarchy' and 'Honour killing' in India, citing some recent cases.\n(b) Discuss the challenges faced by the cooperative movements in India. Suggest measures to strengthen the movement at the grass-roots level.\n(c) What is 'Ageing'? Discuss the major problems of aged people in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 588,
+        "subtags": [
+          195,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    }
+  ]
+}

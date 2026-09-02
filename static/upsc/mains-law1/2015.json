@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2015_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Given the contemporary economic, political and social realities, critically evaluate the judicial framework developed to determine whether an agency/body is 'State' for the purposes of Article 12. Is the test currently too narrow ? Justify your answer.\n(b) What would be your opinion regarding the view that the exercise of powers by the President and Governors under Article 72 and 161 to grant mercy should also be open to Constitutional Challenge ? Discuss with reference to recent cases of the Apex Court of the country.\n(c) \"Article 14 of the Constitution of India forbids class legislation not reasonable classification.\" Examine and also discuss how far equality of status and opportunity are achieved by this Constitutional provision.\n(d) Define and distinguish between the terms 'Lokayukta' and 'Lokpal' in the Indian context. Also mention about its relevance.\n(e) What do you understand by the expression 'independence of judiciary' ? Why is it being discussed/debated/questioned too much nowadays ? What reasons would you give for this development ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 385,
+        "subtags": [
+          215,
+          223,
+          224,
+          6
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 381
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 382
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 21
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Right to life means something more than mere animal existence.\" Discuss with reference to case law. Is there any difference between the expression 'right to life' and 'personal liberty' ? Explain critically.\n(b) \"The Prime Minister is the keystone of the Cabinet arch because he is responsible for its formation, life and death.\" Critically examine the above statement in the light of various provisions of the Constitution and determine the position of the Prime Minister of India in the Cabinet.\n(c) The horizon of 'Legal aid' has been widened best, still the impact is totally missing. How would you resolve this crisis which is ruining the life of millions of poor people of our country over the years ? Suggest some concrete measures to make it more effective and implementative.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 370,
+        "subtags": [
+          215
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 370
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) In light of the fact that the Constitution of India has no express prohibition on delegated legislation, critically evaluate the basis for different judicial positions either prohibiting excessive delegation or permitting delegation without Constitutional limitations.\n(b) What is 'Protected discrimination' ? Examine how far it is constitutional under Article 15 and 16. Give reference of decided cases. Also mention the limitations of these articles as per its application.\n(c) \"The non-obstante clause in Article 246 ought to be regarded as last resource in case of an inevitable and irreconcilable conflict between the lists.\" Examine critically. Also discuss the abuse/abuses related to this clause. Is there any connection between the doctrine of 'pith and substance' and 'non-obstante clause' ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 381,
+        "subtags": [
+          217,
+          213
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 381
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 375
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 371
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) Under what circumstances, apart from concerned parties, a third party has locus standi to move writ petition before the High Court or Supreme Court ? How has this procedure helped in developing and promoting democratic principles in the country ?\n(b) Critically evaluate the powers of the Governor of a State as provided under the Constitution of India. How would you interpret the following observation that \"the role of a Lieutenant Governor is no more than that of a facilitator of administration under the President's control\" ?\n(c) Explain the opinion of the Supreme Court of India regarding the relation between the Fundamental Rights and Directive Principles of State Policy in the light of its decided cases. Do you agree with the view that giving primacy to one over the other is to disturb the harmony of the Constitution ? Comment with reference to the present day scenario relating to education, health, religion, etc.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 21,
+        "subtags": [
+          216,
+          213
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 374
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 371
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) \"Today there is a huge shift of the basis of International law though the principal component of International law is represented by binding rules, imposing duties and conferring rights upon the state.\" Comment critically.\n(b) Evaluate the importance and relevance of 'Extradition Treaty', under International law. Is a state liable to extradite an offender, who has been accused of a political murder in a neighbouring state ? Give reasons.\n(c) Discuss the efficacy of International Humanitarian law in the protection of Prisoners of War.\n(d) \"International Terrorism is a threat to world order and peace.\" Elucidate. Also define the term 'International Terrorism'. What major steps have been taken up by the developed, and developing countries in this respect ? Discuss.\n(e) Explain the principles of 'Ratification of a Treaty'. Also examine the consequences of non-ratification of a treaty.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          233,
+          239,
+          241,
+          235
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 391
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 397
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 399
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 393
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) The Republic of Marshall Islands (RMI) recently filed an application against India in the International Court of Justice (ICJ) alleging India's breach of its obligation to pursue in good faith and conclude negotiations leading to nuclear disarmament. Would it fall under the compulsory jurisdiction of ICJ ? Discuss. Also mention about the possibility of challenging this jurisdiction by India.\n(b) \"A man's nationality is a continuing legal relationship between the sovereign state on the one hand and the citizen on the other.\" Explain the above statement. Also mention the difference between 'nationality', 'double nationality' and 'statelessness'.\n(c) Define and distinguish between the following :\n(i) Recognition of State and Recognition of Government\n(ii) De facto and De jure recognition\nAlso explain the concept 'Collective recognition'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          230,
+          227
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 388
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 385
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically evaluate the laws/conventions/practices available for the protection and preservation of marine environment under International law. Also discuss the rules provided under International law for 'transit passage' and its abuses.\n(b) Discuss the various peaceful means of resolving International disputes. Which one according to you is more practical in the context of problems of the present day ? Give reasons.\n(c) What is the meaning of the term 'Territorial Asylum', under International law ? What are its major components ? And how is it different from the term 'Territorial Sovereignty' ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          237,
+          234
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 395
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 392
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the provisions of the UN Charter which enables the UN to perform its primary role of 'peace keeping' among nations. What is your assessment regarding this function of the UN ? Suggest some measures or a road-map for this purpose.\n(b) Under modern International law what meaning has been assigned to the term 'High Sea' ? Explain. Also discuss the scope of the concept of freedom of the High Sea with reference to legality of nuclear test in the areas of High Sea.\n(c) \"In the ultimate analysis individuals alone are the subjects of International law.\" Comment. Also discuss the Transformation theory in the context of the relation between International law and Municipal law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          229,
+          226
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 387
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 384
+        }
+      ]
+    }
+  ]
+}

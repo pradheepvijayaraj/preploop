@@ -1,0 +1,574 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2024_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Describe the radial nerve under the following headings :\n(i) Origin and course\n(ii) Branches and muscles supplied\n(iii) Applied aspects\n(b) Describe the development of ventricles of the heart. Add a note on Fallot's tetralogy.\n(c) Explain the 'Mucosal Block Theory' for iron absorption. Discuss briefly the complications of excess of iron deposition in the body.\n(d) Give the sequence of events at the neuromuscular junction during the transmission of a nerve impulse. Name the muscles most commonly affected by myasthenia gravis.\n(e) Describe the components of the nervous system which are concerned with 'conscious alert state' that makes perception possible.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) A middle-aged female notices a lump in the midline of the neck. She notices it moves with swallowing. The surgeon gives a tentative diagnosis of goitre.\nDescribe the thyroid gland under the following headings :\n(i) Gross anatomy and relations\n(ii) Blood supply and lymphatic drainage\n(iii) Surgical anatomy of thyroid gland\n(b) (i) Explain why vitamin D can be considered to be a 'hormone'. Describe the role of vitamin D in calcium homeostasis.\n(ii) Discuss the sources and Recommended Daily Allowance (RDA) of vitamin B12. Briefly discuss the absorption of vitamin B12 in the GIT and the clinical manifestations of the disorder of absorption of vitamin B12.\n(c) (i) Define the Frank-Starling law. State the significance and causes of shift of Frank-Starling curve to right and left.\n(ii) What is the role of baroreceptors and chemoreceptors in the regulation of blood pressure?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          298,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) Describe the uterus under the following headings :\n(i) Gross anatomy\n(ii) Ligaments and supports\n(iii) Relations of uterus\n(iv) Blood supply\n(v) Lymphatic drainage\n(vi) Applied aspects\n(b) (i) Which antibiotics and toxins inhibit protein synthesis in prokaryotes and eukaryotes? Briefly explain the mechanism of action of each of them.\n(ii) What are ribozymes? Explain briefly the role of any one ribozyme in protein synthesis.\n(c) (i) Enumerate the major hormonal causes of dwarfism. Give their characteristic features.\n(ii) Describe the principal events during oogenesis in brief.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          300,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the facial nerve under the following headings :\n1. Functional columns and nuclei of origin\n2. Course and branches\n3. Bell's palsy\n(ii) Differentiate between indirect and direct inguinal hernia.\n(b) (i) Define renal clearance. What key features should be present in a compound for it to be considered as a 'gold standard' for measurement of renal clearance? Explain why urea is not considered as a 'gold standard' for this.\n(ii) Briefly describe the role of Restriction Fragment Length Polymorphism (RFLP) in DNA fingerprinting.\n(c) (i) Give the physiological basis of anaemia in kidney and liver disease.\n(ii) Describe the role of eosinophils in control of allergy reactions.\n(iii) Describe the role of platelets in haemostasis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) (i) Discuss the antiviral spectrum and therapeutic uses of acyclovir.\n(ii) Doxorubicin is an antibiotic. Enumerate its role in cancer chemotherapy and its adverse effects.\n(b) What is hypersensitivity? Enumerate different hypersensitivity reactions along with examples. Define type I hypersensitivity reaction and write its role in health and disease.\n(c) Define cancer. Describe in detail the effects of cancer-related genes on cell growth.\n(d) A 50-year-old male presented with a history of chest pain, polyuria and polydipsia since last 5 years. Investigations showed HbA1c level of 12%, cardiac enzymes were normal, while urinalysis showed proteinuria.\n(i) What is the most likely diagnosis?\n(ii) Describe the microscopic findings.\n(iii) What is the pathogenesis?\n(e) Define injury. Discuss the microscopic and histochemical methods which can determine the age of injury.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the microscopic features of breast cancer. Enumerate any five major prognostic factors.\n(ii) Enumerate any five differences between primary tuberculosis and secondary tuberculosis.\n(b) (i) Explain why primaquine is used for radical cure of malaria.\n(ii) Explain why albendazole is termed as broad-spectrum oral antihelminthic.\n(c) (i) What is candidiasis? What are its different presentations and etiological causes? Give the laboratory diagnosis of a case of invasive candidiasis.\n(ii) What is shigellosis? What are its causative organisms and their modes of pathogenicity? Give the laboratory diagnosis of a case.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) (i) Define death due to hanging. What are the probable causes of death in hanging?\n(ii) What are the findings in a case of judicial hanging?\n(b) (i) A 55-year-old female presented with haematemesis. On physical examination, she was afebrile and pale. No organomegaly was noted. Serological tests for hepatitis B were positive.\n1. What is the most likely diagnosis?\n2. Describe the microscopic findings.\n3. What is the pathogenesis?\n(ii) Describe the clinical features and microscopic findings in acute lymphoblastic leukaemia.\n(c) (i) State the role of diuretics in the management of hypertension.\n(ii) Discuss how excess dose of paracetamol causes acute hepatocellular toxicity and how you will manage the condition.\n(iii) Elaborate the advantages and disadvantages of Sodium-Glucose Cotransporter-2 (SGLT-2) inhibitors in the management of diabetes mellitus.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 462,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) What is enteric fever? What are its causative agents? Give a detailed presentation of a case according to the time of the disease and the respective tests used for diagnosis.\n(ii) Draw a diagram of HIV virion depicting the various antigens and proteins. Give the serological pattern in an HIV infection according to the time of presentation. List the various diseases associated with AIDS.\n(b) (i) What is virtual autopsy? State its methodology. What are its merits?\n(ii) Define brain death. Describe its medicolegal importance.\n(c) (i) Discuss why infliximab is considered as an immunosuppressant. Mention its therapeutic uses.\n(ii) Describe briefly the pharmacological characteristics of natriuretic peptides and their clinical uses.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

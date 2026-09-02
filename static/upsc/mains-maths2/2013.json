@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2013,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2013_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Show that the set of matrices $S = \\left\\{ \\begin{pmatrix} a & -b \\\\ b & a \\end{pmatrix} \\bigg| a, b \\in \\mathbb{R} \\right\\}$ is a field under the usual binary operations of matrix addition and matrix multiplication. What are the additive and multiplicative identities and what is the inverse of $\\begin{pmatrix} 1 & -1 \\\\ 1 & 1 \\end{pmatrix}$ ? Consider the map $f : \\mathbb{C} \\to S$ defined by $f(a + ib) = \\begin{pmatrix} a & -b \\\\ b & a \\end{pmatrix}$. Show that $f$ is an isomorphism. (Here $\\mathbb{R}$ is the set of real numbers and $\\mathbb{C}$ is the set of complex numbers.)\n(b) Give an example of an infinite group in which every element has finite order.\n(c) Let $f(x) = \\begin{cases} \\frac{x^2}{2} + 4 & \\text{if } x \\ge 0 \\\\ -\\frac{x^2}{2} + 2 & \\text{if } x < 0 \\end{cases}$\nIs $f$ Riemann integrable in the interval $[-1, 2]$ ? Why ? Does there exist a function $g$ such that $g'(x) = f(x)$ ? Justify your answer.\n(d) Prove that if $b e^{a+1} < 1$ where $a$ and $b$ are positive and real, then the function $z^n e^{-a} - b e^z$ has $n$ zeroes in the unit circle.\n(e) Maximize $z = 2x_1 + 3x_2 - 5x_3$\nsubject to $x_1 + x_2 + x_3 = 7$\nand $2x_1 - 5x_2 + x_3 \\ge 10$, $x_i \\ge 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 447,
+        "subtags": [
+          291,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) What are the orders of the following permutations in $S_{10}$ ?\n$$\\begin{pmatrix} 1 & 2 & 3 & 4 & 5 & 6 & 7 & 8 & 9 & 10 \\\\ 1 & 8 & 7 & 3 & 10 & 5 & 4 & 2 & 6 & 9 \\end{pmatrix}$$ and $(1 \\; 2 \\; 3 \\; 4 \\; 5) (6 \\; 7)$.\n(b) What is the maximal possible order of an element in $S_{10}$ ? Why ? Give an example of such an element. How many elements will there be in $S_{10}$ of that order ?\n(c) Show that the series $\\sum_{1}^{\\infty} \\frac{(-1)^{n-1}}{n + x^2}$, is uniformly convergent but not absolutely for all real values of $x$.\n(d) Show that every open subset of $\\mathbb{R}$ is a countable union of disjoint open intervals.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 448,
+        "subtags": [
+          295,
+          289
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 453
+        },
+        {
+          "label": "b",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "c",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "d",
+          "marks": 14.0,
+          "subtags": [],
+          "mainTag": 448
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $J = \\{a + bi \\mid a, b \\in \\mathbb{Z}\\}$ be the ring of Gaussian integers (subring of $\\mathbb{C}$). Which of the following is $J$ : Euclidean domain, principal ideal domain, unique factorization domain ? Justify your answer.\n(b) Let $R^C = $ ring of all real valued continuous functions on $[0, 1]$, under the operations\n$(f + g)x = f(x) + g(x)$\n$(fg)x = f(x) g(x)$.\nLet $M = \\left\\{ f \\in R^C \\mathrel{\\bigg|} f\\left(\\frac{1}{2}\\right) = 0 \\right\\}$.\nIs $M$ a maximal ideal of $R$ ? Justify your answer.\n(c) Let $f(x, y) = y^2 + 4xy + 3x^2 + x^3 + 1$. At what points will $f(x, y)$ have a maximum or minimum ?\n(d) Let $[x]$ denote the integer part of the real number $x$, i.e., if $n \\le x < n + 1$ where $n$ is an integer, then $[x] = n$. Is the function $f(x) = [x]^2 + 3$ Riemann integrable in $[-1, 2]$ ? If not, explain why. If it is integrable, compute $\\int_{-1}^{2} ([x]^2 + 3) dx$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 447,
+        "subtags": [
+          292,
+          290
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 448
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Solve the minimum time assignment problem :\n|  | $M_1$ | $M_2$ | $M_3$ | $M_4$ |\n| --- | --- | --- | --- | --- |\n| $J_1$ | 3 | 12 | 5 | 14 |\n| $J_2$ | 7 | 9 | 8 | 12 |\n| $J_3$ | 5 | 11 | 10 | 12 |\n| $J_4$ | 6 | 14 | 4 | 11 |\n(b) Using Cauchy's residue theorem, evaluate the integral\n$$I = \\int_{0}^{\\pi} \\sin^4 \\theta d\\theta$$\n(c) Minimize $z = 5x_1 - 4x_2 + 6x_3 - 8x_4$\nsubject to the constraints\n$x_1 + 2x_2 - 2x_3 + 4x_4 \\le 40$\n$2x_1 - x_2 + x_3 + 2x_4 \\le 8$\n$4x_1 - 2x_2 + x_3 - x_4 \\le 10$\n$x_i \\ge 0$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 450,
+        "subtags": [
+          291
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 450
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Form a partial differential equation by eliminating the arbitrary functions $f$ and $g$ from $z = y f(x) + x g(y)$.\n(b) Reduce the equation\n$$y \\frac{\\partial^2 z}{\\partial x^2} + (x+y) \\frac{\\partial^2 z}{\\partial x \\partial y} + x \\frac{\\partial^2 z}{\\partial y^2} = 0$$\nto its canonical form when $x \\ne y$.\n(c) In an examination, the number of students who obtained marks between certain limits were given in the following table :\n| Marks | 30 - 40 | 40 - 50 | 50 - 60 | 60 - 70 | 70 - 80 |\n| --- | --- | --- | --- | --- | --- |\n| No. of Students | 31 | 42 | 51 | 35 | 31 |\nUsing Newton forward interpolation formula, find the number of students whose marks lie between 45 and 50.\n(d) Prove that the necessary and sufficient condition that the vortex lines may be at right angles to the stream lines are\n$$u, v, w = \\mu \\left( \\frac{\\partial \\phi}{\\partial x}, \\frac{\\partial \\phi}{\\partial y}, \\frac{\\partial \\phi}{\\partial z} \\right)$$\nwhere $\\mu$ and $\\phi$ are functions of $x, y, z, t$.\n(e) Four solid spheres A, B, C and D, each of mass $m$ and radius $a$, are placed with their centres on the four corners of a square of side $b$. Calculate the moment of inertia of the system about a diagonal of the square.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          294,
+          297,
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 455
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve\n$$(D^2 + DD' - 6D'^2) z = x^2 \\sin (x + y)$$\nwhere $D$ and $D'$ denote $\\frac{\\partial}{\\partial x}$ and $\\frac{\\partial}{\\partial y}$.\n(b) Find the surface which intersects the surfaces of the system\n$z(x + y) = C(3z + 1)$, ($C$ being a constant)\northogonally and which passes through the circle $x^2 + y^2 = 1, z = 1$.\n(c) A tightly stretched string with fixed end points $x = 0$ and $x = l$ is initially at rest in equilibrium position. If it is set vibrating by giving each point a velocity $\\lambda \\cdot x (l - x)$, find the displacement of the string at any distance $x$ from one end at any time $t$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Develop an algorithm for Newton - Raphson method to solve $f(x) = 0$ starting with initial iterate $x_0$, $n$ be the number of iterations allowed, $eps$ be the prescribed relative error and $delta$ be the prescribed lower bound for $f'(x)$.\n(b) Use Euler's method with step size $h = 0.15$ to compute the approximate value of $y(0.6)$, correct up to five decimal places from the initial value problem\n$y' = x (y + x) - 2$\n$y(0) = 2$\n(c) The velocity of a train which starts from rest is given in the following table. The time is in minutes and velocity is in km/hour.\n| t | 2 | 4 | 6 | 8 | 10 | 12 | 14 | 16 | 18 | 20 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| v | 16 | 28.8 | 40 | 46.4 | 51.2 | 32.0 | 17.6 | 8 | 3.2 | 0 |\nEstimate approximately the total distance run in 30 minutes by using composite Simpson's $\\frac{1}{3}$ rule.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 452,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Two equal rods AB and BC, each of length $l$, smoothly jointed at B, are suspended from A and oscillate in a vertical plane through A. Show that the periods of normal oscillations are $\\frac{2\\pi}{n}$ where $n^2 = \\left( 3 \\pm \\frac{6}{\\sqrt{7}} \\right) \\frac{g}{l}$.\n(b) If fluid fills the region of space on the positive side of the x-axis, which is a rigid boundary and if there be a source $m$ at the point $(0, a)$ and an equal sink at $(0, b)$ and if the pressure on the negative side be the same as the pressure at infinity, show that the resultant pressure on the boundary is $\\frac{\\pi \\rho m^2(a - b)^2}{2ab(a + b)}$ where $\\rho$ is the density of the fluid.\n(c) If $n$ rectilinear vortices of the same strength $K$ are symmetrically arranged as generators of a circular cylinder of radius $a$ in an infinite liquid, prove that the vortices will move round the cylinder uniformly in time $\\frac{8\\pi^2 a^3}{(n - 1)K}$. Find the velocity at any point of the liquid.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 455,
+        "subtags": [
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 454
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 455
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    }
+  ]
+}

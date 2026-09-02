@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2020_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"Maharaja Ranjit Singh died in 1839. His death was the signal for an outburst of anarchy all over the Punjab.\"\n(b) \"In the initial stages, when Indian nationalism was immature, just sprouting, it found expression in many liberal religio-reform movements.\"\n(c) \"In the early twentieth century, there came into existence a number of women's organisations, which operated more actively in the public arena and focused more directly on women's political and legal rights.\"\n(d) \"The Trade Union Movement in India not only supported the call for national struggle at critical junctures, but also impacted its course and character in several ways.\"\n(e) \"Based on his discussion with Indian leaders, as well as his own perception, Lord Mountbatten soon came to the conclusion that partition was the only practicable and feasible solution.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          49,
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"It was Dupleix who had first showed the way of intervening in disputes of the Indian rulers and thereby acquiring political control over vast territories — a technique which was later perfected by the English East India Company.\" Elaborate.\n(b) \"For long, the Revolt of 1857 has been mistaken to be a mere mutiny of the Indian sepoys in the Bengal army. However, its causes need to be searched for not only in the dissatisfaction of the army, but in a long drawn process of fundamental social and economic change that upset the peasant communities. Discuss.\n(c) Do you feel that the Santhal Hool (rebellion) 1855 – 56, was the most effective tribal movement in pre-1857 India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          195,
+          196
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 354
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) In its political behaviour the Indian National Congress in its early career was never a radical organisation, besides the founders of the Congress involved A.O. Hume in their project. Do these facts verify that the Congress was founded as a 'Safety valve'? Explain.\n(b) Do you agree with the fact that the virtual failure of the Non-Cooperation Movement and the gloom that descended on the nationalist scene, created conditions for revolutionary activities? Discuss.\n(c) Planning was seen as a powerful instrument that could be used to remove regional inequality. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          201,
+          204
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 362
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"In the divided and contestable space of Indian politics, Gandhiji could claim for himself a centrist position because he alienated neither and tactically combined the goal of the moderates with the means of the extremists.\" Discuss.\n(b) \"After Indian Independence India-China relations started on a high note, but during the course of the coming years India had to face a bitter experience due to the Chinese aggression.\" Elaborate.\n(c) \"The Reorganisation of the States on the basis of language was a major aspect of national consolidation and integration.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 357,
+        "subtags": [
+          192,
+          39
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 357
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 132
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"The principles of Enlightenment were in some ways a continuation of the discoveries and theories of the Scientific Revolution.\"\n(b) \"The causes of the French Revolution of 1789 included both long term and structural factors, as well as more immediate events.\"\n(c) \"Industrial Revolution had far reaching social and political consequences with the advent of assembly line factories, urbanization and rise of the urban working class.\"\n(d) \"The multitude of newly independent countries came to be known as the 'Third World', belonging neither to the First World of capitalist democracies, nor the Communist Second World.\"\n(e) \"The British were slated to withdraw from Palestine in May 1948, and both sides prepared for that day. Violence between Arabs and Jews, already endemic, escalated.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          206,
+          42,
+          44,
+          193
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Napoleon was not a revolutionary but he solidified many of the revolutionary changes of 1789 – 1791 and he himself supported most of the ideas and proposals of Enlightenment philosophers.\" Substantitate.\n(b) \"Lincoln's main thesis was that the Slavery issue had to be decided one way or the other and could no longer be evaded by compromise.\" Comment in the light of his role in the American Civil War.\n(c) \"The 1848 revolutions frightened the crowned heads of Europe and caused several to abdicate. Those who remained were cognizant of the threats posed by liberalism, nationalism and socialism.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          202,
+          206
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"From Bismarck's 'Blood and Iron' speech and his forceful actions to achieve German unification, Bismarck came to be known as the Iron Chancellor.\" Critically examine.\n(b) Do you agree with the statement that the Second World War was history's most destructive war? Elaborate.\n(c) Discuss the circumstances leading to the French exit from Algeria in 1962.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 365,
+        "subtags": [
+          43,
+          40
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 133
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) How did Stalin build on Lenin's legacy of Bolshevik Revolution and introduce new elements of totalitarianism to transform USSR as a superpower?\n(b) A new configuration of power emerged in world politics after the end of the cold war. Analyse how USA managed to become the sole superpower.\n(c) Critically examine whether it was true that after a century of dependency on Europeans, Africans were ill prepared for the task of nation-building.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          207,
+          208
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 366
+        }
+      ]
+    }
+  ]
+}

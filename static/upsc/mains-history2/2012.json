@@ -1,0 +1,332 @@
+{
+  "metadata": {
+    "name": "Mains History Paper 2 · 2012",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2012,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2012_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 300
+  },
+  "questions": [
+    {
+      "id": "upsc_2012_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each: (a) “The current practice of categorization of ‘Early Modern India’ is based on a shift from the old imperialist periodization of ‘Muslim India’ — ‘British India’ to the more secularist one of ‘Medieval India’ — ‘Modern India’, which puts Indian history in a universalistic chronological structure.” (b) “Compared to their English counterpart, the French East India Company enjoyed little discretionary power and had to always look up to Paris for all major decisions. This partly explains the failure of the French in India.” (c) “The peasant movement of the second half of the nineteenth century lacked a positive conception of an alternative society — a conception which would unite the people in a common struggle on a wide regional and all-India plane and help develop long-term political developments.” (d) “Plantations and mines, jute mills, banking, insurance, shipping and export-import concerns in India were run through a system of interlocking managing agencies.” (e) “Nehru’s policy of Non-Alignment came to symbolize the struggle of India and other newly independent nations to retain and strengthen their independence from colonialism.”",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          193,
+          195,
+          143,
+          0
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "c",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "d",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "e",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 7
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) “The forces of free trade and the British determination to create a political and administrative environment conducive to trade and investment has shaped the British policy towards India in the first half of the nineteenth century.” — Elucidate. (b) “The contact of the new Indian middle class with the West proved to be a catalyst. The social and religious movements launched by Rammohan or Ishwar Chandra Vidyasagar have to be understood in context.” — Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          34
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 121
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) “The railways, instead of serving as the catalyst of the industrial revolution as in Western Europe and the USA, acted in India as the catalyst of complete colonization’.”— Examine (b) “The Santhal hool began in July 1855. The core of the movement was economic, the basic cause of the uprising was agrarian discontent.” — Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          195
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 353
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) “Nehru favoured the policy of integrating the tribal people in Indian society, of making them an integral part of the Indian nation even while maintaining their distinct identity and culture.” — Elaborate with special reference to Northeastern India. (b) “The Chipko became famous as the first major environmental movement in post-colonial India and gave rise to the understanding that environmental issues are often women’s issues because they suffer most from its deterioration.” — Explain",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 354,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 354
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 354
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each: (a) “The despotic rules of Europe were influenced by the philosophy of Enlightenment and began to follow a benevolent policy toward their subjects.” (b) “The American Revolution was essentially an economic conflict between American capitalism and British mercantilism.” (c) “The connection between the philosophers’ ideas and the outbreak of the French Revolution (1789) is somewhat remote and indirect.” (d) “The process of industrialization in some other countries of Europe was different from that in England.” (e) “With the Cold War over and the Soviet Union gone, the face of international diplomacy has undergone a metamorphosis.”",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          41,
+          42,
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "d",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "e",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 365
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) “The impact of the French Revolution (1789) was initially confined to Europe, but that of the Russian Revolution (1917) was global.” — Critically review. (b) “Any single explanation for the outbreak of the First World War is likely to be too simple. An amalgam of factors intellectual, social, economic as well as political and diplomatic contributed to this horrifying conflict of monumental proportions.” — Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          43
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) How did Napoleon fuse the France of the ancient regime with the France of the post-revolutionary era? (b) Was German unification achieved more by ‘coal and iron’ rather than by ‘blood and iron’?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 133,
+        "subtags": [
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 133
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) “The announcement of the creation of the People’s Republic of China on October 1, 1949 by Mao Zedong ended the civil war between the Chinese Communist Party (CCP) and the Nationalist Party (KMT).” — Elaborate. (b) “The Arab nationalism had a peculiar character. It stood for national independence for separate Arab States as well as for the unity of all Arabs irrespective of their state boundaries.” — Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 368,
+        "subtags": [
+          0
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 7
+        }
+      ]
+    }
+  ]
+}

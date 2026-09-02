@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2025_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) ‘Textual perspective is important in understanding of Indian Social System.’ Discuss.\n(b) Justify that the Indian traditions are modernizing. Also discuss its contributing factors.\n(c) According to you, which social reform movement has played the most effective role in uplifting the status of women ? Explain.\n(d) How did Colonial Policies for the tribes affected their socio-economic conditions in India ? Discuss.\n(e) How would you appropriate to characterise G. S. Ghurye as a practitioner of ‘theoretical pluralism’ ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          435,
+          436,
+          427,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 594
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 585
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Do you think that in a society like India orthogenetic changes take place through differentiation ? Do you observe continuities in the orthogenetic process ? Elaborate your answer with suitable examples.\n(b) ‘Agrarian class structure has been undergoing changes due to modern forces.’ Critically examine.\n(c) How same sex marriages are responsible for population dynamics in India ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 588,
+        "subtags": [
+          429,
+          440
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 598
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) What do you mean by nation building ? What is the role of religion in nation building ? Elaborate your answer.\n(b) Do you think that new economic reforms of British rule have disrupted the old economic system of India ? Substantiate your answer with suitable examples.\n(c) Describe the main features of Indian new middle class. How is it different from the old middle class ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 593,
+        "subtags": [
+          434,
+          429
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Who is said to be the pioneer of village studies in India ? Illustratively describe contributions of some Indian sociologists on village studies. How their approaches are distinct from each other ?\n(b) “Industrial class structure is a function of social structure of Indian society.” Do you agree with this statement ? Analyze.\n(c) What is kinship ? Briefly explain G. P. Murdock’s contribution to the study of the kinship system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 586,
+        "subtags": [
+          429,
+          430
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 588
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) ‘The transfer of land from cultivating to the non-cultivating owners is bringing about transformation in Indian society.’ Justify your answer by giving suitable illustrations.\n(b) Bring out various factors responsible for declining of village Industries in India.\n(c) Discuss the social bases of political mobilization in Independent India. Has some change occurred in these during the last 60-70 years?\n(d) What are the major problems faced by the labour migrants while working in informal sectors of Indian States ? Discuss.\n(e) Do you think that law has been able to abolish child labour in India ? Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 592,
+        "subtags": [
+          428,
+          435,
+          47
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 592
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) In what respects have the constitutional provisions changed the socio-economic and political conditions of Scheduled Castes and Scheduled Tribes in India ? Critically examine.\n(b) Discuss the trend of urbanization in India. Do you think that Industrialization is the only precondition of urbanization ? Give you arguments.\n(c) Which measures would you suggest for preventing caste conflicts in India ? Justify your argument.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          47,
+          443
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 601
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) What are the Private and Public network and support systems operative in Indian society for the aged ? Suggest measures to curb down the challenges before care givers of the aged.\n(b) “Educational development is the only Panacea for country’s all ills and evils.” Critically examine the above statement with reference to NEP-2020.\n(c) How Dalit movements in India have facilitated their Identity formation ? Analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          445,
+          437
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 595
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Is it possible to have sustainable development in India ? Cite major environmental issues and suggest a few measures to achieve the sustainability.\n(b) Do you think that forced displacement of labourers has caused their deprivation and resultant inequalities during the recent past years ? Elaborate.\n(c) What are the Indian government’s schemes launched for poverty alleviation after the United Nation’s Declaration of ‘Sustainable Development Goals - 2015’ ? Briefly describe.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 596,
+        "subtags": [
+          441,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 596
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 599
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    }
+  ]
+}

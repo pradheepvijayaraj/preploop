@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2016_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Critically examine the Marxist aspect of political economy approach to the study of comparative politics.\n(b) Comment on the decline of political parties and examine whether new social movements shall be alternative strategy for establishing link between government and society.\n(c) Discuss the impact of globalization on the internal functioning of the state.\n(d) Critically examine the functional and system approaches to the study of international relations.\n(e) \"A combination of internal pressures (ethnic and regional forces) and external threats (EU, UN, TNC, global market, etc.) has produced what is commonly referred to as a 'crisis of the nation-state'.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          376,
+          48,
+          377,
+          50
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) Why does global human security need to be emphasized along with economic security? Explain with examples.\n(b) Do you endorse that the United Nations needs major changes in its structures and functioning? Suggest the changes for efficient improvements.\n(c) Discuss the evolution of non-proliferation of nuclear weapons in the post-Cold War period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 536,
+        "subtags": [
+          236,
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 536
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"The IMF, World Bank, G-7, GATT and other structures are designed to serve the interests of TNCs, banks and investment firms in a 'new imperial age'.\" Substantitate with examples of governance of new world order.\n(b) Examine in brief the rise and fall of the Cold War.\n(c) How does the regionalism shape the world politics? Explain with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 538,
+        "subtags": [
+          379,
+          50
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the instruments and methods devised for the promotion of national interest.\n(b) \"The notion of balance of power is notoriously full of confusion.\" In the light of this quotation, do you think that the concept of balance of power is relevant?\n(c) Do interest groups help to promote democracy or to undermine it? Give your opinion.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 536,
+        "subtags": [
+          386,
+          376
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 536
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 534
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Which determinant factors play an important role in making India's foreign policy? Illustrate with examples.\n(b) Comment on India's contribution to Non-Alignment Movement and its contemporary relevance.\n(c) Illustrate the main causes of tension between India and China. Suggest the possibilities of improving relationship.\n(d) Critically analyze India's nuclear policy.\n(e) \"Sometimes we visualize that SAARC's efforts come to halt because of various impediments to regional cooperation.\" Elaborate with reasonable examples of impediments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          383,
+          386,
+          388,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain Britain's ouster from EU and bring out its consequences on world economy in general and India in particular.\n(b) Comment on India's growing relationship with USA in the background of constrained relations between India and China.\n(c) Critically analyze China's role in international politics against India's demand for permanent seat in UN Security Council.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 544,
+        "subtags": [
+          384,
+          378
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 536
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the main problems and challenges involved in looking after environmental concerns in world politics.\n(b) Explain the concept of the North-South divide and suggest how structural inequalities between the high wage, high investment industrial North and low wage, low investment predominantly rural South can be reduced.\n(c) Discuss the positive and negative impacts of Soviet Union's disintegration on developing nations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 539,
+        "subtags": [
+          385,
+          379
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 539
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the socio-economic impacts of arms race and identify the obstacles in the way of disarmament.\n(b) What are the hopes and aspirations of 'Look East Policy' of India? Explain.\n(c) Discuss the shift of India's foreign policy towards Pakistan in the light of Pathankot incident.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 536,
+        "subtags": [
+          389,
+          382
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 536
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 540
+        }
+      ]
+    }
+  ]
+}

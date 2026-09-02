@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "name": "Mains History Paper 1 · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2013,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2013_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the outline map in the Question-cum-Answer Booklet supplied to you and write short notes of about 30 words on each of them in the space provided in the Booklet. Locational hints for each of the places marked on the map are given below seriatim :- (2½ marks, 30 words for each of the 20 subparts, total 50 marks)\n\n![Map supplied with UPSC HISTORY1 2013](/upsc/assets/history1/history1_2013_q1_map.jpg)\n(i) A Palaeolithic and Mesolithic site.\n(ii) A Mesolithic site.\n(iii) An important halting place.\n(iv) A Pre-Harappan site.\n(v) An important Harappan site.\n(vi) Site of important fossils.\n(vii) A Sea-port.\n(viii) A Palaeolithic site.\n(ix) A Neolithic, Megalithic and Chalcolithic site.\n(x) A Harappan site.\n(xi) A Palaeolithic site.\n(xii) A Neolithic site.\n(xiii) A Chalcolithic site.\n(xiv) A Chalcolithic site.\n(xv) A site of Buddhist Monastery.\n(xvi) Painted Grey Ware site.\n(xvii) Site related to a famous Indian Philosopher.\n(xviii) Historical Rock-cut caves.\n(xix) Famous Fort.\n(xx) Capital of famous Kingdom.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 324,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "i",
+          "marks": 2.5
+        },
+        {
+          "label": "ii",
+          "marks": 2.5
+        },
+        {
+          "label": "iii",
+          "marks": 2.5
+        },
+        {
+          "label": "iv",
+          "marks": 2.5
+        },
+        {
+          "label": "v",
+          "marks": 2.5
+        },
+        {
+          "label": "vi",
+          "marks": 2.5
+        },
+        {
+          "label": "vii",
+          "marks": 2.5
+        },
+        {
+          "label": "viii",
+          "marks": 2.5
+        },
+        {
+          "label": "ix",
+          "marks": 2.5
+        },
+        {
+          "label": "x",
+          "marks": 2.5
+        },
+        {
+          "label": "xi",
+          "marks": 2.5
+        },
+        {
+          "label": "xii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiv",
+          "marks": 2.5
+        },
+        {
+          "label": "xv",
+          "marks": 2.5
+        },
+        {
+          "label": "xvi",
+          "marks": 2.5
+        },
+        {
+          "label": "xvii",
+          "marks": 2.5
+        },
+        {
+          "label": "xviii",
+          "marks": 2.5
+        },
+        {
+          "label": "xix",
+          "marks": 2.5
+        },
+        {
+          "label": "xx",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) Evaluate various views regarding human settlements as gleaned from the Vedic sources.\n(b) Discuss the water management and its conservation planning in the Harappan (Indus-Saraswati) cities.\n(c) In the absence of a written script Chalcolithic pottery gives us a fascinating insight into the culture and life styles of the people of those times. Comment critically.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 327,
+        "subtags": [
+          172,
+          171
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 329
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 327
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 328
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history1_q3",
+      "type": "fill-blank",
+      "question": "(a) On the basis of contemporary sources assess the nature of banking and usuary in ancient India.\n(b) Social norms for women in the Dharmasastra and Arthasastra tradition were framed in accordance with the Varnashrama tradition. Evaluate critically.\n(c) \"The varna concept may always have been largely a theoretical model and never an actual description of society.\" Comment in the context of Ancient India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 335,
+        "subtags": [
+          168,
+          177
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 335
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 334
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history1_q4",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the contribution of the Puranas in disseminating secular knowledge among the masses in ancient India.\n(b) Evaluate the ownership of land in ancient India on the basis of literary and epigraphic sources.\n(c) Explain as to how the early Buddhist Stupa art, while using folk motifs and narratives and common cultural symbols, succeeded in transforming these themes for expounding the Buddhist ideals.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 335,
+        "subtags": [
+          175,
+          168
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 332
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 335
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history1_q5",
+      "type": "fill-blank",
+      "question": "Write short notes in not more than 150 words on each of the following:\n(a) Evaluate the Malfuzat texts as sources of medieval history.\n(b) Discuss the state of society and economy of the Bahmani kingdom as gleaned from historical sources.\n(c) Give a sketch of Indian trade with Europe during the Mughal period.\n(d) Analyze the steps taken by Razia Sultan to strengthen her position as an independent ruler despite the various obstacles.\n(e) Bhakti and mysticism of Lal Ded emerged as a social force in Kashmir. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 325,
+        "subtags": [
+          189,
+          184,
+          179
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 346
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 341
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 336
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history1_q6",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the conditions of industries in India from 1200—1500 CE.\n(b) On the basis of contemporary sources evaluate the system of agriculture and irrigation of the Vijayanagar kingdom.\n(c) Critically evaluate the educational development during the Sultanate period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 336,
+        "subtags": [
+          185,
+          184
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 342
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 341
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history1_q7",
+      "type": "fill-blank",
+      "question": "(a) On the basis of the accounts of Europeans bring out the agrarian crisis of the 17th century CE India.\n(b) Evaluate critically the conditions of labour from 1200—1500 CE on the basis of historical sources.\n(c) Discuss and evaluate critically various trends in the historiography of bhakti.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 325,
+        "subtags": [
+          188
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 345
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history1_q8",
+      "type": "fill-blank",
+      "question": "(a) Analyze how the political process of state formation of Mewar from 10th—15th century CE was challenged in the 16th century CE by the imperialist policy of Akbar.\n(b) Assess the Lekhapaddhati as an important source for evaluating the society and economy of the thirteenth century CE with special reference to Gujarat.\n(c) Assess the development of Science and Technology in the Mughal period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 347,
+        "subtags": [
+          186,
+          179
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 343
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 347
+        }
+      ]
+    }
+  ]
+}

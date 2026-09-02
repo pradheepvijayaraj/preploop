@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2016_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Differences between Social Anthropology and Sociology\n(b) Cultural Relativism\n(c) Lineage and Clan\n(d) Totemism\n(e) Functionalism",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 250,
+        "subtags": [
+          78,
+          86,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 235
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Delineate the salient features of Chalcolithic cultures.\n(b) Discuss the impact of urbanization and feminist movements on family in India.\n(c) According to Geertz, how does the cock-fight reveal aspects of Balinese culture?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          46
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 140
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Describe the cardinal points of descent and alliance theories.\n(b) Discuss different social control mechanisms in simple societies.\n(c) Critically examine different Anthropological approaches to Religion.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          87,
+          93
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the principles governing production, distribution and exchange in simple societies.\n(b) How do the concepts of binary opposites and exchange figure in Levi-Strauss' structural analysis of kinship?\n(c) Describe the evolution of fieldwork tradition in Anthropology.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 244,
+        "subtags": [
+          89,
+          95
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 252
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each:\n(a) Rh-Blood Group\n(b) Rhodesian Man\n(c) Neolithic Cultures of India\n(d) Fertility and Fecundity\n(e) Forensic Anthropology",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 257,
+        "subtags": [
+          86,
+          104,
+          106
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 261
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 263
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Elucidate the biological and cultural factors in human evolution.\n(b) Explain the role of heredity and environment in the formation of races.\n(c) Discuss different factors affecting growth and development in human beings.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 260,
+        "subtags": [
+          31,
+          100
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically discuss the Mendelian principles and their application to human populations.\n(b) Explain the significance of screening and counselling for genetic disorders.\n(c) Describe the scope of Epidemiological Anthropology in the study of infectious and non-infectious diseases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 259,
+        "subtags": [
+          96,
+          99
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 256
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 259
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the role of Anthropology in designing defence and other equipments.\n(b) Discuss the genetic and non-genetic factors in the bio-cultural adaptations of human beings to different environments.\n(c) Explain the skeletal changes due to erect posture and their implications.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 253,
+        "subtags": [
+          106,
+          103
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 263
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    }
+  ]
+}

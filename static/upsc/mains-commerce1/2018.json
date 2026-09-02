@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 1 · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2018_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Explain the concept and nature of accounting standards. Why are these needed ?\n(b) What are the costs used in managerial decision-making ? Explain, in brief, their characteristics.\n(c) In what way does the liability of tax of a \"not ordinarily resident\" person differ from that of a \"resident\" person under the Income Tax Act ?\n(d) Explain the major provisions of compulsory tax audit for claiming deduction under section 35 D and 35 E.\n(e) Explain, in brief, the functions of cost accounting.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          129,
+          18,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) The following is the Balance Sheet of XYZ Ltd. as at 31st March 2017.\n| Liabilities | ₹ | Assets | ₹ |\n| --- | --- | --- | --- |\n| 20,000 Equity shares of ₹ 100 each | 20,00,000 | Goodwill | 25,000 |\n| 12% Debenture | 5,00,000 | Land & Buildings | 1,50,000 |\n| Outstanding debentures interest | 1,20,000 | Plant & Machinery | 3,00,000 |\n| Creditors | 3,00,000 | Furniture | 80,000 |\n|  |  | Stock | 2,70,000 |\n|  |  | Debtors | 60,000 |\n|  |  | Cash at Bank | 35,000 |\n|  |  | Preliminary expenses | 20,000 |\n|  |  | Profit & Loss A/c. | 19,80,000 |\n|  | 29,20,000 |  | 29,20,000 |\nThe following is the scheme of reconstruction :\n(i) Equity shares are reduced by ₹ 95 per share. They are, then, consolidated into 10,000 equity shares of ₹ 10 each.\n(ii) Debenture holders agree to forego outstanding debenture interest. As a compensation, 12% debentures are converted into 14% debentures, the amount remaining ₹ 5,00,000.\n(iii) Creditors are given the option to either accept 50% of their claim in cash in full settlement or to convert their claim into equity shares of ₹ 10 each. Creditors for ₹ 2,00,000 opt for shares in satisfaction of their claims.\n(iv) To make payment to creditors opting for cash payment and to augment working capital, the company issues 50,000 equity shares of ₹ 10 each at par, the entire amount being payable along with applications. The issue was fully subscribed.\n(v) Land and Buildings are revalued at ₹ 2,00,000 whereas plant and machinery is to be written down to ₹ 2,10,000. A provision amounting to ₹ 5,000 is to be made for doubtful debts.\nPass necessary journal entries and prepare the company's balance sheet immediately after the reconstruction.\n(b) The product of a company passes through three distinct processes to completion. From past experience, it is ascertained that the normal wastage in each process is as under :\n| Process | Wastage | Sale value of wastage |\n| --- | --- | --- |\n| A | 2% | 25 paise per unit |\n| B | 4% | 50 paise per unit |\n| C | 2.5% | 60 paise per unit |\nThe expenses were as follows :\n| Particulars | Process A (₹) | Process B (₹) | Process C (₹) |\n| --- | --- | --- | --- |\n| Materials | 12,000 | 10,000 | 9,000 |\n| Direct labour | 16,000 | 5,000 | 4,900 |\n| Manufacturing expenses | 2,000 | 3,400 | 3,590 |\n| Other factory expenses | 3,500 | 2,005 | 2,004 |\n4,000 units were initially introduced in process A at a cost of ₹ 13,560. The output of each process was as under :\n| Process | Output |\n| --- | --- |\n| A | 3,850 units |\n| B | 3,600 units |\n| C | 3,500 units |\nPrepare process accounts and also work out the sale price per unit of finished stock so as to realize 20% profit on selling price.\n(c) What are the provisions of inclusion of the income of a minor child and the wife of an assessee in his total income ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) Compute the taxable income of X (40 years) for the assessment year 2018-19.\n| Particulars | ₹ |\n| --- | --- |\n| Net income from trading business | 8,00,000 |\n| Long-term capital gain on transfer of debentures (if computed without indexation) | 6,00,000 |\n| Long-term capital gain on transfer of listed debentures (computed after indexation) (X wants to pay tax at the rate of 20% of ₹ 2,50,000 and not at the rate of 10% of ₹ 6,00,000) | 2,50,000 |\n| Share of income from HUF in which he is a member | 82,000 |\n| Winning from horse races (net of TDS of 30 per cent) | 70,000 |\n| Interest on bank fixed deposits : |  |\n| — Deposit in his own name | 1,17,000 |\n| — In the name of minor son | 1,450 |\n| — In the name of minor daughter | 8,000 |\n| — In the name of major unmarried daughter | 70,000 |\n| Expenditure incurred for medical treatment of his 67 years old elder brother (dependent of X, being a person with disability) | 8,000 |\n| Repayment of loan taken for part-time studies of major daughter for graduate course in management (loan is taken from a notified charitable institute) | 6,90,000 |\n| Payment of interest from the aforesaid loan | 76,000 |\n| Donation to the aforesaid notified charitable institute | 5,000 |\n| Brought forward loss of a discontinued business pertaining to the assessment year 2014-15 | 26,000 |\n| Purchase of a work of art on November 10, 2017 from a friend for ₹ 1,15,000 (market value is, however, ₹ 1,70,000) | 1,15,000 |\n| Deposit in Public Provident Fund account and purchase of NSC IX issue | 1,63,000 |\n(b) State the points to be considered while determining divisible profits in case of a company. What are the auditor's duties in regard to payment of dividends by a company ?\n(c) Explain, in brief, the main provisions of Indian Accounting Standards regarding cash flow statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 39,
+        "subtags": [
+          131,
+          129
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) The following are the balances of Bhushan Co. Ltd. as on 31st March, 2016 :\n| Debit | ₹ | Credit | ₹ |\n| --- | --- | --- | --- |\n| Land & Buildings | 30,72,000 | Share Capital | 40,00,000 |\n| Plant & Machinery | 33,00,000 | 4,00,000 shares @ ₹ 10 each |  |\n| Stock | 7,50,000 | 12% Debentures | 30,00,000 |\n| Sundry Debtors | 8,70,000 | P/L A/c. | 2,62,500 |\n| Goodwill | 2,50,000 | Bill Payable | 3,70,000 |\n| Cash at Bank | 4,06,500 | Creditors | 4,00,000 |\n| Calls in arrear | 75,000 | Sales | 41,50,000 |\n| Interim Dividend paid | 3,92,500 | General reserve | 2,50,000 |\n| Purchases | 18,50,000 | Bad Debt | 35,000 |\n| Preliminary Expenses | 50,000 | (Provision on 01.04.2015) |  |\n| Wages | 9,79,800 |  |  |\n| General Expenses | 68,350 |  |  |\n| Salaries | 2,02,250 |  |  |\n| Bad debts | 21,100 |  |  |\n| Debentures interest paid | 1,80,000 |  |  |\n|  | 1,24,67,500 |  | 1,24,67,500 |\nThe following additional information is available :\n(a) Depreciate Plant & Machinery by 15%\n(b) Write off ₹ 5,000 from Preliminary Expenses\n(c) Half-year's Debenture interest due\n(d) Credit 5% provision on Debtors for doubtful debts\n(e) Provide for Income Tax @ 50%\n(f) Stock on 31st March 2016 was ₹ 9,50,000\n(g) A claim of ₹ 25,000 for workmen's compensation is being disputed by the company.\nPrepare Final Accounts of the company.\n(b) \"The audit of banks is the audit of balance sheet and advances.\" Explain. Distinguish between performing and non-performing assets.\n(c) \"Standard costing is universally accepted as an effective instrument for controlling costs in industries.\" In the light of this statement, explain the objectives of standard costing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          131,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Critically examine the relationship between the key financial decisions, return, risk and market value.\n(b) \"ABC Analysis, FSN Analysis and Inventory Turnover Ratio are the most commonly used tools of inventory management.\" Explain each tool in brief and state the reasons for their popularity.\n(c) Discuss the following ways of incorporating risk in the investment decision making process : The Risk-Adjusted Discount Method and The Certainty Equivalent Method.\n(d) \"Financial markets can be classified based on types of financial claims, maturity of claims, claims representing new issues or outstanding issues, timing of delivery and nature of its organisation structure.\" Summarise the classification in brief.\n(e) Explain the rating methodology used by CRISIL in debt rating. What symbols are used by CRISIL for determining the risk level of a debt instrument ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 42,
+        "subtags": [
+          130,
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) ABC Ltd. is considering the following credit policy alternatives :\n| Particulars | Existing Policy | Option - A | Option - B |\n| --- | --- | --- | --- |\n| (A) Credit Sales (₹ in lakhs) | 10.00 | 9.60 | 12.00 |\n| (B) Credit Period (days) | 30 | 45 | 60 |\n| (C) Bad Debt (% of sales) | 5 | 4 | 6 |\n| (D) Cost of Credit Administration (₹ in lakhs) | 0.40 | 0.25 | 0.50 |\n| (E) Average Collection Period (days) | 45 | 50 | 70 |\nThe company expects to achieve a contribution of 40% on sales. It has the required rate of return on investment of 20% p.a. Assume 365 days in a year. You are required to suggest which credit period option is more suitable to the company.\n(b) The following information is available for KRISHIV Corporation :\n— Earning per share : ₹ 4.00\n— Rate of return on investments : 18 per cent\n— Rate of return required by shareholders : 15 per cent\nWhat will be the price per share as per the Walter Model if the payout ratio is 40 per cent ? 50 per cent ? 60 per cent ?\n(c) \"The Weighted Average Cost of Capital (WACC) of a firm, depends on many factors which are beyond the control on the investment and financing policies of a firm.\" Explain in brief.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          129
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) Namya Ltd. wants to prepare the feasibility of manufacturing one of the components needed for its finished product. It has two options of purchasing from its present supplier or to manufacture it in-house.\nIts present supplier has shown the willingness to provide at ₹ 125 per unit for the company's requirement of 6000 units per year.\nIf the component is manufactured in-house, it requires equipments costing ₹ 10 lakh and is expected to have salvage value of ₹ 2 lakh after the expiry of five years. Additional fixed cost (excluding depreciation) are estimated to increase by ₹ 1 lakh per year. The variable cost of manufacturing each component will be ₹ 30 per unit. The company is subject to a 35 per cent tax rate. Its cost of capital is 15 per cent for this project. The company's projected annual needs is at 7500 units per year for 5 years. The tax relevant rate of depreciation is 25 per cent based on WDV method.\nAdvise the company, whether it should continue buying from outside supplier or start its own manufacturing. Will your answer be different if the requirement of the company is only 6000 units per year ?\n| Year | 1 | 2 | 3 | 4 | 5 |\n| --- | --- | --- | --- | --- | --- |\n| The present value of ₹ 1 at 15% | 0.870 | 0.756 | 0.658 | 0.572 | 0.497 |\n| The present value of an Annuity of ₹ 1 at 15% | 0.870 | 1.626 | 2.283 | 2.855 | 3.352 |\n(b) Mayur Manufacturing Ltd. has equity share capital of ₹ 5,00,000 (face value ₹ 10). To meet the requirement of expansion plan, the company wishes to raise ₹ 3,00,000. The company is considering the following four alternative sources to raise the funds :\nPlan A : To have full money from the equity shares.\nPlan B : To raise ₹ 1 lakh from equity and ₹ 2 lakhs by borrowing from financial institution @ 10% rate of interest per annum.\nPlan C : To raise full money of ₹ 3 lakhs from bank at 10% rate of interest per annum.\nPlan D : ₹ 1 lakh in equity and ₹ 2 lakhs issue of preference shares at 8% per annum dividend.\nThe company is expected to have earnings of ₹ 1,50,000 after the expansion programme. The tax rate applicable to company is 35%. Suggest the suitable plan.\n(c) Define and evaluate the following ratios used for analysis of financial statements :\n(i) Acid-test ratio\n(ii) Interest coverage ratio\n(iii) Average collection period\n(iv) Return on capital employed\n(v) Price — earning ratio",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the different bases for establishing the exchange ratio in case of a merger ? How the boundaries for exchange rate is determined from the view point of acquiring, acquired and combined firm ?\n(b) Discuss the state of the venture capital industry in India.\n(c) State the assumptions made in Modigliani and Miller Proposition-I that the capital structure is independent of capital mix. Explain with an example that how arbitrage process justifies the theory, using the following data.\nShyam Ltd. and Ram Ltd. belong to same risk class. Ram Ltd. has no debt capital. Shyam Ltd. has both debt and equity capital. Other details are as under :\n| Particulars | Ram Ltd. | Shyam Ltd. |\n| --- | --- | --- |\n| Net Operating Income (₹) | 10,00,000 | 10,00,000 |\n| Debt Interest (₹) | — | 3,00,000 |\n| Debt Capitalisation Rate | — | 10% |\n| Equity Capitalisation Rate | 14% | 18% |\n| Average Cost of Capital | 14% | 14.52% |\nOne investor is holding ₹ 1,00,000 worth of equity shares of Ram Limited. What arbitrage will he resort to ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,564 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2023_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) A 35-year-old male smoker with complaints of difficulty in swallowing and ulcer on tip of his tongue for last one month, visits an ENT surgeon. Based on his clinical examination and histopathological investigation of tongue lesion, he is diagnosed as a case of carcinoma of tongue with cervical lymphadenopathy.\n(i) Using a flowchart, show the principal lymph node involved and its further distribution.\n(ii) Explain the role of tongue in swallowing.\n(b) Describe the following in the context of 'Auditory pathway':\n(i) Its course from internal ear to auditory cortex\n(ii) Blood supply of the auditory cortex\n(c) Discuss the sources and Recommended Daily Allowance (RDA) of Folic Acid and the clinical manifestations of its deficiency in the body. Add a note on 'Folate Trap'.\n(d) Describe the role of cerebellum in control of voluntary movement. Add a note on cerebellar dysfunction.\n(e) Describe the genesis of Rapid Eye Movement (REM) sleep. Why is REM sleep called paradoxical sleep?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          298,
+          300,
+          299,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) A 56-year-old male visits a surgery OPD with complaints of difficulty in passage of urine especially on straining. Based on his clinical examination and ultrasound findings, he is diagnosed with Benign hypertrophy of Prostate.\n(i) What is the anatomical basis of his urinary problems?\n(ii) Describe the relations of Prostate gland.\n(iii) Describe the blood supply and lymphatic drainage of Prostate gland.\n(b) (i) Describe the biochemical role of copper in the body. Discuss briefly about Wilson disease and the biochemical investigations that will help in its diagnosis.\n(ii) Define Genetic code and explain the Wobble Hypothesis. Discuss briefly the post-translational modifications of proteins.\n(c) Explain the physiological changes that occur in a mother during pregnancy, under the following headings:\n(i) Genital organs\n(ii) Blood and its constituents\n(iii) Cardiovascular system",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the following regarding the knee joint:\n(I) All movements including locking and unlocking with muscles responsible for each\n(II) Role of cruciate ligaments in movement and stability\n(ii) Describe Carpal Tunnel Syndrome under the following headings:\n(I) Causes and structure(s) involved\n(II) Clinical features\n(b) (i) Explain the principle and steps of Polymerase Chain Reaction (PCR). Write its clinical applications.\n(ii) Discuss the serum biochemical markers of cholestasis.\n(c) (i) Describe the intrinsic regulation of cardiac output.\n(ii) Discuss the factors regulating erythropoiesis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 461,
+        "subtags": [
+          300,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the role of SRY (Sex-determining region on Y gene) transcription factors in testicular development.\n(ii) Describe Vitelline duct abnormalities.\n(b) (i) Describe the role of iodine in the synthesis of thyroid hormones. Discuss briefly about Hashimoto's Thyroiditis and the biochemical investigations that will be done for its diagnosis.\n(ii) Explain briefly the biochemical role of Vitamin-K in the body. What is the biochemical basis of using Warfarin as an anticoagulant drug?\n(c) (i) Describe the functions of vasopressin and the regulation of vasopressin secretion.\n(ii) Describe the physiological effects of glucagon.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) Enumerate various classes of antihypertensive drugs. Briefly discuss the role of calcium channel blockers in the treatment of hypertension.\n(b) (i) Describe mechanism of T-cell mediated immune response in Type IV hypersensitivity reaction. Explain it by giving example of tuberculin testing.\n(ii) List the clinical diseases caused by typhoidal and non-typhoidal Salmonellae. Discuss the Widal test and its interpretation.\n(c) Enumerate four disturbances of growth. Describe the mechanism of Atrophy.\n(d) A 25-year-old male presented to emergency with history of fever, neck stiffness, headache and vomiting. On examination, patient was in altered sensorium. Neck rigidity was present. CSF examination showed cobweb formation. Microscopy showed lymphocytosis. Biochemical examination showed decreased glucose and increased protein.\n(i) What is the likely diagnosis?\n(ii) Name the special stain on CSF useful in confirmation of diagnosis and write the finding.\n(iii) Describe the diagnostic gross pathology of likely affected organ.\n(e) Enumerate types of Blood Group Systems used for identification and paternity testing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 461,
+        "subtags": [
+          302,
+          301,
+          304
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 462
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Enumerate any five risk factors for oral cancer. Describe its morphology.\n(ii) Enumerate five causes of membranous glomerulonephritis. Describe its morphology.\n(b) State the therapeutic indications, drug interactions and side effects of the following drugs:\n(i) Aspirin\n(ii) Cyclosporine\n(c) (i) Discuss various stages in the asexual life cycle of Plasmodium falciparum. Describe the principle, advantages and disadvantages of non-microscopic Rapid Diagnostic Test (RDT) for diagnosis of malaria.\n(ii) Enumerate Human Herpes Viruses (HHV) with their primary target cells. How will you approach to diagnose a case of HSV infection in the laboratory?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) Classify the various types of poisons. Enumerate the features of Plumbism. Discuss the tests which will show/establish the onset of early stages of Pb poisoning.\n(b) (i) A 29-year-old female presented with fever, multiple episodes of epistaxis and gum bleeding since one month. On examination, her temperature was 37.6°C. Skin showed multiple bruises. CBC showed Hb - 8.2 g/dL, WBC count - 60,000/μL. Peripheral smear showed 75% plasts. They had fine cytoplasmic azurophilic granules and Auer rods.\n(I) What is the most likely diagnosis?\n(II) Enumerate the cytochemical stains useful in this disease.\n(III) Write two cytogenetic abnormalities with favourable prognosis.\n(IV) Mention two cytogenetic abnormalities with unfavourable prognosis.\n(ii) Describe the aetiopathogenesis and microscopic findings in affected heart of rheumatic heart disease.\n(c) (i) Discuss the management of complicated Plasmodium falciparum malaria.\n(ii) Discuss the therapeutic indications and adverse effects of Insulin.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          305,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 463
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the morphological characteristics of Cryptococcus neoformans on microscopic examination. Discuss the pathogenesis of Cryptococcosis.\n(ii) Define meningococcaemia. Discuss laboratory diagnosis of acute meningococcal meningitis. Briefly write about the available meningococcal vaccines to prevent the disease.\n(b) (i) Define 'Injury', 'Hurt' and 'Grievous hurt' as per the Indian Penal Code. Write a short note on secondary markings on fired bullet.\n(ii) Enumerate different types of finger impressions. Write a short note on DNA fingerprinting.\n(c) (i) Elaborate the mechanism of action of Potassium-sparing diuretics.\n(ii) Briefly describe the therapeutic indications and adverse effects of Zidovudine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

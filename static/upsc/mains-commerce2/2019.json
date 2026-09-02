@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2019_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Explain the following in about 150 words each :\n(a) Goal Succession\n(b) Span of Management\n(c) Managerial Grid\n(d) Quality Circles\n(e) Perceptual Selectivity",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          133,
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the concept and rationale of decentralisation. What are the factors which influence decentralisation ?\n(b) \"The line managers' orientation differs considerably from that of expert advisors.\" Examine this statement.\n(c) What are the main features of Neo-Classical organisation theory ? Explain the implications of this theory for organisational design.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"There is a need for integrating individual and organisational goals for effective performance.\" Explain this statement.\n(b) \"With a view to taking advantage of personality characteristics of organisational members, it is desirable to measure their personality.\" Elucidate this statement and explain the various methods for measuring personality.\n(c) Explain the nature of perception. How does management affect perception in the organisation ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Organisational change has to be managed on technological, social and economic dimensions.\" Elaborate this statement. What precautions should be taken in a democratic set-up to make a change acceptable to the personnel ?\n(b) What do you understand by role conflict ? What are its causes ? Discuss the methods to overcome role conflict.\n(c) \"Transactional analysis is a method of analysing and understanding interpersonal behaviour.\" Examine this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Explain the following in about 150 words each :\n(a) Job Specification\n(b) Human Resource Planning\n(c) Trade Union Rivalry\n(d) Exit Policy\n(e) Wages vs. Productivity",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the concept of 'Management by Exception'. What are its limitations ? Suggest measures to overcome them.\n(b) \"The fundamental aim of industrial relations is to maintain sound relations between employees and employers.\" Elucidate. What are the various approaches to industrial relations ?\n(c) \"The compliance with the statutory labour welfare provisions in India is half-hearted and inadequate.\" Do you agree with this statement ? Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The Trade Union movement in India has not developed on healthy lines.\" Examine this statement.\n(b) \"Job analysis is useful for overall management of all personnel activities.\" In the light of this statement, explain the purpose and methods of job analysis.\n(c) \"Performance appraisal is not merely for appraisal, but also for accomplishment and improvement of performance.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Selection is virtually a kind of elimination process.\" In the light of this statement, explain the objectives and process of selection.\n(b) What are the recommendations of the International Labour Organisation for minimising the labour problems related to international workforce ? To what extent have these recommendations been fulfilled in the Indian context ?\n(c) What are the causes of industrial disputes ? Explain the steps taken for preventing and settling industrial disputes in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          133,
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    }
+  ]
+}

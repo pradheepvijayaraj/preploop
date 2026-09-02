@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2015_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with legal provisions and judicial pronouncements :\n(a) \"The enforcement of any disability arising out of 'Untouchability' shall be an offence punishable in accordance with law.\" Comment in the light of protection of Civil Rights.\n(b) \"The criminal justice is administered in India by punishing the wrongdoer and the object of punishment is viewed differently by different criminologists.\" Elucidate.\n(c) \"Liability of joint tort feasors in Law of Tort is Joint and Several.\" Discuss.\n(d) \"To constitute the offence of criminal conspiracy there must be an agreement to do, or cause to be done, an illegal act, or an act which is not illegal by illegal means.\" Critically examine.\n(e) Explain with the help of decided cases as to when Culpable Homicide under Section 299(3) will become Murder under Section 300(4) of Indian Penal Code.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 417,
+        "subtags": [
+          246,
+          249,
+          251,
+          260
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 417
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 407
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 409
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 418
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"No communication made in good faith is an offence by reason of any harm to the person to whom it is made, if it is made for the benefit of that person.\" Critically examine.\n(b) Explain the various circumstances under which a 'public servant' is said to commit the offence of \"Criminal misconduct\" under 'The Prevention of Corruption Act, 1988'.\n(c) Whether the conduct of depriving someone from possession of property without causing wrongful gain or wrongful loss amount to theft ? Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 412,
+        "subtags": [
+          258,
+          255
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 412
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 416
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 413
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"The Consumer Protection Act, 1986 provides a three tier structure for redressal of complaints.\" Elucidate.\n(b) \"Public nuisance is a crime whereas private nuisance is a civil wrong.\" Explain.\n(c) \"State liability in Torts has undergone an acute transformation in recent times.\" Discuss in the light of latest judicial pronouncements.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 424,
+        "subtags": [
+          265,
+          262
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 424
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 423
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 420
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss with the help of judicial pronouncements the situations in which plaintiff may prove apparently non-defamatory statements as defamatory.\n(b) Discuss with the help of decided cases where the Court while deciding cases on contributory negligence keeps in mind the negligence on the part of plaintiff and defendant both.\n(c) \"Total restraint on the liberty of movement of a person, however short its duration may be, will amount to false imprisonment.\" Discuss with the help of relevant case law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 415,
+        "subtags": [
+          264,
+          253
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 415
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 422
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 411
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with relevant legal provisions and decided cases :\n(a) A, a singer, contracts with B, the manager of a restaurant, to sing at his restaurant for two nights every week during next two months; and B engages to pay to her 5,000/- rupees for each night's performance. On the sixth night, A wilfully absents herself from the restaurant and B, in consequence, rescinds the contract. Decide.\n(b) \"PIL writ petition cannot be filed in the Supreme Court under Article 32 of Indian Constitution only if a question concerning the enforcement of 'Fundamental Rights' is involved.\" Comment.\n(c) \"Every agreement by which any party thereto is restricted absolutely from enforcing his rights under or in respect of any contract, by the usual legal proceedings in the ordinary Tribunals, or which limits the time within which he may thus enforce his right is void to that extent.\" Explain the exceptions, if any, of this principle.\n(d) Write a note on 'impact of noise pollution on the health of the people.'\n(e) Discuss the various principles of 'mediation'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 427,
+        "subtags": [
+          71,
+          267,
+          265,
+          275
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 427
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 227
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 423
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 433
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"A hire purchase agreement is a bailment plus an agreement to sell.\" Explain.\n(b) \"A contract by which one party promises to save the other from loss caused to him by the conduct of the promisor himself or by the conduct of any other person, is called, a contract of indemnity\". Explain.\n(c) Discuss various provisions of Compulsory Licencing under Patents Act, 1970.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 430,
+        "subtags": [
+          268,
+          59
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 430
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 426
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"An 'Arbitration Agreement' with respect to existing disputes, may or may not be in the form of an Arbitration clause in the main contract.\" Explain.\n(b) \"The individual deserves to be protected against the possibility of exploitation inherent in 'Standard Form of Contract'.\" Explain.\n(c) Explain the law relating to minor's agreements.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 433,
+        "subtags": [
+          276,
+          274
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 433
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 434
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 432
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"In a contract of sale of goods property or ownership in the goods will pass from seller to the buyer which the parties intend to pass.\" Explain the statement with necessary legal provisions and case law.\n(b) Explain clearly what is meant by 'negotiation and endorsement'. How does negotiation differ from ordinary assignment ?\n(c) Explain the various circumstances in which a firm may be dissolved. What are the rights and obligations of partners after dissolution of firm ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 430,
+        "subtags": [
+          274,
+          273
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 430
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 432
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 431
+        }
+      ]
+    }
+  ]
+}

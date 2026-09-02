@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2020_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Is the concept of 'liberty' realizable in the modern technological society? Explain.\n(b) How far do the liberal democracies safeguard the interests of minorities? Evaluate critically.\n(c) Do you think that secularism requires complete separation of 'religion' and 'state'? Discuss.\n(d) Explain the importance of Bodin's theory of sovereignty.\n(e) Do you think that the prevailing pandemic will lead to anarchism in society? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 499,
+        "subtags": [
+          51,
+          342,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 149
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) State and examine the Gandhian concept of social development.\n(b) How far is Marxism as a philosophical doctrine relevant in the present context? Justify your answer.\n(c) Is Indian tradition antagonistic to Individual Rights? Consider it by taking recourse to the doctrine of 'Human Rights'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 506,
+        "subtags": [
+          33,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 506
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) State and examine B.R. Ambedkar's contribution towards social changes in Independent India.\n(b) What do you understand by multiculturalism? Explain the structural characteristics that make a nation multicultural.\n(c) Do you think that retributive theory of punishment is against human rights? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 508,
+        "subtags": [
+          346,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 504
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that empowering women can eliminate gender discrimination? Discuss.\n(b) State and explain the relevance of the doctrine of sovereignty in times of globalization.\n(c) How far do the social and political regimes condition corrupt practices in a nation-state? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 507,
+        "subtags": [
+          342,
+          340
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Discuss the significance of 'Religion' vis-à-vis the present scientific and technological development.\n(b) The concept of 'Immortality' is a basic presupposition of religion. Elaborate your answer.\n(c) Is it acceptable that the History of Religions is the History of Conflicts? Discuss.\n(d) Is there any compatibility between 'Freedom of Will' and 'Omnipotent God'? Discuss.\n(e) What is the importance of religious tolerance in a multicultural pluralistic society? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          351,
+          359
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 517
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Is the ontological proof for the existence of God by St. Anselm logical ? Discuss.\n(b) What is the logical problem of evil ? Discuss.\n(c) Critically examine the concept of God as prerequisite for a religion.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 510,
+        "subtags": [
+          353,
+          351
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 511
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the nature of God in Hinduism with special reference to Vishishtadvaita (Qualified non-dualism).\n(b) Distinguish between prayer and worship and determine their place in religion.\n(c) What are the basic tenets of faith ? Distinguish between faith and belief.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          358,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) Does religious language carry cognitive content? Elucidate in detail.\n(b) Are religious beliefs and practices incompatible with moral behaviour? Discuss.\n(c) Do you accept that Knowledge, Action and Devotion are the means to attain liberation in Indian tradition? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 518,
+        "subtags": [
+          358,
+          354
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        }
+      ]
+    }
+  ]
+}

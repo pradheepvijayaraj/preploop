@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2021_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Europe was the first and the only place where modernity emerged. Comment.\n(b) Do you think ethnomethodology helps us in getting reliable and valid data? Justify your answer.\n(c) Discuss the challenges involved in collecting data through census method.\n(d) Explain whether Durkheim's theory of Division of Labour is relevant in the present day context.\n(e) Critically examine Max Weber's theory of Social Stratification.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          416,
+          422,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) From the viewpoint of growing importance of multidisciplinarity, how do you relate sociology to other social sciences?\n(b) How far are sociologists justified in using positivist approach to understand social reality? Explain with suitable illustrations.\n(c) How is sociology related to common sense?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 575,
+        "subtags": [
+          416
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) How do qualitative and quantitative methods supplement each other in sociological enquiry ?\n(b) Critically examine the dialectics involved in each mode of production as propounded by Karl Marx.\n(c) Do you agree with Max Weber's idea that bureaucracy has the potential to become an iron cage ? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the concept of social mobility. Describe with suitable illustrations how education and social mobility are related to each other.\n(b) How has the idea of 'Work From Home' forced us to redefine the formal and informal organisation of work ?\n(c) With suitable examples, explain how conformity and deviance coexist in a society as propounded by R.K. Merton.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 579,
+        "subtags": [
+          422,
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 579
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the emerging challenges in establishing gender equality in the informal sector.\n(b) Critically examine the relevance of Vilfredo Pareto's theory of Circulation of Elites in the present scenario.\n(c) Critically compare the views of E.B. Tylor and Max Muller on Religion.\n(d) What is cult ? Explain the growth of cults in the contemporary world.\n(e) Do you think Talcott Parsons gave an adequate theory of social change ? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 582,
+        "subtags": [
+          420,
+          423,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Elucidate the main problems and challenges faced by the migrant labourers in the recent 'Lockdown period'.\n(b) Explain how political parties and pressure groups are dialectically related to each other in terms of achieving their goals.\n(c) Give your comments on the growth of religious revivalism in the present day context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 580,
+        "subtags": [
+          423,
+          424
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain how the pattern of patriarchy is being altered in a family and at the workplace in the present context.\n(b) Critically examine the contribution of dependency theories in understanding the present global scenario.\n(c) Explain the growing salience of ethnicity in the contemporary world with illustrations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          425,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the changing nature of kinship relations in the contemporary world.\n(b) Describe the role of Science and Technology in enabling us to face the challenges triggered by the COVID-19 pandemic.\n(c) Highlight the roles and functions of civil society in a democratic system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          417,
+          423
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        }
+      ]
+    }
+  ]
+}

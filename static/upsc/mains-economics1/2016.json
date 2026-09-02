@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2016_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) State Marshallian and Walrasian stability condition of market equilibrium. Do you think that existence of Marshallian stability necessarily ensures Walrasian stability and vice versa? Explain.\n(b) State Bain's limit price theory.\n(c) Explain kinked demand curve theory with the help of diagram.\n(d) What are the fiscal and monetary implications of vertical IS and vertical LM curves?\n(e) Examine Kaldor and Kalecki theory of distribution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The advent of New Classical Macro-economics has tended to upset the apple-cart of Keynesian and to a great extent, that of the Monetarists.\" Discuss.\n(b) Write on Prisoners' dilemma and Nash equilibrium.\n(c) Discuss in brief Friedman's restatement of the quantity theory of money and find its similarity/difference with the classical quantity theory.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          16,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between Monetarist and Neo-Keynesian approaches to expectation-augmented Phillips curve.\n(b) Should inflation targeting be main plank of monetary policy of a central bank in emerging market economies like India? Show its implications on investment and growth.\n(c) What is a Lemon Market? What is the role of signalling and screening in it? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          20,
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 41
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) What is asymmetric information? How could it lead to adverse selection and market failure? Discuss.\n(b) Illustrate the notion of perverse subsidy in the context of natural resource sector.\n(c) Examine the effects of public expenditure on the development process of an economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          142,
+          140
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 297
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Differentiate between inter-industry and intra-industry trade. Can standard H-O model explain intra-industry trade? Discuss.\n(b) Explain Dunning's eclectic theory of FDI.\n(c) Explain Brander-Krugman model of intra-industry trade in an oligopolistic market.\n(d) Explain Kuznets' inverted 'U' hypothesis. Is growth good for the poor? Explain.\n(e) Under what conditions economic growth reduces employment growth? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) Describe the growth path, which once the economy attains it, will give a higher level of per capita consumption than any other growth path for all time.\n(b) \"Technical progress in capital-intensive sector almost invariably reduces the real wage rate and increases the real return to capital. Technical progress in labour-intensive sector will lead to increase in real wage rate and decrease in the real return to capital.\" Explain.\n(c) What is the stalemate in the WTO about subsidies in less-developed economies? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The argument that export-biased growth may turn the terms of trade unfavourable to the country and hence may not be beneficial, is applicable in the case of a large country and not a small country.\" Explain.\n(b) With the help of Salter-Swan diagram, define the zones of disequilibrium and assign policy prescriptions for the situations pertaining to unemployment and inflation vis-à-vis BOP deficit.\n(c) To counteract under-development stagnation, discuss Leibenstein's critical minimum effort theory.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          22,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the elasticity and absorption approaches to BOP adjustment? Discuss.\n(b) \"Pollution-income progression of agrarian communities (clean) to industrial economies (pollution intensive) to service economies (cleaner) would appear to be false if pollution increases again at the end due to higher levels of income and consumption of the people at large.\" Discuss.\n(c) Indicate the Ricardo legacy which is inherent in the Lewis model of economic development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 46,
+        "subtags": [
+          142,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2023_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each:\n(a) Normative approach in Political Science\n(b) Multicultural perspective on rights\n(c) State of Nature as State of War (Hobbes)\n(d) Foucault's concept of power\n(e) Decline of political theory",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          11,
+          362,
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Success of contemporary democracies lies in the State limiting its own power. Explain.\n(b) Rawls' idea of the 'liberal self' is too individualistic. Explain, in this context, the communitarian critique of Rawls' theory of justice.\n(c) 'Credo of Relevance' in post-behaviouralism advocates the importance of action science. Analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          340,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) Fascism displays an ambivalent stance towards parliamentary democracy. Explain.\n(b) Affirmative Action Policies draw as much strong criticism as strong support. Analyze this statement in the context of equality.\n(c) Eurocentrism is both the target and the motive force of the post-colonial political theory. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          339,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Buddhist thought on Dhamma facilitates the emancipation of political action. Explain.\n(b) \"The legal subordination of one sex to another is wrong in itself, and now one of the chief hindrances to human development.\" (J. S. Mill). Comment.\n(c) Sri Aurobindo's idea of Swaraj has deep significance in the Indian social, political and cultural history. Analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each:\n(a) Imprint of the British Constitution on the Indian Constitution\n(b) Environmentalism of the poor\n(c) Functions of District Planning Committee\n(d) Satyagraha and Indian Nationalism\n(e) National Commission for Minorities",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 529,
+        "subtags": [
+          5,
+          373,
+          197
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 531
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 529
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 529
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the major provisions of the 74th Constitutional Amendment Act. Do you think that the Act remains an 'unfulfilled dream'? Argue your case.\n(b) How does NITI Aayog as a 'policy think tank with shared vision' visualize the reorganization of planning in India? Justify your answer.\n(c) The Constitution of India is the 'cornerstone of a nation'. (Granville Austin). Analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Does the actual working of Indian federalism conform to the centralizing tendencies in Indian polity? Give reasons for your answer.\n(b) The main goal of the Fundamental Duties in the Indian Constitution is to generate civic responsibility among the citizens. Explain.\n(c) Dr. Ambedkar's clarion call, \"Educate, Agitate and Organize\", strategizes the Dalit movement towards achieving civil liberty. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": [
+          5,
+          370
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 528
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) The rise of caste politics is to be attributed to both regional aspirations and electoral manifestations. Comment.\n(b) The decade 1989-1999 has created an epochal shift in the Indian party system at the national level. Identify the major national trends in the party system during this era.\n(c) Do you agree that over the years the Supreme Court has become a forum for policy evolution? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          9,
+          368
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 526
+        }
+      ]
+    }
+  ]
+}

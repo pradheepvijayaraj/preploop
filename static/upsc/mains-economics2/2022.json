@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2022_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "(Answer the following questions in about 150 words each : 10x5=50 marks)\n(a) Outline the factors that caused decline of handicrafts during British rule in India.\n(b) Discuss the features of targeted Public Distribution System in India and point out the obstacles in its implementation.\n(c) Point out the contribution of C. N. Vakil to Indian Economic Planning.\n(d) Describe the direct and indirect effects on women empowerment through 73rd and 74th Constitutional amendments.\n(e) Examine the impact of land tenure system during British India on Indian agriculture.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          26,
+          15,
+          24,
+          144
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 301
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Highlight the major features of National Income trend and its sectoral composition during the last five decades.\n(b) Describe in brief the factors that led to the establishment of Reserve Bank of India (RBI) in the country.\n(c) Discuss, how the green revolution has affected the indigenous crops in India ? What measures have been initiated by the Government in the later years to improve the productivity ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 303,
+        "subtags": [
+          19,
+          144
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) Do you think that Multi Dimensional Poverty Index (MPI) is a better measure of poverty ? Give reasons in support of your answer. What is the position of India in respect of MPI ?\n(b) Discuss the development of Jute industry during pre-independent India. What were the main problems faced by this industry ?\n(c) 'The small and cottage industries promote indigenous entrepreneurship'. Comment on the statement with respect to India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          143,
+          145
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 302
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) Do you subscribe to the view that private sector is a key driver to economic development of India ? Give reasons in support of your answer.\n(b) The economic growth has caused deterioration in income distribution in India during liberalisation period. Comment.\n(c) Discuss the rationale for continuance of power and irrigation subsidy in the agriculture sector in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 302,
+        "subtags": [
+          146,
+          147
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "(Answer the following questions in about 150 words each : 10x5=50 marks)\n(a) Do you think that Indian development planning is a transition from centralised planning to indicative planning and subsequently to market based development ? Explain.\n(b) Discuss the prospects and challenges faced by Indian Agriculture due to World Trade Organisation (WTO) provisions.\n(c) Analyse the challenges for economic recovery in India posed by sluggish growth in rural wage rates during the pandemic period.\n(d) Do you think that flow of Foreign Direct Investment (FDI) would always be good for the growth of Indian economy ? Critically analyse.\n(e) Discuss the desirability of increased public expenditure in India in recent years.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 35,
+        "subtags": [
+          148,
+          24,
+          58,
+          17
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 38
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) What is the objective of exchange rate management ? Do you think that the present regime of exchange rate management has been satisfactory in terms of building adequate foreign exchange reserves in India ? Discuss.\n(b) Highlight the main features of National Policy for Skill Development and Entrepreneurship 2015.\n(c) What is the main purpose of General Agreement on Trade in Services (GATS) ? What are the services covered under it ? State the modes under which the services are supplied.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 306,
+        "subtags": [
+          146,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the various poverty alleviation programmes in India since 1970's.\n(b) Differentiate between Current Account convertibility and Capital Account convertibility. What were the pre-conditions recommended by Tarapore Committee-I for adopting Capital Account convertibility.\n(c) Describe the main features of Monetary Policy, 2022. How far the objectives of this policy differ from the previous monetary policy ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          149,
+          19
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 40
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the various methods of privatisation ? Point out the methods adopted by the government for disinvestment in India. Comment on the proceeds from disinvestment in India.\n(b) What are the expectations from Foreign Trade Policy 2021-26 ? Elucidate your answer.\n(c) Point out the main features of Fiscal Responsibility and Budget Management (FRBM) Act. To what extent, it has been successful in achieving the targets ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          148,
+          17
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 38
+        }
+      ]
+    }
+  ]
+}

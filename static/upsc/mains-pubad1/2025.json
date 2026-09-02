@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2025_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Imperfect market and political factors limit the application of Public Choice approach. Explain.\n(b) The fine art of decision-making is not making decisions that others can make. Comment.\n(c) Has the media nixed its role in holding the governments accountable and ensuring transparency ? Argue.\n(d) Is Herbert Simon justified in criticizing some principles of administration as proverbs ? Analyse.\n(e) Administrative Law has evolved from the need to create a system of Public Administration under law. Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          392,
+          394,
+          391,
+          395
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 552
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) New Public Management has actually been a transitory state in evolution from traditional Public Administration to what is here called New Public Governance. Examine.\n(b) Mary Parker Follett pioneered the evolution of socio-psychological approach to the study of organizations. Explain.\n(c) Under the New Public Management framework ‘Public Private Partnership’ challenges the entropy of closed and open models of organization. Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 548,
+        "subtags": [
+          393,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) In conflict situations in organizations, leadership migrates to the aggressive and relegates the emotionally matured to the background. Discuss.\n(b) The foundations of Public Administration, New Public Management and Public Governance rest on ‘rule of law’. Discuss.\n(c) The principles of checks and balances count among the most fundamental constitutional values. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          390,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) “Delegated legislation should be clear and should confine to the limits determined by the legislature.” In light of the statement explain how misuse of administrative discretion can be checked ?\n(b) Leadership is not only about taking credit for success but also owning up and being accountable for failures. Elucidate.\n(c) Bureaucracy constitutes the imaginary state and is the spiritualism of the State. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 553,
+        "subtags": [
+          392,
+          391
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 549
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) E-advocacy model of e-governance can facilitate democratization of public policy making. Discuss.\n(b) Neo-liberal policies have enhanced the scope and opportunities of taxation for the government. Explain.\n(c) Policy analysis process is limited if possible outcomes and alternate potential policies are neglected. Discuss.\n(d) Values and ethics in civil services are shaped by global practices and trends. Explain.\n(e) Economic development alone is not a sufficient component for women development and empowerment. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          398,
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) F. W. Riggs’s ‘industria’-interdependent economy is a precursor for some features of post-modern Public Administration. Analyse.\n(b) The role and responsibility of the State in the development process has been overemphasized and given undue importance. Critically examine.\n(c) Affirmative action for equal opportunity is a corner-stone in recruitment to public services. Discuss it in global context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 548,
+        "subtags": [
+          397,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) The objective of Liberalization, Privatization and Globalization and of New Public Management was to limit government functions and reduce public expenditure. However both functions and expenditure has increased. Account for the paradox.\n(b) The basis of comparative study of Public Administration has evolved from institutional approach to the contemporary political economic process approach. Have all these approaches enabled the development of a theory of Comparative Public Administration ? Justify your answer.\n(c) Can competency mapping linked to career development incentivise civil servants commitment to effective service delivery ? Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          390,
+          398
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 556
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) The effectiveness of civil society in development process is only when state institutions are receptive to inputs from the civil society organizations. Discuss.\n(b) Evaluate the role and scope of tacit knowledge and personal experience as an important source of knowledge in policy making process.\n(c) The efficacy of management aid tools depends on the purpose and appropriateness of tools and techniques. Explain with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          10,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    }
+  ]
+}

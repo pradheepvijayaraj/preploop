@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper 2 · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2015_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"Equality does not mean treating everyone equal.\" Discuss.\n(b) Is civil disobedience in a democratic State justifiable? Discuss.\n(c) Explain Harold Laski's critique of sovereignty.\n(d) How are individual and group rights reconciled in democracy? Explain.\n(e) \"Inequitable development leads to social conflicts rather than social progress.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          339,
+          342,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 506
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) What does gender discrimination mean? Is it not a violation of equality and social justice? Discuss.\n(b) Does economic empowerment of women eliminate gender discrimination? Discuss.\n(c) Evaluate Ambedkar's critique of caste system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 508,
+        "subtags": [
+          339,
+          349
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 508
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Is multiculturalism a need of global society? Discuss.\n(b) \"The aim of punishment is to defend the moral law and to do justice to criminal.\" Discuss.\n(c) Evaluate the nature and functions of parliamentary democracy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 502,
+        "subtags": [
+          346,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 504
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 502
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Man must grow materially as well as spiritually.\" Evaluate this statement of Ambedkar.\n(b) \"Equality will be of no value without fraternity and liberty.\" Discuss.\n(c) How is religious nationalism a threat to secular State? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 149,
+        "subtags": [
+          352,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 149
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Write a critical note on the attributes of God.\n(b) Is existence of God a necessary condition for the survival of religion? Explain.\n(c) Is morality necessarily based on religion? Discuss.\n(d) Is God the cause of natural evil? Explain.\n(e) Do faith and reason go together? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          352,
+          358,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) How can the religious language be verified? Is it correct to say that religious language is verified because it cannot be falsified? Discuss.\n(b) Explain the nature of mysticism in Hinduism and Islam.\n(c) Can revelation be justified by reason? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 518,
+        "subtags": [
+          356,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 514
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) Do you think that evil is a bitter pill which no theist can easily swallow? Discuss.\n(b) \"Immortality means absence of Karma and Rebirth.\" Discuss.\n(c) Examine the Nyāya arguments in favour of the existence of God.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 510,
+        "subtags": [
+          353,
+          354
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 511
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"An atheist may be a better man than a religious person bereft of moral values.\" Discuss.\n(b) Examine the ontological and cosmological arguments in favour of the existence of God.\n(c) What is liberation? Briefly discuss the ways to attain it as outlined in the systems of Vedanta.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 512,
+        "subtags": [
+          357,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 515
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 512
+        }
+      ]
+    }
+  ]
+}

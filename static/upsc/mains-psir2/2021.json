@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2021_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Discuss the political economy approach to the comparative analysis of politics.\n(b) \"Political parties and pressure groups are sine qua non of democracy.\" Comment.\n(c) \"Marxist approach to the study of international relations has lost its relevance in the post-cold war era.\" Comment.\n(d) What measures have been undertaken by the United Nations for its reforms ?\n(e) Discuss the five proposals made by India in the recent COP-26 conference held in Glasgow.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          376,
+          377,
+          236,
+          387
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 545
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The post-colonial state was thought of an entity that stood outside and above society as an autonomous agency.\" Explain.\n(b) Discuss the emergence of neo-realism and its basic tenets.\n(c) What is 'complex interdependence'? Discuss the role of transnational actors in the international system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          377,
+          379
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the impact of electoral systems and cleavages in shaping party systems with reference to developing countries.\n(b) What is globalisation? Why is there an intense debate about globalisation and its consequences?\n(c) Critically examine the decline of the United States of America as a hegemon and its implications for the changing international political order.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 534,
+        "subtags": [
+          48,
+          379
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) The modernization thesis asserts that affluence breeds stable democracy. How do you explain the success of India being the world's largest democracy as an exceptional case ?\n(b) Explain the success of ASEAN as a regional organisation.\n(c) Explain India's relations with the European Union in the context of Brexit.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          50,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Discuss the strategic implications of India's 'Look East Policy' transforming into 'Act East Policy'.\n(b) Explain the philosophical foundations of India's foreign policy.\n(c) Explain India's position on the waiver of intellectual property rights on COVID-19 vaccines in WTO.\n(d) Write about the growing significance of QUAD.\n(e) How does the recent takeover of Afghanistan by Taliban impact India's strategic interests ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          382,
+          388,
+          48
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Non-alignment was little more than a rational strategy on the part of a materially weak India to maximise its interests with a bipolar distribution of global power.\" Comment.\n(b) Examine the Geo-strategic points of contention in the bilateral relationship between India and China.\n(c) Write a brief analysis of the ethnic conflicts and cross-border migrations along India-Myanmar and India-Bangladesh borders.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 541,
+        "subtags": [
+          386,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) Why South Asia is considered as the world's politically and economically least integrated region ? Explain.\n(b) How do the constituent states influence the foreign policy making process in India ?\n(c) Examine the evolution of India's role in the global nuclear order.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          382,
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) 'Relations between India and Russia are rooted in history, mutual trust and mutually beneficial cooperation.' Discuss.\n(b) Discuss the 'Sustainable Development Goals' as set by the United Nations.\n(c) Identify the drivers of India's new interest in Africa.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          236,
+          385
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    }
+  ]
+}

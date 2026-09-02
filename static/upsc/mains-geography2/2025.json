@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2025_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry: (i) Rushikulya River (ii) Datar Hill (iii) Kikruma (iv) Choritand Tillaya (v) Byalalu (vi) Neyyar (vii) Uttarlai (viii) Sri Vijayapuram (ix) Dharwas (x) Gitabitan.\n\n![Blank political outline map of India](/upsc/assets/maps/india_political_blank.png)\n(b) Referring to the location and physical formation of karewas, highlight their economic significance. (c) How does Himalayan ecosystem regulate the cropping pattern and agricultural activities in Himalayan region of India? Discuss. (d) Write a critically argued essay on nautical tourism and its infrastructure in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 323,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 323,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the factors which contribute to the growth of India's pharmaceutical industry with specific reference to its concentration in western region of India.\n(b) Why are coral reefs in India most important with respect to its dynamic ecosystem? Explore.\n(c) How does the agricultural sector of India confront with the contemporary physical and politico-economic changes in the different regions of the country? Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          4,
+          156
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Why is the pattern of population distribution of scheduled castes and scheduled tribes different in India ? Compare their socio-economic problems with examples.\n(b) Highlight the characteristics of land utilisation in Eastern Ghats region of India. What are the recent threats to land utilisation method in the region ?\n(c) What are the challenges of dairy sector in India ? Describe the contribution of bovine population.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 318,
+        "subtags": [
+          163,
+          156
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Socio-political landscape in India is a result of regional consciousness creating inter-state disputes.\" Discuss with region specific examples.\n(b) Why cottage industries in India are an integral part of Indian socio-economic structure? Assess this with reference to different types of cottage industries in rural India.\n(c) \"The rural settlements in India are highly diversified due to both physical and cultural factors.\" Justify the statement with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 321,
+        "subtags": [
+          157,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 321
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "(a) How can rural-urban fringe be delineated? Explain with suitable examples from India.\n(b) \"Spatial distribution of religious groups in India does not show any specific pattern.\" Illustrate with arguments.\n(c) \"Watershed is the most appropriate spatial unit for planning.\" Comment.\n(d) Is North East India a geo-political or geo-cultural region? Justify your answer.\n(e) Discuss the necessary conditions for the cultivation of fox nuts and describe the areas of its production in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 318,
+        "subtags": [
+          162,
+          163,
+          156
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Describe the causes of the phenomenon of 'urban heat island'. What are the effective measures to deal with this phenomenon in India ?\n(b) With reference to the transport and communication network of India, critically discuss the Sagarmala project.\n(c) What are the key features of sex-ratio of population in India ? Evaluate the impacts of child sex-ratio on general sex-ratio in the country.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          158,
+          161
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 315
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain the factors that contribute to droughts in India with specific reference to food production, distribution and availability. Can Indian agricultural policies resolve the issue?\n(b) What are the causes and consequences of land degradation due to desertification in India? Examine with reference to various regional issues.\n(c) Examine the validity of Blue Economy initiatives of India. Elaborate the impacts of this economy on country's development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          165,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) While defining the green architecture, discuss its principles and challenges in response to climate change in India.\n(b) With reference to typical examples, assess why regional planning in India is important for island territories for their sustainable development.\n(c) With reference to international boundaries of India, discuss the related issues, giving suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          163,
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    }
+  ]
+}

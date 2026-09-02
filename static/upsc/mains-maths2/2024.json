@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2024_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let G be a finite group of order mn, where m and n are prime numbers with $m > n$. Show that G has at most one subgroup of order m.\n(b) If $w = f(z)$ is an analytic function of z, then show that\n$$ \\left( \\frac{\\partial^2}{\\partial x^2} + \\frac{\\partial^2}{\\partial y^2} \\right) \\log |f'(z)| = 0. $$\n(c) Test the convergence of $\\int_0^2 \\frac{\\log x}{\\sqrt{(2 - x)}} \\,dx$.\n(d) If $\\phi$ and $\\psi$ are functions of x and y satisfying Laplace equation, then show that $f(z) = p + iq$, $i = \\sqrt{-1}$ is an analytic function, where $p = \\frac{\\partial \\phi}{\\partial y} - \\frac{\\partial \\psi}{\\partial x}$ and $q = \\frac{\\partial \\phi}{\\partial x} + \\frac{\\partial \\psi}{\\partial y}$.\n(e) Use two phase method to solve the following linear programming problem :\nMaximize $z = x_1 + 2x_2$\nsubject to\n$x_1 - x_2 \\geq 3$\n$2x_1 + x_2 \\leq 10$\n$x_1, x_2 \\geq 0$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 449,
+        "subtags": [
+          289,
+          290,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Using Cauchy's general principle of convergence, examine the convergence of the sequence $$, where $f_n = 1 + \\frac{1}{1!} + \\frac{1}{2!} + \\dots + \\frac{1}{n!}$.\n(b) Show that every homomorphic image of an abelian group is abelian, but the converse is not necessarily true.\n(c) Find the function which is analytic inside and on the circle $C : z = e^{i\\theta}, 0 \\leq \\theta \\leq 2\\pi$ and has the value $\\frac{(a^2 - 1) \\cos \\theta + i(a^2 + 1) \\sin \\theta}{a^4 - 2a^2 \\cos 2\\theta + 1}$, on the circumference of C, where $a^2 > 1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 449,
+        "subtags": [
+          290,
+          289
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 449
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Locate the poles and their order for the function $f(z) = \\frac{1}{z(\\sin \\pi z) \\left(z + \\frac{1}{2}\\right)}$.\nAlso, find the residue of $f(z)$ at these poles.\n(b) Consider the series $\\sum_{n=1}^\\infty U_n(x), 0 \\leq x \\leq 1$, the sum of whose first n terms is given by $S_n(x) = \\frac{1}{2n^2} \\log (1 + n^4 x^2), x \\in [0, 1]$. Show that the given series can be differentiated term-by-term, though $\\sum_{n=1}^\\infty U_n'(x)$, does not converge uniformly on $[0, 1]$.\n(c) Using duality principle, solve the following linear programming problem :\nMinimize $z = 4x_1 + 3x_2 + x_3$\nsubject to\n$x_1 + 2x_2 + 4x_3 \\geq 12$\n$3x_1 + 2x_2 + x_3 \\geq 8$\n$x_1, x_2, x_3 \\geq 0$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 448,
+        "subtags": [
+          291,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Consider the polynomial ring Z[x] over the ring Z of integers. Let S be an ideal of Z[x] generated by x. Show that S is prime but not a maximal ideal of Z[x].\n(b) Find the upper and lower Riemann integrals for the function f defined on $[0, 1]$ as follows :\n$$ f(x) = \\begin{cases} (1 - x^2)^{1/2}, & \\text{if } x \\text{ is rational.} \\\\ (1 - x), & \\text{if } x \\text{ is irrational.} \\end{cases} $$\nHence, show that f is not Riemann integrable on $[0, 1]$.\n(c) The personnel manager of a company wants to assign officers A, B and C to the regional offices at Delhi, Mumbai, Kolkata and Chennai. The cost of relocation (in thousand Rupees) of the three officers at the four regional offices are given below :\n| Officer | Delhi | Mumbai | Kolkata | Chennai |\n| --- | --- | --- | --- | --- |\n| A | 16 | 22 | 24 | 20 |\n| B | 10 | 32 | 26 | 16 |\n| C | 10 | 20 | 46 | 30 |\nFind the assignment which minimizes the total cost of relocation and also determine the minimum cost.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 450,
+        "subtags": [
+          289,
+          290
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Show that if f and g are arbitrary functions of their respective arguments, then $u = f(x - kt + i\\alpha y) + g(x - kt - i\\alpha y)$, is a solution of\n$$ \\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = \\frac{1}{C^2} \\frac{\\partial^2 u}{\\partial t^2}, \\text{ where } \\alpha^2 = 1 - \\frac{k^2}{C^2}. $$\n(b) Solve the following system of linear equations by Gauss-Jordan method :\n$2x + 3y - z = 5$\n$4x + 4y - 3z = 3$\n$2x - 3y + 2z = 2$\n(c)\n(i) Determine the decimal equivalent in sign magnitude form of $(8D)_{16}$ and $(FF)_{16}$.\n(ii) Determine the decimal equivalent of $(9B2.1A)_{16}$.\n(d) A rough uniform board of mass m and length 2a rests on a smooth horizontal plane and a man of mass M walks on it from one end to the other. Find the distance covered by the board during this time.\n(e) The velocity potential $\\phi$ of a flow is given by\n$$ \\phi = \\frac{1}{2}(x^2 + y^2 - 2z^2). $$\nDetermine the streamlines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          292,
+          295,
+          296,
+          297
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 453,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 454
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Show that the solution of the two-dimensional Laplace's equation\n$$ \\frac{\\partial^2 \\phi(x, y)}{\\partial x^2} + \\frac{\\partial^2 \\phi(x, y)}{\\partial y^2} = 0, \\quad x \\in (-\\infty, \\infty), y \\geq 0 $$\nsubject to the boundary condition\n$$ \\phi(x, 0) = f(x), x \\in (-\\infty, \\infty), $$\nalong with $\\phi(x, y) \\rightarrow 0$ for $|x| \\rightarrow \\infty$ and $y \\rightarrow \\infty$ can be written in the form\n$$ \\phi(x, y) = \\frac{y}{\\pi} \\int_{-\\infty}^\\infty \\frac{f(\\xi) \\,d\\xi}{y^2 + (x - \\xi)^2}. $$\n(b) Draw the logical circuit for the Boolean expression\n$Y = AB\\overline{C} + B\\overline{C} + \\overline{A}B$. Also, obtain the output Y (truth table) for the three input bit sequences :\n$A = 10001111, \\quad B = 00111100, \\quad C = 11000100$\n(c) Find the moment of inertia of a quadrant of an elliptic disk $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$, of mass M about the line passing through its centre and perpendicular to its plane. Given that the density at any point is proportional to xy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          295,
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 453
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the integral surface of the following quasi-linear equation\n$$ (y - \\phi) \\frac{\\partial \\phi}{\\partial x} + (\\phi - x) \\frac{\\partial \\phi}{\\partial y} = x - y, $$\nwhich passes through the curve $\\phi = 0, xy = 1$ and through the circle $x + y + \\phi = 0, x^2 + y^2 + \\phi^2 = a^2$.\n(b) Integrate $f(x) = 5x^3 - 3x^2 + 2x + 1$ from $x = -2$ to $x = 4$ using\n(i) Simpson's $\\frac{3}{8}$ rule with width $h = 1$, and\n(ii) Trapezoidal rule with width $h = 1$.\n(c) Let the velocity field\n$$ u(x, y) = \\frac{B(x^2 - y^2)}{(x^2 + y^2)^2}, \\quad v(x, y) = \\frac{2Bxy}{(x^2 + y^2)^2}, \\quad w(x, y) = 0 $$\nsatisfy the equations of motion for inviscid incompressible flow, where B is a constant. Determine the pressure associated with this velocity field.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 455,
+        "subtags": [
+          293,
+          294
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Solve the partial differential equation\n$$ \\frac{\\partial}{\\partial y} \\left( \\frac{\\partial \\phi}{\\partial x} + \\phi \\right) + 2x^2 y \\left( \\frac{\\partial \\phi}{\\partial x} + \\phi \\right) = 0 $$\nby transforming it to the canonical form.\n(b) Using Newton's forward difference formula for interpolation, estimate the value of $f(2.5)$ from the following data :\n| x : | 1 | 2 | 3 | 4 | 5 | 6 |\n| --- | --- | --- | --- | --- | --- | --- |\n| f(x) : | 0 | 1 | 8 | 27 | 64 | 125 |\n(c) Suppose an infinite liquid contains two parallel, equal and opposite rectilinear vortices at a distance 2a. Show that the streamlines relative to the vortex are given by the equation\n$$ \\log \\frac{x^2 + (y - a)^2}{x^2 + (y + a)^2} + \\frac{y}{a} = C, $$\nwhere C is a constant, the origin is the middle point of the join, and the line joining the vortices is the axis of y.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 455,
+        "subtags": [
+          293,
+          294
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    }
+  ]
+}

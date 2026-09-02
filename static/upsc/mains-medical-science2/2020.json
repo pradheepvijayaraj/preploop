@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2020_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a)\n(i) As per ICD-10 classification, describe briefly the types of schizophrenia.\n(ii) Enumerate the various catatonic symptoms observed in schizophrenia and describe each in one line.\n(b)\n(i) Enumerate the various primary haemostatic disorders.\n(ii) Discuss the treatment of severe haemarthrosis of right knee in a 50 kg male suffering with Haemophilia A.\n(c) An 18-month-old child weighing 7 kg has presented with history of diarrhoea, vomiting, rapid breathing and dehydration. How will you manage the child as per IMNCI protocol?\n(d) A 12-month-old child has presented with cough, respiratory distress and noisy respiration. Enumerate their causes and the management.\n(e) Parents of a 7-year-old girl noticed milky white macules on her upper eyelids and hands. Her mother had been recently diagnosed as a case of autoimmune thyroiditis.\n(i) What is the diagnosis for her skin lesions? Enlist the differential diagnosis of this clinical entity.\n(ii) Enumerate the disorders associated with this condition.\n(iii) How would you classify this disorder?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          309,
+          306,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a)\n(i) What are the causes of \"neonatal jaundice\"?\n(ii) Outline the algorithm for its work-up.\n(iii) How will you manage a 34 weeks newborn at 7 days of life weighing 1600 gm with hyperbilirubinemia?\n(iv) Enumerate the indications of exchange transfusion and outline the procedure.\n(b)\n(i) What are the various causes of pleural effusion?\n(ii) How can we differentiate between transudative and exudative pleural effusion based on 'Light's criteria'?\n(iii) What is parapneumonic effusion? Enlist factors which indicate towards inserting a chest tube to manage a case of parapneumonic effusion.\n(c) A 30-year-old male presented with well-demarcated erythematous plaques with silvery white scales on the knees and elbows. Grattage test was positive.\n(i) Enlist the differential diagnosis for various clinical forms of this disorder.\n(ii) State briefly the treatment options for this disorder, for mild, moderate and severe presentation.\n(iii) What are the various disease modifying factors for this skin disorder?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          309,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) A 4-month-old infant presented with severe itching disturbing her sleep. On examination she had redness, papules and excoriations on the cheeks. Family history revealed asthma in mother since childhood.\n(i) What is the most likely diagnosis?\n(ii) What is the clinical presentation in different age groups?\n(iii) State its diagnostic criteria.\n(iv) Discuss first, second and third line of management and the non-medical measures for this condition.\n(b)\n(i) Enumerate the causes of cyanotic congenital heart disease and the ages of their presentation.\n(ii) How will you manage a 6 weeks infant presenting with cyanosis and congestive heart failure?\n(iii) How will you manage a 2-year-old child weighing 10 kg in a cyanotic spell?\n(c)\n(i) Enumerate the commonly encountered serological patterns of Hepatitis-B infection along with the interpretation of each.\n(ii) Discuss the role of Tenofovir in the treatment of chronic Hepatitis-B infection.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          307,
+          313
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 471,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A 22-year-old male is bitten by a stray dog on his right leg. The bite was an unprovoked bite.\n(i) What are the immediate dos and don'ts for such a wound?\n(ii) As per the national guidelines on rabies prophylaxis, what are the categories of dog bite in humans and what are the recommended post-exposure prophylaxis in each?\n(iii) What are the clinical manifestations of rabies in humans?\n(iv) What are the intramuscular and intradermal regimens of anti-rabies vaccine as per national guidelines?\n(b) An elderly female developed itchy, firm, shiny, violet, polygonal, flat topped papules on her wrists and ankles.\n(i) What could be the associated environmental factors for this disorder?\n(ii) What are its clinical variants?\n(iii) State its histopathology findings.\n(c)\n(i) Enumerate the common causes of under-5 mortality.\n(ii) Enumerate the vaccines preventing CNS infections in children and their schedule.\n(iii) What are the adverse events and contraindications of DPT vaccine?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) Describe in brief the clinical features, diagnostic work-up and management of a case of pheochromocytoma.\n(b) Describe in brief the etiopathogenesis, clinical features and management of a case of amoebic liver abscess.\n(c) A 35-year-old unmarried female presents with heavy menstrual bleeding since two years with severe anaemia.\n(i) Write the causes for this condition.\n(ii) Outline the management protocol of this patient.\n(d)\n(i) What are the advantages of vaginal births over caesarean section?\n(ii) What are the current caesarean section rates globally and in India?\n(iii) What, according to you, is the reason behind rising caesarean section rates?\n(iv) What are the implications of caesarean sections on future pregnancies?\n(e)\n(i) What is the significance of birth weight for an infant?\n(ii) Under the international standards, what is the definition of low birth weight?\n(iii) From the perspective of causation, how are low birth weight babies broadly grouped?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          311,
+          310
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Define Premature Ovarian Insufficiency (POI).\n(ii) How do you diagnose POI?\n(iii) Outline management for a 27-year-old woman with history of primary infertility presenting with POI.\n(b) (i) Write briefly about the medical management of peptic ulcer disease.\n(ii) Enumerate various surgeries for duodenal ulcer.\n(iii) Discuss in brief about the sequelae of peptic ulcer surgery.\n(c) (i) Name the States in India which continue to be heavily infected with lymphatic filariasis.\n(ii) Under the National Filaria Control Programme, what is the strategy being adopted to achieve the elimination of lymphatic filariasis?\n(iii) Define the criteria which must be met to state that elimination of lymphatic filariasis has been achieved.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 469,
+        "subtags": [
+          309,
+          315
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) A 35-year-old male is brought to casualty after suffering from blunt trauma chest. He is having significant hemothorax.\n(i) What will be the clinical picture of this patient?\n(ii) Write boundaries of triangle of safety. What is the rationale of underwater seal in intercostal drainage?\n(iii) What is 'Flail chest' and what is its significance? How will you manage it?\n(b)\n(i) State in brief how the National Rural Health Mission aims to fulfil the goals of Janani Suraksha Yojana at the community level.\n(ii) List the key areas of action proposed under the National Rural Health Mission which aim to make primary healthcare comprehensive and universal.\n(c)\n(i) Enumerate non-contraceptive usage of oral contraceptive pills.\n(ii) What are long-acting reversible contraceptives? Mention briefly their advantages over oral contraceptives.\n(iii) Define \"Emergency contraception\". What is their mechanism of action?\n(iv) Enumerate any two \"Emergency contraceptives\". How should they be prescribed for their maximum effectiveness?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          315,
+          312
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 470,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a)\n(i) State in brief how dietary factors may influence the cardio-vascular health in adults highlighting the specific cause-effect relationship.\n(ii) Explain why vegans are more at risk to develop Vitamin B12 deficiency. State the ill-effects of Vitamin B12 deficiency on human health.\n(b) A 30-year-old P2L1 woman presents to casualty with 7 month amenorrhoea and gives history of off and on bleeding per vaginum since 2 days.\nShe has had one myomectomy three years back and has undergone one lower segment caesarean section one year back.\n(i) How will you evaluate her and what are your concerns?\n(ii) Outline the management protocol to optimize her outcome.\n(c) A 45-year-old male is having pain and pus discharging wound near anus. On examination, he is found to be having fistula-in-ano.\n(i) What is 'Goodsall rule'?\n(ii) Briefly describe Park's classification system of fistula-in-ano.\n(iii) Outline the management of this condition.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 472,
+        "subtags": [
+          311,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

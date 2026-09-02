@@ -1,0 +1,520 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2021_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) Discuss in brief the role of ultrasound in the investigation of pain in right hypochondrium.\n(b) Outline the pharmacological and non-pharmacological treatment of depressive disorders.\n(c) A neonate born at 30 weeks of gestation is found to have tachypnea, chest retractions and grunt within 30 minutes of birth.\n(i) What is the most likely diagnosis ? Mention the basis of your diagnosis and state briefly the pathophysiology of the condition.\n(ii) Describe the management of this condition.\n(d) A 6-month-old infant attending paediatrics OPD is found to have central cyanosis, clubbing and no hepatomegaly.\n(i) What is the most likely cardiovascular condition ? State its cardiovascular examination findings and accompanying haemodynamic changes.\n(ii) Write about the clinical course and complications related to this condition.\n(e) An adolescent girl fond of wearing artificial jewellery presented with itchy, papulo-vesicular skin lesions on the ears, wrists and neck.\n(i) What is the likely diagnosis ?\n(ii) Name the gold standard test which you would use for the confirmation of diagnosis.\n(iii) How would you interpret the test results ?\n(iv) State the complications of this test.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          314,
+          310,
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 472
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) A sixty-year-old diabetic male presented to the emergency department with acute onset, central squeezing type of chest pain, which is severe in intensity and not relieving even after taking rest.\n(i) What is the most probable diagnosis ?\n(ii) How will you investigate the case to reach the diagnosis ?\n(iii) Outline the steps in the management of the case.\n(b) A 12-month-old infant with history of delayed initiation of complementary feeding and few diarrhoeal episodes was found to have length of 72 cm, weight of 5 kg, mid arm circumference of 10 cm and loss of subcutaneous fat.\n(i) State the diagnosis. Under what severity of condition would you place this infant ?\n(ii) Enumerate the complications associated with the condition.\n(iii) Describe the steps and phases of treatment.\n(c) (i) Write the atypical presentations of scabies.\n(ii) Describe the management of scabies in a neonate, in a child less than 2 years of age, an adult and a pregnant female.\n(iii) State the causes which can lead to persistent itching following the administration of scabicide therapy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          314,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) A 40-year-old male who was bedridden for the last two months following a fracture in the lower limb developed sudden breathlessness.\n(i) What is the most probable diagnosis ?\n(ii) How will you investigate the case ?\n(iii) How will you manage the case ?\n(b) A term neonate born to 'O' negative blood group mother was found to have deep jaundice involving palms and soles, excessive crying and convulsions at 20 hours of life.\n(i) How would you assess the clinical severity of jaundice in this neonate ?\n(ii) List the key investigations to arrive at the diagnosis.\n(iii) Describe the management of this neonate.\n(c) (i) Give the clinical findings of lichen planus at the following sites :\n• Nails\n• Scalp\n• Mucosa\n• Palms and Soles\n(ii) State the histopathological findings of oral lichen planus.\n(iii) Discuss the management of oral lichen planus.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          310,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss in short the etiology, diagnosis, treatment and complications of cirrhosis of liver.\n(b) A 15-month-old child brought by the mother with history of 6 episodes of vomiting and 4 episodes of watery diarrhoea was found to have lethargy and is unable to drink. The child weighed 10 kg before this event of illness.\n(i) How would you assess the severity of the illness in this child ?\n(ii) Write the fluid management in the first 3 hours.\n(iii) Write the treatment guidelines after 3 hours if the child still exhibits signs of dehydration.\n(iv) Write the composition and preparation of the WHO Oral Rehydration Salts (ORS).\n(c) (i) What is the differential diagnosis of psoriatic arthritis ? How would you distinguish psoriatic arthritis from other conditions ?\n(ii) Discuss the management of psoriatic arthritis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) Briefly describe the clinical features, diagnostic workup and management of a patient of choledochal cyst.\n(b) A 60-year-old lady presents to the casualty after a fall on her right outstretched hand. X-ray image is suggestive of Colles' fracture.\n(i) Briefly write the clinical features of this condition.\n(ii) Enumerate five complications of this fracture.\n(c) (i) Define Foetal Growth Restriction (FGR).\n(ii) List the common causes of FGR.\n(iii) Outline the strategy for managing a severely growth restricted pregnancy diagnosed at 26 weeks of gestation. This female has no living issues and has a past history of undergoing Caesarean Section at 32 weeks of pregnancy.\n(d) (i) Define menopause.\n(ii) List the medical indications for prescribing Hormone Replacement Therapy (HRT).\n(iii) State briefly the controversies that have demerited the concept of 'Universal HRT'.\n(e) Dengue has become a major health problem for the country. The number of cases and disease severity have worsened over the years.\nKeeping this in context, answer the following questions :\n(i) What are the reasons which have led to a major shift in the geographic extent of dengue in the country ?\n(ii) How is climatic change impacting the disease ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          309,
+          311,
+          313
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 471,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Write in brief the reasons for rising Caesarean Section rates globally and in India.\n(ii) Discuss briefly the advantages and disadvantages of Vaginal birth and Caesarean Section.\n(iii) What measures can be adopted to reduce Caesarean Section rates ?\n(iv) How will you counsel a patient who had previous Caesarean Section for vaginal delivery ?\n(b) A 55-year-old male, tobacco chewer, presents to OPD with difficulty in opening mouth for one month. On examination, he is found to be having poor oral hygiene and a white patch on right buccal mucosa.\n(i) Briefly describe leukoplakia and its significance.\n(ii) What are the premalignant conditions for oral cavity cancer ?\n(iii) What are the different cervical lymph nodes which can get involved in a patient with oral cavity cancer ?\n(c) (i) When is a protein said to be \"biologically complete\" ?\n(ii) How do vegetable proteins compare and compete with animal proteins ?\n(iii) What are proteins needed for in the body ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          309,
+          314
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) A 60-year-old male presents with progressively increasing jaundice for 2 months. He is having clay coloured stools and pruritus. On examination, he is having a palpable and distended gall bladder.\n(i) How will you investigate this patient ?\n(ii) Briefly mention Courvoisier's law and its exceptions.\n(iii) What are the treatment options for this patient ?\n(b) The Mother and Child Tracking System (MCTS) is a significant initiative of the government.\n(i) Briefly explain what is MCTS.\n(ii) What are its objectives ?\n(iii) How is it being put into operation ?\n(c) (i) How will you investigate a couple; wife 35 years, husband 37 years, married for 3 years, but trying for conception since 6 months ?\n(ii) What are the major factors affecting fertility ?\n(iii) Outline the treatment options available for unexplained infertility.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          315,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Summarise the spectrum of Iodine Deficiency Disorders.\n(ii) State the goal, objectives and salient features of Iodine Deficiency Disorder Control Programme.\n(b) (i) What are the major changes that have been introduced under the MTP (Amendment) Act, 2021 ?\n(ii) What are the different contraceptive methods employed by people in India ? List them in the order of their usage stating the statistics of how commonly they are used.\n(iii) What measures can help increase the use of contraceptives in India ?\n(c) A 47-year-old female presents to the surgery OPD with a solitary nodule in the right lobe of thyroid gland.\n(i) How will you investigate this case ?\n(ii) What is the ideal treatment if investigations are suggestive of follicular neoplasm ?\n(iii) How will you follow-up a patient who has undergone total thyroidectomy for papillary carcinoma thyroid 5 days back ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 472,
+        "subtags": [
+          312,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 470,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

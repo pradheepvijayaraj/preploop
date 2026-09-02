@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2016_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry :\n(i) Pir Panjal Range\n(ii) River Indravati\n(iii) Nathu La Pass\n(iv) Jog Falls\n(v) Pulicat Lake\n(vi) Kudankulam\n(vii) Nalanda\n(viii) Kudremukh\n(ix) Headquarters of N-E Railways\n(x) Farakka Barrage\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Explain the shifting of river courses and river capturing in the Himalayas. (In about 150 words)\n(c) Mention the space relationship of India with neighbouring countries. (In about 150 words)\n(d) Define agricultural intensity and bring out its regional distribution in India. (In about 150 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 323,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 323,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of spatial pattern of rainfall and temperature in the delimitation of climatic regions of India especially with reference to Stamp's climatic regionalization.\n(b) Describe the flood-prone areas and their management problems in the Ganga Plains.\n(c) Explain the New Industrial Policies in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          165,
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Identify the important biotic resource regions of India and highlight their problems. (In about 250 words)\n(b) Point out the ethnic disparities in the N-E India. (In about 200 words)\n(c) Give an account of the development of renewable resources of India. (In about 200 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          161
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Bring out the development of river water transport in India and its role in regional development.\n(b) Explain the impact of economic development on environmental degradation in India.\n(c) Describe the distribution of black soils in India and their specific use for agriculture.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          165,
+          155
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "For Question Nos. 5(a) to 5(e), write on each in about 150 words:\n(a) Discuss the factors influencing the distribution of sex ratio in India.\n(b) \"The Bokaro Iron and Steel Plant is an example of Industrial Complex.\" Explain.\n(c) How do slums develop? Give concrete suggestions for their improvement.\n(d) Explain the role of India in the geo-politics of South Asia.\n(e) Analyze the pattern of India's trade with the S-E Asian countries.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          161,
+          162,
+          160
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 317
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Present a comparative analysis of geographical factors responsible for distribution of human settlements in Rajasthan desert and North-Eastern regions of India.\n(b) Explain with suitable examples the role of road transport in agricultural development in India.\n(c) Evaluate the impact of technology on resource utilization in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          156,
+          4
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Analyze the location, distributional pattern and problems of cotton textile industries in India. (In about 250 words)\n(b) Describe the major tribal regions of India and their problems. (In about 200 words)\n(c) Examine the causes of regional disparities in economic development in India. (In about 200 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the causes and effects of urbanization in India and explain its impact on rural landscape and urban ecology. (In about 250 words)\n(b) \"India has paid heavily for achievement of Green Revolution in the form of economic, social and ecological cost.\" Discuss. (In about 200 words)\n(c) Explain the origin, dimension and implications of Sino-Indian border dispute. (In about 200 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          4,
+          164
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 321
+        }
+      ]
+    }
+  ]
+}

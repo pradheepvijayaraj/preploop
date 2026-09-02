@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper 1 · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2015_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each :\n(a) Aristotle's distinction between 'actually' and 'potentiality'.\n(b) esse est percipi.\n(c) Husserl's notion of 'bracketing'.\n(d) Strawson's distinction between 'M' and 'P' predicates.\n(e) G.E. Moore's refutation of idealism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          320,
+          326,
+          329,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 487
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain Kant's division of categories.\n(b) Discuss why Heidegger introduces the concept of Dasein in his metaphysics.\n(c) Elucidate Quine's arguments to show that analyticity is not synonymity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 479,
+        "subtags": [
+          327,
+          328
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 479
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 486
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) Bring out the relationship between language games and forms of life.\n(b) Explain Leibniz's principle of 'identity of indiscernibles'.\n(c) What do we understand by incomplete symbols ? What role do they play in Russell's theory of meaning ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 483,
+        "subtags": [
+          319,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 483
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain Plato's theory of forms. Does it entail a kind of essentialism? Discuss.\n(b) Does Descartes Cogito principle entail that he is an essentialist? Discuss.\n(c) Bring out the relationship between existence and essence in the case of human being. Explain the issues it gives rise to for human beings according to Sartre.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          319,
+          327
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each (10 marks):\n(a) Pancavidhabheda\n(b) Jain concept of Dravya\n(c) Alayavijnana\n(d) Satkaryavada\n(e) Sri Aurobindo's Integral Yoga.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 492,
+        "subtags": [
+          331,
+          335
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 493
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) Elaborate Nyaya-Mimamsa debate on Prāmāṇyavāda.\n(b) 'Our knowledge is confined to gunas alone'. Examine this statement in the light of Vaisesika and Buddhist controversy.\n(c) Is anyathākhyātivāda an adequate explanation of error ? Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          332,
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) Compare and contrast the notion of Brahman in Sankara and Ramanuja.\n(b) State and examine the Samkhya proofs for the existence of Purusa.\n(c) Explain the arguments of Carvaka to reject transcendental entities.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 495,
+        "subtags": [
+          334,
+          330
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 488
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) What is bondage according to yoga philosophy? Explain the method of attaining Kaivalya in Patanjali's yogasutra.\n(b) What do Samvara and Nirjara mean? Explain their significance in Jaina theory of liberation.\n(c) What is the role of Pratityasamutpada in explaining Dukha? Elucidate the means to overcome it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 493,
+        "subtags": [
+          331,
+          332
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        }
+      ]
+    }
+  ]
+}

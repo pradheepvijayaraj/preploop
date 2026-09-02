@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2018_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, of the following questions in about 150 words each :\n(a) Write a note on G. S. Ghurye's Indological perspective of understanding Indian society.\n(b) Give a critical analysis of Andre Beteille's study of Tanjore village.\n(c) Media is the fourth pillar of democracy. Discuss.\n(d) Write a note on the changing roles of middle-class women in India.\n(e) Discuss the growth of religious sects in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          428,
+          435,
+          429,
+          431
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Analyze A. R. Desai's views on India's path of development.\n(b) Examine sociological dynamics of Champaran Peasant Movement in colonial India.\n(c) How do the recommendations of Swaminathan Commission (2004-2006) ensure food and nutrition security for the Indian masses?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 592,
+        "subtags": [
+          195,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by discrete castes and muddled hierarchies? Substantiate your answer with suitable illustrations.\n(b) Discuss development-induced displacement in the context of tribal uprising in India. Substantiate your answer with any one detailed illustration from India.\n(c) Illustrate the importance of 'Kanyadan' and 'Kulabadhu' in changing institutions of marriage and family.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          441,
+          430
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 599
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 588
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) How has the New Economic Policy (1991) affected the lifestyle and life-chances of new middle class in India?\n(b) Write a critical narrative on the concerns of religious minorities in India.\n(c) Discuss the issues relating to the entitlement of transgender in Indian society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 589,
+        "subtags": [
+          429
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, of the following questions in about 150 words each :\n(a) Elaborate the concept of constitutional morality as given by B. R. Ambedkar.\n(b) Construct a sociological narrative on the increasing trend of child abuse in India.\n(c) Explain the dynamics of neo-farmers' movement in contemporary India.\n(d) Assess the role of the State in promoting education of girl child.\n(e) Elaborate the 'Me Too' Movement and its impact in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 593,
+        "subtags": [
+          426,
+          195,
+          440,
+          436
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 598
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 594
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) How do you relate the growth of development of metropolis and its impact on the mental and social life of people in India?\n(b) Has 'Green Revolution' led to the formation of new power elite in rural India? Elaborate your answer.\n(c) Write a note on Basic Services to Urban Poor (BSUP) and Integrated Housing and Slum Development (IHSD) programmes provided for the urban poor.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 592,
+        "subtags": [
+          433,
+          47
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 145
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Has caste system hindered democracy and adult franchise in India? Discuss.\n(b) Elaborate various forms of Dalit assertions in contemporary India. What are its implications on the Indian political system?\n(c) With increase in education and economic development is Indian society becoming more secular?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          437,
+          435
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the issues relating to male migration and its impact on birthrate? Does it necessarily result in skewed sex ratio?\n(b) Western patriarchy which surrenders feminine principles is the new development project in India. Do you agree with this view? Why?\n(c) Assess the impact of ban on 'Triple Talak' on marriage and divorce among the Muslim community in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 598,
+        "subtags": [
+          436,
+          431
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 598
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 594
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    }
+  ]
+}

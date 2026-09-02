@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2020_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answers with relevant legal provisions and judicial pronouncements (10x5=50):\n(a) If a person, who voluntarily consumed intoxicating liquor, commits an offence, while under the influence of such intoxication, can he plead 'voluntary intoxication' as a defence? Discuss in the light of relevant provisions of the IPC.\n(b) If a woman watches or captures the image of another woman engaging in a private act in circumstances where she would usually have the expectation of not being observed by any other person, does that amount to offence of 'voyeurism' under the Indian Penal Code? Discuss.\n(c) Is it mandatory to obtain previous sanction for prosecuting a public servant for offences under the Prevention of Corruption Act, 1988? Discuss in the light of relevant provisions and the decisions of the Supreme Court.\n(d) \"'Public nuisance' does not create a civil cause of action for any person.\" Comment.\n(e) \"The common cases of vicarious liability relate to servant driving his vehicle in the course of employment.\" Explain in the light of decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 412,
+        "subtags": [
+          256,
+          258,
+          265,
+          263
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 412
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 414
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 416
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 423
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 421
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) The definition of 'murder' under Section 300 of the Indian Penal Code is very wide. It includes not only both 'intentional' and 'unintentional' causing of death but also cases where the death is not even 'foreseen'. Explain.\n(b) \"The expression 'measures of damages' means the scale or rule by reference to which the amount of damages is to be recorded and assessed.\"\nIn the light of the above statement, examine the changing contours of damages as a tortious remedy.\n(c) Though both Sections 34 and 149 of the Indian Penal Code provide for imposition of constructive criminal liability, there are substantial points of difference between the two. What are they?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 406,
+        "subtags": [
+          261,
+          245
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 406
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 403
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) Though the 'capital punishment' is not abolished in India, the recent trends show that the Supreme Court, in appeals, is inclined to modify the same and sentence the convict to life imprisonment with further direction that the convict must not be released from prison before he/she actually serves certain specified number of years usually 20, 25 or 30 years. Do you think the Court is justified in issuing such directions? Comment.\n(b) Critically examine the Consumer Protection Act, 2019 and distinguish it with the Consumer Protection Act, 1986.\n(c) \"'Privilege' means that a person stands in such relation to the facts of the case that he is justified in saying or writing what would be 'slanderous' or 'libellous' in anyone else.\" Explain the statement with leading case law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 404,
+        "subtags": [
+          266,
+          257
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 424
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 415
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) Unless the ingredients of either 'theft' or 'extortion' are present, neither the offence of 'robbery' nor the offence of 'dacoity' can be made out. Explain.\n(b) Mere proof of presence of both 'actus reus' and 'mens rea' is not sufficient, the concurrence between the two also needs to be established to impose criminal liability. Elucidate in the light of case law.\n(c) The rule \"Crown was not answerable for tort committed by its servant\" has never been applied in India. Examine the statement in the light of the decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 413,
+        "subtags": [
+          245,
+          261
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 403
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 419
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answers with relevant legal provisions and decided cases (10x5=50):\n(a) \"Like an ordinary paper contract, an electronic contract is also primarily governed by the codified provisions of the Indian Contract Act, 1872 as applicable to contracts in general.\" Explain the statement highlighting the legal provisions relating to conclusion of electronic contract.\n(b) Discuss the access and benefit sharing (ABS) law provided under the Biodiversity Conservation Act, 2002 with special reference to adjudication of biodiversity disputes and jurisdiction of the National Green Tribunal.\n(c) \"The Supreme Court of India in public interest litigation cases relating to COVID-19 pandemic adopted a judicial policy of non-interference into the policies of the Government.\" Elucidate with the help of decided cases.\n(d) \"A surety is said to be discharged from liability when his liability comes to an end.\" Throw light on the statement with relevant legal provision under the Indian Contract Act, 1872.\n(e) According to Anson, \"Contract of insurance bears a certain superficial resemblance to wagering agreement but they are really transactions of different nature\". Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          30,
+          277,
+          263,
+          270
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 71
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 435
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 428
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The grant of patent implies that patentee has a right to exclude others from using the invention.\"\nExamine the implication of the above statement with relevant provisions of the Patent Act, 1970 and leading judgements.\n(b) \"No court will lend its aid to a man who found his cause of action upon an immoral or illegal act.\"\nAre there any exceptions to the above-said rule? Explain.\n(c) \"The parties cannot appeal against an arbitral award as to its merits and the court cannot interfere on its merits.\" Critically examine the statement and also explain the highlights of the Arbitration and Conciliation (Amendment) Act, 2019.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 200,
+        "subtags": [
+          248,
+          275
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 200
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 406
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 433
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The objective of Section 138 of the Negotiable Instruments Act, 1881 is to promote the efficiency of banking operations and to ensure credibility in transacting business through cheques.\" Explain the statement with recent amendments.\n(b) \"Laws are geared to protect the right to equitable remuneration but life is beyond the material.\"\nIn the light of the above statement, dwell on the dichotomy of economic rights and moral rights under the Copyright Act, 1957 and case law on the point.\n(c) Discuss the rationale of exemption to disclosure of information endangering life and the information regarding criminal trial and criminal investigation provided under the Right to Information Act, 2005 in the light of decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 432,
+        "subtags": [
+          59,
+          71
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 432
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 200
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 227
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"In the course of time, the courts have introduced a number of exceptions in which the rule of privity of contract does not prevent a person from enforcing a contract which has been made for his benefit but without his being a party to it.\" Explain the statement with the help of leading case law.\n(b) \"The intellectual property right and competition law generally work in tandem but often become friends in disagreement.\"\nElucidate the above statement by referring to the mandate of the TRIPS Agreement, 1995 and its compliance under the Competition Act, 2002.\n(c) \"The Environment (Protection) Act, 1986 is an umbrella legislation to not only protect and improve the environment but to prevent and control of pollution.\" Comment and analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          59,
+          30
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 200
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 71
+        }
+      ]
+    }
+  ]
+}

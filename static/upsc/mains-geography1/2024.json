@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2024_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) What are 'truncated spurs'? Where and how are they formed?\n(b) Formation of temperate cyclone depends on the condition of axis of dilation. Elucidate.\n(c) With suitable examples explain the factors causing sea level changes.\n(d) Examine the impacts of social forestry in socio-economic transformation of rural areas.\n(e) Mountain regions are more fragile to ecological changes. Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          54,
+          152,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine the recent views on mountain building process and divide the world mountains on the basis of their genesis.\n(b) Describe latitudinal distribution of Köppen's classification of world climate.\n(c) With suitable sketches elaborate the bottom topography of the Indian Ocean.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          54
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain air masses and associated weather dynamics. How do air masses influence the weather conditions of the Northern Hemisphere?\n(b) \"Soil erosion is creeping death.\" Explaining the statement, suggest various soil conservation measures.\n(c) Perception, Attitude, Value and Emotion (PAVE) are important components for biodiversity and sustainable environmental conservation. Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          3,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) How is carbon neutrality essential for future environmental conservation? Describe various efforts taken by nations in this regard.\n(b) What is a Yazoo stream? Why are Yazoo basins the areas of repeated flooding? Give examples of Yazoo stream/areas from various parts of the world.\n(c) \"The latitudinal gradient in species richness is an important geographic trend in biodiversity.\" Examine the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          52,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Critically examine the significance of Behavioural Approach in the development of human geography.\n(b) \"While scarcity of water resources are felt locally, but its causes are increasingly global.\" Comment.\n(c) Central Business Districts (CBDs) are in decline as the economic core of metropolitan cities. Critically examine.\n(d) There is a need for gender-sensitive regional development. Elaborate.\n(e) Explain the theoretical framework and stages of economic growth proposed by Rostow's model.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 12,
+        "subtags": [
+          1,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) The urbanisation process is particularly pronounced in Asia and Africa, where too many urban residents grapple with extreme poverty, exclusion, vulnerability and marginalisation. Discuss.\n(b) Explain how the physical view of geographical space has impacted the forms of spatial analysis.\n(c) Explain the Heartland theory with reference to contemporary geopolitical scenario of the world.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 309,
+        "subtags": [
+          154,
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 311
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain the basis of D. Whittlesey's classification of agricultural regions of the world.\n(b) What is Transnationalism? Why has the scale and scope of transnational linkages of diaspora multiplied in recent times?\n(c) Assess the criteria required for selecting regions for developmental planning.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 12,
+        "subtags": [
+          151,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) What is complementary region? With reference to hierarchy of settlements, describe the different types of complementary regions as proposed by Christaller.\n(b) Analyse the spatial changes and emerging patterns of semiconductor manufacturing in the world.\n(c) \"In developed countries, migration rather than fertility will be the main driver of population dynamics over the next few decades.\" Examine the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 309,
+        "subtags": [
+          2,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    }
+  ]
+}

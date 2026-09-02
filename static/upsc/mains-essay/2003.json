@@ -1,0 +1,180 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2003",
+    "exam": "UPSC CSE",
+    "totalQuestions": 6,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2003,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2003_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 200,
+    "durationSeconds": 10800,
+    "examRegime": "essay-single-era"
+  },
+  "questions": [
+    {
+      "id": "upsc_2003_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "How far has democracy in India delivered the goods?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2003_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "How should a civil servant conduct himself?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          453
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2003_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "There is nothing either good or bad but thinking makes it so.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 604,
+        "subtags": [
+          450,
+          465
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2003_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "The masks of new imperialism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          457
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2003_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "As civilization advances culture declines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2003_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Spirituality and scientific temper.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 608,
+        "subtags": [
+          469,
+          465
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    }
+  ]
+}

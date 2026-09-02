@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2016_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each :\n(a) \"How would I and my fellow human beings behave if we were to find ourselves in a state of nature, and what does this behaviour tell us about our innate pre-dispositions?\" (Thomas Hobbes)\n(b) The Post-Behavioural Approach.\n(c) Affirmative Action.\n(d) Dr. B. R. Ambedkar's idea of state socialism.\n(e) Gramsci's concept of Hegemony.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 520,
+        "subtags": [
+          361,
+          339,
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The Political ideology of Globalization is Neo-liberalism.\" Comment.\n(b) Discuss Feminist theory of the State.\n(c) Critically examine John Rawl's argument for democratic equality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 117,
+        "subtags": [
+          362,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss Sri Aurobindo's views on Cultural Nationalism.\n(b) Explain Marx's understanding of Human Essence and Alienation.\n(c) \"The implementation of human rights is regarded as a matter of changing the conduct of States.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          361,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss Hannah Arendt's analysis of the role of Ideology in modern totalitarian regimes.\n(b) Explicate the features of Representative Democracy.\n(c) Examine Gandhi's critique of 'Modernisation'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 117,
+        "subtags": [
+          363,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each (50 marks):\n(a) Critically examine the Radical Humanist perspective on Indian National Movement.\n(b) Cultural and Regional differences are the enduring bases on which politics is played out in India.\n(c) 'Article 368 does not enable Parliament to alter the basic structure or framework of the Constitution'.\n(d) The purpose of the 42nd Constitutional Amendment was to make the economic and social democracy explicitly visible.\n(e) The philosophy and administration of the distribution of powers between Centre and State is required to be re-assessed.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          197,
+          361,
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the politics of Economic growth in India.\n(b) Comment on the emergence of Backward classes in the Indian Politics.\n(c) Discuss the pattern of Political Parties from one dominant party system to coalition politics in national politics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          9
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Land reforms have failed in the eradication of rural poverty. Comment.\n(b) Critically examine the role of Governor in recent times.\n(c) Discuss the Right to Information and underline challenges being posed before it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 33,
+        "subtags": [
+          369,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 527
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) The goal of Good governance will be achieved only by strengthening the grass root level democracy.\n(b) Examine the objective and role of the National Human Rights Commission.\n(c) Critically examine the provisions made in the Constitution for the protection of Environment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          11,
+          5
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        }
+      ]
+    }
+  ]
+}

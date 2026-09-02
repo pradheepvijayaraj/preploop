@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2024_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Digitisation of rural economy\n(b) Origin of State Societies\n(c) Syro-Malabar Christians\n(d) Artisan tribes of Jharkhand\n(e) Causes of stunting and wasting among tribal children",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          125,
+          116,
+          122,
+          119
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 276
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically discuss the recent welfare measures initiated by the Government for the Particularly Vulnerable Tribal Groups (PVTGs). Comment why PVTGs were erroneously called Primitive Tribal Groups (PTGs).\n(b) How is PESA Act empowering local self-governance and impacting women's political participation ?\n(c) Deconstruct the colonial history of Indian Anthropology highlighting the critical role played by the Indian Anthropologists in sustaining its autonomy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          114
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Critically describe evidences from Rakhi Garhi and its linkages to Harappan civilization.\n(b) Compare and contrast the approaches of M.N. Srinivas and L.P. Vidyarthi to social change in village India.\n(c) Examine the impact of Forest Policies from 1878 to 2006 on land alienation and deprivation of rights of tribal communities in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          115,
+          122
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) What are the ethical concerns in biological and socio-cultural anthropology because of recent advances in AI and genetic research?\n(b) Write an essay on the life history of tribal activist and freedom fighter Birsa Munda. What was the impact of his sacrifice on tribal society?\n(c) What are the demographic challenges of India's changing population dynamics in the next 50 years?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 271,
+        "subtags": [
+          122,
+          110
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 267
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) B.K. Roy Burman's concept of 'Buffer Zone'\n(b) Describe ILO's Convention No. 169 (1989) on Indigenous and Tribal people. Is India a signatory to it?\n(c) Agricultural practices of the Apatani\n(d) Status of Sixth Schedule Areas\n(e) Constitutional Safeguards for Backward Classes",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 269,
+        "subtags": [
+          125,
+          115,
+          50,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 269
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Custodians of natural resources are the tribals, but they are the most deprived. Critically examine how climate change will impact their survival in future.\n(b) Elucidate the difference between secularism, religiosity, religious fundamentalism and spiritualism from an anthropological perspective.\n(c) Discuss the contribution of P.K. Bhowmick in decriminalising the status of the Lodha tribe.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          124,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 281
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically examine existing paradigms of holistic health for the marginalised sections of society drawing inferences from COVID-19 pandemic.\n(b) Discuss the theories on origin of caste system and its criticism in India. Differentiate between caste, class and race.\n(c) Elucidate the resurgence of ethno-nationalism from an anthropological lens.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 147,
+        "subtags": [
+          45,
+          123
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 280
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the important Paleolithic sites from South India with suitable examples. What is the significance of South Indian Paleolithic cultures?\n(b) Distinguish a 'Theocratic State' from a secular, liberal, democratic state. Illustrate your answer with examples from tribal and contemporary societies.\n(c) Discuss the economic, social and developmental impacts on tribal communities with special reference to mining.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          125,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2025_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Where does the Constitution of India vest executive power with respect to subject-matters in the Concurrent List over which both the Union and States have legislative powers ? Explain.\n(b) “It is often said that the decision of the Supreme Court in L. Chandra Kumar Vs. Union of India (1997) has defeated the very raison d’etre of establishing administrative tribunals in India.” Discuss.\n(c) Critically examine, with the help of decided cases, the power of the President to consult the Supreme Court.\n(d) If Article 21 confers on a person the right to live a dignified life, does it also include a right not to live ? Examine the Constitutional Provisions with the help of decided case laws.\n(e) “The doctrine of Separation of Powers in its classical structural form is not followed in any country.” Critically evaluate this statement with reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 157,
+        "subtags": [
+          57,
+          215,
+          213
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 157
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 161
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 371
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 157
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) What are the powers, privileges and immunities of Houses of Parliament in India ? Do they have the power to expel any of their members for breach of privileges ? If so, are such expulsions subject to judicial review ? Discuss.\n(b) “The Directive Principles of State Policy are fundamental in the governance of the country, and it shall be the duty of the State to apply these Principles in making laws.” Illustrate the legislations, which have been enacted for the implementation of Directive Principles.\n(c) “It was claimed in the Constituent Assembly that the Constitution of India has in fact, laid down a very ‘facile’ procedure for the amendment of the Constitution.” Do you think the Doctrine of Basic Structure significantly limits the amending power under Article 368 ? Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 375,
+        "subtags": [
+          213,
+          55
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 375
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 371
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 156
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) “In any democratic society, judicial review of administrative action is the soul of the system. Without it, democracy, and rule of law cannot be maintained.” Explain with example.\n(b) Examine the provisions under the Indian Constitution that authorize the Parliament to legislate on the subject-matters of the State List of the Seventh Schedule.\n(c) “It is significant that the State shall secure the operation of legal system to promote justice on the basis of equal opportunity.” Examine the provisions under the Constitution and Legal Services Authorities Act, 1987.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 161,
+        "subtags": [
+          223,
+          218
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 161
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 381
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 376
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) Examine the power of the Governor to grant pardons, reprieves, respites or remissions of punishment, or to suspend, remit or commute the sentence of any person convicted of any offence against any law relating to a matter to which the executive power of the State extends.\n(b) What are the significant changes introduced by the Constitution (Forty-fourth Amendment) Act, 1978 to emergency provisions contained in Part XVIII of the Constitution of India ? Are they efficacious enough to prevent the possible abuse of power under Article 352 of the Constitution ? Elaborate.\n(c) “Lokpal and Lokayukta have roots in Indian governance culture.” Explain, how the Lokpal and Lokayuktas Act, 2013 ensures transparency and accountability in public governance, both within and outside India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 374,
+        "subtags": [
+          221,
+          224
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 374
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 379
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 382
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Is anticipatory and pre-emptive use of force for self-defence permissible under Article 51 of the UN Charter ? Discuss.\n(b) “The General Assembly of the United Nations cannot be called World Parliament.” In this context, critically analyse the limitations on the General Assembly.\n(c) Discuss the different theories of State Succession and the rights and duties arising out of the State Succession.\n(d) How does the Rome Statute of the International Criminal Court define “Crime against Humanity”? Explain.\n(e) What is ‘Contiguous Zone’? Discuss the Indian position on this subject.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 396,
+        "subtags": [
+          236,
+          228,
+          242,
+          232
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 396
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 386
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 400
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 390
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) There may be various reasons for the failure of the Security Council of United Nations in maintaining international peace and order. One of the main reasons is its composition and imbalanced power dynamics. Critically analyse.\n(b) What is innocent passage on the Law of the Sea ? Examine the Indian position on this matter.\n(c) Examine the principles of acquisition of territorial sovereignty by newly emerged states.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          229,
+          232
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 387
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 390
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the definition, meaning of ‘Nationality’ and modes of acquisition of nationality. Also, make a distinction between Nationality and Citizenship.\n(b) Discuss the right of the State parties to formulate reservations to a treaty under the Vienna Convention on the Law of Treaties, 1969. What are the legal effects of such reservations ? Explain.\n(c) Explain the principles of ‘most favoured nation’ and ‘national treatment’ in the International Trade Law. Is it permissible for a WTO member state to impose different rates of (reciprocal) tariffs on other member states of WTO ? Can a member state affected by the higher tariffs file a complaint with the Dispute Settlement Body of the WTO ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 388,
+        "subtags": [
+          235,
+          225
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 388
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 383
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the International Law relating to development and use of nuclear weapons with special focus on the Treaty on Prohibition of Nuclear Weapons (TPNW), 2017.\n(b) Discuss the different types of ‘Asylum’ and make a distinction between Territorial and Extraterritorial Asylum.\n(c) The simplest and most utilized mode of settlement of international dispute is negotiations, which does not involve a third party, unlike mediation. Discuss which of these modes is best suited for settlement of international disputes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 398,
+        "subtags": [
+          234,
+          237
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 398
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 392
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 395
+        }
+      ]
+    }
+  ]
+}

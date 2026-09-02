@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2024_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) After the battle of Plassey, the mercenary became the Kingmaker.\n(b) The values of utilitarianism prompted the Company administration to attempt reform of Indian society.\n(c) In course of the 19th century, the agenda of social reform was gradually replaced by revivalism.\n(d) The federal provisions of the Government of India Act of 1935 foundered on the rock of princely intransigence.\n(e) The strength of the Pakistan programme was its vagueness. It meant everything to everyone.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          49,
+          34,
+          200,
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 121
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) The pace of commercialisation of agriculture increased as a result of British revenue policies in India. – Critically examine.\n(b) Why was the Great Revolt of 1857 confined only to North India? How did it change the character of British rule in the subcontinent? Explain.\n(c) Why did the demand for land reform never become an agenda in national politics after 1947? Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          200,
+          204
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 362
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) Political extremism in colonial India often converged with cultural nationalism, but not always. – Comment.\n(b) Regionalism in India after 1947 was occasioned by developmental imperatives as much as linguistic particularism. – Elucidate.\n(c) Twenty years of peace secured by the treaty of Salbai proved very costly to the Marathas in strategic terms. – Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          192
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) The Swadeshi movement of 1905 anticipated many of the tactics that were later developed during the Gandhian mass movement. – Critically examine.\n(b) The trade union movement joined forces with the mainstream of nationalist politics to strengthen each other in their struggle against colonial rule. – Comment.\n(c) India's developmental strategy after independence was influenced by economic imperatives, not ideological considerations. – Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 357,
+        "subtags": [
+          0,
+          204
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 357
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 362
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) The ideas raised by Enlightenment thinkers were profoundly unsettling and challenging to old regime society and political order.\n(b) The American Civil War was a result of disparity of needs of industrial north and agrarian south.\n(c) The unification of Germany was as much a product of coal and iron as it was of blood and iron.\n(d) The new regime in China addressed the peasant question by instituting wholesale land redistribution, which was carried out swiftly and ruthlessly.\n(e) The revolutions of 1989 did not simply destroy governments; they also ended an ideology.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 353,
+        "subtags": [
+          41,
+          202,
+          206
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) The course of the English industrialization was too long drawn to be considered a revolution. Comment.\n(b) The social and political landscape of Europe after the first world war was uniquely suited to the rise of Fascism. Discuss.\n(c) The state was the most important factor in the industrialization of Russia. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          43,
+          42
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 135
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) The second world war was a truly global conflict. Discuss.\n(b) Trace the different stages of European economic integration.\n(c) The nature of apartheid regime undermined South Africa's claim of being a democratic polity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          209,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 367
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) The emergence of two power blocs not only symbolised two competing ideologies but also two alternative models of economic growth. Explain.\n(b) To what extent underdevelopment in Latin America is caused by neo-imperialism?\n(c) How did Ho Chi Minh emerge as the central figure in the Vietnamese independence movement ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 360,
+        "subtags": [
+          205,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    }
+  ]
+}

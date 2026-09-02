@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2020_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, of the following questions in about 150 words each :\n(a) Elaborate A. R. Desai's perspective to the study of Indian society.\n(b) \"Banning practice of 'Sati' is attributed to annihilation of a major social evil in colonial India.\" Comment.\n(c) How do you justify Dumont's deliberate stress on ideology that produced intellectualized account of Indian society?\n(d) Explain the definitional problems concerning the tribal communities in India.\n(e) \"Secularism was an outcome of 20th century humanistic radicalism.\" Comment on this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          431,
+          27
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Indian caste system is unique and has been unhealthy for the growth of sociology of India.\" How far do you agree with this view?\n(b) Discuss Whitehead's contention that caste has potential to displace class and colonial contradiction.\n(c) \"Indian rural society is a faction-ridden society.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          45,
+          428
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 586
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the colonial policy of segregation of tribes under the Government of India Act, 1935.\n(b) Discuss the dynamics of 'migrant workers' in India in the context of Corona pandemic.\n(c) How does Andre Beteille justify 'middle class in India'?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 60,
+        "subtags": [
+          195,
+          429
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the conceptual issues about lineage and descent in India. Give suitable illustrations.\n(b) Analyze household dimensions of family in India.\n(c) Write a note on 'cultural pluralism' in multi-religious society like India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 588,
+        "subtags": [
+          431
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, of the following questions in about 150 words each :\n(a) Point out the benefits of 'green chemistry' for agrarian transformation in India.\n(b) Analyze the issues related to the citizenship in contemporary India. Give suitable illustrations.\n(c) Give an account of the consequences and remedies of chronic malnutrition in India.\n(d) How does the New Education Policy, 2020 aim to eradicate disparities in the system of education in India?\n(e) What do you understand by democratic federalism? How does it promote decentralization of power in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 593,
+        "subtags": [
+          433,
+          26,
+          445
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss in detail the main issues of development planning in mixed economy like India.\n(b) Do you think MSP (Minimum Support Price) Scheme for agricultural produce can help in rural development? Elaborate your response with suitable examples.\n(c) How can skill development programme induce social change? Illustrate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 590,
+        "subtags": [
+          433
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 590
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 590
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Elaborate the causes, consequences and other concerns of growth of urban settlements in India.\n(b) Evaluate the nature and scope of anthropogenic influence on climate in India and also analyze the environmental movements arising out of it.\n(c) Are the contemporary farmers' movements in India changing their course? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 145,
+        "subtags": [
+          438,
+          195
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 596
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Colonial administrators helped to construct the very traditionalism which marked the Indian society as 'backward'. Comment critically.\n(b) What were the salient features of the India's Population Policy (2000)? How far its goals have been achieved?\n(c) Point out the main causes of 'child labour' in India. How far the State policies have succeeded in its elimination?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 585,
+        "subtags": [
+          440,
+          434
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 585
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 598
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 592
+        }
+      ]
+    }
+  ]
+}

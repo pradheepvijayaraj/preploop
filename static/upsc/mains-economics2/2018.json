@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper 2 · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2018_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Do you agree with the view that the objective of industrial and commercial policies of British was to transform India as a complementary economy of England ? Give reasons.\n(b) How did V. K. R. V. Rao improve upon the earlier national income estimates of India ?\n(c) How did Gold Bullion Standard end with 'ratio controversy' in British India ?\n(d) Explain how multi-dimensional poverty index is computed.\n(e) Elaborate on the phenomenon of 'missing middle' in Indian manufacturing sector.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          146,
+          19,
+          26,
+          145
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 302
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine the features of permanent land settlement as introduced by Lord Cornwallis.\n(b) Explain the problems faced by jute mills in India during the early years of their existence.\n(c) 'British rule led to India's underdevelopment'. Do you agree ? Give reasons in support of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) Reflect on issues and implications of structural transformation in India's national income.\n(b) How would you justify the policy of land reforms in the light of the farm size - productivity debate in India ?\n(c) Analyse the salient features of 'interest subvention scheme' and its implications on the farm sector.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 303,
+        "subtags": [
+          144,
+          147
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) Comment on the new initiatives taken by the government to facilitate investment and ease of doing business.\n(b) The chequered fiscal history of India of the last fifteen years has been a saga of fiscal prudence on the part of the States and fiscal profligacy by the Centre. Do you agree ? Give reasons.\n(c) Reflect on the relationship among economic growth, inequality and poverty in the post-reform period in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          17,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Do you agree that MGNREGA has been plagued with rampant malpractices, leakage of funds and diversion of resources ? Give reasons.\n(b) Horticulture is now the growth driver of Indian Agriculture. Discuss the issue in the broad context of rural diversification.\n(c) Critically examine the relative contributions of public and private sectors in the pre-liberalisation period in India.\n(d) Explain why the use of organic farming should be encouraged in India.\n(e) How can the organised manufacturing sector be revived as an engine of inclusive growth ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 301,
+        "subtags": [
+          19,
+          145,
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that fiscal slippage in the recent past is structural in nature ? Also suggest road map for fiscal consolidation in the next few years.\n(b) The state-controlled section of India's banking sector continues to be a major problem for policy makers. Do you agree ? Give reasons in support of your answer.\n(c) Do you think that the green revolution had limited impact on Indian agriculture ? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 38,
+        "subtags": [
+          19,
+          144
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Demonetisation has been a radical and unprecedented step with short-run costs and long-term benefits. Give reasons in support of this statement.\n(b) Throw light on the poverty debate in the pre-liberalisation era in India.\n(c) How the setting-up of NITI Aayog has changed the planning perspective in India ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 35,
+        "subtags": [
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) Do you believe that capital account convertibility is feasible under the present circumstances in India ? Explain.\n(b) Describe the salient features of TRIMS. How has it impacted the textile and clothing sector in India ?\n(c) Why should FDI be preferred over FPI ? Comment on government's initiatives in this respect.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          149
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        }
+      ]
+    }
+  ]
+}

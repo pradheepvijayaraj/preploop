@@ -1,0 +1,536 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper 2 · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "MEDICAL-SCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2019_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) (i) What are the investigations done to diagnose a case of Dengue fever ? How are they useful on different days of illness ?\n(ii) Write about the haematological tests done to monitor a case of uncomplicated Dengue fever between 3 – 7 days of illness.\n(iii) What are the indications of different blood components in the treatment of Dengue fever ?\n(b) (i) Discuss in brief about the role of USG in the management of Liver abscess.\n(ii) Discuss in brief about the non-pharmacological management of Anxiety disorder.\n(c) A 4-year-old girl is brought to you with fever and noisy respiration for last two days. Examination reveals a febrile, dyspnoeic child with a low-pitched sound heard during inspiration. Chest examination reveals conducted sounds.\n(i) What is the most likely diagnosis and differential diagnoses ?\n(ii) Name the micro-organisms that can be considered in the etiology of this condition.\n(iii) Outline three major principles of management of this child, after hospitalization.\n(d) A 2-year-old boy is brought with complaints of loose stools for 7 days, lethargy and inability to feed. Anthropometry of the child is as follows :\n[Weight 4·2 kg (expected 12·2 kg);\nLength 66 cm (expected weight for length 7·5 kg);\nMid-upper arm circumference 10·0 cm.]\nOn examination, the child is having severe pallor and peripheral pulses were poorly palpable.\n(i) Identify four major problems (diagnoses) in this child and provide points in favour for each diagnosis.\n(ii) Outline the management of this child in first two hours after immediate hospitalization.\n(e) An Asian HIV patient suffering from haematologic malignancy was put on carbamazepine for epilepsy/convulsions. After 3 weeks of therapy, he developed influenza like symptoms lasting 3 days followed by development of large number of bullae on skin and mucous membranes of mouth, eyes and genitalia. On examination, skin involvement was extensive and very painful. Nikolsky sign was positive.\n(i) What is your diagnosis ? Justify in points.\n(ii) What are the possible risk factors in this patient ?\n(iii) How will you assess the severity of the disease ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          306,
+          309,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) (i) Discuss in brief about the utility of GeneXpert in the management of Tuberculosis.\n(ii) What is the limitation of GeneXpert in the treatment of Pulmonary TB ?\n(iii) What advice would you give to a 50-year-old diabetic male for prevention of Ischaemic heart disease ?\n(b) A 3-year-old child presents with history of loose stools for last 20 days, that started as an acute infective diarrheal episode. On examination, the child appeared sick looking, irritable, undernourished, and having some dehydration. There was marked perianal excoriation. Systemic examination is essentially within normal limits.\n(i) What is your complete diagnosis ? Justify the same.\n(ii) Discuss the probable etiopathogenesis leading to the present diagnosis.\n(iii) Outline the principles of stepwise management of this child, in brief.\n(c) (i) Describe pointwise management of a case of Stevens-Johnson Syndrome (SJS).\n(ii) What is the mortality rate in SJS and Toxic Epidermal Necrolysis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) What is the risk of development of Cirrhosis of liver in the course of NAFLD ?\n(ii) Discuss four common acute complications of Cirrhosis of liver.\n(iii) A 30-year-old male, known case of Bronchial Asthma, presented to the emergency with the complaints of breathlessness for the past one day and is not in a position to even speak out a sentence. Outline the management of this patient.\n(b) A 2-year-old boy was hospitalized with episodes of excessive crying and extreme bluishness of the body during these episodes. There is a history of 4 such episodes in the last 6 months. Examination reveals cyanosis, clubbing and conjunctival suffusion. Oxygen saturation was 75% in all four limbs. After stabilization, examination revealed normal S1 and single S2. There was a grade 3 ejection systolic murmur at left upper parasternal border.\n(i) What is the likely diagnosis ? Justify.\n(ii) Outline the principles of management of acute episode of extreme bluishness, precipitated by excessive crying, in this child.\n(iii) Describe the palliative surgical options available to treat this condition.\n(c) A patient develops an acute vesicular reaction on scalp after using 'Henna' as black dye for colouring his hair.\n(i) What is your diagnosis ? Describe the gold standard test done to confirm this condition.\n(ii) What all chemicals in Henna can cause this condition ?\n(iii) How will you treat it ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          309,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe in brief about prevention, investigation and treatment of microvascular complications of Diabetes mellitus.\n(ii) Discuss in brief about the indications of Electro Convulsive Therapy (ECT).\n(b) A 32-week-old boy (birth weight 1300 grams) was delivered by caesarean section. There was a history of premature rupture of membranes 18 hours before delivery. The newborn developed tachypnea, soon after birth with chest retraction and grunting.\n(i) What is the likely diagnosis in this newborn ? Also give 2 differential diagnoses.\n(ii) Outline the steps of diagnostic work-up required to establish the diagnosis.\n(iii) Describe the principles of management of this child.\n(c) (i) Enumerate various major clinical forms of Psoriasis.\n(ii) What are the clinical patterns of joint involvement in Psoriatic Arthritis ?\n(iii) What are the systemic co-morbidities with Psoriasis ?\n(iv) Describe classic histopathology findings in Psoriasis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          310,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) A 60-year-old male presented to OPD with pus discharging ulcer over his right great toe for the last 1 month. He is suffering from uncontrolled diabetes for 10 years.\n(i) How will you investigate this patient ?\n(ii) Briefly describe the management of this condition.\n(iii) How will you differentiate between arterial ulcer and venous ulcer ?\n(b) Describe causes, clinical features and management of pelvi-ureteric junction (PUJ) obstruction in a 12-year-old male child.\n(c) (i) What are the maternal risks in breech presentation ?\n(ii) Does external cephalic version reduce the incidence of breech and caesarean delivery and perinatal mortality ?\n(iii) Why is external cephalic version recommended at 37 weeks of gestation and not before ?\n(iv) What is Loveset's Manoeuvre ?\n(d) (i) What is gestational hypertension ?\n(ii) What is superimposed pre-eclampsia ?\n(iii) What is the role of antihypertensives in pre-eclampsia ?\n(e) Home Based Newborn Care (HBNC) is a strategy which aims at improving newborn survival. In the context of this strategy, answer the following questions :\n(i) What are the major responsibilities of ASHA in delivery of HBNC ?\n(ii) What is the specified schedule under which ASHA is expected to visit the newborn in a case of home delivery ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          308,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) What is physiological anaemia of pregnancy ?\n(ii) Do all pregnant women need additional iron ? Explain in brief.\n(iii) What is the diagnostic test of iron-deficiency anaemia in pregnancy and why ?\n(iv) How much total additional iron is required during pregnancy and what is its distribution in the mother's body ?\n(b) A 23-year-old lady presented to OPD with diffusely enlarged thyroid for last 3 years. She also has a history of heat intolerance and increased appetite.\n(i) How will you work up this patient ?\n(ii) Enumerate the eye signs in Graves' disease.\n(iii) Briefly describe the medical management of this condition.\n(c) (i) What do you understand by the term \"Antenatal Pediatrics\" ? What are the various measures that can be undertaken to accomplish its primary objectives ?\n(ii) Define \"Low Birth Weight\" (LBW). Enumerate the public health measures that can help to reduce the burden of LBW babies in the community.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          306,
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) An 18-year-old male presented to casualty with massive upper GI bleed. On examination, he is found to be having ascites and enlarged spleen.\n(i) Briefly describe the management of this case.\n(ii) Enumerate the causes of portal hypertension.\n(iii) What is \"OPSI\" and how can it be prevented ?\n(b) (i) In reference to human nutrition, various Expert Committees of WHO have made recommendations regarding dietary goals. On the basis of these recommendations, what constitutes a 'prudent' or ideal' diet in a normal person ?\n(ii) In reference to pediatric nutrition, define the term \"Stunting\". What is it indicative of ? What are its causes ?\n(c) (i) Why do women become less fertile after the age of 35 years ?\n(ii) Why are two semen samples collected 3 months apart in the investigation of infertility ?\n(iii) What points in a woman's history would suggest a tubal problem causing infertility ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          314,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) Drug-resistant tuberculosis has emerged as a major public health challenge before the country. Keeping this in context, answer the following questions :\n(i) What are the major culpable factors which have led to this situation ?\n(ii) To limit the burden of multi-drug-resistant tuberculosis (MDR-TB) and extensively drug-resistant tuberculosis (XDR-TB) in the community, public health experts have drawn a 7-point plan of action. State those 7 points in brief.\n(iii) List the subgroups of tuberculosis patients currently eligible for receiving treatment with a Bedaquiline containing regimen.\n(b) (i) A woman forgot to take her pill last night and is worried about the risk of pregnancy. She is on combined oral contraceptives. If she seeks your advice, what will it be ?\n(ii) What is meant by the \"Pearl Index\" ?\n(iii) Which contraceptive methods have lowest \"Pearl Index\" ?\n(iv) What are the criteria for an ideal contraceptive ?\n(c) A 50-year-old male presented with fluctuating jaundice and melaena for last 3 months. He is also giving history of itching and clay coloured stools.\n(i) How will you investigate this patient ?\n(ii) What is the differential diagnoses in this case ?\n(iii) Write Courvoisier's law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 473,
+        "subtags": [
+          312,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 470,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

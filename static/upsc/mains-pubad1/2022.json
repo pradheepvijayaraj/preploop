@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2022_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Public Management takes 'what' and 'why' from Public Administration and 'how' from Business Management. Elaborate.\n(b) Every human organisation shall start from System-I and ultimately end up with System-IV. Comment on Likert's statement.\n(c) All tribunals are courts, but all courts are not tribunals. Explain.\n(d) Classical Organisation Theory formed the bedrock for the modern organisation theories. Analyse.\n(e) Interaction between the State and Civil society has hitherto been largely neglected, especially in developing countries. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          390,
+          395,
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) 'The administrative state is the creation of a power to bind us, with rules ... that are not made by legislature.' Discuss the constitutionality of the administrative state and its future.\n(b) Transformational leadership requires high degree of coordination, communication and cooperation. Explain.\n(c) Human relationists postulate that 'what is important to a worker and what influences his/her productivity level may not be the organisational chart but his or her associations with other workers'. Is it more relevant today?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 553,
+        "subtags": [
+          392,
+          393
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) Barnard posits the zone of indifference as the human condition that animates authority relationships and cooperation in modern organisations. Examine.\n(b) New public service celebrates what is distinctive, important and meaningful about public service. Discuss.\n(c) Strategic communication ought to be an agile management process. Discuss the conceptualization of strategic communication for the government actions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          10,
+          392
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) 'Leadership is seen as dealing with change, whereas administration is viewed as coping with complexity.' In this context, discuss the contextuality of leadership and administration for the success of organisations.\n(b) Regulatory governance frameworks have become essential building blocks of world society. Discuss their potential and impact in fulfilling the hopes and demands.\n(c) Social auditing is not just saving the money, it creates positive impact on governance. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          10,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Development Administration 'embraces the array of new functions assumed by the developing countries'. Explain.\n(b) Policy evaluation contributes fundamentally to sound public governance. Discuss.\n(c) Weber's construct of bureaucracy has served a great heuristic purpose in furthering research in the field of Comparative Public Administration. Do you agree with the statement? Give reasons.\n(d) Standards are the foundation which do not replace regulations but complement them. Comment.\n(e) 'Outcome budgeting addresses the weaknesses of performance budgeting.' Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          10,
+          396,
+          395,
+          400
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 558
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) 'The more exogenetic the process of diffraction, the more formalistic and heterogeneous its prismatic phase; the more endogenetic, the less formalistic and heterogeneous.' Examine this hypothesis of Riggs.\n(b) The environment and situational conditions under which the government operates have an important bearing on its human resource development practices. Examine.\n(c) 'Lindblom regarded rational decision-making as an unattainable goal.' In the light of the statement, suggest measures to avoid policy failures.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 554,
+        "subtags": [
+          397,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) The results of Washington Consensus were far from optimal for transitional economies. In this background, discuss the change of direction towards post-Washington Consensus.\n(b) A sound budgeting system is one which engenders trust among citizens that the government is listening to their concerns. Elaborate this in the context of budgetary governance.\n(c) Performance problems are rarely caused simply by lack of training and rarely can performance be improved by training alone. Critically analyse the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          400,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 558
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) The audit function has always been viewed as an integral part of government financial management. Discuss the significance of internal audit in improving the performance of the government sector.\n(b) Most civil service regimes still equate 'Public Sector Ethics' with anti-corruption efforts. Discuss the insufficiency of Ethics-code in this background.\n(c) Failure of public policies has often been attributed to problems of implementation, while implementors question the policy design. Discuss the contestation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          400
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 558
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    }
+  ]
+}

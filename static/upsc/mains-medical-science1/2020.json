@@ -1,0 +1,519 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2020_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Describe otic ganglion under following headings :\n(i) Location\n(ii) Roots\n(iii) Branches\n(iv) Role of its fibers in Frey's syndrome\n(b) With the help of a schematic diagram describe the process of excitation-contraction coupling in skeletal muscles. Add a note on Rigor mortis.\n(c) A 15 year old boy from city slum presented with complaints of low grade fever, vomiting and yellowish discoloration of eyes. The liver function test was done and the report is as follows :\nTotal Bilirubin = 7.5 mg/dl (0.1 - 1.2 mg/dl)\nDirect Bilirubin = 3 mg/dl (0.1 - 0.3 mg/dl)\nIndirect Bilirubin = 4.5 mg/dl (0.1 - 1.0 mg/dl)\nAlanine Transaminase (ALT) = 500 (< 35 IU/L)\nAspartate Transaminase (AST) = 300 (< 40 IU/L)\nAlkaline phosphatase (ALP) = 250 (40 - 130 IU/L)\n(i) Write the most likely diagnosis and justify it with the findings.\n(ii) Classify jaundice on the basis of aetiopathology and write their main biochemical findings.\n(d) (i) Describe the developmental causes of \"primum\" and \"secundum\" types of Atrial septal defects.\n(d) (ii)\n(a) Name the structures that constitute the placental membrane.\n(b) List the changes taking place in placental membrane in the later stages of pregnancy, which makes it more efficient.\n(e) Describe indirect inguinal hernia under the following headings :\n(i) Coverings and course of complete hernia\n(ii) Anatomical safety mechanism of inguinal canal\n(iii) Clinical features",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Describe the anatomy of the Mammary gland under the following headings :\n(i) Extent - vertical and horizontal\n(ii) Blood supply\n(iii) Anatomical basis of metastatic dissemination to abdomen and cranium\n(iv) Sentinel lymph node mapping method and its role in breast surgery.\n(b) (i) Give an account of the factors that affect the formation and maturation of erythrocytes.\n(b) (ii) Describe the hormonal regulation of the development of breast and lactation. Draw a schematic labelled diagram of the milk ejection reflex.\n(c) (i) Discuss the principle and the steps involved in Restriction Fragment Length Polymorphism (RFLP). Write any three applications of RFLP in clinical medicine.\n(c) (ii) Explain the role of vitamin-B3 (Niacin) in biochemical processes. Write a note on its three main deficiency manifestations and the line of management.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) With the help of a neatly-labelled diagram describe the cortico-spinal tract from its origin to termination. Add a note on Upper Motor Neuron paralysis.\n(a) (ii) Describe the pathophysiology and clinical features of Parkinson's disease. Give a brief account of the physiological basis of its treatment.\n(b) Define blood pressure and describe the Neuro-endocrine regulation of blood pressure with the help of flow charts.\n(c) Describe shoulder joint under the following headings :\n(i) Type and articulating surfaces\n(ii) Movements and muscles responsible for each\n(iii) Painful arc syndrome",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the synthesis and functions of Vitamin-D in the body. Write a note on the deficiency disorders along with relevant laboratory investigations and line of management.\n(a) (ii) Illustrate the structure of t-RNA with a suitable diagram and its role in protein synthesis.\n(b) (i) Describe the functional significance of atrio-ventricular nodal delay and add a note on Wolff-Parkinson-White syndrome.\n(b) (ii) Give an account of the synthesis, release, regulation and functions of the hormones of the posterior pituitary.\n(c) (i) Describe Erb's palsy under the following headings :\n(i) Causes\n(ii) Structures involved\n(iii) Attitude of limb\n(c) (ii) Describe the embryological basis of Horse-shoe kidney.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          299,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) Define cancer. Describe the four most important investigations for lab diagnosis of cancer.\n(b) A 20 year old man was admitted with fever, nausea, vomiting, headache, neck stiffness and confusion. CSF showed intracellular Gram negative diplococci. Write the most probable diagnosis in this case. Describe the processing of CSF sample to identify the aetiological agent.\n(c) Enumerate various oral antidiabetic drugs. Discuss the mechanism of action, therapeutic uses and adverse effects of Glibenclamide.\n(d) Define Diabetes mellitus. Describe the morphological changes that occur due to its complications in the following :\n• Vascular system\n• Kidney\n• Eye\n• Peripheral nerves\n(e) Classify burns and discuss its pathophysiology in detail. Discuss the injuries in the victims in a shopping mall fire and medicolegal formalities to be done by the district administration.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          303,
+          299,
+          305
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 463
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Define cirrhosis. Enumerate four common causes of cirrhosis.\n(a) (ii) Describe the aetiopathogenesis and morphological features (gross and microscopy) of Bronchogenic carcinoma.\n(b) Enumerate various non-selective cycloxygenase inhibitors. Discuss the mechanism of action, therapeutic uses and adverse effects of Aspirin.\n(c) A 30 year old woman presented with step-ladder type fever for 7 days. On examination, there was relative bradycardia, rose-spot rashes and hepatosplenomegaly. She was managed with probable diagnosis of enteric fever. Give details of tests to confirm the diagnosis of enteric fever in this patient.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) What are 'rave parties' ? Discuss the magnitude of drug menace in younger generation in our country. What is NDPS Act ?\n(b) What are the ABO and Rh blood group systems ? Discuss the various tests for blood and seminal stains in a rape victim.\n(c) (i) Discuss the general toxicities of anticancer drugs.\n(c) (ii) Discuss the therapeutic uses and adverse effects of clonidine.\n(c) (iii) Discuss the management of acute myocardial infarction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 461,
+        "subtags": [
+          304
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 462
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the laboratory diagnosis of intestinal amoebiasis. Enumerate the differences between amoebic and bacillary dysentery.\n(a) (ii) Describe the laboratory diagnosis of cryptococcal meningitis.\n(a) (iii) Discuss the tests you would perform for the diagnosis of HIV in the window period.\n(b) Write the clinical features and lab diagnosis of chronic myeloid leukaemia.\n(c) Discuss the mechanism of action and the therapeutic uses of :\n(i) Itraconazole\n(ii) Mefloquin",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

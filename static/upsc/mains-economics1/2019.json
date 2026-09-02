@@ -1,0 +1,385 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2019_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Under competition, the cost function is given as C(y) = y^2 + 1, where y is output. Derive the inverse supply curve and show how the supply curve looks like.\n(b) What determines the degree of price discrimination under monopoly market?\n(c) How does 'carbon trading' help in reducing environment degradation?\n(d) How is Human Development Index calculated by UNDP? Can there be a better method of assigning weights to various indicators?\n(e) Show that in a simple Keynesian model, equal expansion in tax and government expenditure does not always lead to balanced budget theorem.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          142,
+          141,
+          140
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 298
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 297
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) 'Tragedy of the commons' leads to over-exploitation of resources. Analyze.\n(b) The following data are given for an economy :\nConsumption function, C = 250 + 0.5 (Y - T) - 500r\nInvestment function, I = 250 - 500r\nReal money demand function, L / P = 0.5Y - 500r\nNominal money supply, M = 7650\nPrice level, P = 17\nTax = T = Government expenditure = G = 200\nHere Y = Real income, r = Real rate of interest, L = Nominal money demand, P = Price level.\n(i) Find the equations for IS and LM curves, and solve for Y and r.\n(ii) Find out the multiplier formula for money supply change and then calculate the change in output if money supply changes by 510.\n(c) How can controls on foreign trade contribute to the development of developing countries?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          142,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 7.0
+            },
+            {
+              "label": "ii",
+              "marks": 8.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) The role of income and substitution effect is crucial in producing backward bending labour supply curve when a tax is imposed on wages. Do you agree?\n(b) In case of perfect capital mobility, explain the difference of the impact of an increase in money supply on GDP under two alternative exchange rate regimes—one fixed and the other flexible.\n(c) Reflect on the inefficiency and socially undesirable aspects of monopolistic competition market situation vis-à-vis the perfect competition, both in the short and in the long run.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) What is the follower's problem in a duopoly model and how does it differ from the leader's problem?\n(b) Can public-private partnership function effectively in the area of physical infrastructure?\n(c) What are the features based on which the new trade theories are built that are distinctly different from the old theories?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          16,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain how money multiplier will be affected if there happens to be partial hoarding by public in each round as well as excess cash reserve holding by banks over the minimum required.\n(b) In what sense is Friedman's quantity theory said to be a 'restatement' of Fisher's theory? Explain.\n(c) What criteria will have to be satisfied to obtain a Pareto efficient allocation?\n(d) Automatic stabilizers are supposed to mitigate cyclical fluctuations, but there exist limitations which dampen the effect of these stabilizers. Analyze.\n(e) What are the obstacles to international macro-economic policy coordination? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 46,
+        "subtags": [
+          139,
+          16,
+          137
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 294
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 46
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) How is the Marshallian equilibrium different from Walrasian equilibrium?\n(b) Discuss the essential features of the growth models which incorporate research and development.\n(c) In the contemporary world, many countries are not following Kuznets' pattern of structural change. Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 33,
+        "subtags": [
+          16,
+          14
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) In what way does the concept of a positive optimal tariff apply to only large countries and not to small countries? Explain.\n(b) Keynesian demand for money is one of the key concepts of Keynesian theory of unemployment. Illustrate.\n(c) Can multinational investment defeat the objective of inclusive growth? Give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          23,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) What makes monetary policy ineffective even in the short run? Explain.\n(b) Trade can be growth-promoting or growth-inhibiting. Argue in terms of the established theories.\n(c) What are the causes of market failure in agriculture? How may government intervention mitigate this?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          139,
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    }
+  ]
+}

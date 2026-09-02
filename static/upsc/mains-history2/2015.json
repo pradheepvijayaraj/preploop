@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2015_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each :\n(a) \"Annexation of Punjab was part of a broad north-west frontier policy set in motion after the exit of Maharaja Ranjit Singh.\"\n(b) \"The Regulating Act (1773), the Pitt's India Act (1784) and eventually the Charter Act of 1833 left the East India Company as a mere shadow of its earlier political and economic power in India.\"\n(c) \"The Indigo Revolt of 1859-60 holds a very significant place in our history of national liberation movement. For the first time in the history of our anti-colonial struggle, its two independent currents—spontaneous peasant resistance and constitutional agitation in defence of the peasantry—came into mutual contact.\"\n(d) \"The very idea of the bomb and the secret society, and of propaganda through action and sacrifice were imports from the West.\"\n(e) \"This retention of Rowlatt legislation in the teeth of universal opposition is an affront to the nation. Its repeal is necessary to appease national honour.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 354,
+        "subtags": [
+          193,
+          195,
+          206,
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 354
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Swami Dayananda's philosophy represents both elements of extremism and social radicalism.\" Substantiate.\n(b) \"To characterize the Quit India Movement as 'Spontaneous Revolution' would be partial interpretation, so also would be to look up at it as the culmination of Gandhian Satyagraha movements.\" Elucidate.\n(c) \"A powerful left-wing group developed in India in the late 1920s and 1930s, contributing to the radicalization of national movement.\" Critically examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 356,
+        "subtags": [
+          199,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 356
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 357
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Under the forceful thrust of British colonialism, Indian economy was transformed into a colonial one, the structure of which was determined by the requirements of Britain's fast developing industrial economy.\" Examine.\n(b) \"James Mill, the apostle of utilitarian philosophy, proposed a revolution of Indian society through the 'weapon of law' solely. But in actual policy framing, other influences and considerations weighed much more than the colonial State.\" Elucidate.\n(c) \"The Royal Indian Navy Revolt was seen as an event which marked the end of the British rule almost as finally as Independence Day.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          206,
+          193
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) Analyze the nature of peasant movements during the nationalist phase and bring out their shortcomings.\n(b) \"Jawaharlal Nehru, though a declared socialist, was pragmatist enough to focus on providing building blocks to the making of a new India.\" Examine.\n(c) \"Although the Government of India Act of 1935 replaced dyarchy with Provincial Autonomy, the overriding powers of the Governor diluted the spirit of autonomy.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 353,
+        "subtags": [
+          197,
+          200
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"France was even more fertile than Britain in producing new socialist theories and movements, though bore less concrete results in France than Britain.\"\n(b) \"The multiple contradictions that quickly undermined the new edifice, had been expressed even before the meeting of the Estates General in France. The internal conflict among Estates had manifested itself.\"\n(c) \"The whole episode that is known as the July Revolution (1830) was fought and won not for the establishment of an extreme democracy but to get rid of the aristocratic and clericalist attitude of the restored Bourbons.\"\n(d) \"Mazzini's conception of Italian nationality was not exclusive and his dominant ideal was the recreation of moral unity of mankind.\"\n(e) \"The Continental Blockade was a misconceived idea of economically defeating Great Britain.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 359,
+        "subtags": [
+          192,
+          206,
+          0,
+          193
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The Berlin Congress (1878) failed to unlock the Eastern Question. Though there was no major war in Europe for nearly three decades after the Treaty of Berlin, it contained the seeds of many future wars.\" Critically evaluate.\n(b) \"History of Africa appears to be simply an extension or mere sub-theme under the broad headings of European and American history. According to this historiography, Africa seems to be without any history before the European scramble.\" Elucidate.\n(c) \"The Truman Doctrine and the Marshall Plan were considered by the Russian Bloc as a weapon against Russia in order to restrict her influence.\" Critically examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          208,
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 366
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) How far is it correct to say that the First World War was fought essentially for the preservation of the balance of power?\n(b) \"The failure of Kuomintang against the communist onslaught was unimaginable and it was Mao Tse-tung whose tenacity and innovative approach had accomplished the unthinkable.\" Discuss.\n(c) \"The oppressive exploitation of the working class in the wake of Industrial Revolution had jolted the social conscience of England.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          210,
+          42
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 135
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The UNO was created in the light of experience of the 'League of Nations', but in spite of the mandate contained in the UNO constitution, its effective role in maintaining world peace has lacked cohesiveness and collective approach.\" Examine.\n(b) \"The European Union, a diplomatic marvel, continues to grapple with intermittent fissures arising out of economic contentious issues that pose a challenge to an effective integration of the Union.\" Critically examine.\n(c) \"The role of the Non-Alignment Movement in world affairs has suffered greatly due to the theatre of internecine conflicts among the Third World countries who spearheaded it.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          209,
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 367
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        }
+      ]
+    }
+  ]
+}

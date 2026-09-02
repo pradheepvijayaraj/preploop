@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2019_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with legal provisions and judicial pronouncements:\n(a) Even without mens rea there are certain acts, which are offences under the Indian Penal Code, 1860. Enumerate such offences.\n(b) Right to private defence under the Indian Penal Code, 1860 is available only to an innocent person. It is not a right to retribution. Analyze.\n(c) \"Act done by me against my will, is not my act.\" Examine in the light of legal provisions of the Indian Penal Code, 1860.\n(d) \" 'Pigeonhole theory' in the law of tort holds no justification now.\" Critically examine.\n(e) \"E-commerce has adversely affected the consumer protection in India.\" Elucidate the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 403,
+        "subtags": [
+          248,
+          254,
+          261,
+          266
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 403
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 406
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 412
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 424
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Any interference with a plaintiff's property may cause personal discomfort to the plaintiff in enjoyment of the property.\" Critically examine the statement with the help of decided cases.\n(b) \"Recent judicial decisions of the courts have changed the spirit of Section 498 A of the Indian Penal Code, 1860.\" Explain the statement with the help of judicial pronouncements.\n(c) \"Every culpable homicide and murder is necessarily a hurt, but every hurt is not necessarily a culpable homicide and murder.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 420,
+        "subtags": [
+          255,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 420
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) A attempts to steal some jewels by breaking open a box belonging to B and finds, thereafter so opening the box, that there is no jewel in it, but A simultaneously puts ₹ 100 currency note in the box, which was already stolen by A from C. Decide as to what offence(s) is/are committed by A.\n(b) The basic spirit of the Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989, which was diluted by the judiciary in Kashinath Mahajan's case, has been restored by the legislature recently. Examine critically.\n(c) \"Ascertainment of causation is a problem, when the events causing damage to plaintiff are not simultaneous but successive.\" Elaborate it with the help of decided cases under the law of tort.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 413,
+        "subtags": [
+          258,
+          261
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 416
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 419
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"A goldsmith putting earring to woman's ear does not require as much care as a surgeon performing surgery on the ear of woman.\" Elaborate the law relating to degree of care required under the law of tort.\n(b) Mere physical boundaries are not the essential requirement to constitute the tort of 'false imprisonment', but psychological boundaries too are enough in this regard. Critically examine.\n(c) \"Imputation of unchastity against a woman by spoken words is a wrong actionable without proof of special damage.\" Examine under the law of tort.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 419,
+        "subtags": [
+          248
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 406
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 419
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with relevant legal provisions and decided cases:\n(a) \"The law of contracts is not the whole law of agreements, nor it is the whole law of obligations, but it also deals with the rights and obligations of both.\" Elucidate.\n(b) \"The dissolution of partnership is the dissolution of a partnership firm, but the dissolution of a partnership firm is not the dissolution of partnership.\" Elucidate with the help of legal provisions and cases.\n(c) \"Public interest litigation is not the pill of all ills, it is the boon of the courts. However it is also the duty of the court to prevent its misuse.\" Elucidate.\n(d) \"Contract of agency is revocable like an ordinary contract, but sometimes it is impossible to repudiate it.\" Analyze with the help of decided cases and relevant provisions.\n(e) \"Pragmatic regime of right to information for citizens is the key to good governance in India, but it is not being implemented in its original spirit.\" Examine it in the light of decision of the Supreme Court of India in Anjali Bhardwaj vs. Union of India, February 2019.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          273,
+          277,
+          271,
+          71
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 431
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 435
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 429
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 227
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Discharge of a contract includes breach of contract, but breach of a contract does not necessarily include discharge of contract.\" Examine the statement with suitable illustrations.\n(b) \"The National Green Tribunal, which was established for effective and expeditious disposal of cases relating to environmental protection and conservation of forests and other natural resources, has played a pivotal role in the recent past in this regard.\" Examine the statement with reference to pronouncements given by the National Green Tribunal.\n(c) Ascertainment of jurisdiction is a big challenge under the cyber law. Elaborate the relevant legal provisions of the Information Technology Act along with various tests applied by the Indian courts.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 436,
+        "subtags": [
+          267,
+          30
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 71
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 436
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The principle of unjust enrichment finds place indirectly under the law of contract.\" Explain its various dimensions.\n(b) \"Alternative dispute resolution mechanism as provided under the Legal Services Authorities Act, 1987 has played a pivotal role in dispensation of justice to the needy persons.\" Explain with the help of legal provisions and case law.\n(c) \"Parties to the contract of sale may reduce or enhance the risk relating to passing of property.\" Elucidate its various dimensions under the law of sale of goods.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 430,
+        "subtags": [
+          267,
+          280
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 438
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 430
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"In the present time, there is a conflict between the right to access to knowledge and the copyright law.\" Explain the statement in the light of doctrine of fair dealing under the copyright law.\n(b) \"Approximate justice with finality by the way of arbitration is against the basic principle of administration of justice in the courts.\" Examine the statement in the light of latest developments of alternative dispute resolution system in India.\n(c) \"The basic purpose of competition policy and the law is to preserve and promote competition as a means of ensuring efficient allocation of resources in an economy.\" Elucidate the statement in the light of new economic scenario in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 437,
+        "subtags": [
+          59,
+          275
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 200
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 433
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 437
+        }
+      ]
+    }
+  ]
+}

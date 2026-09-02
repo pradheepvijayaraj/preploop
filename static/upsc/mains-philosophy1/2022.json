@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2022_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "(a) How does Plato use the theory of forms to establish the relation between epistemology and metaphysics? Discuss.\n(b) What is Bertrand Russell's method of logical analysis? How does it ultimately end in establishing atomic theory of meaning? Discuss.\n(c) Establish the tenability of later Wittgenstein's motion of language as form of life.\n(d) What is psychologism? Critically discuss the way Edmund Husserl avoids the problem of psychologism in the discourse of transcendental phenomenology.\n(e) What is apperception, according to Immanuel Kant? Discuss with reference to his transcendental exposition of space and time.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          323,
+          325,
+          326,
+          321
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 483
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 479
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) Provide a critical account of Heidegger's Being-in-the-world and discuss the problem of 'authenticity' in the context of Dasein.\n(b) Is Aristotle's view of nature of identity in consonance with his metaphysical view of causes as processes? Discuss giving suitable examples.\n(c) Discuss the concept of substance according to Spinoza. Does his discussion on substance lead to pantheism? Substantiate your view.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 485,
+        "subtags": [
+          318,
+          319
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) How does Kant construct antinomies to illustrate the illusory tendencies of pure reason? Explain and examine the antinomies presented by Kant.\n(b) What is the dialectical method in the philosophy of Georg Wilhelm Hegel? How does this method help in realizing the Absolute? Discuss.\n(c) Is there any difference between pictorial form and logical form in Ludwig Wittgenstein's picture theory of language? How does the logical form define the relation between language and reality? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 479,
+        "subtags": [
+          322,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 479
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) How does Soren Kierkegaard define the notion of 'subjectivity'? Explain it with reference to three stages of existence as propounded by him.\n(b) How does Rene Descartes explain the notion of certainty with reference to knowledge of the self? Critically discuss the way it differs from the knowledge of the world.\n(c) Why and how does John Locke refute the innate ideas? Elucidate the nature and source of knowledge in Locke's epistemology.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 485,
+        "subtags": [
+          319,
+          320
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 478
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "(a) Examine and evaluate the proofs given by Sāmkhya philosophy to prove the existence of Puruṣa.\n(b) What is the ontological status of Sāmānya, according to Vaiseṣika Philosophy? Critically examine.\n(c) Discuss the nature and different stages of Samādhi as per Pātañjala yoga and examine the role of Īśvara in it.\n(d) How does Jaina view of Karma bear upon their soteriology? Critically discuss.\n(e) Do you agree with the view that 'Vivartavāda is the logical development of Pariṇāmavāda'? Give reasons in support of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          334,
+          335,
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) How compatible is Buddhist theory of momentariness with their theory of Karma? In this regard how do Buddhists respond to objections raised by their opponents? Critically discuss.\n(b) 'The doctrine of 'Relativism' of Jain Philosophy cannot be logically sustained without postulating 'Absolutism'.' Critically examine this view and give reasons in the favour of your answer.\n(c) How do Mīmāṃsakas refute the Nyāya view that Implication (arthāpatti) is reducible to Inference (anumāna) and establish Implication as an independent means of valid knowledge (pramāṇa)? Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 490,
+        "subtags": [
+          331,
+          336
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 494
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) Inspite of accepting the intrinsic validity of knowledge, why and how Prabhākar and Kumārila differ in their interpretation of erroneous cognition? Discuss.\n(b) Explain Buddhist concept of Tṛratna and their internal relation. Critically examine the consistency of Tṛratnas with the Buddhist concept of No-soul (Nairātmyavāda).\n(c) How do Naiyāyikas respond to Cārvāka's objections against inference (anumāna) and establish inference as an independent means of knowledge? Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          332,
+          333
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) 'Brahma satyam jaganmithyā, jīvo Brahmaiva nāparah'. In the light of this statement explain the ontological status of Īśvara, Jīva and Sākṣī as elucidated in Advaita Vedānta.\n(b) Explain and evaluate the role of integral yoga in the process of triple transformation for individual evolution as expounded by Sri Aurobindo.\n(c) How does the concept of Liberation (Mokṣa) of Madhvācārya differ from that of Rāmānujācārya? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          335,
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        }
+      ]
+    }
+  ]
+}

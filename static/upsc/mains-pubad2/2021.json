@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2021_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) The Preamble to the Constitution of India provides a foundational framework of ideals and values for the Indian administration. Discuss.\n(b) Examine the extent to which the ideal of Constitutionalism as 'government by limited powers' has been a functional reality in India.\n(c) Red-tapism is a major obstacle to the implementation of 'good governance'. Comment.\n(d) The role and status of the Speaker in parliamentary system have their foundation in the Speaker's stance on neutrality. Comment:\n(e) The Union government develops and practices strategies to administer increasing number of existing local government services by sidelining local initiatives and discretion. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          408,
+          12,
+          404
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) Kautilya envisages protection, welfare and prosperity of the State and its people as the utmost concern of a ruler. In this context, discuss the significance of Kautilya's emphasis on governing, accountability and justice in contemporary India.\n(b) District Collector is the most important functionary in district administration in India. In light of the above statement, discuss the multidimensional responsibilities of District Collector in effecting coordinated developmental administration in India.\n(c) The role of the Governor is of a sagacious counsellor, mediator and arbitrator rather than that of an active politician. In this context, examine the role of the Governor in state politics in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 559,
+        "subtags": [
+          406,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) Recruitment is the cornerstone of the whole public personnel structure and it revolves around the problem of attracting the best. Discuss the essential elements of a good recruitment system.\n(b) Traditionally structured administrative systems have outlived their utility. Discuss as how administrative reforms can revamp, restructure and redesign the existing governmental structure to meet the new challenges faced by the Indian administrative set-up.\n(c) The government policy of large scale privatization of the key sectors of economy may affect India's economic health. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          408,
+          403
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) As a constitutionally mandated body the Finance Commission stands at the centre of fiscal federalism. Evaluate the role of Finance Commission in ensuring just and equitable resource sharing among the states and the union.\n(b) Recent market approaches to public services present serious challenges to traditional and state-sponsored public service values. Evaluate the statement in the context of Indian administration.\n(c) The increasing criminalization of politics is a major threat to the basic fabric of Indian democracy. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 570,
+        "subtags": [
+          405,
+          402
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) No rural development strategy can succeed unless it is complemented by appropriate Panchayati Raj Institutions. Examine the statement.\n(b) NITI Aayog has been constituted to implement the goal of co-operative federalism. Discuss.\n(c) Responsibility and accountability are two major goals of Good Governance. Discuss the statement in the context of Indian administration.\n(d) The Prime Minister's Office has become a powerful institution in itself by virtue of its role in decision-making on strategic issues of utmost importance. Examine the statement.\n(e) Well planned and goal oriented training programmes are the backbone of the civil service system in India. Examine the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          414,
+          405,
+          404,
+          12
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) Budget proposals in the Parliament / State Legislatures fail to ensure their effective scrutiny. Identify the factors which constrain effective scrutiny of the budget proposals.\n(b) 73rd and 74th Constitutional Amendment Acts aimed at making the third tier of government more powerful and effective for democratic decentralization. Critically examine the extent to which this goal has been transformed into reality.\n(c) National Human Rights Commission is handicapped by its jurisdictional limitations of not being able to investigate the cases of violation of human rights by the armed forces. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 565,
+        "subtags": [
+          402,
+          413
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 571
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) Contemporary urbanism advocates the integration of diverse modes of urban planning and management concerns. Discuss the above statement in light of urban development in India.\n(b) Rural development programmes are designed to facilitate multifaceted growth of rural poor. Evaluate the role of some key rural development programmes in India in this context.\n(c) Police-public relations in India need to be improved. Suggest measures to strengthen relations between police and public.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 567,
+        "subtags": [
+          128,
+          410
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) In past two decades India's public policy on Disaster Management has shifted its focus from rescue, relief and rehabilitation efforts to holistic management of disaster. Analyse.\n(b) The institutional legacy of 'well-entrenched state' affected the post-reforms promises in India. Explain the statement in the light of economic reforms in India.\n(c) Do you agree with the view that the civil service in India is losing its neutral and anonymous character? Argue your case.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 573,
+        "subtags": [
+          408,
+          12
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 573
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2025_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in 150 words each :\n(a) Mendelian and non-Mendelian traits.\n(b) Theoretical significance of Purum kinship-system.\n(c) Osteodontokeratik culture and its makers.\n(d) Smell as a signal among non-human primates.\n(e) Culture and embodiment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          97,
+          89,
+          82
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 254
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 239
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the Miocene hominoid remains and their significance in evolution.\n(b) Compare and contrast the symbolic approaches of Clifford Geertz and Victor Turner to understand culture.\n(c) How political economy is integrated with ecological and adaptability perspectives in bio-cultural anthropology ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 240,
+        "subtags": [
+          86,
+          101
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 240
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 258
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) How anthropologists assess the nutritional status of a community ? Discuss the significance of intersectionality of ecology, culture, and social inequality in the study of nutritional anthropology.\n(b) Critically examine the drawbacks in assuming culture as an ‘integrated-closed’ system in understanding of contemporary society.\n(c) Differentiate between pedigree and genealogical analyses. Discuss the history and application of these methods in anthropological studies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          93
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Anthropology provides a multidimensional understanding of human beings by bridging the gap between science and humanities. Elucidate.\n(b) Write a note on Mousterian tool tradition, Mousterian culture and its makers.\n(c) Critically examine James Frazer’s theory of evolutionism. Elucidate the place of religion in modernity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 234,
+        "subtags": [
+          86,
+          93
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 234
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Multispecies, Multi-sited and Critical Ethnography.\n(b) Evolutionary significance of menopause.\n(c) Fission track dating method and its applications.\n(d) Mitochondrial DNA and human evolution.\n(e) Foetal origin of adult diseases and contribution of David Barker.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 76,
+        "subtags": [
+          95,
+          85,
+          104
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 252
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 261
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) What are genetic markers ? Discuss their applications in understanding population variation, disease association and forensics.\n(b) “The agenda of biological anthropology became more scientific from the middle of the twentieth century.” Justify.\n(c) Describe briefly the theoretical perspectives in linguistic anthropology to explain the relationship of culture, language and thought.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 255,
+        "subtags": [
+          79,
+          81
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 255
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 236
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 238
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) How the study of variation in forms of marriage led to rethinking on the concepts of social reproduction, kinship and family ?\n(b) What are the major theories proposed in support of the origin of food production ? How the change in subsistence economy brought revolution during this period ?\n(c) Critically discuss the centrality of the African continent in the narrative of human evolution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          90,
+          31
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 247
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) How the theories of postmodernism are relevant in promoting social justice and empowerment of marginalised communities ?\n(b) ‘Genome-wide Disease Association Studies (GWAS) advanced our understanding of health and disease.’ Discuss.\n(c) Examine the utility of human remains in forensic analysis. Discuss the facial reconstruction technique.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 250,
+        "subtags": [
+          97,
+          106
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 254
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 263
+        }
+      ]
+    }
+  ]
+}

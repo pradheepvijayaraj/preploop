@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2015_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n\n(a) How did railways contribute to India's economic development in the pre-independence era ?\n\n(b) What was the impact of policy reservation in favour of small scale industries in India during the post-independence but pre-liberalisation era ?\n\n(c) What specific trade policies during the British period led to the decline of Indian industry ? Explain.\n\n(d) Do you think that full convertibility of rupee on capital account will help in accelerating India's economic growth ? Give reasons.\n\n(e) Why did the socialist order fail and the country had to resort to the market economy system ? Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 306,
+        "subtags": [
+          143,
+          58,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 306
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Do you think that pursuit of wage-goods model could have been more appropriate for post-independence strategy of development ? Give reasons.\n\n(b) Explain the major factors that affected the growth rate of the economy in post-independence India till 1991.\n\n(c) During the British Rule, India was rooted with seeds of modernisation, but the country remained underdeveloped. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 40,
+        "subtags": [
+          24,
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) How does population growth affect economic development of a country ? Can the age structure of population alter the pattern of development in a country ? Examine in the light of the Indian experience.\n\n(b) What are the different types of agricultural subsidies that are given to the farmers in India ? How can these be rationalised ?\n\n(c) The 'dichotomy of development' in India emerged owing to 'governance deficit' and 'crony capitalism'. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 302,
+        "subtags": [
+          147,
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) It is often said that the prime generator of economic growth in India in the post-liberalisation period has been the service sector. Do you agree with this view ? What has been its implication on the balance of payments in India ?\n\n(b) High Minimum Support Prices (MSP) induce distortions, some of which ultimately hurt the poor. Examine its merits and demerits.\n\n(c) Market economy excludes poor from the consumer as well as employment market. Discuss how one can safeguard the interests of population below poverty line.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          149,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n\n(a) Highlight the basic features of National Food Security Act (NFSA), 2013. Can it solve the problem of malnutrition in the country ? Discuss.\n\n(b) Discuss the recent initiatives for augmenting power generation in India.\n\n(c) What are the broad features of the proposed GST Model ?\n\n(d) What are the major factors behind accumulation of non-performing assets in the Indian banking sector in recent years ? Discuss.\n\n(e) 'Financial inclusion is one of the most essential components of inclusive growth.' Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          58,
+          17,
+          19,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) What is your opinion on the view that the economic reform process has largely bypassed agriculture ?\n\n(b) Non-banking financial institutions need to be effectively regulated and monitored in India. Can you suggest some measures in this direction ?\n\n(c) In the context of the information technology revolution, Digital India Programme, is a significant instrument of administrative reforms. Do you agree ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 305,
+        "subtags": [
+          144,
+          19
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Rural poverty continues to be a chronic problem in India, which cannot be taken care of by anti-poverty programmes but by creation of permanent productive assets. Discuss.\n\n(b) There is a need for an 'apex agency' to monitor and to regulate the entry and functioning of transnational corporations in the context of India's broader national interest. Give arguments in support of your answer.\n\n(c) Agro-based industries, especially food-processing units, can alter the fate of rural India. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          58,
+          147
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the recent policy initiatives for enhancing crude oil and natural gas production in India.\n\n(b) What are the main components of the National Manufacturing Policy, 2014 ? Discuss.\n\n(c) What are the major recommendations of the Fourteenth Finance Commission ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          17
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        }
+      ]
+    }
+  ]
+}

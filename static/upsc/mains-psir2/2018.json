@@ -1,0 +1,362 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2018_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Describe the changing nature of Comparative Politics. Briefly explain the Political Economy approach to the study of Comparative Politics.\n(b) Describe the changing nature of the State in the developing societies in the context of inclusive growth in the 21st century.\n(c) How big a role does identity play in determining political participation in the developing countries ? Discuss your answer with suitable illustrations.\n(d) Bring out the major differences between the Classical Realism of Hans Morgenthau and the Neorealism of Kenneth Waltz.\n(e) What, according to Joseph Nye, are the major sources of a country's soft power? Discuss its relevance in the contemporary world politics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          375,
+          376,
+          377,
+          386
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 533
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 544
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the significance of Non-Aligned Movement as a unique contribution of the Non-Western world to World Politics.\n(b) Discuss the consequences of Trump's \"America First\" and Xi's \"Chinese Dream\" on World Politics.\n(c) \"Some feel Multinational Corporations (MNCs) are a vital new road to economic growth, whereas others feel they perpetuate underdevelopment.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          383
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the relevance of UN Security Council Resolution 1325 on the security of women in conflict zones.\n(b) Would you agree that the on-going debates on international environmental politics continue to be marred by a new North-South ideological divide over historical responsibility and developmental model? Illustrate your answer with suitable examples.\n(c) \"Since its inception the South Asian Association for Regional Cooperation (SAARC) has failed to deliver on its promises.\" What initiatives should be taken to reinvigorate the organization?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 545,
+        "subtags": [
+          48,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the notion of \"Asian Values\" in the context of the on-going debates on human rights.\n(b) Discuss the implications of the Trump–Kim Singapore Summit on the prospects of denuclearisation of the Korean Peninsula.\n(c) Critically examine the Functionalist approach to the study of International Relations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 539,
+        "subtags": [
+          388,
+          377
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 539
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 535
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Do you agree with the view that the Indian Foreign Policy is increasingly being shaped by the Neoliberal outlook? Elaborate.\n(b) \"India is often said to have a rich strategic culture.\" Discuss.\n(c) Evaluate India's stand on the recent Rohingya refugee issue.\n(d) \"India's current foreign policy marks significant qualitative shifts from that of the previous regimes.\" Discuss.\n(e) Analyse the significance of India's Look East Policy in the light of concerns of the indigenous peoples of North-east India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          389,
+          387
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) India's coalitional diplomacy within the WTO has earned it wide appreciation. What accounts for the success of India's coalitional diplomacy?\n(b) \"India's capacity building programmes under the Indian Technical and Economic Cooperation (ITEC) has earned much goodwill for it in Africa.\" Discuss.\n(c) \"India's Research and Information System for Developing Countries\" (RIS) is a major initiative in the area of South-South Cooperation.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 543,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of the Indian Council for Cultural Relations (ICCR) in promoting India's soft power abroad.\n(b) Discuss the role of Indian diaspora in promoting Indo-US relations.\n(c) Discuss the various impediments in India's way to a permanent seat in the Security Council.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 544,
+        "subtags": [
+          384,
+          387
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) Do you think that India's capacity building role in Afghanistan has shrunk the strategic space for Pakistan there? Discuss.\n(b) Critically assess the evolving convergence of India and China in the areas of trade and environment.\n(c) Do you agree that the growing assertiveness of China is leading to multilayered Indo-Japan relations? Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 544,
+        "subtags": [
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    }
+  ]
+}

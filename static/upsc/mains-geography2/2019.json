@@ -1,0 +1,403 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2019_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry:\n(i) Lothal\n(ii) River Beas\n(iii) Chikhaldara\n(iv) Narora\n(v) Lengpui\n(vi) Kuldiha Wildlife Sanctuary\n(vii) Thenmala\n(viii) Anamudi\n(ix) Barren Island\n(x) Durgaduani creek\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Examine the major causes of ground water depletion in India.\n(c) Why is the Indian Monsoon erratic in nature ? Explain.\n(d) Explain the significance of dry farming in drought prone areas of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 318,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Correlate the agro-climatic zones with agro-ecological regions of India.\n(b) Critically analyse the role of multinational corporations in India's economic development with suitable examples.\n(c) Discuss how watershed management has become a tool in eradication of rural poverty in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          163,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the use of chemical fertilizers, pesticides and insecticides in agriculture and its impact on human health.\n(b) Examine ongoing space programmes of India and their implications for national security in future.\n(c) Discuss the rainfall pattern and correlate it with spatial distribution of natural vegetation in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          4,
+          155
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the political aspects of Himalaya. Explain how it has affected the geo-strategy, geo-politics and regional consciousness of Indian federalism.\n(b) Examine the development of information technology in India and its influence on work culture and society.\n(c) Explain the present status of age-structure and availability of workforce in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          164
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 321
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Present the salient features of West flowing rivers of India.\n(b) Discuss the problems of wildlife conservation and management in India.\n(c) Correlate the price of land, vertical growth of cities and the growth of slums in large cities of India.\n(d) Assess the importance of foot-loose industries in the development of backward regions in India.\n(e) Examine the problems of Glacial Lake Outburst Flood (GLOF) in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 312,
+        "subtags": [
+          4,
+          162,
+          163,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Intrabasins linkages of rivers are more feasible economically, socially and ecologically\". Discuss with suitable examples from India.\n(b) Provide a reasoned account on emerging conurbations in India and explain with suitable examples the problems associated with it.\n(c) Explain the relevance of green tourism for sustainable development of mountain environment in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Analyse the role of interstate migration in regional disparity in India.\n(b) Give a reasoned account of high level of pollution in North Indian cities as compared to South Indian cities.\n(c) Analyse the incentive oriented programmes for removing regional imbalances in socio-economic development of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) With special reference to India examine the changes in the nature and patterns of international trade. Mention the major influencing factors.\n(b) Describe the altitudinal and spatial geo-environmental hazards in the Himalayas.\n(c) \"India is emerging as global power in relation to Indian ocean realm.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 317,
+        "subtags": [
+          165,
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 317
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "name": "Mains History Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2025_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer Booklet. Locational hints for each of the places marked on the map are given below seriatim :\n\n![Map supplied with UPSC HISTORY1 2025](/upsc/assets/history1/history1_2025_q1_map.jpg)\n(i) Neolithic site\n(ii) Mesolithic site\n(iii) Paleolithic site\n(iv) Neolithic site with stone artefacts\n(v) Site of Indus Valley Civilization\n(vi) Early Harappan site with a fire-pit\n(vii) Late Harappan site\n(viii) The Ochre Coloured Pottery (OCP) site\n(ix) Mesolithic site\n(x) Megalithic site\n(xi) Mahajanapada of South India\n(xii) Site of Buddha’s Mahaparinirvana\n(xiii) Major Rock Edict of Asoka\n(xiv) Asokan Minor Rock Edict\n(xv) Commercial centre of the Mauryas\n(xvi) Saka-Kushan coin hoard\n(xvii) An inscription mentioning Ashvamedha Sacrifice\n(xviii) Site of Post-Mauryan period burnt brick house\n(xix) Terracotta craft centre of Post-Mauryan period\n(xx) Important port of the Pallava period",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 328,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "i",
+          "marks": 2.5
+        },
+        {
+          "label": "ii",
+          "marks": 2.5
+        },
+        {
+          "label": "iii",
+          "marks": 2.5
+        },
+        {
+          "label": "iv",
+          "marks": 2.5
+        },
+        {
+          "label": "v",
+          "marks": 2.5
+        },
+        {
+          "label": "vi",
+          "marks": 2.5
+        },
+        {
+          "label": "vii",
+          "marks": 2.5
+        },
+        {
+          "label": "viii",
+          "marks": 2.5
+        },
+        {
+          "label": "ix",
+          "marks": 2.5
+        },
+        {
+          "label": "x",
+          "marks": 2.5
+        },
+        {
+          "label": "xi",
+          "marks": 2.5
+        },
+        {
+          "label": "xii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiv",
+          "marks": 2.5
+        },
+        {
+          "label": "xv",
+          "marks": 2.5
+        },
+        {
+          "label": "xvi",
+          "marks": 2.5
+        },
+        {
+          "label": "xvii",
+          "marks": 2.5
+        },
+        {
+          "label": "xviii",
+          "marks": 2.5
+        },
+        {
+          "label": "xix",
+          "marks": 2.5
+        },
+        {
+          "label": "xx",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) “The Chalcolithic people were experts in microliths and were also skilful workers in stone.” Elucidate.\n(b) “The Harappans were not an artistic people.” Comment.\n(c) “The ideological challenge posed by Jainism and Buddhism was deeply rooted in the socio-economic transformations brought about by the expansion of agrarian settlements in eastern India.” Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 330,
+        "subtags": [
+          171,
+          170
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 328
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 327
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 330
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history1_q3",
+      "type": "fill-blank",
+      "question": "(a) “The origin of the territorial republics has been traced to the reaction against the pattern of life that evolved in the later Vedic period.” Analyse.\n(b) How far did the Mauryans facilitate the diffusion of the material culture of the Gangetic plains ? Explain.\n(c) Examine the nature and impact of India’s contacts with Central Asia during the 1st to 3rd century CE. How did these interactions influence India’s political, cultural and economic spheres ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 336,
+        "subtags": [
+          172,
+          174
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 329
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 331
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 336
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history1_q4",
+      "type": "fill-blank",
+      "question": "(a) “The dynamics of social mobility in early medieval India were shaped by a complex interplay of caste hierarchies, religious legitimation, economic transformation and political patronage.” Critically assess how these factors collectively reconfigured the structure of early medieval Indian society.\n(b) Discuss the circumstances which led to the conflict between the Pallavas and the Chalukyas and mention how this rivalry shaped the power dynamics in South India.\n(c) Critically evaluate the major stages in the development of art and literature in early medieval India and explain how these stages reflected the broader changes in society and patterns of patronage during the period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 336,
+        "subtags": [
+          176
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 333
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 336
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) “Religious themes inspired a large section of literature in provincial languages in late medieval India.” Comment.\n(b) “Alauddin Khilji’s economic measures aimed at centralising political authority in the Delhi Sultanate.” Elucidate.\n(c) Critically assess the role of imperial Karkhanas in Mughal India. How did they reflect the ideological and functional imperatives of the Mughal State ?\n(d) “The principles of Sikhism represented a harmonious blend of Islamic and Indic religious beliefs and practices.” Comment.\n(e) Gunpowder changed the character of warfare in India during the Mughal era. Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 337,
+        "subtags": [
+          181,
+          188,
+          175,
+          191
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 337
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 338
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 345
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 332
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 348
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the structural features of Todar Mal’s revenue system and evaluate its effectiveness in standardized land revenue assessment in India.\n(b) Barani’s “Fatwa-i-Jahandari” was not a proper account of the Delhi Sultanate, rather a lament. Elucidate.\n(c) Discuss the development of Hindi literature under Mughal patronage. How did the Bhakti and Sufi Movements influence it ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 347,
+        "subtags": [
+          179,
+          181
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 338
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 347
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history1_q7",
+      "type": "fill-blank",
+      "question": "(a) Portuguese maritime power disrupted the character of trade in the Indian Ocean in the 16th century. Review.\n(b) Akbar’s Rajput policy was shaped by considerations of factional politics in the Mughal court. Discuss.\n(c) Evaluate the impact of Mughal revenue administration on the agrarian structure of North India. To what extent did it bring continuity and change in the rural socio-economic fabric ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 346,
+        "subtags": [
+          191,
+          187
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 348
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 344
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 346
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history1_q8",
+      "type": "fill-blank",
+      "question": "(a) “Aurangzeb’s religious policy was a reflection of the changed political realities of the Mughal Empire.” Elucidate.\n(b) Define the rise of distinct provincial architectural styles under the Mughal Empire in light of structural diversity, cultural interaction and the nature of provincial power dynamics.\n(c) Critically examine the political, military and administrative factors that led to the transformation of the Maratha character in the 18th century. How did these changes influence its rise and eventual decline ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 348,
+        "subtags": [
+          187,
+          186
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 344
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 343
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 348
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2024_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Briefly discuss Plato's concept of justice.\n(b) Present a brief account of origin and development of Social Contract Theory.\n(c) Discuss the main factors responsible for caste discrimination.\n(d) Present an exposition of the concept of alienation as propounded by Marx.\n(e) Compare socialism and communism as two distinct political ideologies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          348,
+          350,
+          339,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 506
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) Delineate the central tenets of Humanism. How does advent of enlightenment in Europe pave the way for Humanism ? Discuss.\n(b) Critically evaluate the concepts of liberty and equality as political ideals.\n(c) Present an exposition of Gandhi's views on secularism as one of the foundational principles of democracy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 503,
+        "subtags": [
+          341,
+          51
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 503
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 149
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Do you agree with the view that Aristotle was more successful than Plato in steering a middle course between 'Statism' and 'individualism'? Discuss with arguments.\n(b) On what grounds would you accept or reject the idea of capital punishment as an effective deterrent? Discuss.\n(c) Is economic development a necessary condition, sufficient condition, both or neither, in order to achieve social progress? Give reasons and justifications for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 503,
+        "subtags": [
+          246,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 503
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 506
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss gender equality as a necessary condition to achieve empowerment of women. Also examine the role of women empowerment in curbing the menace of female foeticide.\n(b) What insights does the Arthashastra offer with regard to the concept of sovereignty? Does it have any relevance in the modern times? Critically discuss.\n(c) Discuss the role of ethical principles of tolerance and coexistence for the rise of multicultural societies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 497,
+        "subtags": [
+          342,
+          346
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 504
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Can there be a religion without morality ? Discuss.\n(b) Write a note on the notion of absolute truth in the context of religion.\n(c) Discuss the concept of liberation (Apavarga) according to Nyāya-Vaiśeṣika.\n(d) Discuss the role of reason in religion.\n(e) Explain the analogical nature of religious language.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          354,
+          360
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 518
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Is it necessary to adhere to the notions of immortality of soul and rebirth in order to have a robust conception of liberation ? Give reasons and justifications for your answer.\n(b) How does the notion of God in Spinoza's philosophy embedded in his metaphysics of substance and attributes ? Critically discuss.\n(c) \"The problem of evil is a direct offshoot of how God is conceptualised in a system.\" Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 512,
+        "subtags": [
+          351,
+          353
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 511
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) State and evaluate Buddhism as a religion without God.\n(b) What kind of epistemic justifications are possible with regard to claims to revelation ? Discuss with your own comments.\n(c) Present an exposition of ontological proof for the existence of God along with its criticism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          355,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 513
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between cognitivist and non-cognitivist account of religious language. Does the cognitivist account lead to any contradiction? Answer with reference to the philosophical views of R. B. Braithwaite.\n(b) \"In order to be conceived as the ultimate cause of the world, God must necessarily have some form of physical manifestation.\" Do you agree with this view? Give reasons and justifications for your answer.\n(c) Discuss the main features of religious experience according to Advaita Vedanta.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 518,
+        "subtags": [
+          351,
+          356
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 514
+        }
+      ]
+    }
+  ]
+}

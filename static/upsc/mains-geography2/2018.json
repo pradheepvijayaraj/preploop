@@ -1,0 +1,397 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2018_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry:\n(i) Shyok River\n(ii) Mawlynnong\n(iii) Shravasti\n(iv) Kori Creek\n(v) Amarkantak\n(vi) Ghatshila\n(vii) Tawang\n(viii) Neyyar\n(ix) Dandeli\n(x) Mulshi Lake\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Explain the unusual intensity of dust storms and thunder storms across India in the pre-monsoon period of year 2018.\n(c) Why setting up of Water Management Boards is a controversial issue in India?\n(d) Keeping the recent developments in view, how can the energy crisis of India be circumvented by harnessing non-conventional energy resources?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 318,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0
+        },
+        {
+          "label": "c",
+          "marks": 10.0
+        },
+        {
+          "label": "d",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Distinguish the geographical aspects of North-Western lava plateau and Chotanagpur plateau of peninsular India.\n(b) Explain the contemporary agricultural scenario in the context of rapid urbanization in India.\n(c) Assess the suitability of Special Economic Zones (SEZs) for the sustainable economic development in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 312,
+        "subtags": [
+          156,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the ongoing process of agricultural diversification and its implications for food security in India.\n(b) Account for the persisting negative trade balance of India.\n(c) Critically assess the vanishing ethnic linguistic plurality of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          160,
+          161
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 317
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Examine the driving forces of changing urban morphology of million-plus cities of India with suitable examples.\n(b) Discuss the emerging geo-political scenario of Indian Ocean realm.\n(c) Give a critical account of region specific constraints of sustainable tourism in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          164,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 321
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the socio-economic problems associated with the left behind families of international migrants from India.\n(b) Explain the changing river courses and their impacts on the riparian population in India with suitable examples.\n(c) Make a critical appraisal of the factors affecting river water quality in India.\n(d) Examine the role of people's participation in successful decentralised planning in India.\n(e) Describe the socio-spatial consequences of the recent Nipah viral encephalitis in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          165,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Illustrate with suitable examples the endeavours undertaken in augmenting conservation of water and vegetation in India.\n(b) Discuss the strategies of integrated development of island territories in India.\n(c) Cross border terrorism has implications on border area development in India. Examine it with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          4
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain the pipeline network across India and its impact on regional development.\n(b) Discuss the changing composition of international trade through major seaports of India.\n(c) Peri-urbanization has created enormous environmental problems. Discuss their causes and consequences with reference to the National Capital Region (N.C.R.) of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          160,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 317
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the changing regional morphology of rural settlements in India.\n(b) Startups may play important role in giving fillip to economic growth in India. Illustrate with examples.\n(c) Is the land boundary of India with its neighbouring countries a cultural divide or divided culture? Explain with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          157,
+          161
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        }
+      ]
+    }
+  ]
+}

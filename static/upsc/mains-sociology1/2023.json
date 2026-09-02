@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2023_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) What is the distinctiveness of the feminist method of social research? Comment. (150 words)\n(b) Discuss the relationship between sociology and political science. (150 words)\n(c) How does the dramaturgical perspective enable our understanding of everyday life? (150 words)\n(d) Is reference group theory a universally applicable model? Elucidate. (150 words)\n(e) Do you think that the boundary line between ethnicity and race is blurred? Justify your answer. (150 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          423,
+          419,
+          417,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) What, according to Robert Michels, is the iron law of oligarchy? Do lions and foxes in Vilfredo Pareto's theory, essentially differ from each other? Substantia te.\n(b) What is historical materialism? Examine its relevance in understanding contemporary societies.\n(c) What are variables? How do they facilitate research?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 581,
+        "subtags": [
+          425,
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) What are the characteristics of scientific method? Do you think that scientific method in conducting sociological research is foolproof? Elaborate.\n(b) How do you assess the changing patterns in kinship relations in societies today?\n(c) Is Weber's idea of bureaucracy a product of the historical experiences of Europe? Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          89,
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Do you think that common sense is the starting point of social research? What are its advantages and limitations? Explain.\n(b) How is poverty a form of social exclusion? Illustrate in this connection the different dimensions of poverty and social exclusion.\n(c) Highlight the differences and similarities between totemism and animism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          420,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Examine the relevance of corporate social responsibility in a world marked by increasing environmental crises.\n(b) How is civil society useful in deepening the roots of democracy?\n(c) What functions does religion perform in a pluralistic society?\n(d) Analyze critically David Morgan's views on family practices.\n(e) Does women's education help to eradicate patriarchal discriminations? Reflect with illustrations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          425,
+          423,
+          424
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) What are the different dimensions of qualitative method? Do you think that qualitative method helps to gain a deeper sociological insight? Give reasons for your answer.\n(b) Explain Max Weber's theory of social stratification. How does Weber's idea of class differ from that of Marx?\n(c) What are the ethical issues that a researcher faces in making use of participant observation as a method of collecting data? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain how economic globalization has brought changes in the patterns of employment in the 21st century.\n(b) Do you think that the social media has brought significant changes in the forms of protest? Argue your case.\n(c) Assess critically A. G. Frank's 'theory of development of underdevelopment'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) What is Taylorism? Analyze its merits and demerits.\n(b) What are new religious movements? Elaborate emphasizing their forms and orientations.\n(c) Examine the role of science and technology in addressing age-old taboos and superstitions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          424,
+          417
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 575
+        }
+      ]
+    }
+  ]
+}

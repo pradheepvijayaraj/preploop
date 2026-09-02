@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2021_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Discuss critically the distributive theory of justice as propounded by R. Nozick.\n(b) How does Rousseau distinguish between natural and artificial inequality? Explain.\n(c) Is Austin's theory of sovereignty compatible with democracy? Discuss.\n(d) Does monarchy as a form of government leave room for individual freedom? Explain.\n(e) How far can land and property rights be effective in empowerment of women? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          339,
+          342,
+          344,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 502
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss whether Amartya Sen's idea of justice is an improvement upon Rawl's theory of justice.\n(b) Explain the reformative theory of punishment and discuss whether this is in tune with human dignity.\n(c) Can humanism be a substitute for religion? Explain and evaluate in the context of the present Indian society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          246,
+          345
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 503
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss anarchism as a political ideology. Is it possible to dispense with political authority completely? Give reasons for your answer.\n(b) Discuss the distinctive features of Gandhian Socialism and its contemporary relevance.\n(c) Discuss Kautilya's contribution regarding the concept of sovereignty. Is it applicable in a democratic form of government? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 117,
+        "subtags": [
+          342
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 500
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the views of Dr. B.R. Ambedkar regarding caste-discrimination in Indian society. What are the measures suggested by him for its elimination ? Explain.\n(b) What are the main causes of female foeticide in India ? Is it the result of demonic application of technology only ? Discuss.\n(c) Evaluate whether the social contract theory adequately addresses the different issues of human rights.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 508,
+        "subtags": [
+          349,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each (10x5=50 marks) :\n(a) Discuss the nature of God as propounded in Nyāya philosophy.\n(b) Discuss the possibility of Absolute Truth in the context of religious pluralism.\n(c) Is religious freedom possible in a multireligious society? Explain.\n(d) Is religious life possible without the belief in God? Discuss.\n(e) Discuss the paradox of omnipotence of God in the context of the existence of evil.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          359,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the concept of immortality of soul with special reference to Hindu tradition.\n(b) Elucidate the concept of liberation according to Advaita Vedānta. Explain the role of knowledge in the attainment of liberation.\n(c) Do you consider that religion and morality are inseparable ? Give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 512,
+        "subtags": [
+          358
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of reason and faith in religion. Can reason be a regulative force in the formulation of religious beliefs ? Explain.\n(b) Give a critical account of moral argument to prove the existence of God.\n(c) Explain the concept of religious experience in the light of Vedāntic tradition.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 513,
+        "subtags": [
+          352,
+          356
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 513
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 514
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) What is non-cognitive theory of religious language ? Explain critically in the light of R.B. Braithwaite's views.\n(b) Discuss and evaluate the doctrine of Karma as an essential postulate of Hinduism.\n(c) Explain the symbolic nature of religious language with special reference to Paul Tillich.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 518,
+        "subtags": [
+          359
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 518
+        }
+      ]
+    }
+  ]
+}

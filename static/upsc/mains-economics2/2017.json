@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2017_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Would you advocate that the income of rich farmers should be taxed in India ? Give reasons.\n(b) \"Subsidies are a source of inefficiency and corruption.\" Do you agree with the statement in the Indian context ? Justify your answer.\n(c) What caused the problem of non-performing assets of Indian commercial banks and what cures are being suggested to solve the problem ?\n(d) What were the considerations underlying the initiation of the railways and the road transport system in India in the 19th century ?\n(e) Write a brief note on the state of manufacturing in India in the 18th century and the subsequent de-industrialisation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 303,
+        "subtags": [
+          17,
+          19,
+          143,
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) What is drain theory ? How does it explain the backwardness of India in the 19th century ?\n(b) Do you think that the attitude of the British Government towards the Indian economy changed markedly at the turn of the 19th century ? Give specific instances supporting your argument.\n(c) What were the broad considerations underlying the different types of land settlements in India during the colonial rule ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) What is your assessment of the principal impact of the recent demonetization in India in the immediate and medium terms ?\n(b) India has a vast potential to reap a demographic dividend. Explain the point and discuss the necessary measures to realise it.\n(c) What is the broad trend of the manufacturing sector's relative share in GDP in India over the last four decades ? How do you view its performance and what actions does the government contemplate in this matter ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 302,
+        "subtags": [
+          149,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 302
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) India's economic growth is associated with rising inequality. How does it so happen and what actions need to be taken to mitigate the problem ?\n(b) Write a note on the broad trend of India's foreign trade and current account balance during roughly the last one decade.\n(c) Critically examine the Disinvestment Policy of the Government of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          148,
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Relative contribution of agriculture to the GDP of India has been going down steadily since Independence. Do you think this highlights a weakness of the economy ? Explain.\n(b) Explain the concept and the underlying rationale of 'Universal Basic Income'.\n(c) What role are MSMEs playing in India's economic growth ?\n(d) \"Though economic liberalisation in India in the mid 90s aimed at industrial growth, actually the services sector led the economy.\" Elucidate.\n(e) Do you think the recent appreciation of Indian currency is harming India's exports ? Can it have a beneficial side too ? Explain in brief.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 301,
+        "subtags": [
+          146,
+          145,
+          58,
+          149
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 306
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) The various anti-poverty programmes have not achieved the desired socio-economic progress in India. Write down the major programmes and your broad based assessment of their weaknesses.\n(b) What are the merits and demerits of the case of farmers' loan waiver in India ? Explain.\n(c) Even though India is self-sufficient in the production of foodgrains, Indian agriculture is faced with some major challenges. Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 301,
+        "subtags": [
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) What developmental role can FDI play in a backward economy ? What policy has India been following to attract FDI and what safeguards should the country adopt ?\n(b) Give a brief account of the evolution of the concept of economic planning in India after Independence.\n(c) Explain GST. Analyse how it is going to impact Indian business.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          15,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) The quality of employment, in general, in India is perceived to be alarming. How would you analyse the situation ?\n(b) Give a short analysis of the state of devolution of resources from the Centre to the States in India in the light of the idea of fiscal federalism.\n(c) How did per capita income in India behave since Independence ? Has it improved the well-being of the people uniformly ? Give specific reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 53,
+        "subtags": [
+          17,
+          146
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        }
+      ]
+    }
+  ]
+}

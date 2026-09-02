@@ -1,0 +1,378 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2018_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each :\n(a) Are the two truths—'The Sun will rise tomorrow' and '2+2=4' of the same necessity for Hume? Give reasons in favour of your answer.\n(b) Is there any place for freedom in Leibniz's philosophy, when he speaks of 'pre-established harmony'? Discuss.\n(c) How does the notion of 'family resemblance' help Wittgenstein to uphold that 'Language is a game'? Discuss.\n(d) How does Sartre connect inauthenticity with bad faith? Why does Sartre show that inauthenticity and bad faith lead to alienation? Discuss.\n(e) How does Strawson explain the concept of person in his philosophy? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          319,
+          325,
+          327,
+          329
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "b",
+          "marks": 10.0
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 483
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 487
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) What is the reason for the difference in the definitions and classifications of substances made by Descartes, Spinoza and Leibniz in spite of the fact that they all belonged to the rationalist school of thought? Discuss.\n(b) Explain the significance of the Kantian dictum, 'Understanding makes Nature'. How far do you agree that Hegel's Absolutism is the culmination of the Kantian Dualism? Discuss. Give reasons in favour of your answer.\n(c) How does Quine show that the notion of a priori knowledge as discussed by Kant is 'a metaphysical article of faith'? Give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 479,
+        "subtags": [
+          319
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 479
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 479
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) How does Berkeley establish that Mind and its ideas alone are real? How do Moore and Russell react to Berkeley's view in this regard? Do you find any difference between Moore's reaction and Russell's one? Discuss.\n(b) How do the logical positivists show that metaphysical sentences are meaningless? Can their verification theory of meaning account for the meaningfulness of all scientific sentences? Discuss.\n(c) How does Wittgenstein apply the distinction between 'saying' and 'showing' to point to a single way of apprehending the most decisive problems of philosophy? Is he justified? Give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          324,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) What is Epoché? How does Heidegger reject this method of phenomenological reduction? Explain Heidegger's concept of 'being in the world' as opposed to the concept of a transcendental ego.\n(b) Is the relation between the Idea and the World as discussed by Plato logically consistent? Discuss Aristotle's views regarding this and also give arguments in favour of your answer.\n(c) How is Russell's theory of definite description related to his Logical Atomism? Discuss and give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 485,
+        "subtags": [
+          318,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each: 10×5=50\n(a) How do the Vaiśeṣika philosophers explain the difference of the relationships in the two cases—(i) the brown colour of the table and (ii) the book on the table? Discuss.\n(b) How do the Mādhyamika Buddhists apply the notion of Pratītyasamutpāda to establish their doctrine of Śūnyatā? Discuss.\n(c) What is the difference between the indescribability (Anirvacanīyatā) of Brahman and the indescribability (Anirvacanīyatā) of Māyā in the Advaita Vedānta system? Discuss.\n(d) How do the Buddhists and the Nyāya philosophers explain our knowledge of 'the absence of the jar on the table'? Answer in detail.\n(e) Is Puruṣa one or many? Explain the Sāṃkhya position in this regard and give arguments in support of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          332,
+          337,
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491,
+          "subparts": [
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) How do the Naiyāyikas prove the existence of God? Do the Yoga philosophers prove God in the same way? If yes, how? And if no, why? Give reasons for your answer.\n(b) Is it consistent for the Buddhists to admit the theory of Nairātmyavāda and the doctrine of Nirvāṇa simultaneously? Give reasons in favour of your answer.\n(c) How do the Jaina philosophers explain 'bondage'? What, according to them, is the distinction between 'liberated soul' and 'bound soul'? What do the Jainas think about the condition of the 'liberated soul'? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 493,
+        "subtags": [
+          332,
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) Give a comparative exposition of the concept of Mokṣa as found in the systems of Viśiṣṭādvaita, Dvaita, Śuddhādvaita and Acintyabhedābheda.\n(b) How do the Advaita Vedāntins react to the Prakṛtipariṇāmavāda of the Sāṁkhya philosophy? How do the Sāṁkhyas defend their own position in this regard? Discuss.\n(c) How does Rāmānuja refute the doctrine of Māyā as propounded by Śankara? Why is Māyā needed by both Rāmānuja and Śankara to establish their doctrines? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 494
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) Does the admission of Svayamprākāśavāda necessarily lead to the admission of Svatahprāmāṇyavāda? Discuss after the Naiyāyikas, the Mīmāmsakas and the Advaita Vedāntins.\n(b) Is Cārvāka rejection of inference acceptable to the other systems of Indian philosophy? If not, why? Do you think the views of other systems to be justified? Give reasons for your answer.\n(c) What is Evolution according to Sri Aurobindo? Describe the process of triple transformation and the nature of gnostic being in his philosophy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          330,
+          338
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 488
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 496
+        }
+      ]
+    }
+  ]
+}

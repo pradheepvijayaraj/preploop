@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2016_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write on the following in about 150 words each :\n(a) Significance of Mesolithic findings from Belan Valley\n(b) Linguistic elements in Indian population\n(c) Relevance of caste in contemporary Indian politics\n(d) Impact of Jainism on Indian society\n(e) Ethno-archaeological evidences for the survival of hunting-gathering traditions in India",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 266,
+        "subtags": [
+          110,
+          45,
+          113,
+          108
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 266
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 267
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 270
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 265
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Write about the contribution made by Christoph von Fürer-Haimendorf to tribal anthropology in India.\n(b) Delineate the salient characteristics of 'Narmada Man' and examine its phylogenetic significance.\n(c) Discuss how cultural diversity of Indian tribes has enriched its plural traditions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 271,
+        "subtags": [
+          108,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the structural and cultural theories of caste system in India.\n(b) Give a critical assessment of 'Negrito Problem' in India.\n(c) Describe the traditional patterns of settlement of Indian villages.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          119,
+          115
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Give a detailed appraisal of skeletal remains from Chalcolithic culture of undivided Punjab.\n(b) How is process of tribe-caste continuum different from Sanskritization? Comment.\n(c) Compare the contribution of L. P. Vidyarthi and D. N. Majumdar to the study of Indian tribes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          45,
+          114
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write on the following in about 150 words each:\n(a) The role that regionalism plays in demand for autonomy among Indian tribes\n(b) Bio-genetic variability of Indian tribes\n(c) Impact of industrialization on scheduled tribe population of Jharkhand\n(d) Tribe as a colonial construct\n(e) Anthropological interpretation of ethnic and political movements",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 148,
+        "subtags": [
+          118,
+          125
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain Indian village as a social system with suitable examples.\n(b) Examine the nature of interplay of little and great traditions in the context of globalization.\n(c) Explain the difficulties experienced by scheduled tribes with regard to implementation of the 'Recognition of Forest Rights Act, 2006'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 268,
+        "subtags": [
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the factors responsible for the exploitation of scheduled castes in India.\n(b) Discuss the impact of Islam on scheduled tribes of India.\n(c) Describe how various tribal development programmes and plans have impacted the process of social transformation among tribes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          124,
+          127
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 281
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 284
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Write in detail various provisions provided by the Constitution of India for the scheduled tribes under Vth and VIth Schedules.\n(b) Critically examine the role of NGOs and missionaries in transformation of scheduled tribes in Central India.\n(c) Describe how anthropological knowledge and methods are useful in rural development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 278,
+        "subtags": [
+          122,
+          128
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 278
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    }
+  ]
+}

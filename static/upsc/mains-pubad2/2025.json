@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2025_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Arthashastra of Kautilya means the science of economics of livelihood of the people. Comment.\n(b) Trace the reasons for limited effectiveness of the NITI Aayog.\n(c) Highlight the constitutional provisions and judicial interventions to promote gender equality in India.\n(d) In contemporary times, the District Collector should prioritize teamwork over hierarchical structures. Comment.\n(e) Examine the significance of field organizations in enhancing policy implementation of projects like MGNREGA and Swachh Bharat Mission.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          408,
+          402,
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) “The colonial legacy is responsible for many administrative problems in independent India as the role of company agents and traders evolved into Magistrates, Governors and Civil Servants.” Analyze.\n(b) Despite the division of subjects, the Union Government contributes towards subjects in the State and Concurrent Lists. Discuss its pros and cons in the light of fiscal federalism.\n(c) Divergent political interests and financial constraints hinder the spirit of ‘cooperative federalism’. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 559,
+        "subtags": [
+          405,
+          414
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 572
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) While the Constitution offers a strong framework for decentralized and accountable governance, the real test lies in how institutions, civil society and citizens uphold constitutional values in practice. Examine.\n(b) Liberalization of Indian economy has forced public enterprises to enhance their efficiency, but the effects of these reforms have been a topic of debate. Analyze.\n(c) Centre-State administrative relations are a matter of debate as constitutional provisions created a strong Centre. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          403,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) Experience of various States suggests that reorganization of districts was prompted more by politico-populist convenience rather than ease of administration. Discuss.\n(b) Lack of clear demarcation of roles between the State Secretariat and the Directorate has serious implications for policy making and policy implementation. Do you agree?\n(c) Decentralized planning in India signifies a shift towards context-sensitive development, but inadequate resources and local politics complicate the realization of social justice goals. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 564,
+        "subtags": [
+          405,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Low cyber awareness among officials is causing cyber security issues in the administration. Comment.\n(b) The ‘guillotine’ hastens the budgetary process to meet the timeline. Evaluate the procedure.\n(c) New localism plays a crucial role in empowering the local actors. Expand.\n(d) Gram Sabha aims to enlist community participation. Explain.\n(e) Identify the implementation challenges and issues of the Government e-Marketplace (GeM).",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 568,
+        "subtags": [
+          407,
+          406,
+          128,
+          414
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 572
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) Centralized Public Grievance Redress and Monitoring System (CPGRAMS) does not effectively address local level issues. Give your opinion.\n(b) Do you think ‘Aadhaar’ initiative has promoted inclusive governance and administrative credibility? Throw light.\n(c) Smart Policing and Community Policing programmes have been initiated to address socio-technological challenges in law and order. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 564,
+        "subtags": [
+          411,
+          410
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) Many elected women representatives in local governments in India, especially from marginalized backgrounds, often struggle to govern effectively. Examine.\n(b) Budget is the pivot around which the whole financial administration revolves. Discuss the socio-economic and political implications of budget.\n(c) Assess the role of Government Process Reengineering (GPR) in promoting good governance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 567,
+        "subtags": [
+          407,
+          403
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) Metropolitan cities are providing major portions of national wealth, but their governance is fraught with intricate institutional relationships. Explain.\n(b) Training and capacity building represent different scope and objectives. Explain the key differences.\n(c) Artificial Intelligence (AI) has emerged as an innovative tool in disaster management. Illustrate with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 567,
+        "subtags": [
+          12,
+          415
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 573
+        }
+      ]
+    }
+  ]
+}

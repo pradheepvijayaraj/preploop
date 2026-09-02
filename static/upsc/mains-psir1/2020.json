@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2020_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each :\n(a) Post colonial theory of the state\n(b) Equality of opportunity\n(c) Liberalism as a revolutionary idea\n(d) Ambedkar's ideas on constitutionalism\n(e) Machiavelli's secularism",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 520,
+        "subtags": [
+          339,
+          33,
+          367,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 525
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Make a comparative assessment of Greek perspective of Justice with the Rawlsian concept of Justice.\n(b) Representative democracy ........ means the people as a body must be able to control the general direction of government policy. (J. S. Mill). Comment.\n(c) Assess the significance of right to property in political theory.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          363,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explicate the ideological components of Gandhism.\n(b) Examine the nature and meaning of power.\n(c) Explain the sources of ancient Indian political thought.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 117,
+        "subtags": [
+          364,
+          365
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 523
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Trace the evolution of Western Political Thought from ancient to contemporary period.\n(b) Discuss the significance of a normative approach to Political theory.\n(c) Discuss Karl Marx's concept of class.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          366
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 524
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Role of socialists in Indian National Movement\n(b) Indian constitution makers' concerns on social inequality\n(c) Right to constitutional remedies in India\n(d) Judicial overreach in India\n(e) Mechanism for settling inter-state disputes",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          197,
+          368,
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 526
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Examine the role and functioning of the Election Commission of India and the Comptroller and Auditor General in the last two decades.\n(b) Trace the role of militant and revolutionary movements in Indian national movement.\n(c) To what extent has 73rd and 74th amendments of the Indian Constitution enhanced women's empowerment ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 529,
+        "subtags": [
+          197,
+          5
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 529
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Does the functioning of the federalism in India tend to make it appear as a unitary state in practice?\n(b) Has the thrust of government tilted towards executive in contemporary Indian Politics? Give your arguments.\n(c) 'Liberalisation of Indian Economy has not been accompanied with adequate reforms'. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": [
+          361,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) To what extent has the inadequate intra-party democracy affected the functioning of Indian Democracy ?\n(b) Examine the role of religion in Indian Electoral Politics in the contemporary times.\n(c) Examine the nature of the civil liberty movement in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          372,
+          373
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 530
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 531
+        }
+      ]
+    }
+  ]
+}

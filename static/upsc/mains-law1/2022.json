@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper 1 · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2022_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "(Answer the following questions in about 150 words each)\n(a) 'Absolute equality may itself be a cause of inequality.' In the light of this statement, discuss substantive equality.\n(b) 'To preserve basic freedoms and dignity of individuals, a Constitution should be permeated with Constitutionalism.' Discuss.\n(c) Explain the legal position in case of repugnancy between Union and State laws with the help of decided case laws. Which law shall prevail in case of repugnancy ?\n(d) What are the tests laid down by the Supreme Court in a recent decision for quantifying and providing quota for Other Backward Classes in local body elections ?\n(e) Elucidate 'Wednesbury's Principles of Unreasonableness'. Do these principles provide in any way, scope for 'merits review' of administrative decisions ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 380,
+        "subtags": [
+          211,
+          7,
+          220,
+          57
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 380
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 369
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 378
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 161
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Amending power does not extend to damaging or destroying the basic structure or framework of our Constitution.\" Discuss.\n(b) Discuss the application of fundamental rights to parliamentary privilege cases.\n(c) Do you think that all the 'Directive Principles of State Policy' are equally fundamental for the governance of the country ? Describe with the help of decided case laws.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 156,
+        "subtags": [
+          212,
+          213
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 156
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 371
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) Can the constitutional head of the State be truly described as the nerve-centre of the federal system ? Explain in the light of powers and duties of the Governor.\n(b) What are the grounds to declare a delegated legislation as substantive ultravires ? Refer case laws.\n(c) Briefly discuss the impact of Proclamation of Emergency under Article 352 of the Constitution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 374,
+        "subtags": [
+          223,
+          221
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 374
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 381
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 379
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) In the Parliamentary system, though there is no separation between the legislature and the executive in terms of personnel, there is separation of functions between the two. Explain in the light of relevant judicial decisions.\n(b) Are administrative tribunals competent to examine the constitutional validity of primary legislations ? Discuss in the light of case law.\n(c) Explain the significance of 'Audi Alteram Partem'. What are the cases or circumstances in which the aforesaid principle of natural justice can be excluded ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 157,
+        "subtags": [
+          57,
+          222
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 157
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 161
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 380
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "(Answer the following questions in about 150 words each)\n(a) Keeping in view the growth of International Law in the contemporary era, do you think the classical definition of International Law has become redundant ?\n(b) Distinguish between 'De-facto' and 'De-jure' Recognition.\n(c) What are Territorial Asylum and Extraterritorial Asylum ? Explain.\n(d) What are the various Rights of States over 'territorial-waters' ?\n(e) Distinguish between Arbitration and Judicial settlement as methods of peaceful settlement of disputes in International Law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          227,
+          234,
+          232,
+          237
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 392
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 390
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 395
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) Critically examine various theories relating to the relationship between International Law and Municipal Law.\n(b) Elaborate various theories of State succession.\n(c) Discuss various modes of acquisition and loss of Nationality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 384,
+        "subtags": [
+          228,
+          230
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 384
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 386
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 388
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe the various powers and functions of the General Assembly.\n(b) Explain the maxim \"Pacta Tertiis Nec Nocent Nec Prosunt\" with relevant case laws.\n(c) Does the Right to Self-Defence under International Law include Right to take Pre-emptive Action ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          235,
+          225
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 383
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) When is an aircraft considered to be 'in flight' for the purposes of the Convention for the Suppression of Unlawful Seizure of Aircraft ? Delineate the obligations the said convention imposes on the State parties.\n(b) What is the most favoured means of decision-making at World Trade Organisation ? Under what circumstances can decisions be taken by majority votes ? Which decisions require super majority votes ? Is there a need to reform the decision-making process ? Discuss.\n(c) Explain the core principles of International Humanitarian Law (IHL).",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 399,
+        "subtags": [
+          236,
+          239
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 399
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 397
+        }
+      ]
+    }
+  ]
+}

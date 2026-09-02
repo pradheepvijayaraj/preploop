@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2017_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the Political-Sociological Approach in the field of comparative politics and discuss its limitations.\n(b) Critically examine the Globalisation in the past 25 years from the perspectives of the Western world.\n(c) Examine the LGBT (Lesbian, Gay, Bisexual and Transgender) movement in developed societies and how it is affecting the political participation in developing societies.\n(d) American President Donald Trump's proposal to withdraw from the 'NAFTA' would bring unforeseen consequences to the regionalisation of world politics. Elaborate.\n(e) Give an assessment of the Feminist critique of contemporary global issues.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          48,
+          376,
+          50,
+          381
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 539
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) Is Realist Approach the best method to understand International Relations? Examine this in the context of Classical Realism.\n(b) How has the development of Global Capitalism changed the nature of socialist economies and developing societies?\n(c) Discuss the changing nature of modern state with reference to transnational actors.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 535,
+        "subtags": [
+          380,
+          375
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 533
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"The development of advanced missile technology and nuclear threat by North Korea has challenged the American hegemony in South-East Asia.\" Evaluate the above statement in the context of recent developments in the region.\n(b) Do you endorse the view that the end of Bipolarity and the rise of multiple regional organisations has made Non-Aligned Movement (NAM) more or less irrelevant?\n(c) Do you agree with the view that despite the limitations in the functioning of the UN, it has distinguished and unique achievements to its credit?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 546,
+        "subtags": [
+          383,
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) The recent move of USA to withdraw from the Paris Climate Agreement is a setback in the consensus achieved on protecting the world environment. In this context, assess the future prospectives on climate control.\n(b) How has 'BREXIT' affected the regionalisation process initiated by European Union and what could be its likely impacts in the regionalisation process of world politics?\n(c) Examine the World Systems Approach as developed by Immanuel Wallerstein.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          50,
+          377
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 535
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Examine the Indian National Movement and geographical location of India as determinants of India's foreign policy.\n(b) What are the impediments in the development of South Asian Free Trade Area (SAFTA)?\n(c) \"The Treaty of Perpetual Peace and Friendship between India and Bhutan needs to be revised with more pragmatic, realistic obligations and responsibilities.\" Comment.\n(d) \"India has been the largest and consistent country contributing to the UN peacekeepers worldwide.\" Examine India's role in this perspective.\n(e) Has the recent Indo-Israeli relationships given a new dynamics to India's stand on Palestinian statehood?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          382,
+          387,
+          389
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Suggest measures so that India's partnership with Africa becomes a true symbol of South-South Cooperation, delivering clear-cut economic and political dividends to both sides of the equation.\n(b) \"Despite the differences between India and Pakistan on various issues, Indus Water Treaty has stood the test of times.\" In the light of this statement, discuss the recent developments over this issue.\n(c) Analyse the stalled progress of Doha Round of WTO negotiations over the differences between the developed and the developing countries.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 543,
+        "subtags": [
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) How is the 'Belt and Road Initiative' of China going to affect India-China relations?\n(b) The recent differences between India and Russia are the result of misconceptions than facts. Elucidate.\n(c) 'Uniting for Consensus' also known as 'Coffee Club' has opposed the claims of India and other countries over permanent membership of the UN Security Council. Point out their major objections.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          389,
+          387
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) The natural behaviour of India and the United States is likely to serve each other's interests. Hence, a deliberate strategy of dovetailing their efforts will obviously benefit both. Elaborate.\n(b) Do you subscribe to the idea that in the new evolving Asian dynamics, Japan and India have not only moved closer in economic cooperation, but also in strategic partnership?\n(c) The Nuclear Non-Proliferation Treaty (NPT) has failed to achieve the ultimate objective of Global Nuclear Disarmament. Discuss the deficiency in the provision of NPT.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    }
+  ]
+}

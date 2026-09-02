@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2016_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Comment on the French ambition of building a territorial empire in India.\n(b) After the Battle of Plassey, how did India transit from the medieval to the modern age?\n(c) Do you agree with the view that the growth of vernacular literature in the 19th and the 20th centuries paved the way for social reform and cultural revival in India?\n(d) \"The Mutiny of 1857 was much more than a Mutiny of Sepoys and much less than a National Rebellion.\" Comment.\n(e) Explain \"Constructive Swadeshi\" characterised by atmashakti (self-reliance), which propelled the Swadeshi Movement in Bengal.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          192,
+          34,
+          206,
+          198
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 121
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 356
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) How far is it correct to say that if Clive was the founder of the British Empire in India, Warren Hastings was its administrative organiser?\n(b) \"Peace hath her victories no less renowned than war.\" Examine this statement with reference to Lord William Bentinck.\n(c) \"India's need for a federal system was more an imperative than a political choice.\" Do you agree?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 351,
+        "subtags": [
+          43,
+          200
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 351
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the causes responsible for the phenomenon called 'de-industrialisation' in India during the nineteenth century.\n(b) How far is it correct to say that the 19th century tribal uprisings are a part of subaltern nationalism ?\n(c) How did Dr. B.R. Ambedkar try to seek a political solution to the problem of caste in India ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          0,
+          203
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 361
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The need to impose greater parliamentary control over the Company's affairs increased during the decades (1773 - 1853) after Plassey.\" Elucidate.\n(b) What significant role did women play in the Indian National Movement?\n(c) Critically examine the nature and scope of environmental movements in Independent India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          0,
+          195
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) \"Karl Marx applied his critical intelligence to Wealth of Nations ... Where Smith had seen only the sunlight, Marx saw only the shadows thrown upon the human scene by the unimpeded exercise of individual liberty ...\" Elucidate.\n(b) What is Metternich system? Assess its impact on Europe.\n(c) \"League of Nations is a League of Notions.\" Comment.\n(d) Explain the main features of the US Federal Constitution.\n(e) What factors contributed to the emergence of a unipolar world?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          209,
+          207,
+          200,
+          210
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 367
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 368
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the statement that the French Revolution was not caused by the French philosophers but by the conditions of national life and by the mistakes of the government.\n(b) \"A house divided against itself cannot stand. I believe this government cannot endure permanently, half slave and half free.\" Explain Abraham Lincoln's perspective.\n(c) Trace the significant role played by Ho Chi Minh in Vietnam's struggle for freedom.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          202,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) How did Lenin achieve an abrupt transition from a Monarchical autocratic to a Socialist State ?\n(b) Do you agree with the view that the Treaty of Versailles was a bad compromise between a treaty based upon force and a treaty based on ideas ?\n(c) Trace the growth of British imperialism in South Africa from 1800 to 1907.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 368,
+        "subtags": [
+          207,
+          205
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) Trace the growth of Arab nationalism after the First World War. How far was it a reaction to Oil imperialism?\n(b) In what way did the political changes in Soviet Union influence the events in Eastern Europe during the closing decades of the 20th century?\n(c) Outline the circumstances leading to Détente.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 363,
+        "subtags": [
+          210,
+          43
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 1 · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2016_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Discuss the provisions of Indian Accounting Standards regarding the accounting treatment of Research and Development costs.\n(b) Distinguish between the techniques of Cost Control and Cost Reduction and also explain their implications on decision-making.\n(c) Explain Pooling of Interest method of amalgamation of companies.\n(d) What are the various deductions made from Gross Total Income ?\n(e) \"Audit of divisible profits enables the stakeholders to judge the philosophy of majority shareholders.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 288,
+        "subtags": [
+          129,
+          130,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) RS Ltd. issued a prospectus inviting applications for 20,000 shares of ₹ 10 each at a premium of ₹ 2 per share payable as under :\nOn Application ₹ 2\nOn Allotment ₹ 5 (including premium)\nOn First call ₹ 3\nOn Second and Final call ₹ 2\nApplications were received for 30,000 shares and pro-rata allotment was made on the applications for 24,000 shares. Excess money paid on applications was utilised towards allotment money.\nKherwa, to whom 400 shares were allotted, failed to pay the allotment money. On her subsequent failure to pay the first call, her shares were forfeited.\nSuri, the holder of 600 shares, failed to pay the two calls, and her shares were forfeited after the second call.\nOut of these forfeited shares, 800 shares were reissued to Gopal, credited as fully paid for ₹ 9 per share, the whole of Kherwa's shares being included.\nPass the necessary Journal entries in the books of RS Ltd.\n(b) Two manufacturing companies, which have the following operating details, decided to merge :\n|  | Company No. 1 | Company No. 2 |\n| --- | --- | --- |\n| Capacity Utilization (in %) | 90 | 60 |\n| Sales (₹ lakhs) | 540 | 300 |\n| Variable Cost (₹ lakhs) | 396 | 225 |\n| Fixed Cost (₹ lakhs) | 80 | 50 |\nAssuming that the proposal is implemented, calculate :\n(i) Break-even sales of the merged plant and the capacity utilization at that stage.\n(ii) Profitability of the merged plant at 80% capacity utilization.\n(iii) Sales turnover of the merged plant to earn a profit of ₹ 75 lakhs.\n(c) \"An assessee not only pays tax on his own incomes but also on others' incomes.\" Explain this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) The Cost Accountant of a company was given the following information regarding the overheads for February, 2016 :\n(1) Overhead cost variance : ₹ 1,400 adverse\n(2) Overhead volume variance : ₹ 1,000 adverse\n(3) Budgeted hours for February, 2016 : 1,200 hours\n(4) Budgeted overheads for February, 2016 : ₹ 6,000\n(5) Actual rate of recovery of overheads : ₹ 8 per hour\nYou are required to assist him in computing the following for February, 2016 :\n(i) Overhead expenditure variance\n(ii) Actual overheads incurred\n(iii) Actual hours for actual production\n(iv) Overhead capacity variance\n(v) Overhead efficiency variance\n(vi) Standard hours for actual production\n(b) State four items which are not to be included in determining the cost of inventories in accordance with Paragraph 6 of Accounting Standards 2 (Revised).\n(c) An NGO operating in Delhi had collected large scale donations for flood victims. The donations so collected were sent to different NGOs operating in Bihar for relief operations. The NGO operating in Delhi has appointed you to audit its accounts for the year in which it collected and remitted donations for flood victims. Draft a programme for audit of receipts of donations and remittance of the collected amount to different NGOs. Mention five points each, peculiar to the situation, which you would like to incorporate in your audit programme for audit of the said receipts and remittances of donations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) Dr. Sharma is a Chief Medical Officer. He receives a salary of ₹ 15,000 per month and Dearness Allowance @ 25%. He contributes 15% of his salary to a Recognised Provident Fund. The employer also contributes an equal amount. He is provided with a Rent Free House in a city with a population of 5 lakhs. Fair rental value of the house is ₹ 6,000 per month. He receives Hostel Allowance of ₹ 500 per month for his child. He has let out his own house at ₹ 500 per month and paid ₹ 2,000 for Municipal tax of the house. He has the following incomes too :\nDividend from a domestic company ₹ 5,000\nInterest on debentures of a cooperative society ₹ 3,000\nDividend from a foreign company ₹ 1,000\nShare in the profits of A.O.P. ₹ 2,000\nHe paid ₹ 12,000 for his own medical health insurance by cheque. He donated ₹ 1,500 to a national fund and ₹ 1,500 for promoting family planning programmes.\nCompute the total income for the Assessment Year 2016 - 17.\n(b) The information given below has been taken from the costing records of a company in respect of Job No. 303 :\nMaterials : ₹ 4,010\nWages :\nDept. A : 60 hours @ ₹ 3 per hour\nDept. B : 40 hours @ ₹ 2 per hour\nDept. C : 20 hours @ ₹ 5 per hour\nOverhead expenses for these departments were estimated as follows :\nVariable overheads :\nDept. A : ₹ 5,000 for 5000 labour hours\nDept. B : ₹ 3,000 for 1500 labour hours\nDept. C : ₹ 2,000 for 500 labour hours\nFixed overheads : Estimated at ₹ 20,000 for 10,000 normal working hours.\nYou are required to calculate the cost of Job No. 303 and also calculate the selling price to earn a profit of 25%.\n(c) Enumerate the steps to be taken by an auditor before declaring an account as Non-Performing Asset (NPA) in a bank audit.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 39,
+        "subtags": [
+          130,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Explain the relevance of time value of money in financial decisions.\n(b) Diagrammatically present the Du Pont chart to calculate return on equity.\n(c) Explain briefly the propositions made in Modigliani and Miller approach on cost of capital.\n(d) Explain the current Monetary Policy.\n(e) Evaluate the role of Credit Rating Agencies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          25,
+          130,
+          21,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) Using the following information, prepare the Balance Sheet :\n(i) Total debt to net worth 1 : 2\n(ii) Total assets turnover 2\n(iii) Gross profit on sales 30%\n(iv) Average collection period (Assume 360 days year) 40 days\n(v) Inventory turnover ratio based on cost of goods sold and year-end inventory 3\n(vi) Acid test ratio 0.75\n(vii) Equity share capital ₹ 4,00,000\n(viii) Reserves and Surplus ₹ 6,00,000\n(b) X Ltd. and Y Ltd. have the same level of business risk and their market values and earnings are summarised below :\n| Particulars | X Ltd. ₹ | Y Ltd. ₹ |\n| --- | --- | --- |\n| Equity | 6,00,000 | 3,00,000 |\n| Debt | - | 2,50,000 |\n|  | 6,00,000 | 5,50,000 |\n| Earnings | 90,000 | 90,000 |\n| Less : Interest | - | 22,000 |\n|  | 90,000 | 68,000 |\nCalculate the post-tax cost of equity, cost of debt and weighted average cost of capital of both the companies. Assume that the income-tax rate on the company is 35% and the additional tax on dividend distribution is 20%.\n(c) Write the important reforms that have taken place in the following sectors after 1991 :\n(i) Banking Sector\n(ii) Primary and Secondary Stock Market\n(iii) External Financial Market",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          25,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 42
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) XY Ltd. wants to install a new machine in place of an existing old one which has become obsolete. The company made extensive enquiries and from the proposals received, short-listed two offers. The two models differ in cost, output and anticipated net revenue. The estimated life of both the machines is five years. There will be only negligible salvage value at the end of the fifth year. Further details are as follows :\n|  |  | Anticipated after-tax cash flow |  |  |  |  |\n| --- | --- | --- | --- | --- | --- | --- |\n| Machine | Cost | Year 1 | Year 2 | Year 3 | Year 4 | Year 5 |\n| A | 25 | - | 5 | 20 | 14 | 6 |\n| B | 40 | 10 | 14 | 16 | 17 | 8 |\nThe company's cost of capital is 16%. You are required to make an appraisal of the two offers and advise the firm by using the following :\n(i) Payback Period\n(ii) Net Present Value\n(iii) Profitability Index\n(iv) Internal Rate of Return\n(b) Shree Ltd. has current sales of ₹ 20,00,000. The company is planning to introduce a cash discount policy of 2/10, net 30. As a result, the company expects the average collection period to go down by 10 days and 80% of the sales to opt for the cash discount facility.\nIf the company's required return on investment in receivables is 20%, should it introduce the new discount policy ?\n(c) Examine various measures taken by SEBI for the development of Foreign Institutional Investors and Venture Capitalists.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) The share capital of a company is ₹ 10,00,000 with shares of face value of ₹ 10. The company has debt capital of ₹ 6,00,000 @ 10% rate of interest. The sales of the firm are 3,00,000 units per annum at a selling price of ₹ 5 per unit and variable cost is ₹ 3 per unit. The fixed cost amounts to ₹ 2,00,000. The company pays tax at 35%. If the sales increase by 10%, calculate :\n(i) Percentage increase in EPS\n(ii) Degree of financial leverage at the two levels\n(b) Explain the Modigliani and Miller approach for corporate dividend policy.\n(c) What are the various insurance sector reforms that have taken place in India during the period of liberalisation ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    }
+  ]
+}

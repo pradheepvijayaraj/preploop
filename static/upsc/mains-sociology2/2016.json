@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2016_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes with a sociological perspective on the following, in about 150 words each :\n(a) Salient features of A.R. Desai's Marxist Sociology\n(b) Significance of Village Studies in Indian Sociology\n(c) 'Isolationism' as a dominant feature of colonial tribal policy\n(d) Anti-Brahmanical movements during the colonial period\n(e) Patriarchy as a form of dominance",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          27,
+          437,
+          430
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 588
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) How has B.R. Ambedkar identified the features of caste system ? How is it different from the mainstream treatment of caste features ?\n(b) Discuss Andre Beteille's account of the relationship between caste, class and power as a change from symmetrical to asymmetrical one.\n(c) Analyse the major components of Land Reform Acts. Show their effectiveness in curbing rural inequality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          433
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 591
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Bring out the significance of the difference between family and household.\n(b) Elucidate the concepts of 'majoritarianism' and 'minoritarianism' in accentuating communal tensions in India.\n(c) Comment on the increasing significance of caste in politics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 588,
+        "subtags": [
+          431,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) How is the tribal question related with the issues of integration and autonomy in modern India ?\n(b) Comment on the factors behind the changing status of women in urban India.\n(c) What accounts for the growth and consolidation of the middle classes in modern India ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 60,
+        "subtags": [
+          436,
+          429
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 594
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes with a sociological perspective on the following, in about 150 words each:\n(a) Privatization of education and increasing inequalities\n(b) Mahatma Gandhi National Rural Employment Guarantee Scheme for rural development\n(c) Different forms of Dalit assertion\n(d) Empowerment through 'Right to Education'\n(e) Differential sex-ratio and its implications",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 603,
+        "subtags": [
+          433,
+          437,
+          440
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 598
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Write a note on the uneven impact of 'Green Revolution' on rural society.\n(b) Discuss the emerging forms of 'inequalities' and 'acute poverty' as major challenges of social transformation in India.\n(c) Discuss the various forms of environmental movements waged in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 591,
+        "subtags": [
+          26,
+          438
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 596
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Write a detailed note on the effects of growing slums in urban areas.\n(b) Discuss the changing nature of the problems of working class in the informal sector of the economy.\n(c) What are the factors accounting for the resurgence of ethnic identity movements in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 145,
+        "subtags": [
+          439
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 597
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Bring out the impact of the declining significance of the agrarian economy.\n(b) Examine the impact of industrialization and urbanization on family structure.\n(c) How is ageing becoming an emerging issue in Indian society?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 591,
+        "subtags": [
+          47,
+          431
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    }
+  ]
+}

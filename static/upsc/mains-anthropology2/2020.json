@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2020_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each:\n(a) Contribution of Robert Bruce Foote to Indian Archaeology\n(b) Debates on 'Aryan' invasion\n(c) Contribution of K. S. Singh to Indian Anthropology\n(d) Dravidian languages\n(e) 'Khap' Panchayat",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          123,
+          114,
+          116,
+          122
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 280
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the impact of Islam on Indian Society.\n(b) Discuss the contribution of V. N. Misra to Archaeological Anthropology in India.\n(c) Elucidate the linguistic classification of Indian tribes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 270,
+        "subtags": [
+          114,
+          118
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 270
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 275
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the characteristics of caste system in India.\n(b) Discuss the importance of Ethnoarchaeology in reconstructing the Past citing Indian examples.\n(c) Explain the impact of Hinduism on Tribal people of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          109,
+          124
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 266
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 281
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the reasons of caste violence in India with suitable examples.\n(b) Discuss the impact of Globalization on Indian villages.\n(c) Describe the provisions under 6th Schedule of Indian constitution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          115,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Concept of Sanskritisation\n(b) 'Narmada' Man\n(c) Concept of 'Dominant' caste\n(d) Linguistic minorities in India\n(e) Concept of Ethnicity",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          117,
+          116,
+          123
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 274
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 280
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) What are the Social and Political problems of religious minorities in India?\n(b) Describe the functions of Tribal Research Institutes in India.\n(c) Discuss the effect of job reservation in alleviating unemployment among the tribal people of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 273,
+        "subtags": [
+          122,
+          119
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain the impact of development-induced displacement among the tribal people in India with suitable examples.\n(b) Discuss the characteristic features of 'Neolithic culture' in India.\n(c) Critically evaluate the state of implementation of the constitutional safeguards for the scheduled castes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 277,
+        "subtags": [
+          107,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 277
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the regionalism and demand for autonomy in India from Anthropological perspective with respect to Kashmir/Nagaland/Bodoland/Gorkhaland agitation.\n(b) Elucidate the problems of land alienation among the tribals of India.\n(c) Describe the different settlement patterns in rural India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 148,
+        "subtags": [
+          119,
+          128
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    }
+  ]
+}

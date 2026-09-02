@@ -1,0 +1,153 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2009",
+    "exam": "UPSC CSE",
+    "totalQuestions": 5,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2009,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2009_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 200,
+    "durationSeconds": 10800,
+    "examRegime": "essay-single-era"
+  },
+  "questions": [
+    {
+      "id": "upsc_2009_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "The focus of health care is increasingly getting skewed towards the ‘haves’ of our society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 63,
+        "subtags": [
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2009_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Are our traditional handicrafts doomed to a slow death?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          459
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2009_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "‘globalization’ vs. ‘nationalism’",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          458
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2009_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Are we a ‘soft’ state?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2009_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Good fences make good neighbours",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 611,
+        "subtags": [
+          47,
+          460
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    }
+  ]
+}

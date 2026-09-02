@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2017_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "(a) Explain how sociology has emerged as a distinct discipline based on rationality and scientific temper.\n(b) Examine ethnomethodological and phenomenological perspectives as critique of positivism.\n(c) Illustrate with example the significance of variables in sociological research.\n(d) Critically analyse Talcott Parsons' conception of 'Pattern Variables'.\n(e) Can we equate 'poverty' with 'poor living'? Elaborate your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 574,
+        "subtags": [
+          417,
+          418,
+          419,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the changing equations of discipline of sociology with other social sciences.\n(b) Examine the basic postulates of positivism and post-positivism.\n(c) Elaborate the main tenets of interpretative perspective in sociology.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 575,
+        "subtags": [
+          416
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss distinct sociological method adopted by Emile Durkheim in his study of 'suicide'.\n(b) Analyse Marxian conception of historical materialism as a critique of Hegelian dialectics.\n(c) Examine epistemological foundations of qualitative methods of social research.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) What is Weberian critique of Marxist notion of social stratification ?\n(b) Examine gender, ethnicity and race as major dimensions of social stratification.\n(c) How can one resolve the issue of reliability and validity in the context of sociological research on inequality ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 578,
+        "subtags": [
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by 'informalisation of labour'? Write your answer with special reference to India.\n(b) Discuss the changing interface between state and civil society in post-independent India.\n(c) Give an assessment of Durkheimian notion of 'sacred' and 'profane' in sociology of religion.\n(d) Examine 'patriarchal bargain' as gendered division of work in contemporary India.\n(e) Assess the role of mass media as an agent of social change.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 580,
+        "subtags": [
+          423,
+          424,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Trace the changing nature of organisation of work in capitalist society over the years.\n(b) What is new in 'new social movements' ? Elaborate your answer with special reference to India.\n(c) Examine the dynamics of pressure groups in multi-party political system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 580,
+        "subtags": [
+          425,
+          423
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the relationship between the contemporary trends in marriage and changing forms of family.\n(b) Discuss the regional variations of kinship system in Indian society.\n(c) Problematise the concept of secularism in the present context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          424
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Examine any two theories of social change in detail.\n(b) Critically analyse the role of science and technology in bringing about social change.\n(c) Elaborate on various types of religious practices prevalent in Indian society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          424
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        }
+      ]
+    }
+  ]
+}

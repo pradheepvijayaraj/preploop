@@ -1,0 +1,491 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2021_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Describe the formation, course, tributaries and termination of coronary sinus.\n(b) Describe the role of cerebellum in maintenance of posture and equilibrium.\n(c) A 14-year-old girl presented with low-grade fever, loss of appetite and yellow discolouration of conjunctiva. The attending physician suggested evaluation of liver functions of the patient.\n(i) Define and classify jaundice.\n(ii) Describe the laboratory tests for jaundice and their clinical interpretation.\n(d) Describe the typical intercostal space.\n(e) Compare and contrast the features of Rapid Eye Movement (REM) and non-REM sleep.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Describe the prostate under the following headings :\n(i) Gross features\n(ii) Lobes\n(iii) Capsules and ligaments\n(iv) Blood supply\n(v) Lymphatic drainage\n(vi) Age changes\n(b) Describe the key events occurring in the ovarian cycle with reference to their hormonal basis. Enumerate the diagnostic tests for ovulation.\n(c) (i) Discuss the principle and steps involved in Polymerase Chain Reaction (PCR). Mention any five of its applications in clinical medicine.\n(ii) Write a note on different vitamers of vitamin B6 and write their biochemical role in cellular metabolism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          298,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) Elaborate on the hormonal regulation of blood glucose level. Explain in brief the signs and symptoms of hypoglycemia.\n(b) Describe the sources, RDA and biochemical significance of vitamin C. Write a note on clinical manifestations of vitamin C deficiency.\n(c) (i) Discuss the formation, course and branches of ulnar nerve.\n(ii) Describe the formation and tributaries of portal vein. List the sites of portacaval anastomosis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          300,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain in detail the absorption and hormonal regulation of blood calcium in body. Discuss in brief the clinical manifestations of hypocalcemia.\n(b) Describe the key mechanisms for regulation of cardiac output. Comment on the changes observed in moderate isotonic exercise.\n(c) (i) Write in brief about hepatic segments.\n(ii) Enumerate all cranial nerve nuclei with their functional components.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) Define 'metastasis'. Enumerate the steps involved in metastasis. Write briefly about the role of stromal elements in metastasis.\n(b) (i) Explain the functions of each class of immunoglobulins. Describe the subsets of T-lymphocytes.\n(ii) List the intestinal and extraintestinal manifestations of amoebiasis.\n(c) Discuss about the longer acting insulin analogues. How are they different from insulin preparations? Mention the therapeutic uses and adverse effects of insulin.\n(d) Define chronic inflammation. Enumerate the causes of chronic inflammation. What is the role of macrophages in chronic inflammation?\n(e) Enumerate the data of identification. Write a note on fingerprinting.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          302,
+          303,
+          304
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 462
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) Define ischemic heart disease. Enumerate four ischemic syndromes. Discuss the pathogenesis of myocardial infarction. Briefly describe infarct modification by reperfusion.\n(b) State the therapeutic indications, drug interactions and side effects of the following drugs :\n(i) Methotrexate\n(ii) Furosemide\n(c) (i) Discuss the importance of CD4 cell count and viral load in HIV infection.\n(ii) Describe the antigenic structure of Salmonella typhi with its implication in diagnosis of enteric fever cases and carriers.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) Define poison and classify it. Describe the treatment of venomous snakebite. Write a note on 'designer drug'.\n(b) (i) Enumerate predisposing conditions for oral cancer. Describe the pathogenesis, molecular basis and morphology of oral cancer.\n(ii) Describe the pathologic responses of the glomerulus to injury and pathogenesis of glomerulonephritis.\n(c) (i) Elaborate the mechanisms of antimicrobial resistance.\n(ii) Name the third and fourth generation cephalosporins. Mention their therapeutic indications.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          305,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 463
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the uniqueness of Pulse Polio Programme in India.\n(ii) A 28-year-old man with history of HIV antibody positive brought to the emergency with headache and fever for three days. He also has a history of forgetfulness, irritability and confusion for the last two weeks. His cerebrospinal fluid examination shows numerous WBCs predominantly lymphocytes and budding yeasts with a wide capsule in Indian Ink preparation.\n(1) Write the most probable diagnosis in this case.\n(2) Describe the laboratory diagnosis of the condition.\n(3) Mention the predisposing conditions.\n(4) What is the treatment to be given to the patient?\n(b) (i) Define 'injury' and 'hurt'. Enumerate the ingredients of 'grievous hurt'. Briefly differentiate 'hurt' from 'grievous hurt'.\n(ii) Describe signs of 'asphyxia'. Enumerate the types of 'violent asphyxial deaths'. Briefly discuss about 'sexual asphyxia'.\nEnumerate the tests for confirmation of semen. State the modus operandi of collection of samples for detection of semen in alleged case of rape victim.\n(c) (i) Discuss the artemisinin-based combination therapies for the treatment of malaria.\n(ii) Briefly describe the advantages of liposomal amphotericin-B over conventional amphotericin-B.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

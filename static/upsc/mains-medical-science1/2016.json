@@ -1,0 +1,391 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2016_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions :\n(a) Describe dermatomes of lower limb.\n(b) Describe the development of interatrial septum.\n(c) Draw a diagram to depict blood flow in left versus right coronary artery.\n(d) Discuss the neurophysiological basis of sleep.\n(e) Give the role of vitamin C in scurvy and cholesterol metabolism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Enumerate the thyroid function tests. Give the biochemical findings in hyper- and hypo-thyroidism.\n(b) Describe the process of thrombolysis. Write briefly about anti-coagulants.\n(c) Give a brief account of ulnar nerve.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          303,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) Describe the role of cerebellum in regulation of posture and movement. What is cerebellar ataxia?\n(b) Describe the cutaneous nerve supply of dorsum of foot.\n(c) Outline the biochemical functions and the deficiency symptoms of sulphur-containing vitamins.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) Describe the hip joint under the following headings :\n(i) Classification\n(ii) Movements\n(iii) Blood supply\n(iv) Ligaments\n(b) Name the hormones secreted by pituitary gland. Describe the role of growth hormone in the body.\n(c) What is the basic principle behind the RFLP technique? Outline the clinical applications of RFLP.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions :\n(a) What are sequential myocardial changes in myocardial infarction?\n(b) Describe pathogenesis and laboratory diagnosis of extra-intestinal amoebiasis.\n(c) Discuss the mechanism of COX-2 inhibitor induced cardiovascular toxicity.\n(d) Discuss the laboratory investigations in a case of myocardial infarction.\n(e) Discuss the physiological action, clinical features and post-mortem findings in a case of death due to alprazolam poisoning.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          301,
+          303,
+          305
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 463
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) What is dysplasia? How will you differentiate it from metaplasia?\n(b) Discuss the pharmacotherapy of methicillin-resistant Staphylococcus aureus infection.\n(c) Discuss the pathogenecity and laboratory diagnosis of meningococcal meningitis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe various possible injuries and cause of death in case of successful hanging.\n(b) Define rape and write about various tests to detect semen.\n(c) Explain why—\n(i) artemether is used in combination with lumefantrine;\n(ii) liposomal amphotericin-B is preferred over conventional formulation of the drug in the treatment of systemic mycosis;\n(iii) low-dose aspirin is used for the prevention of re-infarction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 462,
+        "subtags": [
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 462
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe laboratory diagnosis of AIDS.\n(ii) Describe laboratory diagnosis of cryptococcosis.\n(b) Classify acute myeloid leukemia by FAB classification. What is the blood picture in a case of acute promyelocytic leukemia?\n(c) Discuss briefly the mechanism of action, uses and side effects of the following :\n(i) Letrozole\n(ii) Losartan\n(iii) Metronidazole",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          301,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

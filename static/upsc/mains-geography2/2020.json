@@ -1,0 +1,406 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2020_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry:\n(i) Vadhavan\n(ii) Salkhan\n(iii) Coorg\n(iv) Mhow\n(v) Umroi\n(vi) Thoothukudi\n(vii) Bargarh\n(viii) Atal Tunnel\n(ix) Gurushikhar\n(x) Bum La\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Climate change has unsettled the rhythm of seasons. Comment with examples and empirical evidences.\n(c) Discuss the methods of crop residue management in rural India to reduce pollution.\n(d) Has the regional aspiration of the people of Jammu and Kashmir been addressed through re-organisation of the state ? Make an assessment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 323,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 323,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Identifying areas covered under tribal sub-plan, discuss the programmes initiated to address their problems.\n(b) Soil types in India, classified on the basis of colour, possess specific chemical and mineral characteristics. Discuss.\n(c) The pharmaceutical industry in India depends on the import of raw materials. Evaluate this statement in view of the Indo-Chinese relationship.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          155,
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) India has opened-up its space to private sector for satellite based activities. Critically examine its implications indicating the major security concerns.\n(b) Identify oilseeds producing areas in India and discuss the measures to promote edible oil industry.\n(c) Give a reasoned geographical account of changing rural folk houses in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          156,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Border area development is an important national priority. What are the resilient steps needed for peaceful borders ?\n(b) Stunting and wasting among children are major consequences of food insecurity. Discuss various schemes of Government of India to address these problems and their achievements.\n(c) The Essential Commodities (Amendment) Bill 2020 aims to deregulate the production, supply and distribution of farm produce. Critically examine its spatial consequences.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) The success of Panchayati Raj depends upon meaningful participation of people at grassroot level. Examine.\n(b) Elucidate the benefits of neem coated urea scheme for Indian agriculture.\n(c) Canal irrigation has led to monocropping in India. Explain with suitable examples.\n(d) The pattern of growing ecological foot-prints is uneven in nature. Analyse with reference to land resources in India.\n(e) Identify challenges faced by generative and parasitic towns in India and their possible remedies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          163,
+          4,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Digital Divide in India needs quick redressal to reduce regional disparity in development. Elaborate with suitable examples.\n(b) Avalanche is a major hazard in the Himalayas. What are its causes and mitigation measures ?\n(c) The process of demographic transition is not uniform in India. Examine this statement in the context of demographic transition theory.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          165,
+          161
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Demarcating the seismic zones of India, suggest suitable interventions required in most sensitive seismic zones for sustainable human settlements.\n(b) What are the characteristics of Blue Flag certified beaches? Discuss their significance for beach tourism in India.\n(c) Urban sprawl around planned cities evolve leading to emergence of squatter settlements. Discuss the advantages and disadvantages of such outgrowth.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          155,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) Analyse the changing nature of workforce composition vis-à-vis rural-urban divide in India.\n(b) Describe the economic, maritime and strategic interests of India in South China Sea.\n(c) What kind of skill promotion programmes have been initiated for job deficient regions in India? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          157,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    }
+  ]
+}

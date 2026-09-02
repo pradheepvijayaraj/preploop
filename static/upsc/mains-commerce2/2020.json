@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 2 · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2020_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Explain each of the following in about 150 words :\n(a) Line and Staff Conflicts and their resolution\n(b) Social Systems Approach of Management\n(c) Integrative Model of Leadership\n(d) Problems of Management by Objectives (MBO)\n(e) Assumptions of Theory X and Theory Y",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          136,
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"A manager while delegating authority should observe certain principles.\" Elaborate.\n(b) Explain the different types of conflicts in an organisation. What are the different styles of handling interpersonal conflicts ?\n(c) \"Perception consists of three elements : the perceiver, the context and the target.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the different factors determining the degree of decentralisation.\n(b) What are the reasons for adopting a matrix organisation ? Discuss the various problems involved in it.\n(c) Explain Likert's four systems of management in terms of leadership styles.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) What are the determinants of personality ? Explain the major attributes influencing organisational behaviour.\n(b) \"Creation of organisational culture is a long-term process.\" In light of this statement, discuss the process involved in creating organisational culture.\n(c) Discuss the different tactics which are used to gain power in an organisation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Explain each of the following in about 150 words :\n(a) Talent Management\n(b) Adjudication and Collective Bargaining\n(c) Principles of Wage and Salary Administration\n(d) Transfers and Separations\n(e) Computerised and Web-based Method of Performance Appraisal",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) What are the different barriers to an effective training programme in an organisation ?\n(b) \"The main concern of trade union is that such unionism will lead to fragmentation and weakening of the trade union movement.\" In light of this statement, discuss the challenges faced by different trade unions.\n(c) Discuss the influences of ILO on Indian labour legislation and the system of labour relations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Human Resource Planning (HRP) is essentially concerned with the most effective use of scarce talent.\" Justify.\n(b) \"Job analysis is mainly and essentially a data collection process.\" In light of this statement, elaborate the different methods of data collection. Compare Position Analysis Questionnaire (PAQ) with Management Position Description Questionnaire (MPDQ).\n(c) \"A good incentive plan should have sufficient incentives for workers to raise their output and also should not put undue burden on management.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Management Development Programmes (MDPs) are understood as a conscious effort to improve managerial effectiveness through a planned and deliberate learning process.\" In light of this statement, discuss the two broad methods of developing managers and supervisors in an organisation.\n(b) \"Management should try to remove the irritants which encourage exit of workers.\" In view of this, discuss the different methods of reducing labour turnover.\n(c) \"The objective of workers' participation has been to bring labour and management closer and work for achieving organisational goals.\" In this context, discuss the various reasons responsible for the failure of workers' participation schemes in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          135,
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    }
+  ]
+}

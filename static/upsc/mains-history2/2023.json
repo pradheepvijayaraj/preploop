@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2023_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"Colonialism had a twisted logic of its own for commercialization. It emerges on analysis to have been often an artificial and forced process.\"\n(b) \"After 1857, \"the peasants emerged as the main force in agrarian movements.\"\"\n(c) \"Awakened political consciousness of Indian masses, bound with dishonourable and cowardly insults of the British led to the movement of Non-Cooperation.\"\"\n(d) \"When Gandhiji launched the Civil Disobedience Movement he was \"desperately in search of an effective formula.\"\"\n(e) \"If abdication of British responsibility at the time of transfer of power was callous, the speed with which it was done made it worse.\"\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 363,
+        "subtags": [
+          195,
+          49,
+          199,
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 357
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) The Carnatic Wars, the Anglo-Mysore Wars and the Anglo-Maratha Wars had virtually eliminated the French from the contest of supremacy in South India. Discuss.\n(b) While introducing the Indian Councils Bill of 1861, the British thought that the only Government suitable for India 'is a despotism controlled from home'. Comment.\n(c) The root of the whole question behind the Indigo Revolt 'is the struggle to make the raiyats grow indigo plants without paying them the price of it'. Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          200,
+          196
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 354
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that 'the decline of traditional Indian artisan production was a fact, sad but inevitable'? Discuss.\n(b) The historical significance of tribal and peasant uprisings in India 'lies in that they established strong and valuable traditions of resistance to British rule'. Discuss.\n(c) To accomplish the aims of education, 'political propaganda and formation as well as propagation of nationalist ideology', the press became the chief instrument. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          196,
+          194
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 354
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 352
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) The universalist perspective of socio-religious reform movements was not a 'purely philosophic concern; it strongly influenced the political and social outlook of the time'. Examine.\n(b) The Congress Socialist Party agenda was not to cut off from the Congress, but 'intended to give the Congress and the national movement a socialist direction'. Analyse.\n(c) How did the factionalised Dalit leadership in Hyderabad undergo a period of intense re-organization between 1948 and 1953 ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 121,
+        "subtags": [
+          201,
+          203
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 121
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 361
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"The American War of Independence finally ended in 1783 when Britain acknowledged the independence of the United States of America.\"\n(b) \"The Chartist Movement not only fulfilled some of the demands of the middle class, but its ramifications were felt among the working class and the colonies as well.\"\n(c) \"The Revolutions of 1848 were shaped by the ideas of democracy and nationalism.\"\n(d) \"The British imperialism in South Africa from 1867 to 1902 was influenced to a large extent by the capitalist mining of diamonds.\"\n(e) \"The supremacy of USA after the end of Cold War had its challenges as well.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          201,
+          206,
+          205,
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) The philosophers and thinkers may have laid the foundation of the French Revolution, but it was precipitated by social and economic reasons. Explain.\n(b) Marxian socialism claims itself to be a scientific socialist theory capable of explaining the history of humankind. Discuss.\n(c) Enlightenment was not confined to scientific revolution alone, but humanism and ideas of progress too were its inseparable constituents. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          201,
+          41
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) The impact of industrial revolution on the middle class world view is reflected in the views of Adam Smith, Thomas Malthus and Jeremy Bentham. Comment.\n(b) Discuss the different stages of the unification of Italy from 1848 to the occupation of Rome in 1870.\n(c) The Treaty of Versailles contained in itself the seeds of the Second World War. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          202,
+          43
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"UNO was the necessity of the time when the World War II ended.\" Critically examine its achievements and shortcomings.\n(b) The historical causes for the rise of anti-colonial movement in South-East Asia were cultural differences, spread of western education and the emergence of Communist ideas. Discuss.\n(c) Arab nationalism was not only a cultural movement, but also an anti-colonial struggle. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          194,
+          0
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        }
+      ]
+    }
+  ]
+}

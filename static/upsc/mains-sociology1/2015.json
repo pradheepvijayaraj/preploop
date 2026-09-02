@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2015_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers of the following in about 150 words each :\n(a) Is Sociology a Science ? Give reasons for your answer.\n(b) Discuss the relevance of historical method in the study of society.\n(c) What are variables ? Discuss their role in experimental research.\n(d) Which concepts did Weber use to analyse the forms of legitimate domination ?\n(e) \"No society can either be absolutely open or absolutely closed.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          417,
+          419,
+          423
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of Calvinist ethic in the development of Capitalism.\n(b) Examine the problems of maintaining objectivity and value neutrality in Social Science research.\n(c) \"Self and Society are twin-born.\" Examine the statement of Mead.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          417
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Why is random sampling said to have more reliability and validity in research?\n(b) Differentiate between Marxian and Weberian theories of Social Stratification.\n(c) How had Enlightenment contributed to the emergence of Sociology?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          420,
+          416
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Non-positivistic methodology is essential for understanding human behaviour.\" Discuss.\n(b) How is social equilibrium maintained in Parsonian framework?\n(c) \"Anomie is rooted in social structure.\" Explain with reference to R.K. Merton's contribution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 575,
+        "subtags": [
+          425,
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers of the following in about 150 words each :\n(a) Distinguish between the social organization of work in feudal society and in capitalist society.\n(b) \"Ideology is crucial for social transformation in a democracy.\" Discuss.\n(c) Distinguish between sects and cults with illustrations.\n(d) Is male authority absent in matrilineal society ? Discuss.\n(e) Explain the relevance of the idea of 'cultural lag' in understanding social change.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          422,
+          424,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Education helps in perpetuating social and economic inequalities.\" Critically examine the statement.\n(b) Explain the conditions under which a collective action transforms into a social movement.\n(c) How do the rules of descent and alliance in kinship differ from each other ? Illustrate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 578,
+        "subtags": [
+          425,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Define Secularisation. What are its major dimensions in the modern world?\n(b) The increasing importance of the tertiary sector has weakened the formal organization of work in recent times. Examine the statement.\n(c) Caste ideology appears to have strengthened democracy. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 582,
+        "subtags": [
+          422,
+          423
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Globalization involves deterritorialization.\" Examine with reference to the nation-state.\n(b) Examine the dialectical relation between tradition and modernity in the study of social change.\n(c) Elaborate the views of Durkheim on \"The Elementary Forms of Religious Life\".",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 581,
+        "subtags": [
+          425,
+          424
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        }
+      ]
+    }
+  ]
+}

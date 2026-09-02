@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2017_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with legal provisions and judicial pronouncements :\n(a) \"Law recognizes that 'mistake' must be in good faith.\" In this backdrop, explain the defence of 'mistake' contained under General Exceptions of the Penal Code.\n(b) In all robbery, there is either theft or extortion. Explain.\n(c) \"The object of the Protection of Civil Rights Act, 1955 is to abolish untouchability.\" Discuss.\n(d) \"Law of torts is said to be a development of the maxim 'Ubi jus ibi remedium'.\" Discuss the statement.\n(e) Explain 'necessity' as a defence for the liability of tort and also mention the classes of necessity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 406,
+        "subtags": [
+          255,
+          259,
+          261,
+          262
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 406
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 417
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 420
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Section 34 is incorporated in the Indian Penal Code to deal with the cases where it is very difficult to distinguish precisely the part taken by each individual in criminal act.\" While examining the rationality of this Section, support the answer with the help of decided cases.\n(b) Discuss the different forms to outrage the modesty of a woman which have been made punishable in the Indian Penal Code through the Criminal Law (Amendment) Act, 2013.\n(c) When, under the law of torts even using reasonable care, is a person liable for the tort of negligence? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 422,
+        "subtags": [
+          246,
+          256
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 414
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 422
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"There is a very thin but fine and subtle distinction between culpable homicide and murder. The difference lies merely in the different degrees of probability of death ensuing.\" Discuss the statement and refer to decided cases.\n(b) When is principal not liable for the torts committed by his servant? Discuss.\n(c) Mention the defences of tort of defamation and also discuss whether exceptions given under the Indian Penal Code, 1860 for the offence of defamation may be claimed as additional grounds by the defendant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 407,
+        "subtags": [
+          262,
+          257
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 407
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 420
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 415
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Consumer Protection Councils also play a very important role in consumer protection.\" Examine the statement and elaborate the objects, composition and functions of the Central, State and District Consumer Protection Councils.\n(b) \"In order to constitute criminal attempt, the act caused must be proximate to the intended result.\" Explain the observation with the help of decided case law.\n(c) Explaining the concept of 'no liability', mention the Indian Acts in which this concept has been incorporated.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 424,
+        "subtags": [
+          247,
+          263
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 424
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 405
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 421
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with relevant legal provisions and decided cases :\n(a) \"Minority can only be claimed as a shield but not as a sword.\" Explain the statement and mention the situations when a minor is liable under the law of contract.\n(b) \"Public policy is like an 'unruly horse' which cannot be controlled easily.\" Explain the statement and mention the agreements which are against public policy.\n(c) \"Right to stoppage of goods in transit starts when right to lien ends.\" Discuss.\n(d) Discuss the various defences which can be pleaded by the defendant in an action for infringement of copyright under the Copyright Act, 1957.\n(e) When does the infringement of trademark occur? Discuss the essentials of infringement of trademark. Write down the acts not constituting infringement of registered trademark.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 200,
+        "subtags": [
+          267,
+          253,
+          272
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 411
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 430
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 200
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the constitution, jurisdiction, powers and authority of National Green Tribunal. How far has it been successful in achieving its objectives? Explain with the help of recent cases.\n(b) \"Revocation of proposal is death of the proposal.\" Explain the statement and mention the manners of revocation.\n(c) Explain 'holder' and 'holder in due course', and distinguish between the two. Also discuss their rights.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 71,
+        "subtags": [
+          274,
+          269
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 71
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 432
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 427
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Section 74 of the Indian Contract Act, 1872 has cut down the most troublesome knot of Common Law doctrine of awarding damages.\" Discuss the statement.\n(b) \"Public interest litigation has played a very crucial role in protection of environment in India.\" Elucidate and illustrate with the help of decided cases.\n(c) \"Notwithstanding transparency of governance, certain informations have been exempted from disclosure under the Right to Information Act, 2005.\" Discuss the relevant provisions and limitations on disclosure of information.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          277,
+          71
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 435
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 227
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) Under the Indian Contract Act, 1872, when is a contract deemed to be entered into by the parties? Discuss.\n(b) \"An invention has to satisfy certain conditions in order to get a patent.\" Examine critically the statement.\n(c) How far is the Competition Act, 2002 an improvement over the Monopolies and Restrictive Trade Practices Act, 1969 (MRTP Act, 1969) with respect to 'abuse of dominant position'? Discuss and explain the relevant statutory provisions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          59,
+          279
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 200
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 437
+        }
+      ]
+    }
+  ]
+}

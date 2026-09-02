@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2021_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) \"Governance is about managing self-organizing networks.\" Elaborate.\n(b) \"Two-dimensional taxonomy was used by Herbert Simon to describe the degree to which decisions are programmed or non-programmed.\" Explain.\n(c) Examine the approach of public service motivation as an inducement to bring the desired level of efficiency in public service delivery.\n(d) In theory, the 'civil society organizations' promote cooperation between people and public service organizations, but in practice, their activities restrict the promotion of government programmes. Analyze.\n(e) Fayol and Taylor had different management perspectives, while having similar goal of organizational efficiency. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          392,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) Behavioural approach has been questioned on the basis of its utility in the analysis of administrative problems. Discuss the weaknesses of the approach and the shifts made therein.\n(b) Public administration has been viewed as a socially embedded process of collective relationship, dialogue and action. Examine the statement in light of the consensus achieved in the Third Minnowbrook Conference.\n(c) Public-private partnership phenomenon has been transformed into a type of governance scheme or mechanism. Discuss its capacity to overcome future challenges.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          390,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) Integration of different streams of administrative thought to propound a universal administrative theory is hindered by the impact of culture. Critically examine.\n(b) Judicial review, prevention of misuse or abuse of administrative power and provision of suitable remedies are the basic principles of administrative law. Justify as how various organs of the State are able to uphold these principles.\n(c) Regulation is an old but increasingly necessary mode of social coordination and political intervention into societal processes. Examine it in the context of globalization.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 549,
+        "subtags": [
+          395,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) The new public service model approaches governance on the premises of an active and involved citizenship, wherein the role of public officials is to facilitate opportunities for citizens' engagement in governance. Explain.\n(b) Neo-Weberian State involves changing the model of operation of administrative structures into a model focussed on meeting citizens' needs. Discuss.\n(c) Nothing in public administration is more important, interesting or mysterious than leadership. Analyze the statement in the context of strategic leadership.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          396,
+          390
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) The approach to the study of administration in its environmental context is especially more useful for developing countries. Comment.\n(b) Gender equality and women's rights have laid down a strong foundation of development. Elaborate.\n(c) Performance appraisal needs to be seen beyond the mere suitability of the official for vertical promotion. Explain.\n(d) It is widely agreed that the government ought to provide the goods that market fails to provide or does not provide efficiently. Argue.\n(e) MIS has evolved and gone far beyond its traditional advantages due to technological advancements. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          392,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) Emphasis on cost control and reducing public expenditure has diverted the focus of government budgets from the basic objectives of reallocation of resources, bringing economic stability and promoting social equity. Examine.\n(b) In modern context, Riggsian terms have not altogether disappeared, but have emerged in different forms with newer meanings. Discuss.\n(c) A striking feature of economic development is an apparent symbiotic evolution of strong States and strong market economies. Analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          396,
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) Policy problems are increasingly tending towards being wicked. Discuss the capacity and preparedness of the State to tackle such problems.\n(b) Zero-based budgeting was intended to get away from incrementalism, but ended up being the most incremental of any budgetary approach. Discuss.\n(c) ICT has immense potential to transform governance and empower citizens. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          400,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 558
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) The successful attainment of SDGs objectives largely depends upon the wisdom, experience and farsightedness of the actors involved and their willingness to cooperate in the implementation process. Analyze.\n(b) Groups work to elevate issues on the policy agenda or seek to deny other groups the opportunity to place issues. In this background, discuss the role of interest groups in agenda setting in the developing countries.\n(c) Civil servants generally tend to exhibit the values and ethical framework of the political executives under whom they function. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          392
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        }
+      ]
+    }
+  ]
+}

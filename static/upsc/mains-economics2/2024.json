@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2024_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Mention the items of 'Economic Drain' from India as conceived by Dadabhai Naoroji.\n(b) Discuss why the railway system developed by the East India Company went against the Indian interest.\n(c) Discuss why 'Laissez Faire' was not good for India during the pre-independence India.\n(d) Describe why farmers derived little benefits from the commercialisation of agriculture in pre-independence India.\n(e) What are the implications of \"PM-Kisan Samman Nidhi\" scheme ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          19
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) What schemes are launched by the Government to deal with the problem of unemployment in India ? Why the problem still persists ?\n(b) Why the Mahalanobis strategy of development was abandoned ? What were its inadequacies ?\n(c) Explain the problems faced by the Jute industry during pre-independence India. Why the problem aggravated after partition of the country ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 53,
+        "subtags": [
+          15,
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) Highlight the role of MSMEs in Indian Economy. What steps have been taken by the Government to enhance its contribution ?\n(b) Describe the trend in the growth rate of national income in India from 1950 to 1980 and its impact on poverty.\n(c) Discuss the inadequacies in the process of industrialisation in the pre-liberalised India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 302,
+        "subtags": [
+          26,
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the changes made by the Government of India in the fiscal policy since liberalisation. How far these changes proved to be conducive to growth with social justice in the country ? Discuss.\n(b) For faster increase in farmers' income, is it necessary to link them with corporate-sector in India ? Discuss.\n(c) What are the main features of 'TRIMS' ? How does it act against India's interest ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 38,
+        "subtags": [
+          146,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Examine the alternative model of planning given by C. N. Vakil.\n(b) Is service-led growth in India sustainable ? Comment.\n(c) What are the implications of depreciating Rupee on Indian Economy ?\n(d) Comment on FDI in Multi-brand Retail sector in India.\n(e) Is poverty 'capability deprivation' ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          15,
+          19,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the policy of Government of India with regard to foreign investment in the country. Do you feel that there is a need for control of their activities ?\n(b) What steps have been taken by the Government of India to increase exports during the last 10 years ? Have these yielded the desired result ? Examine.\n(c) Why second green revolution was advocated for India ? Mention the recommendation of the National Commission for Farmers in this regard.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          148,
+          144
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between fiscal federalism, fiscal consolidation and cooperative federalism. Comment on the outcome of cooperative federalism in India.\n(b) Whether the role of women in agriculture has changed after liberalisation in India ? Comment.\n(c) Explain the various estimates of rural poverty in India. What measures have been adopted by the Government to reduce it ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 38,
+        "subtags": [
+          147,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the main objectives of monetary policy adopted by the R.B.I. during last 5 years ? Discuss the steps taken by the R.B.I. to encourage investment and maintain price-stability during this period.\n(b) Why in spite of massive expansion of institutional finance, contribution of non-institutional sources in providing agricultural credit is still predominant ?\n(c) What are the various forms of subsidies that go into agriculture sector in India ? What is the justification for these ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          19
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    }
+  ]
+}

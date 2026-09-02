@@ -1,0 +1,405 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2024_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry: (i) Lunkaransar (ii) Gua (iii) Raidak River (iv) Ekta Nagar (v) Chandanwari (vi) Babina (vii) Tatipaka (viii) Along Airport (ix) Karaikal (x) Panna.\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Discuss the basis of various explanations for the formation of Shiwalik. (c) Conservation and breeding centres are important components of the Action Plan for Vulture Conservation, 2020–2025. Why? (d) North-Eastern States of India are geopolitically sensitive and strategically significant. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 323,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 323,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 321
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Institutional factors are playing a dominant role in controlling the agricultural prosperity in India. Justify with evidences.\n(b) The Indian Space Policy, 2023 supports the commercial presence in space. In what ways will it benefit the socio-economic development and security of India?\n(c) Discuss the process of formation of conurbations in India and describe their problems.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          157,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) India has wide-ranging regional disparities in economic development. Explain the patterns, implications and challenges.\n(b) Discuss the variations in nature of glaciers in India and the emerging issues due to climate change.\n(c) Domestic tourism in India has immense local resource potential. Discuss the reasons and its various dimensions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          165,
+          4
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Migration is the reflection of regional disparities. What socio-economic and demographic consequences are experienced at the place of origin and destination?\n(b) In spite of various tribal area development programmes in India, tribal areas still lag behind. Discuss critically with examples.\n(c) Water scarcity is an important cause of disputes and conflicts in India. Suggest innovative methods for location-based solutions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 315,
+        "subtags": [
+          163,
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 315
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each (10 marks, 150 words) :\n(a) How are geographic factors influencing the distribution of high annual rainfall in certain parts of India?\n(b) Indian population belongs to large number of races. Discuss the spatial distribution of major races.\n(c) Examine the transitional role of technology on Indian agriculture sector.\n(d) Describe the area-specific strategies for the development of drought-prone areas in India.\n(e) Examine the relationship between seaports and regional development in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          161,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Industrial waste is diversified. Discuss the potentials and challenges associated with it.\n(b) How is cultural background of States of India reflected in the attributes of sex and age structure?\n(c) Discuss the targets of focused interventions of the Jal Shakti Abhiyan: Catch the Rain, 2024 in rural and urban areas.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          161,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) India is playing a very significant role in world affairs. Examine the stands taken by India in important global and regional summits.\n(b) The 73rd Constitutional Amendment Act devolved functions, finances and functionaries for planning of rural areas in India. Discuss the major achievements with examples.\n(c) How do small and fragmented landholdings affect the agro-ecological system in rural India? What are the resilient steps needed to overcome this issue?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          156
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) How can morphology of Indian towns be described historically? Discuss the major features of the first planned city in India after independence.\n(b) Health is the outcome of interaction between physical setting, cultural traits and ecological connection. Explain.\n(c) What are the major regional rapid transit systems developed in India? How are urban problems being addressed by them?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          155,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    }
+  ]
+}

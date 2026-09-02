@@ -1,0 +1,523 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "GS1",
+    "section": "mains-gs1",
+    "sourceId": "upsc_2022_mains_gs1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_gs1_q1",
+      "type": "fill-blank",
+      "question": "How will you explain that medieval Indian temple sculptures represent the social life of those days ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 119,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 119,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q2",
+      "type": "fill-blank",
+      "question": "Why did the armies of the British East India Company – mostly comprising of Indian soldiers – win consistently against the more numerous and better equipped armies of the then Indian rulers ? Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 6,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 6,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q3",
+      "type": "fill-blank",
+      "question": "Why was there a sudden spurt in famines in colonial India since the mid-eighteenth century ? Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 120,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q4",
+      "type": "fill-blank",
+      "question": "Describe the characteristics and types of primary rocks.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 150,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q5",
+      "type": "fill-blank",
+      "question": "Discuss the meaning of colour-coded weather warnings for cyclone prone areas given by India Meteorological Department.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q6",
+      "type": "fill-blank",
+      "question": "Discuss the natural resource potentials of ‘Deccan Trap’.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q7",
+      "type": "fill-blank",
+      "question": "Examine the potential of wind energy in India and explain the reasons for their limited spatial spread.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q8",
+      "type": "fill-blank",
+      "question": "Explore and evaluate the impact of ‘Work From Home’ on family relationships.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 140,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 140,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q9",
+      "type": "fill-blank",
+      "question": "How is the growth of Tier 2 cities related to the rise of a new middle class with an emphasis on the culture of consumption ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 145,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 145,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q10",
+      "type": "fill-blank",
+      "question": "Given the diversities among tribal communities in India, in which specific contexts should they be considered as a single category ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 60,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 60,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q11",
+      "type": "fill-blank",
+      "question": "The political and administrative reorganization of states and territories has been a continuous ongoing process since the mid-nineteenth century. Discuss with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 137,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q12",
+      "type": "fill-blank",
+      "question": "Discuss the main contributions of Gupta period and Chola period to Indian heritage and culture.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 119,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 119,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q13",
+      "type": "fill-blank",
+      "question": "Discuss the significance of the lion and bull figures in Indian mythology, art and architecture.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 119,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 119,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q14",
+      "type": "fill-blank",
+      "question": "What are the forces that influence ocean currents ? Describe their role in fishing industry of the world.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q15",
+      "type": "fill-blank",
+      "question": "Describing the distribution of rubber producing countries, indicate the major environmental issues faced by them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 144,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 144,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q16",
+      "type": "fill-blank",
+      "question": "Mention the significance of straits and isthmus in international trade.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 12,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 12,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q17",
+      "type": "fill-blank",
+      "question": "Troposphere is a very significant atmospheric layer that determines weather processes. How ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q18",
+      "type": "fill-blank",
+      "question": "Analyse the salience of ‘sect’ in Indian society vis-a-vis caste, region and religion.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q19",
+      "type": "fill-blank",
+      "question": "Are tolerance, assimilation and pluralism the key elements in the making of an Indian form of secularism ? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 149,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 149,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_gs1_q20",
+      "type": "fill-blank",
+      "question": "Elucidate the relationship between globalization and new technology in a world of scarce resources, with special reference to India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0
+        }
+      ]
+    }
+  ]
+}

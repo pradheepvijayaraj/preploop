@@ -1,0 +1,22 @@
+{
+  "identifier": "default",
+  "description": "Capability for the main application window",
+  "windows": ["main"],
+  "permissions": [
+    "core:default",
+    "log:default",
+    {
+      "identifier": "opener:allow-open-url",
+      "allow": [
+        {
+          "url": "https://github.com/utilinlabs/preploop"
+        },
+        {
+          "url": "https://github.com/utilinlabs/preploop/releases/latest"
+        }
+      ]
+    },
+    "updater:default",
+    "process:allow-restart"
+  ]
+}

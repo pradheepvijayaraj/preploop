@@ -1,0 +1,400 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2015_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "Answer all of the following (in about 150 words each) :\n(a) Describe stomach under the following headings :\n(i) Location\n(ii) External features\n(iii) Arterial supply\n(iv) Clinical anatomy\n(b) Give the sequence of events that occurs during transmission of nerve impulse through neuromuscular junction.\n(c) Differentiate between isometric and isotonic contraction in skeletal muscle. Give one example of each type.\n(d) Describe the cervical part of the sympathetic chain.\n(e) Define 'clearance' of a substance by kidneys. Which clearance tests provide an estimate of glomerular filtration rate (GFR)? Explain which of these is the test of choice for assessment of GFR. What is eGFR?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 1.0
+            },
+            {
+              "label": "ii",
+              "marks": 4.0
+            },
+            {
+              "label": "iii",
+              "marks": 3.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) What are the main important functions of pyridoxine (vitamin B6)? Explain.\n(b) What are the features of innate and acquired immunity? What is the mechanism of action of immunoglobulins?\n(c) Describe the projection fibres of cerebrum.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          302,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) Define 'cardiac output' and 'cardiac index'. Describe the regulation of cardiac output in the body.\n(b) Describe in detail about the origin and distribution of the sciatic nerve. Add a note on its clinical importance.\n(c) Discuss briefly :\n(i) Vitamin D resistant rickets\n(ii) Chromium as a trace element\n(iii) Role of plasma enzymes in evaluation of liver function",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) Describe tongue under the following subheadings :\n(i) Mucous membrane and its nerve supply\n(ii) Muscles, movements produced by them and their nerve supply\n(iii) Lymphatic drainage\n(iv) Clinical anatomy\n(b) Name the hormones involved in the regulation of blood glucose level. Discuss the pathophysiology of diabetes mellitus.\n(c) Enumerate the hormones of posterior pituitary gland and describe their actions in the body.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "Answer all of the following (in about 150 words each) :\n(a) Enumerate the chemical mediators of acute inflammation. Give their mechanisms of action.\n(b) Define and classify hypersensitivity. Describe type I hypersensitivity.\n(c) Discuss the pharmacotherapy of gout. Describe the rationale of the use of colchicine during acute attack of gout.\n(d) Enumerate the major etiological factors associated with carcinoma of lung. Give the gross, microscopic features and spread of squamous cell carcinoma lung.\n(e) A young person of 25 years has sustained smooth barrel shotgun firearm injury on right side of chest. How will you establish on clinical examination the entry wound and distance of fire?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 461,
+        "subtags": [
+          302,
+          301,
+          304
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 462
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) Give etiopathogenesis of carcinoma cervix. What are the tests employed for diagnosis of carcinoma cervix? Give the stages of carcinoma cervix.\n(b) Discuss the pharmacology of calcium channel blockers. Enumerate the reasons for combining beta blockers with amlodipine.\n(c) Discuss morphology and antigenic types of dengue virus. Describe the clinical manifestations and laboratory diagnosis of dengue fever.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) Write hypothetical medicolegal report of an injured person having sustained stab wound penetrating lung deep on right side of chest.\n(b) A young female has consumed aluminium phosphide. Describe the symptoms, signs and management of such poisoning.\n(c) Explain why :\n(i) Frusemide should not be co-administered with aminoglycoside antibiotics\n(ii) Sulfadoxine and pyrimethamine combination is used in the treatment of malaria\n(iii) Propranolol is contraindicated in chronic obstructive pulmonary disease",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 462,
+        "subtags": [
+          305,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 463
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) Write short notes on the following :\n(i) Morphology, life cycle, pathogenicity and laboratory diagnosis of Giardia lamblia\n(ii) Pathogenesis and laboratory diagnosis of Candida albicans\n(b) What are the major and minor criteria of rheumatic fever? Give the pathology and sequelae of rheumatic carditis.\n(c) Discuss briefly the mechanism of action, uses and side effects of the following :\n(i) Sitagliptin\n(ii) Clonidine\n(iii) INH",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          301,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        }
+      ]
+    }
+  ]
+}

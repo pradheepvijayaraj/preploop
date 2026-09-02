@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2019_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Discuss the historical antecedents of the emergence of Sociology as a discipline.\n(b) Davis and Moore made it clear that social stratification is a functional necessity and also an unconscious device. Discuss.\n(c) What is the Marxist concept of 'fetishism of commodities'?\n(d) Present a sociological review on the 'new middle-class'.\n(e) Explain the probability sampling strategies with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 578,
+        "subtags": [
+          416,
+          419,
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) According to Mead, \"We play a key role in our own socialisation.\" Explain.\n(b) Bring out the significance of Ethnography in social research.\n(c) What is 'reserve army of labour'? Present the position of feminist scholars on this.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          418,
+          422
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the importance of interpretative understanding of social phenomena and explain its limitations.\n(b) Are all world religions patriarchal ? Substantiate your answer with examples.\n(c) What, according to Merton, is the difference between 'unanticipated consequences' and 'latent functions'? Give examples to elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          424,
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Modernisation presupposes class society; however caste, ethnicity and race are still predominant. Explain.\n(b) Compare and contrast the contributions of Marx and Weber on social stratification in capitalist society.\n(c) What, according to Irawati Karve, are the major differences between North Indian and South Indian Kinship systems?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 578,
+        "subtags": [
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Differentiate between 'Life-chances' and 'Life-style' with suitable examples.\n(b) Discuss the issues of access and exclusion in higher education in India.\n(c) What is civil society ? Present a note on civil society engagement with science and technology policy in India.\n(d) Critique A.G. Frank's 'development of underdevelopment'.\n(e) How well do you think Tonnies, Durkheim, Weber and Marx predicted the character of modern society ? Critique.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 579,
+        "subtags": [
+          420,
+          423,
+          425,
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 579
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Why is gender a dimension of social stratification? How does gender intersect other dimensions of inequality based on caste, class, race and ethnicity?\n(b) What are the theoretical models of societal power? Which one of them is most applicable in advanced industrial societies?\n(c) What is affirmative action? Substantiate theoretical positions on affirmative actions with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 578,
+        "subtags": [
+          423
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) What is 'informal labour' ? Discuss the need for and challenges in regulating informal labour in the post-industrial society.\n(b) Feminist scholars argue that 'New media' is masculine and hence reinforces structural hierarchies rather than reconfiguring them. Comment.\n(c) Discuss the concept of circulation of elite.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 580,
+        "subtags": [
+          420,
+          421
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 579
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) In the light of judicial intervention on 'Live-in relationships', discuss the future of marriage and family in India.\n(b) How, according to Merton, are deviant subcultures generated?\n(c) How is terrorism a new form of asymmetrical warfare? What are some of the challenges in trying to win the war on terrorism?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          419,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    }
+  ]
+}

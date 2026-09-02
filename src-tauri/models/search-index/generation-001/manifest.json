@@ -1,0 +1,14 @@
+{
+  "formatVersion": 1,
+  "dimensions": 384,
+  "quantization": "int8",
+  "model": "ibm-granite/granite-embedding-small-english-r2",
+  "modelRevision": "2ab6fa8ea2d674564defd37171ae19079b864b33",
+  "pooling": "cls",
+  "normalization": "l2",
+  "documentFormatVersion": 1,
+  "taxonomyVersion": 4,
+  "contentVersion": 55,
+  "recordCount": 6200,
+  "createdAt": 1788110355
+}

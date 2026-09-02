@@ -1,0 +1,178 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2006",
+    "exam": "UPSC CSE",
+    "totalQuestions": 6,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2006,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2006_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 200,
+    "durationSeconds": 10800,
+    "examRegime": "essay-single-era"
+  },
+  "questions": [
+    {
+      "id": "upsc_2006_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Protection of ecology and environment is essential for sustained economic development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 610,
+        "subtags": [
+          456
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2006_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Globalization would finish small-scale industries in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2006_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "“Education for all” campaign in India: myth or reality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 62,
+        "subtags": [
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2006_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Women’s reservation bill would usher in empowerment for women in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 59,
+        "subtags": [
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2006_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Importance of Indo-US nuclear agreement",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          448
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2006_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Increasing computerization would lead to the creation of a dehumanized society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 609,
+        "subtags": [
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    }
+  ]
+}

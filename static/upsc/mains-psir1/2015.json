@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2015_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each:\n(a) Idea of Natural Rights\n(b) Aristotle's Conception of Equality\n(c) 'Difference Principle' in Rawls' Theory of Justice\n(d) Difference between Participatory and Deliberative Democracy\n(e) Gandhi's Views on State",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          339,
+          340,
+          363,
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine the challenges to sovereignty of the State in the contemporary world.\n(b) Discuss the key features of pre-Marxist socialist theory.\n(c) Compare and contrast the views of Kautilya and Machiavelli on Statecraft.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 520,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Plato was an enemy of the open society.\" (Popper) Comment.\n(b) Discuss the relationship between base and superstructure in Marxist theory.\n(c) Distinguish between Power and Authority.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the 'crisis of legitimacy' in capitalist societies. (Habermas)\n(b) Discuss Gramsci's notion of 'organic intellectuals'.\n(c) Discuss David Easton's model of systems analysis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 522,
+        "subtags": [
+          33,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each :\n(a) Secularism in the Indian Constitution\n(b) Satyagraha as a Strategy in the Indian National Movement\n(c) 99th Amendment of the Indian Constitution\n(d) Structure and Function of NITI Aayog\n(e) Cooperative Federalism in India",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          197,
+          7
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 22
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the efficacy of judicial review in India.\n(b) Critically analyze the discretionary powers granted to the Governor by the Indian Constitution.\n(c) \"Identity politics has trumped development politics in India.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 526,
+        "subtags": [
+          5,
+          372
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 526
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 530
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) In the light of neo-economic policies adopted since 1991, examine the relevance of the term 'socialist' in the Preamble of the Indian Constitution.\n(b) Identify the contested areas in Centre-State relations in India.\n(c) Discuss the 'Right to Education' and the concerns raised by it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          362,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) Examine the role of Panchayati Raj Institutions and Urban Local Bodies in deepening of democracy in India.\n(b) Compare the Nehruvian and Gandhian models of development.\n(c) Account for the rise of regional political parties and assess their role in contemporary India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          13,
+          9
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        }
+      ]
+    }
+  ]
+}

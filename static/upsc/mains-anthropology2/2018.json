@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2018_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Distinctive cultural features of tribes of Andaman islands\n(b) Philosophy behind Purusharthas\n(c) Endangered Languages\n(d) OBCs among non-Hindu communities\n(e) Ethnoarchaeology as a research strategy",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 275,
+        "subtags": [
+          112,
+          116,
+          45,
+          109
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 269
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 266
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the contribution of tribal cultures to Indian civilization.\n(b) Describe the salient features of Sivapithecus.\n(c) Discuss the impact of market economy on rural villages.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          108,
+          115
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the regional variations of mesolithic cultures of India.\n(b) Based on historical and contemporary evidences discuss the future of caste system in India.\n(c) Examine the colonial administrators' view that Indian villages can be considered as 'little republics'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 264,
+        "subtags": [
+          45,
+          115
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the impact of Buddhism and Jainism on Indian society.\n(b) What are the various factors influencing population growth in India? Discuss.\n(c) Discuss the view that caste is not social stratification, but a system of hierarchy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 270,
+        "subtags": [
+          110,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 270
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 267
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each\n(a) Youth dormitory as an institution\n(b) Tribe and scheduled tribe\n(c) Agrarian social structure\n(d) The impact of Panchayati Raj institutions in rural areas\n(e) Modernization",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          121,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 278
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Compare and contrast the economic typology of tribes given by different anthropologists.\n(b) Discuss the contribution of S. C. Roy in the study of tribal cultures in India.\n(c) Examine the advancement made in the land acquisition and rehabilitation Act of 2013 over the land acquisition Act of 1894.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 275,
+        "subtags": [
+          114,
+          120
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 277
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the contributions of Makhan Jha and B. N. Saraswati to the study of sacred complexes in India.\n(b) Discuss the various factors resulting in tribal unrest in various parts of India.\n(c) Discuss the salient features of PESA Act of 1996 and attempt a comparison with the features of the VI Schedule.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 269,
+        "subtags": [
+          125,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 269
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Examine the strengths and weaknesses of anthropology in the context of its role in tribal and rural development.\n(b) Explain the significance of tribe-caste continuum in the present context.\n(c) Discuss the significance and implementation of 'Recognition of Forest Right's Act 2006'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          45,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2017_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each (10 marks, 150 words):\n(a) \"The Maratha polity disintegrated through internal stress.\"\n(b) \"The chief value of Raja's (Raja Rammohan Roy) labours seems to lie in his fight against the forces of medievalism in India.\"\n(c) \"The British railway construction policy in India benefitted British economy in the nineteenth century.\"\n(d) \"The Arya Samaj may quite logically be pronounced as the outcome of conditions imported into India from the West.\"\n(e) \"Sri Narayana Guru's was a major intervention in the social reform movement from a subaltern perspective.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 360,
+        "subtags": [
+          49,
+          193,
+          196,
+          34
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 354
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 121
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the factors responsible for the recurrence of famines in the nineteenth century. What remedial measures were adopted by the British Indian Government?\n(b) Assess the role of press in arousing awareness on important social issues in the second half of the nineteenth century.\n(c) Underline the major considerations of the British imperial power that led to the annexation of Punjab.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          194,
+          193
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) Trace the origin of the Ghadar movement and discuss its impact on the revolutionaries in India.\n(b) Explain why the efforts at finding solution to India's constitutional impasse failed during 1942–1946.\n(c) Discuss the nature of peasant movements under the Kisan Sabhas during 1920–1940.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 359,
+        "subtags": [
+          200,
+          195
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss how the Satyagrahas of Gandhi removed the spell of fear among Indians and thus knocked off an important pillar of imperialism.\n(b) How far the developments in science and technology in post-Independence period put India on the path of modernity?\n(c) Throw light on the nature of 'Instrument of Accession' and 'Standstill Agreement' signed by the Princely States with the Indian Union.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 363,
+        "subtags": [
+          204,
+          200
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 362
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each :\n(a) \"Kant's redefinition of reason and his rehabilitation of conscience marked a high point in the intellectual reaction against dominant rationalism of the Enlightenment.\"\n(b) \"The spirit behind the great reforms of Napoleon's Consulate at home was the transference of the methods of Bonaparte the general to the task of Bonaparte the statesman.\"\n(c) \"The roots of the Chartst movement in Great Britain were partly political and partly economic.\"\n(d) \"18 January, 1871 had been a day of triumph for the strength and pride of Germany and 28 June, 1919 was the day of chastisement.\"\n(e) \"The collapse of Berlin Wall on 9 November, 1989 brought new meaning to the idea of cooperation in Europe.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          202,
+          201,
+          43,
+          209
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 367
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain why England became the harbinger of Industrial Revolution. Also throw light on its social consequences.\n(b) Why was the First World War termed as the first 'total' war in modern history?\n(c) Discuss how agrarian crisis accompanied by severe industrial depression triggered the Revolutions of 1848.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          43,
+          206
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) What determinant factors, along with diplomatic, shaped the process of German Unification?\n(b) Examine the statement that \"the danger of 'Bolshevism' dominated not only the history of the years immediately following the Russian Revolution of 1917 but the entire history of the world since that date\".\n(c) Explain why Bolivar's efforts failed to fructify in bringing about united stand of the Latin Americans.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 367,
+        "subtags": [
+          206,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 367
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) Examine the circumstances which led to the overthrow of democracy and the establishment of Fascist dictatorship in Italy.\n(b) \"By 1980s, the Communist System of Soviet Union was incapable of maintaining the country's role as a Superpower.\" Substantiate.\n(c) Examine the nature of Dutch imperialism in Indonesia.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 133,
+        "subtags": [
+          210,
+          205
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 133
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        }
+      ]
+    }
+  ]
+}

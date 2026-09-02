@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper 1 · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2016_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) What is the logical necessity for Locke to introduce the concept of secondary qualities? Give reasons for your answer.\n(b) Examine Kant's criticism on Descartes' view of Self.\n(c) Why does Wittgenstein reject the possibility of private language?\n(d) Explain verification theory. Does it lead to elimination of metaphysics?\n(e) Discuss Quine's attack on the analytic-synthetic distinction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          319,
+          325,
+          324,
+          328
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 483
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 486
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) Does Aristotle treat matter as a 'Substance'? Give reasons for your answer.\n(b) Critically examine Hume's views on the relation of cause and effect.\n(c) Discuss Sartre's notion of 'Nothingness'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          320,
+          327
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) Does Plato's 'Theory of Form' explain the 'change' and 'sensibility' of matter? Give reasons for your answer.\n(b) What, according to Kant, are 'pure concepts'? Examine their role in the process of knowing.\n(c) Explain Russell's view that \"the physical object is a logical construction from sense-data\". Why does he call his metaphysical view 'neutral monism'?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          321,
+          324
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 479
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 482
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) What, according to Husserl, is the task of a philosopher? Do you think his methods are relevant to philosophy? Discuss.\n(b) What is Hegel's view on God? Do you think that his interpretation of God was contributive to the colonial and imperial expansionist designs? Explain.\n(c) Discuss the various stances on God taken by Rationalists and Empiricists.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 484,
+        "subtags": [
+          322,
+          320
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 478
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each (10 marks each, 150 words each):\n(a) Differentiate the concept of 'Kaivalya' as discussed in Jaina and Yoga philosophies.\n(b) How does 'Kṣaṇikavāda' strengthen the arguments for 'Nairātmyavāda'? Explain.\n(c) Critically examine the role of 'Prakṛti' in the process of evolution.\n(d) Examine Jaina stance of 'Naya'. How does it differ from 'Syādvāda'?\n(e) Evaluate Śaṅkara's position on Īśvara.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 489,
+        "subtags": [
+          336,
+          334,
+          333
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) Does the 'Doctrine of Dependent Origination' reconcile the two extreme views on the law of causation, namely Satkāryavāda and Asatkāryavāda? Give reasons for your answer.\n(b) Can the 'Tattvārtha' theory of Jainism be acceptable for scientific explanations? Explain.\n(c) Is the doctrine of 'Self' acceptable in the modern age of science and reason? Examine the view in the light of Indian philosophy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 490,
+        "subtags": [
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss Aurobindo's views on 'Evolution' and 'Involution'. How do they differ from traditional Yoga philosophy?\n(b) What would be Cārvāka's view on Vyāpti? Can this view be acceptable to the Naiyāyikas? Give reasons for your answer.\n(c) What is the logical necessity for the Mīmāmsakas to treat 'Arthāpatti' as an independent Pramāṇa? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 493,
+        "subtags": [
+          333,
+          336
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 494
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) How do the Naiyāyikas justify the introduction of 'Abhāva' as an independent category? Explain.\n(b) What are Kleśas? How can these be eliminated? Explain.\n(c) Give a critical exposition of the concept of 'Brahman' as discussed by Śaṅkara, Rāmānuja and Mādhava.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          334,
+          337
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 495
+        }
+      ]
+    }
+  ]
+}

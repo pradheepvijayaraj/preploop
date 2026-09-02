@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2019_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Discuss the utility of Nuclear Deterrence Theory in the context of the recent standoff between India and Pakistan.\n(b) Write a brief note on the 17th NAM Summit in Venezuela.\n(c) In what way does the predominance of the USA in the UN funding affect its decision-making?\n(d) Evaluate the role of BIMSTEC in multi-sectoral technical and economic cooperation.\n(e) Do you think that sustainable development goals are really attainable by 2030?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          388,
+          380
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine the significance of the comparative method in political analysis. Discuss its limitations.\n(b) Explain the reasons for low voter turnout in democratic countries with suitable examples.\n(c) Evaluate the role of the International Court of Justice in inter-State disputes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          376,
+          379
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the relevance of the Marxist approach in the context of globalization.\n(b) Identify the benefits of a multi-polar world.\n(c) Discuss the importance of personal data protection in the context of human rights.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          379,
+          381
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 539
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) How are the rising powers challenging the USA and Western dominance in the IMF and the World Bank?\n(b) Write an essay on 'New Social Movements' in developing countries.\n(c) Is democracy promotion in developing countries a feasible idea?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 543,
+        "subtags": [
+          380
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Examine the role of 'parliamentary diplomacy' in India's foreign policy.\n(b) Compare and contrast Non-alignment 1.0 with Non-alignment 2.0.\n(c) How is India pursuing her foreign policy objectives through the IBSA Dialogue Forum (India, Brazil and South Africa)?\n(d) How is India responding to the idea of Indo-Pacific?\n(e) \"The growing closeness between India and Israel will strengthen the cause of Palestine.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          383,
+          384,
+          387
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 545
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Describe briefly China's 'One Belt One Road (OBOR)' Initiative and analyze India's major concerns.\n(b) What are the current issues in Brahmaputra River water sharing between India and China?\n(c) Analyze the recent trends in India's role in the UN peacekeeping operations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 545,
+        "subtags": [
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the increasing significance of maritime security in India's foreign policy.\n(b) Write a brief note on India's interests in West Asia.\n(c) How is the current standoff between the USA and Iran affecting India's energy security?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          384,
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) Evaluate India's vision of a new world order.\n(b) Critically examine India's position on South China Sea Dispute.\n(c) Given the recent developments in the region, do you think that there is a need to change India's 'No First Use (NFU)' nuclear policy?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          385,
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2017_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"Constitutionalism is the foundation of the administrative edifice in India.\" Discuss. (150 words)\n(b) \"The status and functioning of the Cabinet Secretariat face a stiff challenge from the Prime Minister's Office (PMO).\" Argue both in favour and against the contention. (150 words)\n(c) \"Effectiveness of local self-government institutions is hampered due to the lack of capacity building of the elected representatives.\" Elaborate. (150 words)\n(d) \"Public Sector Undertakings (PSUs) in India face tough competition from the private enterprises and Multi-National Corporations (MNCs).\" Explain. (150 words)\n(e) Do you think that 'All India Judicial Service (AIJS)' would contribute to timely delivery of justice to the citizens? Argue your case. (150 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          404,
+          409,
+          403,
+          12
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The market reforms have not infringed the basic structure of the Constitution of India, but have largely compromised the realisation of the ideals of social and economic justice.\" Comment.\n(b) \"The idea of lateral entry into the Civil Services would energise Indian administration.\" What are its possible advantages and limitations?\n(c) \"Pro-Active Governance And Timely Implementation (PRAGATI) is an innovative project of the Union Government.\" Discuss its features and modalities.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 566,
+        "subtags": [
+          12
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"The position of the Council of Ministers in a State is reduced to that of a body of secretaries in the presence of a domineering Chief Minister.\" Critically analyse with examples.\n(b) \"Indianisation of Public Services is a slow but steady process.\" Explain.\n(c) \"Digitalisation of land records is a necessary but not sufficient precondition for ensuring transparent district administration.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 563,
+        "subtags": [
+          403,
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Bureaucracy has to make a balance between the need for environmental sustainability and developmental imperatives.\" Discuss.\n(b) \"The Chief Secretary is often termed as the alter ego of the Chief Minister.\" Discuss, with examples, the dynamics of their relationships in State administration.\n(c) \"District Planning Committee (DPC) has been the weakest structure in the local self-government mechanism in India.\" Analyse with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          405,
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"The institution of Gram Sabha has very little connection with the Gandhian spirit of direct democracy.\" Critically examine.\n(b) \"There is a need for greater inclusion of technocrats in bureaucracy to ensure effective governance in India.\" Do you agree? Elucidate.\n(c) \"Civil Servants should avoid airing grievances in the media.\" In this context, discuss the grievance redressal mechanism available to the Civil Servants in India.\n(d) Do you think that the Public Service Guarantee Acts passed by various State Governments are an extension of the Citizen Charters? Give reasons.\n(e) \"The Office of the Controller General of Accounts (CGA) is expected to strengthen public financial management in India.\" Discuss its mandate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          402,
+          411,
+          407
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The Prime Minister's Awards for Excellence in Public Administration encourage good governance initiatives.\" Discuss some such initiatives by the Civil Servants in this context.\n(b) \"Implementation of Goods and Services Tax (GST) has led to a paradigm shift in the Centre-State relations, both financially and politically.\" Analyse with examples.\n(c) \"The Right to Information (RTI) has started its journey but is far from its destination.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 569,
+        "subtags": [
+          405,
+          413
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 571
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Disaster preparedness and management has become an important component of district administration in India.\" Discuss with suitable illustrations.\n(b) In view of the contemporary internal scenario should 'law and order' be made a part of the Concurrent List of the Constitution of India? Justify your opinion.\n(c) \"The image of Indian Police can be improved if its structure and orientations are transformed radically.\" Do you agree? Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 568,
+        "subtags": [
+          415
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 573
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "1.\n(a) Discuss, with suitable examples, the emerging challenges faced by the Regulatory Commissions as the arbitrating agents between the State and the market forces.\n(b) \"The 'policy of non-action' regarding the institutional mechanisms and legal provisions to eradicate corruption is a feature of Indian administration.\" Critically examine.\n(c) \"The Second Administrative Reforms Commission (ARC) makes a strong case for the principle of subsidiarity.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 570,
+        "subtags": [
+          411,
+          408
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        }
+      ]
+    }
+  ]
+}

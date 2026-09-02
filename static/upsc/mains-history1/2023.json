@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "name": "Mains History Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2023_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer Booklet. Locational hints for each of the places marked on the map are given below seriatim:\n(i) Neolithic site\n(ii) Site of Mother and Child Terracotta Figure\n(iii) Hoard of Gupta Coin\n(iv) Site of Botanical remains\n(v) Harappan site with mud-brick platform\n(vi) Mauryan reservoir site\n(vii) Capital of Maitraka dynasty\n(viii) Dockyard\n(ix) Rock shelter\n(x) Stone axe factory\n(xi) Satavahana inscription site\n(xii) Minor rock inscription of Asoka\n(xiii) Buddhist Stupa\n(xiv) Mesolithic site\n(xv) Iron smelting workshop\n(xvi) Megalithic site\n(xvii) Temple site dedicated to Surya\n(xviii) Roman factory site\n(xix) Site of Muvar Koil (Temple of Three)\n(xx) Megalith stone site\n\n![Map supplied with UPSC HISTORY1 2023](/upsc/assets/history1/history1_2023_q1_map.jpg)",
+      "correctAnswers": ["__open__"],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {"mainTag": 328, "subtags": []},
+      "markBreakdown": [
+        {"label": "i", "marks": 2.5}, {"label": "ii", "marks": 2.5}, {"label": "iii", "marks": 2.5}, {"label": "iv", "marks": 2.5}, {"label": "v", "marks": 2.5},
+        {"label": "vi", "marks": 2.5}, {"label": "vii", "marks": 2.5}, {"label": "viii", "marks": 2.5}, {"label": "ix", "marks": 2.5}, {"label": "x", "marks": 2.5},
+        {"label": "xi", "marks": 2.5}, {"label": "xii", "marks": 2.5}, {"label": "xiii", "marks": 2.5}, {"label": "xiv", "marks": 2.5}, {"label": "xv", "marks": 2.5},
+        {"label": "xvi", "marks": 2.5}, {"label": "xvii", "marks": 2.5}, {"label": "xviii", "marks": 2.5}, {"label": "xix", "marks": 2.5}, {"label": "xx", "marks": 2.5}
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) “The Neolithic Age represents a revolution due to significant changes that took place during this period.” Examine.\n(b) The Indus-Saraswati cultural zone exhibited both homogeneity and diversity. Discuss.\n(c) How do the comparative study of languages, archaeological sources and vast corpus of Vedic literature help to determine the Aryan problem in Indian history? Discuss.",
+      "correctAnswers": ["__open__"], "explanation": "", "marks": 50.0, "negativeMarks": 0, "negativeMarksUnanswered": 0, "difficulty": "hard", "tags": [],
+      "taxonomy": {"mainTag": 326, "subtags": [
+        170,
+        172
+      ]},
+      "markBreakdown": [
+        {"label": "a", "marks": 20.0, "subtags": [], "mainTag": 326},
+        {"label": "b", "marks": 15.0, "subtags": [], "mainTag": 327},
+        {"label": "c", "marks": 15.0, "subtags": [], "mainTag": 329}
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history1_q3", "type": "fill-blank",
+      "question": "(a) How far the Sangam literature acts as a window into the social and cultural traditions of ancient South India?\n(b) Analyze the contours of imperial ideology as exhibited during the Mauryan period.\n(c) Evaluate the status of women in the Gupta period as compared to the pre-Gupta era.",
+      "correctAnswers": ["__open__"], "explanation": "", "marks": 50.0, "negativeMarks": 0, "negativeMarksUnanswered": 0, "difficulty": "hard", "tags": [], "taxonomy": {"mainTag": 335, "subtags": [
+        174,
+        177
+      ]},
+      "markBreakdown": [
+        {"label": "a", "marks": 20.0, "subtags": [], "mainTag": 335}, {"label": "b", "marks": 15.0, "subtags": [], "mainTag": 331}, {"label": "c", "marks": 15.0, "subtags": [], "mainTag": 334}
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history1_q4", "type": "fill-blank",
+      "question": "(a) Analyze the tenets, spread and impact of the Bhakti Movement.\n(b) How far temple architecture under the Cholas became more refined and grandiose as compared to the early South Indian temple architecture style?\n(c) Is it correct to say that the post-Gupta period was remarkable for the expansion of religious cults in India?",
+      "correctAnswers": ["__open__"], "explanation": "", "marks": 50.0, "negativeMarks": 0, "negativeMarksUnanswered": 0, "difficulty": "hard", "tags": [], "taxonomy": {"mainTag": 332, "subtags": [
+        178,
+        172
+      ]},
+      "markBreakdown": [
+        {"label": "a", "marks": 20.0, "subtags": [], "mainTag": 332}, {"label": "b", "marks": 15.0, "subtags": [], "mainTag": 335}, {"label": "c", "marks": 15.0, "subtags": [], "mainTag": 329}
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history1_q5", "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the various proponents of Indian feudalism.\n(b) Examine the defects in Alberuni’s assessment of the Indian society.\n(c) Discuss the importance of Sufic literature as an important source of history.\n(d) What factors do you attribute for the decline of the Delhi Sultanate?\n(e) The motive of Alauddin Khalji’s agrarian policy was to curb the powers of the intermediaries. Examine the measures which he adopted to achieve his objective.",
+      "correctAnswers": ["__open__"], "explanation": "", "marks": 50.0, "negativeMarks": 0, "negativeMarksUnanswered": 0, "difficulty": "hard", "tags": [], "taxonomy": {"mainTag": 336, "subtags": [
+        168,
+        181,
+        182
+      ]},
+      "markBreakdown": [
+        {"label": "a", "marks": 10.0, "subtags": [], "mainTag": 336}, {"label": "b", "marks": 10.0, "subtags": [], "mainTag": 336}, {"label": "c", "marks": 10.0, "subtags": [], "mainTag": 325}, {"label": "d", "marks": 10.0, "subtags": [], "mainTag": 338}, {"label": "e", "marks": 10.0, "subtags": [], "mainTag": 339}
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history1_q6", "type": "fill-blank",
+      "question": "(a) Discuss the role of Nur Jahan in the Mughal court politics during the reign of Jahangir.\n(b) Why did Balban prefer ‘consolidation’ over ‘expansion’ of the Delhi Sultanate?\n(c) What features of European paintings were incorporated in the Mughal miniature painting?",
+      "correctAnswers": ["__open__"], "explanation": "", "marks": 50.0, "negativeMarks": 0, "negativeMarksUnanswered": 0, "difficulty": "hard", "tags": [], "taxonomy": {"mainTag": 345, "subtags": [
+        181,
+        190
+      ]},
+      "markBreakdown": [
+        {"label": "a", "marks": 20.0, "subtags": [], "mainTag": 345}, {"label": "b", "marks": 15.0, "subtags": [], "mainTag": 338}, {"label": "c", "marks": 15.0, "subtags": [], "mainTag": 347}
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history1_q7", "type": "fill-blank",
+      "question": "(a) The Marathas posed a significant threat to the integrity of the Mughal Empire. Discuss.\n(b) “Haidar Ali was born to build an empire, and Tipu Sultan to lose one.” Comment.\n(c) Analyze the rise of the Sikhs under Ranjit Singh.",
+      "correctAnswers": ["__open__"], "explanation": "", "marks": 50.0, "negativeMarks": 0, "negativeMarksUnanswered": 0, "difficulty": "hard", "tags": [], "taxonomy": {"mainTag": 348, "subtags": [
+        183,
+        179
+      ]},
+      "markBreakdown": [
+        {"label": "a", "marks": 20.0, "subtags": [], "mainTag": 348}, {"label": "b", "marks": 15.0, "subtags": [], "mainTag": 340}, {"label": "c", "marks": 15.0, "subtags": [], "mainTag": 336}
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_history1_q8", "type": "fill-blank",
+      "question": "(a) Mughal architecture was syncretic in character. Comment.\n(b) The economy of India was not stagnant in the eighteenth century. Discuss.\n(c) Discuss the nature of the Mughal State under Akbar.",
+      "correctAnswers": ["__open__"], "explanation": "", "marks": 50.0, "negativeMarks": 0, "negativeMarksUnanswered": 0, "difficulty": "hard", "tags": [], "taxonomy": {"mainTag": 347, "subtags": [
+        191,
+        187
+      ]},
+      "markBreakdown": [
+        {"label": "a", "marks": 20.0, "subtags": [], "mainTag": 347}, {"label": "b", "marks": 15.0, "subtags": [], "mainTag": 348}, {"label": "c", "marks": 15.0, "subtags": [], "mainTag": 344}
+      ]
+    }
+  ]
+}

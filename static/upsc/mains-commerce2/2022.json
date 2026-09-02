@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2022_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Answer each of the following in about 150 words :\n(a) \"MBO is a mixed blessing.\" Elucidate the statement.\n(b) Explain how the matrix structure breaks the unity-of-command concept.\n(c) Critically discuss the impact of personality traits on the behaviour in organizations.\n(d) Write a brief note on 'systems approach' in the context of the evolution of organization theory.\n(e) Briefly explain the main systems of organizational effectiveness.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The choice between centralization and decentralization cannot be made in isolation, none is good or bad.\" Critically evaluate this statement.\n(b) Explain the causes of distortion in perception. Give suggestions for improving perceptual capabilities of managers in organizations.\n(c) Briefly review how conflict can provide benefits to the organization.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain, with the help of the expectancy theory, why a lot of workers are not motivated on their jobs and do only the minimum necessary to get by.\n(b) \"Organizational culture is the set of assumptions, beliefs, values and norms which are shared by an organization's members.\" Explain. Discuss the positive and negative impacts of organizational culture.\n(c) Critically examine the Freudian stages of personality development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          133,
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) Critically evaluate the contingency theory of leadership propounded by Fiedler. How is this theory different from situational leadership theory propounded by Paul Hersey and Kenneth Blanchard?\n(b) Despite the complementary and supplementary relationship of line and staff, why is there a conflict between them? Give sound suggestions to minimize this conflict.\n(c) \"The implementation of information technology produces change in organizational structure as their relationship is dynamic.\" Explain in brief.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Answer each of the following in about 150 words :\n(a) Distinguish 'transfer' from 'promotion'/'demotion' and state the purposes of resorting to 'transfer'.\n(b) Briefly discuss the four integrated components of 360° feedback.\n(c) \"Excessive turnover of labour is neither in the interest of the employer nor in the interest of the employees.\" Explain this statement.\n(d) Discuss the essential conditions for congenial industrial relations.\n(e) State the responsibilities of Industrial Relations Managers.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": [
+          135,
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The approach towards Human Resource Management has undergone transformation through different stages and this process of transformation is still going on.\" Explain this statement.\n(b) Discuss the weaknesses of a conciliation machinery in settling industrial disputes. Suggest suitable measures to make conciliation machinery effective.\n(c) Explain briefly how the process of job specification is dependent on job analysis and related to job requirements.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Human Resource Planning is a prerequisite for effective management of human resources.\" In the light of this statement, analyze the significance of Human Resource Planning.\n(b) \"Recruitment process is often very strenuous, time-consuming and expensive, as also equally frustrating from the point of view of the organization.\" Suggest the methods which can improve the objectivity of recruitment process.\n(c) \"Rapid industrialization in India is heavily dependent on harmonious industrial relations.\" Explain the impact of globalization on industrial relations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the strengths and weaknesses of industrial relations in public sector.\n(b) State the criteria for the recognition of Trade Unions in India. Also point out the rights of a recognized Trade Union.\n(c) \"Collective bargaining in India has not been very successful.\" Comment. Discuss the suggestions to be made to make the functioning of collective bargaining effective.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    }
+  ]
+}

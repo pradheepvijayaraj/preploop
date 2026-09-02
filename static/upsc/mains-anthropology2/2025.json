@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper 2 · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2025_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) ‘Soanian cultural’ tradition\n(b) Caste domination, factionalism and political power\n(c) Regionalism and Autonomy\n(d) Verrier Elwin’s philosophy with respect to Arunachal Pradesh\n(e) Characteristics and communication between Little and Great Traditions",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 274,
+        "subtags": [
+          45,
+          50,
+          127,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 274
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the palaeoanthropological significance of Siwaliks of India giving its subdivisions, fossil primate fauna and major primate fossil localities.\n(b) Delineate the major features of S. S. Sarkar’s classification of Indian populations. Was his classification better than Risley? Explain.\n(c) Evaluate the impact of Christianity on Scheduled Tribe societies of North-East India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          110,
+          113
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 267
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 270
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Describe the distinctive features and distribution of Upper Palaeolithic of India.\n(b) Examine the environmental and biocultural factors influencing the health of tribals of India.\n(c) Highlight the significant contributions of B. S. Guha, Irawati Karve and S. R. K. Chopra to Indian Anthropology.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          118,
+          114
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) What are the different types of caste mobility in India? Highlight the various factors responsible for it.\n(b) Elucidate the role of demographic and social factors for population growth in India.\n(c) Critically examine the concept of Scheduled Tribe (ST) and mention the limitations of administrator’s criteria.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          111,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Impact of urbanization and industrialization on tribal communities of India\n(b) Taxonomic status of Ramapithecus in the light of Ramapithecus-Sivapithecus controversy\n(c) Tribalism and Pseudotribalism\n(d) Varnashrama and its contemporary relevance\n(e) Lothal dockyard and international trade relations",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 282,
+        "subtags": [
+          122,
+          108,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 282
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) “The village was not merely a place where people lived; it had a design in which were reflected the basic values of Indian civilization.” Who said this? Elaborate.\n(b) Discuss the role of NGOs in the socioeconomic and political development of weaker sections and the manner in which they facilitate other stakeholders.\n(c) Trace the history and describe the methods of formulating the lists of OBCs, both at the State and National levels.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 272,
+        "subtags": [
+          127,
+          126
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 283
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Identify the contemporary limitations in the process of tribal development. How can anthropological knowledge contribute in this process?\n(b) Discuss the rising ethnic conflicts in India and propose their possible remedial measures.\n(c) Critically evaluate the concept of Nation-State and describe its impact on indigenous societies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 284,
+        "subtags": [
+          123,
+          125
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 280
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 282
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the nature of traditional socioeconomic interdependence among the Toda, Kota, Kurumba and Irula tribes of Nilgiri Hills. Highlight the changes occurring in these interrelationships.\n(b) Define minority. Elaborate the patterns of linguistic and religious minorities in India.\n(c) What are the identifying criteria for PVTGs in India? Examine their current status, nomenclature and distribution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 268,
+        "subtags": [
+          116,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2016_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Describe the \"Basket of eggs topography\".\n(b) Differentiate between insolation and temperature and explain anomalous temperature.\n(c) Discuss Maritime Zones.\n(d) Bring out the ecological significance of Tropical Rainforest Biome.\n(e) Explain the hydro-meteorological hazards in the Himalayas.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          52,
+          54,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"In explaining the concept of 'Pediplanation', King combined the ideas of Davis, Penck and Wood with his own.\" Elaborate.\n(b) Compare the origin and weather conditions associated with the tropical and temperate cyclones.\n(c) Give a reasoned account on how the impact of Global Warming differs from one part of the Earth to the other.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          52
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the significance of World Climate Research Programme (WCRP) and its core projects in the understanding of climatic change.\n(b) \"The relationship between the winds and the currents is best seen in the Indian Ocean.\" Justify.\n(c) Write a critical note on the tendency of \"use and throw\" in the context of economic status and environment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          54,
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Bring out the various ecological problems associated with the exploitation and use of oceans and their resources.\n(b) \"Geological structure has a dominant control on landforms and is reflected on them.\" Discuss.\n(c) Describe Newbigin's scheme of Floristic regions of the world and explain the Mediterranean Floristic region.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": [
+          52,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each\n(a) \"Areal differentiation forms the core theme in Geography.\" Explain.\n(b) Explain 'Isodapane'.\n(c) Discuss the major characteristics of 'CBD'.\n(d) Elaborate the idea of 'Compage'.\n(e) Discuss the application of Gravity model in Geographical studies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          54,
+          3,
+          2,
+          154
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 311
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) Trace the origin and progress of Quantitative Revolution in Geography and bring out its merits and demerits.\n(b) Discuss the role of site in determining the types and patterns of rural settlements.\n(c) What is a \"region\" ? Describe \"Thiessen\" polygon method of regional delimitation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          152,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe the regional pattern of Life Expectancy in the world and bring out the challenges faced by developing countries due to increasing life expectancy.\n(b) Discuss the relevance of 'Stop and Go Determinism' in the present day context.\n(c) Define and differentiate between boundaries and frontiers. Describe the geometrical boundaries with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          52
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) Give a critical account of Losch's theory of central places.\n(b) \"Linkages between resource-endowed regions and resource-utilizing regions determine the pattern of international trade.\" Elaborate with suitable examples.\n(c) In what ways can geographers contribute towards optimal land use planning in a region?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 311,
+        "subtags": [
+          2,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 311
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    }
+  ]
+}

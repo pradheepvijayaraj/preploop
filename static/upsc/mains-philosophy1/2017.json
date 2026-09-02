@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2017_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each :\n(a) Elaborate Hegel's dictum : \"All identity is identity and difference.\"\n(b) Explain Husserl's reasons for advocating phenomenological reductionism.\n(c) How is the statement, 'I met a man', semantically problematic for Russell ? How does he account for the meaningfulness of this statement ?\n(d) In what sense can ideas be both immanent and transcendent ? Discuss in this context Plato's theory of universals and particulars.\n(e) Show how Hume's analysis of experience leaves no ground for belief in any permanent reality either physical or mental.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 480,
+        "subtags": [
+          326,
+          323,
+          318,
+          320
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) How is 'all bodies are extended' an analytic judgement but 'all bodies are heavy' a synthetic judgement ? Is 'every event has a cause' an analytic or a synthetic judgement ? Explain.\n(b) What is Wittgenstein's picture theory of meaning ? What are his reasons for giving up this theory and suggesting the use theory of meaning ?\n(c) Explain Aristotle's theory of form and matter. How does it help him resolve the problem of change and permanence ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 481,
+        "subtags": [
+          318
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 476
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) Elaborate Kant's theory of space and time. How does this theory enable him to explain how mathematical propositions can be both synthetic and a priori ?\n(b) What, according to Descartes, is a 'clear and distinct idea'? What is the epistemological status of clear and distinct ideas? Does this account help Descartes prove that material objects exist? Explain.\n(c) What are the two dogmas of empiricism that Quine attacks? What are his arguments against what he calls the second dogma?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 479,
+        "subtags": [
+          319,
+          328
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 479
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 486
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) How does Locke draw a distinction between primary and secondary qualities ? Does he also draw a distinction between the idea of primary qualities and primary qualities as well as the idea of secondary qualities and secondary qualities ? Discuss.\n(b) Does the sentence, 'Whatever is coloured is extended', satisfy the criterion of meaningfulness proposed by the logical positivists ? Explain.\n(c) Discuss Heidegger's concept of authenticity and explain how an inauthentic Dasein retains the lost self?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          324,
+          327
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each\n(a) \"The soul is nothing but conscious body.\" What are the reasons for Cārvāka in holding this view?\n(b) What are the necessary characteristics of padārtha according to Vaiśeṣika philosophy?\n(c) Explain the conditions of valid hetu as propounded in Nyāya philosophy.\n(d) What is meant by \"yogāścittavṛttinirodhaḥ\"? Explain cittavṛtti and its effects according to Yoga philosophy.\n(e) Elucidate the role of catuṣkoṭi in explaining the nature of reality according to Mādhyamika school of thought.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 488,
+        "subtags": [
+          337,
+          333,
+          335,
+          332
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 488
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 490
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the early Nyāya definition of perception. Why this definition is considered inadequate by the later Naiyāyikas ?\n(b) \"The Jaina metaphysics is relativistic and realistic pluralism.\" Discuss.\n(c) What are the arguments of the Buddhists to establish Kṣaṇikavāda ? Do they necessarily lead to kṛtanāśa and akṛtābhyupagama ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          331,
+          332
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) How do Mādhyamikas, Yogācāravādins and Sarvāstivādins differ among themselves concerning the nature of reality ? How do Sarvāstivādins differ among themselves with regard to knowledgeability of reality ?\n(b) How does Sri Aurobindo's integral yoga help in the realization of supramental consciousness? Discuss.\n(c) Distinguish between vivartavāda and pariṇāmavāda with reference to causation and explain how in the light of these theories Sankara and Ramanuja differ on the status of the world.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 493,
+        "subtags": [
+          337
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 495
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the theory of Validity of Knowledge (prāmāṇyavāda) according to Mīmāṃsakas. How did they criticize the Nyāya theory of Validity ?\n(b) Explain Ramanuja's conception of God and examine the difficulties he faced in explaining the relation of God to matter and spirit.\n(c) Given its theory of causation, is it possible for Sāṃkhya to explain the presence of consciousness in the world ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          337,
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        }
+      ]
+    }
+  ]
+}

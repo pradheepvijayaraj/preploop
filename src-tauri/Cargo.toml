@@ -1,0 +1,59 @@
+[package]
+name = "preploop"
+default-run = "PrepLoop"
+autobins = false
+version = "1.0.0"
+description = "Open source application aiding in preparing for competitive exams"
+authors = ["Utilinlabs"]
+license = "MIT"
+repository = "https://github.com/utilinlabs/preploop"
+edition = "2021"
+rust-version = "1.77.2"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[lib]
+name = "app_lib"
+crate-type = ["staticlib", "cdylib", "rlib"]
+
+[[bin]]
+name = "PrepLoop"
+path = "src/main.rs"
+
+[build-dependencies]
+tauri-build = { version = "2.6.3", features = [] }
+
+[dependencies]
+serde_json = "1.0.151"
+serde = { version = "1.0.229", features = ["derive"] }
+log = "0.4.33"
+tauri = { version = "2.11.5", features = [] }
+tauri-plugin-log = "2.9.0"
+tauri-plugin-opener = "2.5.0"
+tauri-plugin-updater = "2.11.0"
+tauri-plugin-process = "2.3.1"
+rusqlite = { version = "0.40.2", features = ["bundled", "serde_json"] }
+serde_path_to_error = "0.1.20"
+uuid = { version = "1.24.1", features = ["v4", "serde"] }
+sha2 = "0.10.9"
+
+# ── New search subsystem (Phase 1) ──────────────────────────────────────────
+# CPU-only: no metal, cuda, vulkan, openmp, or common features.
+# default-features = false guarantees no platform-specific backend is compiled.
+llama-cpp-2 = { version = "0.1.154", default-features = false }
+# OS-managed memory mapping for the flat vector index (Phase 4).
+memmap2 = "0.9.11"
+# Physical CPU core count for llama.cpp thread tuning.
+num_cpus = "1.17.0"
+# Structured error types for the search subsystem.
+thiserror = "2.0.20"
+# Multi-core CPU parallel iterator for the production exact vector scan.
+rayon = "1.12.0"
+
+[profile.release]
+opt-level = 3
+lto = "fat"
+codegen-units = 1
+panic = "abort"
+strip = "symbols"
+incremental = false

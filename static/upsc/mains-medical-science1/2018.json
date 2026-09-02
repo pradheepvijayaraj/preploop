@@ -1,0 +1,542 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2018_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Discuss the Functional components, Nucleus, course and distribution of 4th cranial nerve. Add a note on its clinical significance.\n(b) What are extra pyramidal tracts ? Describe their functions. How do they differ from pyramidal tracts ?\n(c) What is the regulatory mechanism of iron absorption at the level of intestine ? What is the role of TIBC in iron metabolism ? How does the body conserve iron ?\n(d) Classify Arches of foot. Write in details about medial longitudinal Arch.\n(e) Give an account of characteristics of a hormone. Describe the hormonal regulation of calcium level in the blood.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          300,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Describe Hip Joint under the following headings :\n1. Articular surface and Types\n2. Ligaments\n3. Relations\n4. Blood supply and Nerve supply\n5. Movement\n(b)\n(i) Explain regulation of megakaryocytopoiesis.\n(ii) Define the term \"cardiac reserve\". Explain how is its control governed ?\n(c) Describe briefly :\n(i) Role of PCR (Polymerase Chain Reaction) in the diagnosis and management of Mycobacterium tuberculosis.\n(ii) Role of iodine in synthesis and function of thyroid hormone. What is Graves Disease ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 7.0
+            },
+            {
+              "label": "ii",
+              "marks": 8.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Explain the changes which takes place during luteal phase of menstrual cycle.\n(ii) What are modes of contraction in a skeletal muscle ? Give suitable examples. Explain length-tension relationship in skeletal muscle.\n(b)\n(i) Describe the principle of Radio Immuno Assay (RIA). What are the main advantages and disadvantages of RIA technique.\n(ii) What is folate trap ? What are the methods of assessment of vitamin B12 deficiency.\n(c) Describe the External, Internal features, parts of cerebellum. Add a note on the constitution of cerebellar peduncles.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          300,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 7.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) Describe the structure of tRNA in detail. What is the energetics of synthesis of one peptide bond ? What are the inhibitors of protein synthesis ?\n(b)\n(i) Give an account of monophylactic theory of haemopoiesis.\n(ii) List growth promoting hormones. Explain their contribution to growth after birth.\n(c)\n(i) Write down the Development of placenta, discuss the functions and anomalies of it.\n(ii) Describe the Coronary Arteries. Add a note on cardiac dominance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 7.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 7.0
+            },
+            {
+              "label": "ii",
+              "marks": 8.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) Define impaired glucose tolerance. Discuss the pathogenesis of Type I diabetes mellitus.\n(b)\n(i) Discuss the strategic plans laid down by NACO for diagnosis of individuals with AIDS indicative disease symptoms.\n(ii) Discuss pathogenesis and laboratory diagnosis of Dengue haemorrhagic fever.\n(c) Discuss the adverse effects associated with the use of antimicrobial agents.\n(d)\n(i) Describe risk factors identified for breast carcinoma.\n(ii) Discuss molecular subtypes of invasive breast carcinoma.\n(e)\n(i) Define 'Head Injury'. What is the mechanism of 'Coup' and 'Contre Coup' brain damage.\n(ii) Discuss briefly the formula used for calculating the 'Total Body Surface Area' involved in burns in an adult and a child.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          302,
+          303,
+          300,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Define nephrotic syndrome and enumerate its components. Discuss pathogenesis, histopathological, electron microscopic and immunofluorescence findings of membranous nephropathy.\n(ii) Describe the pathogenesis of granulomatous immune response in tuberculosis. Discuss gross and histomorphological features of central nervous system (CNS) tuberculosis.\n(b) What are different classes of drugs used in the treatment of hypertension ? Discuss the mechanism of action, clinical uses and adverse effects of Sodium nitroprusside.\n(c)\n(i) Write the laboratory diagnosis and complication of Plasmodium falciparum infection.\n(ii) Enumerate species of Aspergillus, infections caused and laboratory diagnosis of aspergillosis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 7.5
+            },
+            {
+              "label": "ii",
+              "marks": 7.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) Define 'Rape' as per Criminal Law Amendment Act, 2013. An 11 yr old girl is brought to casualty with alleged history of rape 2 hours ago. Discuss the medico-legal examination in detail, including the samples that are to be collected.\n(b)\n(i) Write a short note on the management of a case of aluminium phosphide poisoning.\n(ii) Enumerate 6 major Blood Groups. Give the Mendel's laws of inheritance of the blood groups and their role in disputed paternity testing.\n(c) Explain why\n(i) Aspirin should not be administered concurrently with warfarin\n(ii) Patients chronically administered morphine remain constipated.\n(iii) Imipenem, a beta lactam antibiotic is used in combination with cilastatin.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 462,
+        "subtags": [
+          305,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 463,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 7.5
+            },
+            {
+              "label": "ii",
+              "marks": 7.5
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Discuss the epidemiology, pathogenesis and laboratory diagnosis of a patient presenting with bacillary dysentery.\n(ii) Write short note on :\nMonoclonal antibody and its application\n(iii) Write short notes on\nInterferons and their uses\n(b)\n(i) Define metastasis. What are the different pathways for the spread of cancer ? Draw a flowchart describing the sequential steps involved in the hematogenous spread of a tumor.\n(ii) Describe the pathogenesis of chronic myeloid leukemia (CML). Discuss clinico-pathological features of CML-chronic phase.\n(c) Discuss precisely the mechanism of action, clinical uses and side effects of the following :\n(i) Spiranolactone\n(ii) Metformin",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          301,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

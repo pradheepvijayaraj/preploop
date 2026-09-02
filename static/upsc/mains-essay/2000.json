@@ -1,0 +1,179 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2000",
+    "exam": "UPSC CSE",
+    "totalQuestions": 6,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2000,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2000_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 200,
+    "durationSeconds": 10800,
+    "examRegime": "essay-single-era"
+  },
+  "questions": [
+    {
+      "id": "upsc_2000_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Why should we be proud of being Indians?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          458
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2000_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "The country’s need for a better disaster management system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          466
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2000_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Indian culture today: a myth or a reality?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          450
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2000_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Modernism and our traditional socio-ethical values.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 209,
+        "subtags": [
+          87,
+          340
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2000_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "The implications of globalization for India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2000_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "The cyberworld: its charms and challenges.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 609,
+        "subtags": [
+          457
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    }
+  ]
+}

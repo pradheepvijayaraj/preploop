@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2019_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Account for the commercialisation of Indian agriculture during the second half of the 19th century and analyse its effects.\n(b) Do you agree that the development of Indian railways during the British Rule helped facilitate the process of industrialisation ? Give reasons.\n(c) Highlight the main contributions of C. N. Vakil to Indian planning as opposed to that of the Mahalanobis Model at the time of the formulation of the Second Five Year Plan for India.\n(d) How has the movement of agricultural prices during the post-liberalisation period been responsible for farmers' distress in India ?\n(e) Evaluate the Competition Act, 2002, relative to the Monopolies and Restrictive Trade Practices Act.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          15,
+          147,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Trace the development of the cotton textile industry in India during the British period. Discuss the major problems faced by the industry in different stages of its growth during this period.\n(b) Explain the underlying causes and effects of deindustrialisation in India during the 19th century.\n(c) Examine the theory of \"Economic Drain\" in the second half of the 19th century in India and discuss its economic effects.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"The progress in the implementation of tenancy and revenue reforms during the first three decades after independence in India was not satisfactory.\" Do you agree with this view ? Do you think that the advent of the Green Revolution made such land reforms policy redundant ?\n(b) Discuss the technological factors relating to the Green Revolution in India.\n(c) Do you think that the fall in public investment in agriculture adversely affects the productivity growth of this sector in India ? Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 301,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the principal causes of deceleration in industrial growth during the mid 1960's to mid 1970's in India. Do you think that the reasons for the slowdown in industrial growth since the late 1990s are basically different from those of the earlier deceleration ? Answer with proper arguments.\n(b) Examine the role of capital account convertibility in controlling deficit in the current account of India's Balance of Payments (BOPs).\n(c) Would you advocate a programme of Universal Basic Income (UBI) to reduce extreme poverty in India ? Discuss in detail.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          149,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What reforms would you advocate to make the public distribution system (PDS) in India more effective ?\n(b) Has India been able to exploit the potential of foreign direct investment (FDI) for export oriented production ? Give reasons for your answer.\n(c) Examine the trends in GDP at factor cost during the pre-reform period in India.\n(d) How is the methodology followed by the Rangarajan Committee different from that of the Tendulkar Committee in measuring poverty in India ?\n(e) Differentiate between plan and non-plan expenditure as used in the government budget. Is this distinction relevant for government finances in India today ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 305,
+        "subtags": [
+          58,
+          19,
+          26,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the disinvestment policy adopted by the Government of India as a part of structural adjustment programme of the IMF and the World Bank. Examine the impact of such a policy on industrial growth in India.\n(b) Narrate the implications of the TRIPS Agreement with special reference to the pharmaceutical sector in India.\n(c) Critically examine the role of WTO on agricultural exports in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          148,
+          147
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Why is monetary transmission not effective in India ? In the context of the recent announcement by the RBI, compare the efficacy of external benchmarks in bank loans with internal benchmarks for improving monetary transmissions through the banking channel.\n(b) What is fiscal federalism ? Examine the role of the various Finance Commissions since 2001 in reducing horizontal and vertical fiscal imbalances.\n(c) Do you think that planning has a role in the context of market based development of India ? Answer with arguments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 40,
+        "subtags": [
+          17,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the core objectives of the Mahatma Gandhi National Rural Employment Guarantee Scheme (MGNREGS) ? In what ways has a paradigm shift taken place with the implementation of MGNREGA ?\n(b) How does the strategy of industrialisation under the New Economic Policy promote productivity growth in manufacturing industries in India ? Explain.\n(c) Examine the relation between casualisation of employment and poverty in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 53,
+        "subtags": [
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2020_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 250,
+    "durationSeconds": 10800,
+    "examRegime": "essay-modern"
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Life is long journey between human being and being humane",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 604,
+        "subtags": [
+          455,
+          465
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Mindful manifesto is the catalyst to a tranquil self",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 605,
+        "subtags": [
+          469,
+          465
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Ships do not sink because of water around them, ships sink because of water that gets into them",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 604,
+        "subtags": [
+          466,
+          465
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Simplicity is the ultimate sophistication",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 604,
+        "subtags": [
+          465,
+          468
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Culture is what we are, civilization is what we have",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "There can be no social justice without economic prosperity but economic prosperity without social justice is meaningless",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 607,
+        "subtags": [
+          340,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "Patriarchy is the least noticed yet the most significant structure of social inequality",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 59,
+        "subtags": [
+          339,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "Technology as the silent factor in international relations",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 609,
+        "subtags": [
+          457
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    }
+  ]
+}

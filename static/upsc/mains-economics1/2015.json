@@ -1,0 +1,367 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2015_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the backward sloping supply curve of labour as a choice between income and leisure.\n(b) Under perfect competition, in the short run, find out graphically, without using average cost curve, the conditions in equilibrium for the existence of (i) normal profit, (ii) supernormal profit and (iii) loss.\n(c) State Okun's law and find out the expectations-augmented Phillips curve.\n(d) \"If the interest elasticity of demand for money is low, the monetarists could predict the real GNP simply by the use of money supply.\" Explain this statement.\n(e) Explain repo rate and reverse repo rate. How do changes in the repo rate affect EMIs of borrowers?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          16,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) In what way Kaldor's model of income distribution is basically a Keynesian theory?\n(b) Explain how Nash equilibrium provides a solution to the problem of strategic interdependence among firms in an oligopolistic market.\n(c) How is Kaldor-Hicks compensation principle an improvement over Pareto optimality criterion? What are Scitovsky's views in this regard?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Under rational expectations hypothesis, systematic monetary policy will be ineffective.\" Explain this statement using a suitable model.\n(b) Show that liquidity preference is neither necessary nor sufficient for the existence of involuntary unemployment in Keynesian system.\n(c) Derive money multiplier when a part of money supply is exogenous and the other part is endogenous.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) In the event of persistent inflation in an economy, what changes the Central Bank will bring about in (i) reserve ratios, (ii) bank rate and (iii) open market operations?\n(b) \"Subsidies have both positive and negative impacts on the economy.\" Explain this statement and illustrate your answer with Indian experience.\n(c) Explain the meaning and significance of money illusion on the part of workers in the Keynesian theory of employment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 41,
+        "subtags": [
+          13,
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 41
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Do you think that the root of Harrod's instability problem lies in the assumption of wage-price rigidity? Give arguments in favour of your answer.\n(b) What is 'immiserizing growth'? How can it be prevented through trade policy interventions?\n(c) How does carbon trading help in reducing environmental degradation?\n(d) How do depreciation and appreciation in the external value of a currency impact a country's balance of payments?\n(e) \"Balanced and unbalanced growth strategies are not substitutes but complementary to each other.\" Explain this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          23,
+          142,
+          22,
+          14
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) In the context of a two-country model, derive foreign trade multiplier and explain its working. What will be its repercussion?\n(b) Distinguish between Monetary union and Economic union. Do the proliferating trading blocks adversely affect the free trade in the world? Give reasons for your answer.\n(c) What are the advantages and disadvantages of capital mobility for developing countries?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          139,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"As long as the substitution possibilities between foreign and domestic resources are limited, the dual-gap analysis is relevant.\" Critically examine this statement.\n(b) In an economy having two sectors, namely, goods-producing sector and Research and Development (R & D) sector, prove with the help of new growth theory that (i) both capital and aggregate output must grow at the same rate and (ii) per capita output must grow at the rate of growth of technology.\n(c) What is indicative planning? In this context, explain how State and markets can play a synergetic role in economic development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) What do you mean by 'green accounting'? Discuss how this concept can be incorporated in national income accounting.\n(b) Discuss the role of renewable energy resources in order to maintain environmental sustainability with special reference to India.\n(c) \"Global warming will certainly increase the cry of the earth and the cry of the poor.\" In this context, examine the international efforts to reduce global warming.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 299,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 299
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper 2 · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "MEDICAL-SCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2016_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) Discuss the principles of magnetic resonance imaging (MRI). In which conditions, has it a better diagnostic value than computerized tomography (CT) scan ?\n(b) An 18-year-old young girl has attacks of restlessness, insomnia, cold sweating and fear. Discuss the differential diagnosis. Outline the principles of management of \"generalized anxiety disorder\".\n(c)\n(i) Describe the clinical features of bilirubin encephalopathy in early neonatal period.\n(ii) Enumerate the predisposing factors contributing to bilirubin encephalopathy in newborn infants.\n(iii) Name the long-term pathological and clinical sequelae of bilirubin encephalopathy.\n(d)\n(i) Define \"Severe stunting\" and \"Severe wasting\" in under-five children.\n(ii) Outline the diagnostic criteria for \"Severe Acute Malnutrition\"\n(1) in children between 6 months - 5 years of age; and (2) in infants below 6 months of age.\n(e) A housewife develops itching and irritation in the webs of the hands, following peeling/cutting of vegetables such as jackfruit and lady's finger. It is relieved slightly on washing with cold water.\n(i) What is the likely diagnosis ?\n(ii) Discuss the etiopathogenesis, management and prevention of this condition.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          306,
+          307,
+          314,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) An 80-year-old male, bed-ridden for three weeks, develops sudden onset breathlessness, becomes unconscious and was brought to the casualty.\n(i) Discuss the probable etiologies of this episode.\n(ii) Outline the investigations required for diagnosis and management.\n(iii) Describe the management of acute anterior wall myocardial infarction.\n(b)\n(i) Define \"persistent diarrhoea\" in under-five children. How is it different from \"chronic diarrhoea\" ?\n(ii) Discuss the dietary management of persistent diarrhoea.\n(iii) Enumerate a few common causes of chronic diarrhoea.\n(c) A young adult presents with erythematous, raised, scaly plaques of various sizes, all over the body, specially the extensor aspects.\n(i) What other areas will you examine and what clinical tests will you perform to clinch the diagnosis ?\n(ii) Enumerate the involvement of other systems and their presenting features.\n(iii) List the drugs that can be used in cases not responding to the standard management.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          314,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 25.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) A 17-year-old girl, with a history of seasonal wheezing, off and on, presents to the casualty with sudden onset breathlessness.\n(i) Describe the etiopathogenesis of this condition.\n(ii) Discuss the short-term and long-term management of this disorder.\n(b) Discuss the classification and identification of treatment of a young infant (age 6 weeks) with feeding problem and malnutrition, according to IMNCI case-management guidelines.\n(c)\n(i) Describe the clinical features of one non-infective and one parasitic, infective dermatosis.\n(ii) Describe the histopathological features of the above conditions in a healthy adult and in immuno-compromised individuals.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          314,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 25.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A 70-year-old patient with uncontrolled type-2 diabetes mellitus (of 20 years duration) presents with tingling and pain in the legs, blurring of the vision, weakness, easy fatiguability and bony pains. Investigations revealed blood urea 130 mg/dL, and serum creatinine 4.5 mg/dL.\n(i) What is the likely diagnosis ?\n(ii) How will you classify the chronic kidney disease ?\n(iii) Discuss the management of advanced renal failure.\n(b) A one-year-old, previously healthy child presents with fever, cold and cough for three days. Mother complains of whistling sound during breathing. There is no history of similar episodes in the past. Examination reveals tachypnea, audible wheeze and hyperinflated chest. His oxygen saturation is 94%.\n(i) What is the most likely diagnosis and what are the probable micro-organisms causing this condition ?\n(ii) Classify the severity of disease in this patient.\n(iii) Outline the principles of management of this child.\n(c) A young adult male presented to the medical intensive care unit with extensive blistering lesions of skin and mucosal surfaces. This was preceded by a history of high-grade fever and malaise for seven days.\n(i) What is your diagnosis and suspected etiopathogenesis ?\n(ii) Outline the steps of management and briefly state the prognosis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 25.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) Discuss the etiology, types, clinical features, investigation and treatment modalities of renal stone.\n(b) A 30-year-old female presented with thyroid swelling. Her S. T3, T4 and TSH are within normal limits.\n(i) Discuss the differential diagnosis of the thyroid swelling.\n(ii) Throw light on the investigation of the above mentioned condition.\n(iii) Discuss the management of papillary carcinoma of thyroid.\n(c) Enumerate few commonly used methods for 1st Trimester abortion. Briefly mention the immediate and remote complications of surgical method of abortion.\n(d) What are the different types of oral contraceptive pills ? What is the mode of action of oral pills ? Write briefly the indications and contra-indications of taking the pill. Enumerate the side-effects of taking the pill.\n(e) Enumerate various goals and targets set for Child Health in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          312,
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 470
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 470
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) Enumerate the causes of unengaged head in a primi at 38 weeks of pregnancy. Describe different stages of labour. How will you diagnose each stage of labour ? How will you manage a case of prolonged 1st stage of labour in a primigravida patient ?\n(b) A 50-year-old male presented with a history of haematuria and dragging discomfort in the left loin. On abdominal examination, it was found that he has Lt sided renal lump with Lt varicocele.\n(i) Discuss the differential diagnosis and investigation of the above mentioned condition.\n(ii) Mention the treatment of left-sided renal cell carcinoma.\n(c) Write briefly on 'Stop TB Strategy'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          309,
+          312
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 470
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) A 50-year-old male who is a chronic smoker presents with dry gangrene of Rt great toe and rest pain in Rt lower limb. On examination, it was found that his Rt dorsalis pedis artery pulse is absent.\n(i) Define chronic limb ischaemia and discuss the causes of lower limb gangrene.\n(ii) Discuss the management of the above mentioned condition.\n(b) What is meant by Network Analysis ? Write in brief about Programme Evaluation and Review Technique (PERT). What are the uses of PERT ?\n(c) Define DUB (Dysfunctional Uterine Bleeding). How would you manage a patient of DUB with 35 years of age who has completed her family ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          316,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 474
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the components and uses of Health Information System ? Enumerate briefly the different sources of health information.\n(b) A primigravida patient reports in casualty at 34 weeks of pregnancy with h/o painless bout of bleeding P/Vaginum. What is your probable diagnosis ? How would you manage the patient ? What foetal and maternal complications are associated with this condition ?\n(c) Discuss the clinical features, investigation and management of varicose vein in Rt lower limb.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 474,
+        "subtags": [
+          310,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 474
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466
+        }
+      ]
+    }
+  ]
+}

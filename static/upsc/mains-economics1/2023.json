@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2023_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Examine the role of price elasticity of demand in determining the price set by a discriminating monopolist.\n(b) Explain the backward bending supply curve of labour as a choice between income and leisure.\n(c) Explain the major differences between classical and Keynesian macroeconomics.\n(d) What is meant by internal rate of return in the theory of investment ? What is its importance in deciding whether to accept investment project ?\n(e) Explain why it is considered difficult for open market operations to affect both the availability and cost of credit at the same time.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          16,
+          22
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 46
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the Cournot model of duopoly using reaction functions and interpret it as a Nash equilibrium.\n(b) \"Perfect competition is incompatible with increasing returns to scale.\" Examine the statement.\n(c) Describe a model of oligopoly that explains price stickiness.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Under rational expectation hypothesis, systematic monetary policy is ineffective.\" Explain the above statement using a suitable model.\n(b) In the IS-LM framework, the effectiveness of monetary and fiscal policies depend on the interest elasticity of investment. Explain.\n(c) How important is speculative demand for money in achieving unemployment equilibrium in the Keynesian model ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the concept of \"sterilization\" in the context of monetary approach to balance of payments.\n(b) Tax burden is distributed between buyers and sellers in the ratio of elasticities of demand and supply. Explain.\n(c) Discuss Friedman's restatement of Quantity Theory of Money. Under what conditions, it reduces to classical Quantity Theory of Money ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 46,
+        "subtags": [
+          16,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Factor intensity reversal is incompatible with Heckscher-Ohlin model.\" Examine this statement.\n(b) Why depreciation of a currency is inflationary ? Explain.\n(c) Can Kuznet's hypothesis of an inverted U-curve be extended to analyse environmental degradation ? Explain.\n(d) Explain how modified HDI is an improved measure of development over HDI.\n(e) How renewable energy use can help attain environmental sustainability ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 299,
+        "subtags": [
+          23,
+          22,
+          141
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 298
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) Consider the market for good X for Country 1 and Country 2. The supply and demand functions for Country 1 are given as P = Q + 70 and P = 170 - Q, while that of Country 2 are given as P = 10 + Q and P = 110 - Q. Assume that there are two countries in the world and trade is balanced. Free trade price is stabilized in between autarky prices of both the countries. Based on the above information, answer the following questions :\n(i) From the free trade price and zero transportation cost, if the importing country imposes an import quota of 50 units, determine the quantity of good X produced and consumed. Calculate the consumer and producer surplus and protection cost due to import quota.\n(ii) From the free trade price, assume that the importing country is small and consider an import tariff of Rs. 10 per unit on good X. Calculate the impact on consumer surplus, producer surplus and government revenue. Does this policy increase national welfare ?\n(b) \"A continuous process of innovation and invention would give rise to trade even between countries with similar factor endowments and tastes.\" Examine the statement.\n(c) Examine the significance of external economies and product variety in the context of international trade theory.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Human capital and components of research and development are determining factors of economic growth. Explain using appropriate endogenous growth model.\n(b) Explain the concept of steady-state in the context of Solow model.\n(c) What is the golden rule of capital accumulation ? Explain it using a growth model.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) How important is rent from extraction of renewable and non-renewable resources to distinguish between Net Domestic Product (NDP) and Environmentally adjusted Domestic Product (EDP). Will the distinction be valid if we have an economy with only renewable resources and the economy reaches the point of maximum sustainable yield ?\n(b) \"Balanced and unbalanced growth strategies are not substitutes but complementary to each other.\" Discuss.\n(c) \"Income inequality is not a cause of concern as long as per capita income is rising.\" Critically examine this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          142
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2025_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Distinguish between the Zamindari system and the Ryotwari system of land revenue under the British rule in India.\n(b) What were the major impacts of 'commercialisation of agriculture' on Indian farmers during the pre-Independence India? Discuss.\n(c) What were the economic consequences of the 'Drain of Wealth' theory as practised during the British rule in India? Analyse.\n(d) Why did the British lead to the destruction of India's traditional cotton industry? Discuss.\n(e) Describe the phases of colonisation in British India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Is land reform necessary to improve agricultural productivity in India? Discuss.\n(b) Critically analyse the constraints of public and private capital formation in Indian agriculture.\n(c) What were the thrust areas of economic planning during the pre-liberalisation era? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          144,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the objectives and components of the Green Revolution in India.\n(b) Why does inter-State disparity in income persist in India despite plethora of development initiatives undertaken by the Government of India? Analyse.\n(c) Point out the main challenges faced by the small-scale and cottage industries in Indian economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 301,
+        "subtags": [
+          26,
+          145
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 302
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) What are the methods used in measuring poverty and inequality in India? Analyse.\n(b) How have rural and urban economic development contributed to poverty reduction in India? Discuss.\n(c) What are the guidelines of the Decentralized Planning process in India? Describe.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the components of food processing schemes introduced by the Government of India.\n(b) Do you agree with the view that India's Foreign Trade Policy, 2023-2028 will boost country's trade surplus and generate employment? Give reasons.\n(c) What are the structural shortcomings of the 'Public Distribution System (PDS)' in India? Explain.\n(d) Justify the importance of 'Disinvestment Policy' of India.\n(e) What are the implications of the Goods and Services Tax (GST) reforms for Indian federalism? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          148,
+          146,
+          58,
+          17
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 38
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) What are the causes of industrial backwardness in India? Critically evaluate the role of the New Industrial Policy, announced in July 1991, towards correcting such backwardness.\n(b) Examine the implications for India due to agreements on agriculture that are signed under the World Trade Organisation (WTO) in 1995.\n(c) Why is a National Employment Policy necessary for India? What are the initiatives taken by the Government to facilitate employment generation? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          148,
+          24
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) What is the sectoral composition of India's national income? Mention the most important source of national income in India.\n(b) What are the advantages and disadvantages of full convertibility of Indian rupee? Do you believe that capital account convertibility is feasible under the present circumstances in India? Discuss.\n(c) What is the strategy of the Reserve Bank of India (RBI) for exchange rate management? Discuss the recent changes in India's Exchange Rate Policy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 306,
+        "subtags": [
+          146
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 306
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) How do the current Finance Commission's recommendations align with the Government's Fiscal Consolidation goals? Elucidate.\n(b) Why was the public sector given a leading role in industrial development during the pre-liberalisation era? Explain.\n(c) Discuss the initiatives launched by the Reserve Bank of India (RBI) to promote financial inclusion.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 38,
+        "subtags": [
+          145,
+          19
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 40
+        }
+      ]
+    }
+  ]
+}

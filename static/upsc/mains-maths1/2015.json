@@ -1,0 +1,443 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2015_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) The vectors $V_1 = (1, 1, 2, 4)$, $V_2 = (2, -1, -5, 2)$, $V_3 = (1, -1, -4, 0)$ and $V_4 = (2, 1, 1, 6)$ are linearly independent. Is it true ? Justify your answer.\n(b) Reduce the following matrix to row echelon form and hence find its rank :\n$$ \\begin{bmatrix} 1 & 2 & 3 & 4 \\\\ 2 & 1 & 4 & 5 \\\\ 1 & 5 & 5 & 7 \\\\ 8 & 1 & 14 & 17 \\end{bmatrix} $$\n(c) Evaluate the following limit :\n$$ Lt_{x \\to a} \\left( 2 - \\frac{x}{a} \\right)^{\\tan\\left(\\frac{\\pi x}{2a}\\right)} $$\n(d) Evaluate the following integral :\n$$ \\int_{\\frac{\\pi}{6}}^{\\frac{\\pi}{3}} \\frac{\\sqrt[3]{\\sin x}}{\\sqrt[3]{\\sin x} + \\sqrt[3]{\\cos x}} \\, dx $$\n(e) For what positive value of a, the plane $ax - 2y + z + 12 = 0$ touches the sphere $x^2 + y^2 + z^2 - 2x - 4y + 2z - 3 = 0$ and hence find the point of contact.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 440,
+        "subtags": [
+          283,
+          284
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 442
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) If matrix $A = \\begin{bmatrix} 1 & 0 & 0 \\\\ 1 & 0 & 1 \\\\ 0 & 1 & 0 \\end{bmatrix}$ then find $A^{30}$.\n(b) A conical tent is of given capacity. For the least amount of Canvas required, for it, find the ratio of its height to the radius of its base.\n(c) Find the eigen values and eigen vectors of the matrix :\n$$ \\begin{bmatrix} 1 & 1 & 3 \\\\ 1 & 5 & 1 \\\\ 3 & 1 & 1 \\end{bmatrix} $$\n(d) If $6x = 3y = 2z$ represents one of the three mutually perpendicular generators of the cone $5yz - 8zx - 3xy = 0$ then obtain the equations of the other two generators.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 442,
+        "subtags": [
+          282
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "b",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 442
+        },
+        {
+          "label": "c",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "d",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 442
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $V = \\mathbb{R}^3$ and $T \\in A(V)$, for all $a_i \\in A(V)$, be defined by\n$$ T(a_1, a_2, a_3) = (2a_1 + 5a_2 + a_3, -3a_1 + a_2 - a_3, -a_1 + 2a_2 + 3a_3) $$\nWhat is the matrix T relative to the basis\n$V_1 = (1, 0, 1) \\quad V_2 = (-1, 2, 1) \\quad V_3 = (3, -1, 1)$ ?\n(b) Which point of the sphere $x^2 + y^2 + z^2 = 1$ is at the maximum distance from the point $(2, 1, 3)$ ?\n(c) (i) Obtain the equation of the plane passing through the points $(2, 3, 1)$ and $(4, -5, 3)$ parallel to x-axis.\n(ii) Verify if the lines :\n$$ \\frac{x - a + d}{\\alpha - \\delta} = \\frac{y - a}{\\alpha} = \\frac{z - a - d}{\\alpha + \\delta} \\quad \\text{and} \\quad \\frac{x - b + c}{\\beta - \\gamma} = \\frac{y - b}{\\beta} = \\frac{z - b - c}{\\beta + \\gamma} $$\nare coplanar. If yes, then find the equation of the plane in which they lie.\n(d) Evaluate the integral\n$$ \\iint_R (x - y)^2 \\cos^2(x + y) \\, dx \\, dy $$\nwhere R is the rhombus with successive vertices as $(\\pi, 0)$ $(2\\pi, \\pi)$ $(\\pi, 2\\pi)$ $(0, \\pi)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 442,
+        "subtags": [
+          282,
+          288
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "b",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 442
+        },
+        {
+          "label": "c",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 442,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 6.0
+            },
+            {
+              "label": "ii",
+              "marks": 7.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 446
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Evaluate $$ \\iint_R \\sqrt{|y - x^2|} \\, dx \\, dy $$\nwhere R = [-1, 1 ; 0, 2].\n(b) Find the dimension of the subspace of $\\mathbb{R}^4$, spanned by the set\n$$ \\{(1, 0, 0, 0), (0, 1, 0, 0), (1, 2, 0, 1), (0, 0, 0, 1)\\} $$\nHence find its basis.\n(c) Two perpendicular tangent planes to the paraboloid $x^2 + y^2 = 2z$ intersect in a straight line in the plane $x = 0$. Obtain the curve to which this straight line touches.\n(d) For the function\n$$ f(x, y) = \\begin{cases} \\frac{x^2 - x\\sqrt{y}}{x^2 + y}, & (x, y) \\neq (0, 0) \\\\ 0, & (x, y) = (0, 0) \\end{cases} $$\nExamine the continuity and differentiability.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 441,
+        "subtags": [
+          282,
+          284
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "b",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "c",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 442
+        },
+        {
+          "label": "d",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 441
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the differential equation :\n$$ x \\cos x \\frac{dy}{dx} + y(x \\sin x + \\cos x) = 1. $$\n(b) Solve the differential equation :\n$$ (2xy^4e^y + 2xy^3 + y)dx + (x^2y^4e^y - x^2y^2 - 3x)dy = 0. $$\n(c) A body moving under SHM has an amplitude 'a' and time period 'T'. If the velocity is trebled, when the distance from mean position is $\\frac{2}{3}a$, the period being unaltered, find the new amplitude.\n(d) A rod of 8 kg is movable in a vertical plane about a hinge at one end, another end is fastened a weight equal to half of the rod, this end is fastened by a string of length $l$ to a point at a height b above the hinge vertically. Obtain the tension in the string.\n(e) Find the angle between the surfaces $x^2 + y^2 + z^2 - 9 = 0$ and $z = x^2 + y^2 - 3$ at $(2, -1, 2)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 443,
+        "subtags": [
+          286,
+          287,
+          284
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 443
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 443
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 444
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 445
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 442
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) Find the constant a so that $(x + y)^a$ is the Integrating factor of $(4x^2 + 2xy + 6y)dx + (2x^2 + 9y + 3x)dy = 0$ and hence solve the differential equation.\n(b) Two equal ladders of weight 4 kg each are placed so as to lean at A against each other with their ends resting on a rough floor, given the coefficient of friction is $\\mu$. The ladders at A make an angle 60° with each other. Find what weight on the top would cause them to slip.\n(c) Find the value of $\\lambda$ and $\\mu$ so that the surfaces $\\lambda x^2 - \\mu yz = (\\lambda + 2)x$ and $4x^2y + z^3 = 4$ may intersect orthogonally at $(1, -1, 2)$.\n(d) A mass starts from rest at a distance 'a' from the centre of force which attracts inversely as the distance. Find the time of arriving at the centre.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 445,
+        "subtags": [
+          285,
+          284,
+          286
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 443
+        },
+        {
+          "label": "b",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 445
+        },
+        {
+          "label": "c",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 442
+        },
+        {
+          "label": "d",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 444
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) (i) Obtain Laplace Inverse transform of\n$$ \\left\\{ \\ln\\left(1 + \\frac{1}{s^2}\\right) + \\frac{s}{s^2 + 25} e^{-\\pi s} \\right\\}. $$\n(ii) Using Laplace transform, solve\n$$ y'' + y = t, \\quad y(0) = 1, \\quad y'(0) = -2. $$\n(b) A particle is projected from the base of a hill whose slope is that of a right circular cone, whose axis is vertical. The projectile grazes the vertex and strikes the hill again at a point on the base. If the semivertical angle of the cone is 30°, h is height, determine the initial velocity u of the projection and its angle of projection.\n(c) A vector field is given by\n$$ \\vec{F} = (x^2 + xy^2)\\hat{i} + (y^2 + x^2y)\\hat{j} $$\nVerify that the field $\\vec{F}$ is irrotational or not. Find the scalar potential.\n(d) Solve the differential equation\n$$ x = py - p^2 \\quad \\text{where } p = \\frac{dy}{dx}. $$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 443,
+        "subtags": [
+          286,
+          288
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 443,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 12.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 444
+        },
+        {
+          "label": "c",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 446
+        },
+        {
+          "label": "d",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 443
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Find the length of an endless chain which will hang over a circular pulley of radius 'a' so as to be in contact with the two-thirds of the circumference of the pulley.\n(b) A particle moves in a plane under a force, towards a fixed centre, proportional to the distance. If the path of the particle has two apsidal distances a, b (a > b), then find the equation of the path.\n(c) Evaluate $$ \\int_C e^{-x} (\\sin y \\, dx + \\cos y \\, dy) $$\nwhere C is the rectangle with vertices $(0, 0)$, $(\\pi, 0)$, $\\left(\\pi, \\frac{\\pi}{2}\\right)$, $\\left(0, \\frac{\\pi}{2}\\right)$.\n(d) Solve :\n$$ x^4 \\frac{d^4y}{dx^4} + 6x^3 \\frac{d^3y}{dx^3} + 4x^2 \\frac{d^2y}{dx^2} - 2x \\frac{dy}{dx} - 4y = x^2 + 2\\cos(\\log_e x). $$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 442,
+        "subtags": [
+          286,
+          283,
+          285
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 444
+        },
+        {
+          "label": "b",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 442
+        },
+        {
+          "label": "c",
+          "marks": 12.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "d",
+          "marks": 13.0,
+          "subtags": [],
+          "mainTag": 443
+        }
+      ]
+    }
+  ]
+}

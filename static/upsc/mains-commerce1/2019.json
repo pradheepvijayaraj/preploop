@@ -1,0 +1,351 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2019_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Explain why the companies buy back their own shares. How is it different from issue of bonus shares ?\n(b) \"Recognition of revenue presents two basic problems, namely timing and measurement\". Do you agree ? How would you solve these two basic problems ?\n(c) What do you understand by the term Annual Value of house property ? How would you determine the annual value of let out house property which remained vacant for part of previous year ?\n(d) Explain with suitable examples how 'Shut-down Cost' is different from 'Sunk Cost'.\n(e) Explain five major points that an auditor shall keep in mind while conducting audit of a Charitable Trust.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 288,
+        "subtags": [
+          25,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) Sun Ltd and Moon Ltd were amalgamated on and from April 01, 2019. A new company called Black-Hole Ltd was formed to take over the business of the above two companies. The balance sheets of Sun Ltd and Moon Ltd as on March 31, 2019 are given below :\n(₹ in lakhs)\n| Particulars | Sun Ltd | Moon Ltd |\n| --- | --- | --- |\n| (A) Liabilities : |  |  |\n| (i) Share Capital : |  |  |\n| Equity shares of ₹ 100 each | 2,000 | 1,600 |\n| 15% preference shares of ₹ 100 each | 800 | 600 |\n| (ii) Revaluation Reserve | 200 | 160 |\n| (iii) General Reserve | 400 | 300 |\n| (iv) Surplus Account | 160 | 120 |\n| (v) 12% Debentures of ₹ 100 each | 192 | 160 |\n| (vi) Current Liabilities | 408 | 190 |\n| Total | 4,160 | 3,130 |\n| (B) Assets : |  |  |\n| (i) Fixed Assets | 2,400 | 2,000 |\n| (ii) Current Assets, Loans and Advances | 1,760 | 1,130 |\n| Total | 4,160 | 3,130 |\nAdditional Information :\n(1) Preference shareholders of Sun Ltd and Moon Ltd have received the same number of 15% preference shares of ₹ 100 each in the new company.\n(2) 12% Debentures of Sun Ltd and Moon Ltd are discharged by the new company by issuing adequate number of 16% Debentures of ₹ 100 each to ensure that they continue to receive the same amount of interest.\n(3) Black-Hole Ltd has issued 1.5 Equity shares for each Equity share of Sun Ltd and 1 Equity share for each Equity share of Moon Ltd. The face value of shares issued by Black-Hole Ltd is ₹ 100 each.\nYou are required to prepare the balance sheet of Black-Hole Ltd as on April 01, 2019 after the amalgamation has been carried out using the \"Pooling of Interest Method\".\n(b) Two manufacturing companies which have the following operating details, decide to merge :\n| Particulars | Company X | Company Y |\n| --- | --- | --- |\n| Capacity Utilization | 90% | 60% |\n| Sales (₹ in lakh) | 540 | 300 |\n| Variable Cost (₹ in lakh) | 396 | 225 |\n| Fixed Cost (₹ in lakh) | 80 | 50 |\nAssuming that the proposal is implemented, calculate :\n(i) Break-even sales of the merged plants and capacity utilization at that stage.\n(ii) Profit of the merged plant at 80% capacity utilization.\n(iii) Sales of the merged plant to earn a profit of ₹ 75 lakh.\n(iv) When the merged plant is working at a capacity to earn a profit of ₹ 75 lakh, what percentage increase in selling price is required to sustain an increase of 5% in fixed overhead.\n(c) Discuss how the residential status of an assessee is determined for income tax purposes ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) Mr. X is a Government employee at Ludhiana and is getting following emoluments :\n(i) Salary - ₹ 30,000 per month\n(ii) Dearness Allowance (enters) - 60% of salary\n(iii) Contribution in Notified Pension Scheme - ₹ 3,000 per month\n(iv) Employer's contribution to Pension Scheme - ₹ 3,000 per month\n(v) Transport Allowance for commuting between home and office - ₹ 2,800 p.m.\n(vi) Deputation Allowance (for 2 months) - ₹ 3,000 per month\n(vii) Entertainment Allowance - ₹ 2,000 per month\n(During the year, he spent ₹ 12,000 on entertainment of official guests)\n(viii) He has been provided with a rent-free accommodation. The licence fee for the accommodation has been fixed at ₹ 2,000 per month. The government has also provided him with furniture items costing ₹ 1,00,000 (WDV - ₹ 75,000) for his personal use.\n(ix) He has been provided with the facility of a servant and watchman w.e.f. 01.10.2018 and the government is paying ₹ 3,000 per month to each of these servants.\n(x) A laptop costing ₹ 50,000 has been given to him for his official as well as personal purposes.\n(xi) On 01.10.2018 he took a loan of ₹ 2,00,000 from his employer to buy a car at a concessional rate of interest of 6.25%. The repayment of loan started w.e.f. 01.01.2019 @ ₹ 10,000 per month. SBI rate of interest as on 01.04.2018 was 9.25%.\n(xii) During the year savings made by Mr. X were :\n(a) LIC Premium :\nFor Self ₹ 10,500 (sum assured ₹ 2,00,000)\nFor Spouse ₹ 12,000 (sum assured ₹ 1,00,000)\nFor Mother ₹ 8,000 (sum assured ₹ 1,00,000)\nFor Major Son ₹ 8,000 (not dependent on him but is suffering from disability) (sum assured ₹ 50,000)\nAll life insurance policies were taken in the previous year 2014-15.\n(b) PPF Deposits : ₹ 5000\n(c) Tuition Fees of Second Son studying in a College ₹ 6,000\n(d) Repayment of Housing Loan from LIC (Principal Portion) - ₹ 36,000\nCalculate :\n(i) Salary Income\n(ii) Qualifying amount for deduction U/S 80 C.\n(b) What do you understand by budgeting ? What are the essentials of effective budgeting system ? What are its limitations ?\n(c) What is Activity Based Costing (ABC) system ? How is it different from Traditional Costing System ? Explain the Steps to implement ABC system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 288,
+        "subtags": [
+          132,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the nature and need for depreciation. Distinguish between straight line method and diminishing balance method of depreciation. What disclosures are required to be made in financial statements as per AS-6 on depreciation accounting ?\n(b) What is Responsibility Accounting ? Explain the prerequisites and the problems in its implementation.\n(c) Explain how investigation is different from that of Auditing. Under what circumstances the Central Government can order for investigation of a company ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) \"Maximization of profits is regarded as the proper objective of investment decision, but it is not as exclusive as maximizing shareholders' wealth\" - Comment.\n(b) \"A firm should follow a policy of very high dividend pay-out\". Do you agree ? Why or why not ?\n(c) Explain 'Indifference Point' (IP) in EBIT-EPS analysis.\n(d) Distinguish between Primary Market and Secondary Market.\n(e) \"Investing in securities through Mutual Fund is a better choice than direct investment\" - examine the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) A proforma cost sheet of a company provides the following particulars :\nRaw Material Cost per Unit - ₹ 70\nDirect Labour Cost per Unit - ₹ 35\nOverhead Cost per Unit - ₹ 55\nTotal Cost per Unit - ₹ 160\nProfit per Unit - ₹ 25\nSelling price per Unit - ₹ 185\nAdditional Information :\n(i) Raw Materials are in stock on an average for 1 month.\n(ii) Materials are in process on an average for 1/2 month.\n(iii) Finished goods are in stock on an average for 1 month.\n(iv) Credit allowed by Suppliers is 1 month.\n(v) Credit allowed to Debtors is 2 months.\n(vi) Lag in payment of wages is 1 1/2 weeks.\n(vii) Lag in payment of Overhead expenses is 1 month.\n(viii) 1/4th of the output is sold against cash.\n(ix) Cash in hand and at bank is expected to be ₹ 2,50,000.\nYou are required to prepare a statement showing the working capital needed to finance a level of activity of 1,04,000 Units of production. You may assume that production is carried on evenly throughout the year, wages and overheads accrue similarly and a time period of 52 weeks is equivalent to a year and 4 weeks is equivalent to a month.\n(b) From the following information of a firm, calculate the cashflow from operating activities by applying Direct Method :\n(For the year ended March 31, 2019)\nCost of Goods sold - ₹ 1,00,000\nSales - ₹ 1,50,000\nSalaries - ₹ 12,000\nInsurance Premium - ₹ 3,000\nDepreciation - ₹ 10,000\nAdditional Information :\n| Particulars | 01.04.2018 | 01.04.2019 |\n| --- | --- | --- |\n| Debtors | ₹ 18,000 | ₹ 25,000 |\n| Bills Receivables | ₹ 7,000 | ₹ 4,000 |\n| Creditors | ₹ 8,000 | ₹ 6,000 |\n| Stock | ₹ 20,000 | ₹ 25,000 |\n| Salaries Outstanding | ₹ 2,000 | ₹ 3,000 |\n| Prepaid Insurance Premium | ₹ 1,000 | ₹ 1,000 |\n(c) Illustrate the Net Income Approach relating to capital structure decision making.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) Akash Limited wishes to raise additional finance of ₹ 10 lakh for meeting its investment plans. It has ₹ 2,10,000 in the form of retained earnings available for investment purposes. The following are the further details :\n(i) Debt - Equity Mix - 30% - 70%\n(ii) Cost of Debt up to ₹ 1,80,000 - 10% (before tax)\n(iii) Cost of Debt beyond ₹ 1,80,000 - 16% (before tax)\n(iv) Earnings per share - ₹ 4\n(v) Dividend pay out - 50% of earnings\n(vi) Expected growth rate in dividend - 10%\n(vii) Current market price per share - ₹ 44\n(viii) Tax Rate - 50%\nYou are required to :\n(a) Determine the pattern for raising the additional finance.\n(b) Determine the post-tax average cost of additional debts.\n(c) Determine the cost of retained earnings and cost of equity.\n(d) Compute the overall weighted average after tax cost of additional finance.\n(b) From the following information, you are required to prepare the balance sheet of A Ltd as on March 31, 2019 :\nCurrent Ratio - 1.60 : 1\nLiquid Ratio - 1.10 : 1\nInventory Turnover - 6 times\nGross Profit Ratio - 20%\nDebt Collection Period - 1.92 months\nFixed Assets Turnover - 1.25 times\nReserves and Surplus to Capital - 0.25 : 1\nLong Term Loan to Net worth - 0.5 : 1\nFixed Assets to Net worth - 1.20 : 1\nSales for the year - ₹ 7,50,000\n(c) What is CAPM ? What are the components of CAPM equation ? Explain the meaning of each component. What does it tell us about the required return on a risky investment ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) What do you mean by corporate restructuring ? Outline its objectives. Explain the various techniques used for corporate restructuring.\n(b) What is 'Money Market' ? Discuss its features and functions.\n(c) Discuss the various functions of a commercial bank.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          21,
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    }
+  ]
+}

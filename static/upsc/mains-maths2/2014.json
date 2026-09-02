@@ -1,0 +1,395 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2014",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2014,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2014_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2014_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $G$ be the set of all real $2 \\times 2$ matrices $\\begin{bmatrix} x & y \\\\ 0 & z \\end{bmatrix}$, where $xz \\neq 0$. Show that $G$ is a group under matrix multiplication. Let $N$ denote the subset $\\left\\{ \\begin{bmatrix} 1 & a \\\\ 0 & 1 \\end{bmatrix} : a \\in \\mathbb{R} \\right\\}$. Is $N$ a normal subgroup of $G$? Justify your answer.\n(b) Test the convergence of the improper integral $\\int_0^\\infty \\frac{dx}{x^2(1 + e^{-x})}$.\n(c) Prove that the function $f(z) = u + iv$, where\n$$f(z) = \\frac{x^3(1+i) - y^3(1-i)}{x^2+y^2}, \\quad z \\neq 0; \\quad f(0) = 0$$\nsatisfies Cauchy-Riemann equations at the origin, but the derivative of $f$ at $z = 0$ does not exist.\n(d) Expand in Laurent series the function $f(z) = \\frac{1}{z^2(z - 1)}$ about $z = 0$ and $z = 1$.\n(e) Solve graphically :\nMaximize $Z = 6x_1 + 5x_2$\nsubject to\n$$2x_1 + x_2 \\leq 16$$\n$$x_1 + x_2 \\leq 11$$\n$$x_1 + 2x_2 \\geq 6$$\n$$5x_1 + 6x_2 \\leq 90$$\n$$x_1, x_2 \\geq 0$$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 449,
+        "subtags": [
+          289,
+          290,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Show that $\\mathbb{Z}_7$ is a field. Then find $([5] + [6])^{-1}$ and $(-[4])^{-1}$ in $\\mathbb{Z}_7$.\n(b) Integrate $\\int_0^1 f(x) \\, dx$, where\n$$f(x) = \\begin{cases} 2x \\sin \\frac{1}{x} - \\cos \\frac{1}{x} &, \\ x \\in \\ ]0, 1] \\\\ 0 &, \\ x = 0 \\end{cases}$$\n(c) Find the initial basic feasible solution to the following transportation problem by Vogel's approximation method. Also, find its optimal solution and the minimum transportation cost :\n| Origins \\ Destinations | $D_1$ | $D_2$ | $D_3$ | $D_4$ | Supply |\n| --- | --- | --- | --- | --- | --- |\n| $O_1$ | 6 | 4 | 1 | 5 | 14 |\n| $O_2$ | 8 | 9 | 2 | 7 | 16 |\n| $O_3$ | 4 | 3 | 6 | 2 | 5 |\n| Demand | 6 | 10 | 15 | 4 |  |",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 450,
+        "subtags": [
+          289,
+          290
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Show that the set $\\{a + b\\omega : \\omega^3 = 1\\}$, where $a$ and $b$ are real numbers, is a field with respect to usual addition and multiplication.\n(b) Obtain $\\frac{\\partial^2 f(0, 0)}{\\partial x \\partial y}$ and $\\frac{\\partial^2 f(0, 0)}{\\partial y \\partial x}$ for the function\n$$f(x, y) = \\begin{cases} \\frac{xy(3x^2 - 2y^2)}{x^2 + y^2} &, \\ (x, y) \\neq (0, 0) \\\\ 0 &, \\ (x, y) = (0, 0) \\end{cases}$$\nAlso, discuss the continuity of $\\frac{\\partial^2 f}{\\partial x \\partial y}$ and $\\frac{\\partial^2 f}{\\partial y \\partial x}$ at $(0, 0)$.\n(c) Evaluate the integral $\\int_0^\\pi \\frac{d\\theta}{\\left(1 + \\frac{1}{2} \\cos \\theta\\right)^2}$ using residues.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 449,
+        "subtags": [
+          289,
+          293
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 449
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Prove that the set $\\mathbb{Q}(\\sqrt{5}) = \\{a + b\\sqrt{5} : a, b \\in \\mathbb{Q}\\}$ is a commutative ring with identity.\n(b) Find the minimum value of $x^2 + y^2 + z^2$ subject to the condition $xyz = a^3$ by the method of Lagrange multipliers.\n(c) Find all optimal solutions of the following linear programming problem by the simplex method :\nMaximize $Z = 30x_1 + 24x_2$\nsubject to\n$$5x_1 + 4x_2 \\leq 200$$\n$$x_1 \\leq 32$$\n$$x_2 \\leq 40$$\n$$x_1, x_2 \\geq 0$$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 450,
+        "subtags": [
+          289
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 450
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the partial differential equation $(2D^2 - 5DD' + 2D'^2)z = 24(y - x)$.\n(b) Apply Newton-Raphson method to determine a root of the equation $\\cos x - xe^x = 0$ correct up to four decimal places.\n(c) Use five subintervals to integrate $\\int_0^1 \\frac{dx}{1 + x^2}$ using trapezoidal rule.\n(d) Use only AND and OR logic gates to construct a logic circuit for the Boolean expression $z = xy + uv$.\n(e) Find the equation of motion of a compound pendulum using Hamilton's equations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 452,
+        "subtags": [
+          293,
+          295,
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 453
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Reduce the equation $\\frac{\\partial^2 z}{\\partial x^2} = x^2 \\frac{\\partial^2 z}{\\partial y^2}$ to canonical form.\n(b) Solve the system of equations\n$$2x_1 - x_2 = 7$$\n$$-x_1 + 2x_2 - x_3 = 1$$\n$$-x_2 + 2x_3 = 1$$\nusing Gauss-Seidel iteration method (Perform three iterations).\n(c) Use Runge-Kutta formula of fourth order to find the value of $y$ at $x = 0.8$, where $\\frac{dy}{dx} = \\sqrt{x + y}, \\ y(0.4) = 0.41$. Take the step length $h = 0.2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 452,
+        "subtags": [
+          293
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 452
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the deflection of a vibrating string (length = $\\pi$, ends fixed, $\\frac{\\partial^2 u}{\\partial t^2} = \\frac{\\partial^2 u}{\\partial x^2}$) corresponding to zero initial velocity and initial deflection $f(x) = k(\\sin x - \\sin 2x)$.\n(b) Draw a flowchart for Simpson's one-third rule.\n(c) Given the velocity potential $\\phi = \\frac{1}{2} \\log \\left[ \\frac{(x + a)^2 + y^2}{(x - a)^2 + y^2} \\right]$, determine the streamlines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 455,
+        "subtags": [
+          293,
+          295
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 453
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Solve $\\frac{\\partial^2 u}{\\partial t^2} = \\frac{\\partial^2 u}{\\partial x^2} , \\ 0 0$, given that\n(i) $u(x, 0) = 0, \\ 0 \\leq x \\leq 1$\n(ii) $\\frac{\\partial u}{\\partial t}(x, 0) = x^2, \\ 0 \\leq x \\leq 1$\n(iii) $u(0, t) = u(1, t) = 0$, for all $t$\n(b) For any Boolean variables $x$ and $y$, show that $x + xy = x$.\n(c) Find Navier-Stokes equation for a steady laminar flow of a viscous incompressible fluid between two infinite parallel plates.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 455,
+        "subtags": [
+          293,
+          295
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 453
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    }
+  ]
+}

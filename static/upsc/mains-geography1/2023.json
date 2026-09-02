@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2023_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) What is \"Geostrophic Wind\"? Explain the relationship between barometric slope and air circulation.\n(b) What is ocean ranching? How are aqua-cowboys related to such activities?\n(c) Explain the natural processes of soil enrichment and its impact on food production.\n(d) How is 'Deep Ecology' as a concept different from 'Shallow Ecology'? Explain.\n(e) What are the environmental implications of economic geology? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          53,
+          54,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Evidences from palaeomagnetism and sea floor spreading have validated that continents and ocean basins have never been stationary.\" Elucidate with suitable diagrams.\n(b) Explain the characteristics and weather conditions associated with 'Anticyclones' giving suitable examples.\n(c) How are ocean currents generated? Discuss their effects on coastal climates with special reference to the Pacific Ocean.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": [
+          53
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) What are the causes of origin of local winds ? Discuss their significance on prevailing weather and climate in various regions, with suitable examples.\n(b) Define Peneplains. Describe the landscape features associated with peneplains under different geomorphic cycles.\n(c) What are the factors affecting regional ecological changes ? How do these affect human health ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          52,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Give an account of marine resources and their economic significance. How has marine pollution affected such resources?\n(b) Differentiate between the characteristics of organic horizons and mineral horizons in a generalised soil profile.\n(c) How does inversion of temperature occur? Explain its significance on local weather with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": [
+          3,
+          53
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Explain the sequential development of areal differentiation as a fundamental concept in Human Geography.\n(b) Discuss critically food and nutrition problems associated with the developing world.\n(c) Human migration is a reflection of the balance between push and pull factors. Elaborate with reference to the most recent diaspora.\n(d) Has Malthusian Theory been discredited in contemporary times? Justify your answer.\n(e) Discuss the different types of polarisation induced spatial inequalities and imbalances associated with growth poles.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 308,
+        "subtags": [
+          1,
+          2,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the problems and prospects of urban expansion in the context of urban fringe in developed and developing nations.\n(b) What is the relation between gender equity and human development? Provide a list of commonly used gender related indices.\n(c) Explain population, resource use and development nexus in the Limits to Growth Model. Why has this model been criticized intensively?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 309,
+        "subtags": [
+          1,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain with suitable diagrams A. Losch's model of the Theory of Location related to Central Places. Why has this been criticized ?\n(b) How can Sustainable Land Management (SLM) harmonise the complimentary goals of environmental, economic and social opportunities ? Discuss.\n(c) \"The stages of Demographic Transition are a reflection of uneven economic development across the globe.\" Explain with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 311,
+        "subtags": [
+          150,
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 311
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Rural settlements are expressions of the basic relationships between human beings and their physical and social environment.\" Discuss.\n(b) Describe the concept of Planning Region. Explain the environmental and economic factors in the creation of such regions.\n(c) \"Boundaries and frontiers have different meanings in geographical literature.\" Substantitate your answer in the present context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 309,
+        "subtags": [
+          153,
+          1
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        }
+      ]
+    }
+  ]
+}

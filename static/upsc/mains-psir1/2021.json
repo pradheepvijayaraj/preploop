@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2021_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each :\n(a) Feminist critique of the State\n(b) Affirmative action\n(c) Equality of outcome as a political idea\n(d) Tools of legitimation of the State\n(e) J. S. Mill's ideas on women suffrage",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 520,
+        "subtags": [
+          339,
+          361,
+          373
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 531
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) How has Rawls enriched the idea of justice in liberalism?\n(b) Examine the importance of behavioural approach in political theory. What led to its decline?\n(c) Can there be universal conception of human rights? Give your arguments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          361,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the Aristotelian view of politics. To what extent do you think it has contributed to the development of modern-day constitutional democracies?\n(b) \"When a nation becomes devoid of arts and learning, it invites poverty.\" (Sir Syed Ahmad Khan). In the light of this statement, assess the role of Sir Syed Ahmad Khan as a reformer in modern India.\n(c) \"Political ideology is primarily concerned with the allocation and utilization of power.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          362,
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Do you think that the Buddhist traditions have lent greater ethical foundation to the ancient Indian political thought? Give your arguments.\n(b) Marx's concept of 'alienation' is an essential part of the reality in capitalism. Explain.\n(c) \"Free and fair deliberation is key to the foundation of democracy.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 523,
+        "subtags": [
+          361,
+          363
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 523
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each (10 marks, 150 words):\n(a) \"The Constitution of India is a product of a historical process, rich with constitutional antecedents.\" Comment.\n(b) \"The Constitution makers faced the great task of forging a common national identity in the face of unparalleled social and cultural diversity in India.\" Comment.\n(c) Mention the founding principles that define India's Constitution.\n(d) Analyze the Marxist perspective of the nature of Indian National Movement.\n(e) Underline the significance of the first constitutional amendment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          197
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Constitutionally reconciling the Fundamental Rights with the Directive Principles of State Policy has led to frequent amendments of the Constitution and judicial interventions.\" Comment.\n(b) The role of the President of India becomes more significant during a minority government and a coalition government. Explain.\n(c) Do you think that despite having significant limitations the Panchayati Raj Institutions have strengthened the process of democratic decentralization? Give your views.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          9,
+          370
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 528
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The Indian party system is shaped by a complex interaction of the country's federal structure, electoral system and social cleavages.\" Explain.\n(b) Do you think that there has been a gradual shift in the basis on which the demands for the creation of new States have been raised in different regions of India? Explain.\n(c) What explains India's modest improvements in social development outcomes even as the rate of growth has accelerated since the initiation of economic reforms?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 28,
+        "subtags": [
+          362,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 28
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The success of electoral democracy can partly be attributed to the status and role of the Election Commission of India.\" Explain.\n(b) Examine the evolution of the jurisdiction of the Supreme Court of India as a constitutional court.\n(c) Explain how caste as a social category is also becoming a political category in the democratic politics of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          5,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    }
+  ]
+}

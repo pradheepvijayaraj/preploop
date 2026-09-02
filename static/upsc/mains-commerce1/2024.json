@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 1 · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2024_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Briefly explain the significance of Accounting Standard-7 (AS-7).\n(b) Explain why the companies issue right shares. How are right shares different from bonus shares ?\n(c) Discuss the main aspects of audit of a banking company in India.\n(d) Define fair rent and annual rent under income from house property as per Indian Income Tax Act, 1961. Explain it with an example.\n(e) What is job costing ? How is it different from process costing ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          131,
+          18,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) A Ltd. has acquired the business of B Ltd., whose Balance Sheet as at 31st March, 2024 is as under :\n| Particulars | (₹) | (₹) |\n| --- | --- | --- |\n| I - Equity and Liabilities : |  |  |\n| 1. Shareholders' Funds |  |  |\n| (a) Equity Share Capital (₹ 100 each) | 16,00,000 |  |\n| 6% Preference Share Capital (₹ 100 each) | 8,00,000 | 24,00,000 |\n| (b) Reserves and Surplus |  |  |\n| Capital Reserve | 2,00,000 |  |\n| Profit and Loss Account | 1,00,000 |  |\n| Workmen Compensation Reserve (expected liability ₹ 10,000) | 16,000 | 3,16,000 |\n| 2. Non-Current Liabilities |  |  |\n| 6% Debentures |  | 4,00,000 |\n| 3. Current Liabilities |  |  |\n| Trade Payables | 2,40,000 |  |\n| Other Current Liabilities (Interest payable on debentures) | 24,000 | 2,64,000 |\n| Total |  | 33,80,000 |\n| II - Assets : |  |  |\n| 1. Non-Current Assets |  |  |\n| (a) Property, Plant and Equipment |  |  |\n| Land and Building | 8,00,000 |  |\n| Plant and Machinery | 12,00,000 | 20,00,000 |\n| (b) Intangible Assets |  |  |\n| Goodwill | 4,80,000 |  |\n| Patents | 1,00,000 | 5,80,000 |\n| 2. Current Assets |  |  |\n| (a) Inventories | 3,00,000 |  |\n| (b) Trade receivables | 3,60,000 |  |\n| (c) Cash and Cash equivalents | 1,40,000 | 8,00,000 |\n| Total |  | 33,80,000 |\nA Ltd. was to take over all assets (except cash) and liabilities (except for interest due on debentures) and to pay the following amounts :\n(i) ₹ 4,00,000, 7% Debentures (₹ 100 each) in A Ltd. for the existing debentures in B Ltd.; for the purpose, each debenture of A Ltd. is to be treated as worth ₹ 105.\n(ii) For each preference share in B Ltd. ₹ 10 in cash and 9% preference shares of ₹ 100 each in A Ltd.\n(iii) For each equity share in B Ltd. ₹ 20 in cash and one equity share in A Ltd. of ₹ 100 each having market value of ₹ 140.\n(iv) Expenses of liquidation of B Ltd. are to be reimbursed by A Ltd. to the extent of ₹ 20,000. Actual expenses amounted to ₹ 25,000.\nA Ltd. valued Land and Building at ₹ 11,00,000, Plant and Machinery at ₹ 13,00,000 and Patents at ₹ 40,000 of B Ltd. for the purpose of amalgamation.\nPass necessary journal entries in the books of A Ltd. and B Ltd.\n(b) A Ltd. furnishes the following Balance Sheet as at 31st March, 2024 :\n| Particulars | ₹ (in 000) | ₹ (in 000) |\n| --- | --- | --- |\n| I - Equity and Liabilities : |  |  |\n| 1. Shareholders' Funds |  |  |\n| (a) Share Capital |  |  |\n| 6,00,000 Equity shares of ₹ 10 each fully paid up | 6,000 |  |\n| 40,000, 9% Preference shares of ₹ 100 each | 4,000 | 10,000 |\n| (b) Reserves and Surplus |  |  |\n| Capital Reserve | 20 |  |\n| Revenue Reserve | 8,000 |  |\n| Securities Premium | 1,000 |  |\n| Profit and Loss Account | 3,600 | 12,620 |\n| 2. Non-Current Liabilities |  |  |\n| 10% Debentures |  | 800 |\n| 3. Current Liabilities |  |  |\n| Trade Payables |  | 80 |\n| Total |  | 23,500 |\n| II - Assets : |  |  |\n| 1. Non-Current Assets |  |  |\n| (a) Property, Plant and Equipment | 5,500 |  |\n| (b) Non-Current Investments (at cost) | 10,000 | 15,500 |\n| 2. Current Assets |  |  |\n| (a) Inventories | 2,000 |  |\n| (b) Trade receivables | 4,000 |  |\n| (c) Cash and Cash equivalents | 2,000 | 8,000 |\n| Total |  | 23,500 |\nThe company passed a resolution to buy back 20% of its equity capital @ ₹ 15 per share. For this purpose, it sold its investments of ₹ 60 lakhs for ₹ 50 lakhs.\nYou are required to pass necessary journal entries in the books of A Ltd. and prepare Balance Sheet after buyback of shares.\n(c) (i) State the methods of computation of Short-term and Long-term capital gains under Indian Income Tax Act, 1961.\n(ii) State the rules of capital gains in case of transfer of depreciable assets under Section 50 of the Indian Income Tax Act, 1961.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) During the month of May 2024, total 2000 units were introduced into Process-I. The normal loss was estimated at 5% on input. At the end of the month, 1400 units had been produced and transferred to the next process, 460 units were incomplete and 140 units had been scrapped. It was estimated that incomplete units had reached a stage in production as follows :\nMaterial 75% completed\nLabour 50% completed\nOverheads 50% completed\nThe cost of 2000 units introduced was ₹ 5,800. Direct material introduced during the process amounted to ₹ 1,440. Production Overheads incurred were ₹ 1,670 and Direct Labour was ₹ 3,340. Each unit scrapped was realized at ₹ 1 each unit. The units scrapped have passed through the process, so were 100% completed as regards material, labour and overheads.\nYou are requested to prepare the following statements :\n(i) Statement of Equivalent Production;\n(ii) Statement of Cost and Evaluation;\n(iii) Process-I Account; and\n(iv) Abnormal Loss Account.\n(b) \"Cost Accounting is a system of foresight and not a post-mortem, it turns losses into profits, speeds up activities and eliminates waste.\" Explain the statement along with your viewpoints.\n(c) What are the key differences between Special Audit and Accounts Investigation ? Give your viewpoint along with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) Mrs. Y (59 years) receives ₹ 7,90,000 as basic pay and ₹ 1,18,000 as bonus during the previous year 2023 - 24. Besides, she gets ₹ 52,000 as Dearness Allowance (forming part of salary) and 4 percent commission on turnover achieved by her. During the year, turnover achieved by her is ₹ 90 lakh. The employer contributes ₹ 2,24,240 towards recognised provident fund. The amount of interest credited to provident fund on 30 November, 2023 at the rate of 10 percent comes to ₹ 40,000. She also gets child education allowance of ₹ 450 per month (for daughter) and ₹ 80 per month (for son). Cost of education is approximately ₹ 1,80,000 for two children (out of which ₹ 1,10,000 is tuition fees paid by Mrs. Y).\nThe employer company provides 1800 cc car to her for official and private purpose and incurs the entire expenditure on running and maintenance of the car. Personal use of the car as per log book is approximately 65 percent. With effect from 1 November, 2023, she gets a driver to whom the company pays ₹ 6,000 per month. Her income from house property is ₹ 1,65,000.\nDuring the year she makes the following contributions and investments :\n(i) Own contribution towards provident fund ₹ 3,36,360.\n(ii) Insurance premium on own life ₹ 9,000 (sum assured ₹ 80,000, policy taken in December 2018).\n(iii) Contribution towards NSC VIII issue ₹ 11,000.\n(iv) Insurance premium on the life of major son (not dependent on her) ₹ 4,000 (sum assured ₹ 1,00,000).\n(v) Insurance premium on the life of her mother (age 80 years) dependent on her ₹ 2,000.\n(vi) Repayment of loan taken to purchase house property ₹ 21,000.\nDetermine the taxable income of Mrs. Y for the assessment year 2024 - 25 under regular tax regime. Also calculate Gross Qualifying amount under Section 80 C.\n(b) What are the conditions required for availing of additional depreciation as per the Indian Income Tax Act, 1961 ? Explain with a detailed example.\n(c) Discuss in detail the important checklist points for a smooth and effective audit of non-profit making organisations. How is it different from the audit of modern day business organisations ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 288,
+        "subtags": [
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Define corporate restructuring. Differentiate between mergers and acquisitions. Also give suitable examples.\n(b) Distinguish between money market and capital market. Explain the present state of RBI policy for the money market.\n(c) Discuss the objectives of financial management. Why is wealth-maximization the preferred objective ?\n(d) \"Indian capital markets are sound and well-structured under SEBI's supervision.\" Explain this statement.\n(e) \"Investment decisions are more important than financing and distribution decisions in financial management.\" Discuss this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) Six years ago, a machine was purchased for ₹ 3,00,000. It has been depreciated to a book value of ₹ 1,80,000. Its economic life was 15 years with no salvage value. If this machine is replaced by a new machine costing ₹ 4,50,000, the operating cost would be reduced by ₹ 60,000 for the next 10 years. The old machine could also be sold for ₹ 10,000. The cost of capital is 10%. The new machine will be depreciated on straight line basis over eight years life with ₹ 50,000 as salvage value.\nAssuming the company's tax rate to be 55% and using the NPV method, state whether the old machine should be replaced or not.\nThe present value factor at 10% is as follows :\n| Year | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| PVF | 0.909 | 0.826 | 0.751 | 0.683 | 0.621 | 0.564 | 0.513 | 0.467 |\n||  |  |  |  |  |  |  |  |\n(b) Discuss the risk-return trade-off in financial decisions. Give examples.\n(c) How will you measure the degree of combined leverage ? Also describe the effects of combined leverage along with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          132,
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) The Board of Directors of a company asks to prepare a statement showing working capital estimates for a level of activity of 15,600 units of production. The following information is available for calculation :\n(A) Per Unit Cost and Selling Price :\nRaw materials ₹ 90\nLabour ₹ 40\nOverheads ₹ 75\n₹ 205\nProfit ₹ 60\nSelling Price ₹ 265\n(B) (i) Raw materials are in stock on an average for one month.\n(ii) Raw materials are in process on an average for two weeks.\n(iii) Finished goods are in stock on an average for one month.\n(iv) Credit allowed by suppliers - one month.\n(v) Credit allowed to debtors - two months.\n(vi) Lag in payment of wages - 1 1/2 weeks.\n(vii) Lag in payment of overheads is one month.\n20% of the production is sold against cash. Cash in hand is expected to be ₹ 60,000. It is to be assumed that production is carried on evenly, throughout the year, wages and overheads accrue similarly and the time period of 4 weeks is equivalent to one month.\n(b) A company has earnings of ₹ 1,00,000. The capital structure of the company contains debt as well as equity in which debt is of ₹ 4,00,000 borrowed at the rate of 10%. Presently, the cost of equity capital of the company is 12.50%. Find out the total value of the company and the overall cost of capital using Net Income approach. If debt is increased or reduced by ₹ 1,00,000, what will be the effect on the value of the company and on overall cost of capital as per the Net Income approach ?\n(c) Discuss the leading financial market instruments and innovative debt instruments in the Indian financial system. Also give suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 42
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the key classification of the Indian financial system. Make a diagram that depicts the entire financial system and its key components.\n(b) \"The insurance industry in India is growing very fast under the direction and control of IRDA.\" In the light of this statement, discuss the emerging trends in life and health insurance. Also explain the government policy initiatives in this regard.\n(c) Define working capital management in a manufacturing firm. What are the key components of working capital ? How does inventory management hold importance over cash management in modern business organisations ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    }
+  ]
+}

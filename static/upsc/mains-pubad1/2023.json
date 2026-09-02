@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2023_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Public administration horizons have been expanding to cater to the complex needs of the citizens in the globalized era. Explain.\n(b) Efficiency, in the specialized sense, is an organization's capacity to offer effective inducements in sufficient quantity to maintain the equilibrium of the system. Analyze.\n(c) \"The process of decisions.....is largely technique of narrowing choices.\" Explain.\n(d) \"The judiciary is playing a more positive role in policy formulation, not just in limiting government actions, but also in mandating them.\" Comment.\n(e) \"Citizen Charter's focus is on empowering citizens concerning public service delivery.\" Analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          390,
+          393,
+          392
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) Follett firmly advocated for cultivating interdependence and collaboration among individuals as the key to resolving conflicts and establishing more harmonious and all encompassing social structures. Discuss.\n(b) Minnowbrook III emphasized the importance of empirical research in generating valuable insights for public administration and recognized the need to tailor education in the field to different regional contexts. Examine.\n(c) \"Public-Private Partnerships (PPPs) have been justified in various ways over time that seek to privatize public services for the profit of private entities.\" Do you agree?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          390,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Organization theory is not a single theory with a loosely knit of many approaches to organizational analysis, and it provides different answers to different situations.\" Comment.\n(b) \"Intrinsic motivation in comparison to extrinsic motivation leads to enhanced performance and creativity.\" Examine.\n(c) \"The backlash against Right to Information (RTI) by the State hampered the citizen's right to know.\" Examine and point out the need to amend the RTI Act to provide protection to RTI activists.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          392,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Reddin model of leadership added third dimension to the existing two basic dimensions of leadership identified by Ohio Studies and Blake and Mouton.\" Elucidate.\n(b) \"Two-factor theory entails certain factors in workplace resulting in job satisfaction, while others, if absent, lead to dissatisfaction.\" Discuss.\n(c) \"Subordinate legislation has its drawbacks; this does not negate the fact that it is also quite beneficial.\" Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          395
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 553
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) \"The Constitution of French Republic does not prohibit ministers from being the leader of political party; it is customary that minister should not occupy such a post to ensure impartiality.\" Explain.\n(b) The ultimate goal of using Management Information System (MIS) is to increase values and productivity in organizations. Explain.\n(c) \"Cost-benefit analysis is of great help to the policy makers in framing policies and providing advice on developing public policy.\" Examine.\n(d) \"Monetary policy and fiscal policy are different; but both are used to regulate economy.\" Discuss.\n(e) \"Instead of conflicting, the employer-employee relationship should be one of mutual reliance.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          395,
+          399,
+          398
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 556
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The studies in Comparative Public Administration (CPA) got momentum in 1980's and 1990's with a new objective and orientation than its previous counterparts.\" Critically examine.\n(b) \"In explaining the 'development', Weidner made a distinction between change in the output and change in the system itself; and warned that what is growth from one point of view may decline from another.\" Comment.\n(c) \"Zero-based budgeting (ZBB) is based on programme efficiency rather than budget history.\" In the light of this, examine the advantages of ZBB over traditional budget.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 554,
+        "subtags": [
+          397,
+          400
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 558
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Public policy-making is an effort to apply the methods of political analysis to policy areas but has concerns with processes inside the bureaucracy and stakeholders.\" Discuss.\n(b) \"In career advancement, civil servants are necessitated to political superiors and hence the phenomenon poses the challenges to civil service neutrality.\" Comment.\n(c) \"Information Communication Technology (ICT) can harness the power of Artificial Intelligence (AI) to execute the policies more intelligently creating an efficient and effective Government.\" Examine and identify the challenges.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          398,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The management of sound public finances used to be the backbone of administrative systems; but unfortunately, it has become the prisoner of populist policies.\" Critically evaluate.\n(b) \"Women empowerment is essential for sustainable development; hence it should not be reflected only in programmes but promoting concrete actions to ensure the participation across institutions and communities.\" Critically examine.\n(c) \"Training is not a short affair; rather it is a step-by-step process of developing skills, habits, knowledge and aptitude.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          397,
+          398
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 556
+        }
+      ]
+    }
+  ]
+}

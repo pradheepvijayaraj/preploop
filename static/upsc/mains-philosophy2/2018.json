@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2018_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) What is meant by liberal democracy? Does it require deeper principles for social cohesion to balance its own strong affirmation of individual rights? Give reasons from the Indian context.\n(b) Do you subscribe to the view that Indian cultural identity needs to integrate the principles of multi-culturalism and respect for the dignity of each person? Justify your answer.\n(c) It is said that the traditional hold of caste-based groups on Indian social behaviour has survived all attempts to build alternate identities. Discuss in the light of M.K. Gandhi.\n(d) Discuss Kautilya's concept of sovereignty in the light of 'Danda-neeti'.\n(e) What measures do you suggest to eradicate corruption in Indian democracy?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          346,
+          350,
+          342,
+          344
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 504
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 502
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) How far can liberty and equality be considered as distinctive features of democracy? Discuss.\n(b) Critically evaluate Laski's view on sovereignty as a satisfactory position in political theory.\n(c) Do you subscribe to the political ideology of Anarchists? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 499,
+        "subtags": [
+          342,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by multi-culturalism ? How are globalization and multi-culturalism related ? How does their relationship affect cultural changes ?\n(b) Are Marxian Socialism and individual freedom consistent ? Discuss critically.\n(c) What form of humanism do you approve as relevant in the present day context ? Discuss in detail.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 504,
+        "subtags": [
+          33,
+          345
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 504
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 503
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Human rights and human dignity would no longer be the product of a particular culture, rather a common human aspiration for an ideal world.\" Discuss.\n(b) How do you evaluate gender discrimination in the context of female foeticide?\n(c) Is feminism an ideology for empowerment or for equality? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          349,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) In what sense is the secular use of language different from the religious use of language? Discuss.\n(b) How far is it plausible to argue that the anti-theistic religions' stand on the concept of rebirth is philosophically significant?\n(c) Can you justify religion without God? Support your answer.\n(d) Can one claim that there is an inter-relatedness between 'religiosity' and 'immorality'? Discuss.\n(e) Is Hinduism poly-theistic? Give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          360,
+          359
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 517
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between Exclusivism, Inclusivism and Pluralism with regard to the conflicting truth-claims of different religions.\n(b) \"Truth is one, yet people perceive differently.\" Critically evaluate by considering the present Indian context.\n(c) Does the concept of God entail the existence of God ? Examine from the perspective of ontological argument.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          359,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) The terms 'Sacred' and 'Holy' have come to serve as generic names for the object of religion. Do you agree that one can have God as the object of religion ? Discuss.\n(b) Critically examine Braithwaite's non-cognitive theory of religious language.\n(c) Evaluate the concept of Bhakti (Devotion) as a pathway to attain liberation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          360,
+          354
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) Compare St. Thomas Aquinas' five ways of knowing God with the arguments of the Nyāya School of Indian Philosophy for the existence of God.\n(b) Critically evaluate the Buddhistic arguments against the existence of God as the creator of the world.\n(c) Explain the significance of religious symbols as transcendent referent that mediates into the cultural, spatial and temporal world.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 510,
+        "subtags": [
+          360
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 518
+        }
+      ]
+    }
+  ]
+}

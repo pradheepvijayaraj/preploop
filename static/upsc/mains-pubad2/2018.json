@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2018_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"A government next-door is the government that matters most for the people.\" Discuss the statement with special reference to the values of local government.\n(b) \"The philosophy of the Westminster model is at odds with the political culture of India.\" Critically analyse.\n(c) \"The attached offices and subordinate offices are integral to the functioning of the Cabinet Secretariat.\" Discuss.\n(d) It is apprehended that lateral entry will lead to politicisation of bureaucracy. Do you agree? Justify.\n(e) \"Contracting out tasks without effective accountability mechanisms can be counter-productive for effective service delivery.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          409,
+          404,
+          403
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The market-driven profitability concerns have shaken the foundation of the public sector undertakings.\" Do you agree? Give reasons.\n(b) It is argued that the NITI Aayog has broken the edifice of planning into fragments. Comment.\n(c) \"Autonomy of civil society is crucial for responsive and effective administration.\" Examine the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 561,
+        "subtags": [
+          15,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the criteria adopted by the 15th Finance Commission for allocation of resources to States. What have been the major issues of contention since the 10th Finance Commission ?\n(b) \"In the coalition era with elusive majority of a single party in the State Legislature, the role of the Governor becomes even more challenging.\" Discuss.\n(c) \"Development management advocates self-sustaining customer-friendly institutions at the district level.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 570,
+        "subtags": [
+          414,
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Climate change issues pose new challenges for district administration to be proactive.\" Elaborate.\n(b) \"Judicial overreach to a large extent is a consequence of ineffective executive.\" Examine.\n(c) \"In the transition from the State-led economy to the market economy, India should rely more on 'indicative planning.' Do you agree? Explain your position.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 564,
+        "subtags": [
+          404,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"The 'enablers' and 'facilitators' are yet to replace the 'inspectors' and 'controllers' in the civil service in India.\" Do you agree? Justify.\n(b) \"Financial inclusion needs legal backing but it also requires increasing awareness for it to become a reality.\" Discuss.\n(c) \"Gender budgeting requires rethinking beyond allocations to become a powerful tool of gender mainstreaming.\" Discuss.\n(d) \"Social audit has lent a critical edge to the implementation of programmes such as MGNREGA.\" Comment.\n(e) \"The AFSPA debate reveals that the Indian paramilitary forces are caught between the imperatives of national security and protection of human rights.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 565,
+        "subtags": [
+          12,
+          413
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 571
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Competency mapping is important for effective allocation of responsibilities to administrators.\" Do you think that a generalist administrator can handle all issues as effectively as a specialist? Discuss.\n(b) \"The recommendations of various commissions on administrative reforms have not made a radical departure from the Paul Appleby Report.\" Do you agree? Give reasons.\n(c) \"Performance management requires identification of indicators and measures to ensure that goals are achieved efficiently.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 572,
+        "subtags": [
+          408,
+          407
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Rural development programmes have failed to effectively address the problems of small and marginal farmers.\" Analyse and give suggestions.\n(b) \"In the Network Era the TRAI has the challenging task of protecting the Net Neutrality from digital aggression.\" Comment.\n(c) \"Neighbourhood management provides an appropriate glocal strategy of dealing with social exclusion in the urban development scenario.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          12,
+          409
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 567
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Effective public grievance redressal requires administrative commitment. But process reengineering can help prevent some grievances.\" Discuss.\n(b) \"Institutional change is a necessary but not a sufficient condition for reducing criminalisation of politics.\" Examine.\n(c) \"The disempowerment and depoliticisation of urban local government has happened in multiple ways.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 566,
+        "subtags": [
+          409
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 567
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2019_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) In the text of Arthashastra, \"the State is neither a police State nor merely a tax gathering State\". Comment.\n(b) The economic reforms have significantly infringed the basic values and spirit of the Indian Constitution. Examine.\n(c) Macaulay's ideas on Indian Civil Service corresponded to the elite theory of bureaucracy, which continue to persist. Do you agree? Justify.\n(d) There has been an opinion that the ethos of Indian Judicial System continue to be colonial. Suggest measures for raising the level of judicial excellence for achieving speedy justice.\n(e) Various commissions have reiterated the crucial role of the Governor in Indian system of governance, but the successive governments have not heeded to make the Governor's office apolitical. Examine with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 563,
+        "subtags": [
+          408,
+          12,
+          401,
+          412
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) Article 356 acts \"very much like the proverbial bolt from the blue ... without giving an opportunity or notice to the State Government to correct its alleged shortcomings\". This phenomenon not only undermines the autonomy of the State Government, but also demeans the status of the President of India. Critically analyze.\n(b) Public Sector Undertakings were expected to take the Indian economy to the 'commanding heights', instead the successive governments have been pushing for disinvestment. Critically examine how the scenario has changed over the years.\n(c) Emerging developmental aspirations of the society necessitate the constitutional amendment to change the present safeguards available to the civil servants. Evaluate the pros and cons of such amendment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          403
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Strong PMO is anti-thesis to the feature of collective responsibility of Council of Ministers.\" Examine the issues in relation to the position of PMO vis-à-vis Council of Ministers in the light of this statement.\n(b) Capacity issues relating to employees have hampered the implementation of several government programmes. Trace the reasons in the context of the provisions of the National Training Policy, 2012.\n(c) The strategy to deal with the non-performing assets of banks may lead to overburdened taxpayers. Examine the role of government to protect the interests of both.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 563,
+        "subtags": [
+          12,
+          407
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) Considerable attention has been paid to the restructuring of the administrative systems at the Central and local levels, but very few reforms have been undertaken at the State level. What steps would you suggest to rectify it?\n(b) It is observed that non-functioning of District Planning Committees is preventing the convergence of rural and urban planning needs. Do you agree? Justify.\n(c) The police-public interface is punctuated with distrust and fear. Suggest how the police can reform its image in the eyes of the public.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 566,
+        "subtags": [
+          15,
+          410
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) The evidences suggest that the dream of deliberative democracy could not be realized in practice at the grassroot level. Evaluate the impediments in the functioning of Gram Sabha.\n(b) \"The RTI has started its journey, but is far from its destination.\" In the view of the statement, examine the present status of the RTI movement.\n(c) The concept of new localism arrangement may defeat the very purpose of local self-governance. Do you agree? Justify.\n(d) Effective 'Performance Management System' needs to precede 'taking deadwood out' from bureaucracy. Comment.\n(e) All weather rural connectivity scheme to even unconnected rural habitations has the potential to transform the rural economy. Do you agree? Justify.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          405,
+          409,
+          406,
+          128
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) The office of the District Collector has merely become a bureau for funnelling government schemes, collecting statistics and an officer on attendance for unending VIP duties. Critically examine its role in the light of the recommendations of the Second Administrative Reforms Commission.\n(b) Minimal accountability being the dominant norm in the political system, the Lokpal can only be an ideal institution with limited effectiveness. Explain.\n(c) 'Sevottam Scheme' had great potential to reform service delivery, but opportunity is frittered away. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 566,
+        "subtags": [
+          412
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) The National Policy on Disaster Management envisages a paradigm shift from hitherto reactive post-disaster relief centric regime to more pro-active and enabling environment. Examine the responses of State Governments in this regard.\n(b) Efforts to strengthen State Finance Commissions have faced apathy of State Governments over the years, which has also affected the successive Central Finance Commissions in recommending appropriate fiscal transfers to local bodies. Substantiate the answer with examples.\n(c) Accountability of regulatory bodies would address the problem of over-regulation and help make them truly facilitators. Analyze the present status of regulators and suggest measures to induce accountability in the mechanism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 570,
+        "subtags": [
+          415
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 573
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) 'NITI Aayog' has changed the way India strategized for economic development, but its effectiveness is yet to be seen, especially when its financial powers are far less than its predecessor. Analyze.\n(b) Even though the law and order administration is a State subject, it is paradoxical that the Central agencies—NIA or paramilitary forces under the Union Government—have restricted the powers of State Governments. Discuss.\n(c) Performance grants devolved by Finance Commission of India have increased the financial accountability of the local bodies. Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          405,
+          412
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        }
+      ]
+    }
+  ]
+}

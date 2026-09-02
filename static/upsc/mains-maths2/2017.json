@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2017_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $x_1 = 2$ and $x_{n+1} = \\sqrt{x_n + 20}, n = 1, 2, 3, \\dots$ . Show that the sequence $x_1, x_2, x_3, \\dots$ is convergent.\n(b) Let G be a group of order n. Show that G is isomorphic to a subgroup of the permutation group $S_n$.\n(c) Find the supremum and the infimum of $\\frac{x}{\\sin x}$ on the interval $\\left(0, \\frac{\\pi}{2}\\right]$.\n(d) Determine all entire functions f(z) such that 0 is a removable singularity of $f\\left(\\frac{1}{z}\\right)$.\n(e) Using graphical method, find the maximum value of\n$$2x + y$$\nsubject to\n$$4x + 3y \\le 12$$\n$$4x + y \\le 8$$\n$$4x - y \\le 8$$\n$$x, y \\ge 0.$$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 448,
+        "subtags": [
+          289,
+          294,
+          291,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) Let\n$$f(t) = \\int_{0}^{t} [x] dx,$$\nwhere [x] denotes the largest integer less than or equal to x.\n(i) Determine all the real numbers t at which f is differentiable.\n(ii) Determine all the real numbers t at which f is continuous but not differentiable.\n(b) Using contour integral method, prove that\n$$\\int_{0}^{\\infty} \\frac{x \\sin mx}{a^2 + x^2} dx = \\frac{\\pi}{2} e^{-ma}.$$\n(c) Let F be a field and F[X] denote the ring of polynomials over F in a single variable X. For f(X), g(X) $\\in$ F[X] with g(X) $\\ne$ 0, show that there exist q(X), r(X) $\\in$ F[X] such that degree (r(X)) < degree (g(X)) and\n$$f(X) = q(X) \\cdot g(X) + r(X).$$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 447,
+        "subtags": [
+          290,
+          291
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 447
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Show that the groups $\\mathbb{Z}_5 \\times \\mathbb{Z}_7$ and $\\mathbb{Z}_{35}$ are isomorphic.\n(b) Let $f = u + iv$ be an analytic function on the unit disc $D = \\{z \\in \\mathbb{C} : |z| < 1\\}$. Show that\n$$\\frac{\\partial^2 u}{\\partial x^2} + \\frac{\\partial^2 u}{\\partial y^2} = 0 = \\frac{\\partial^2 v}{\\partial x^2} + \\frac{\\partial^2 v}{\\partial y^2}$$\nat all points of D.\n(c) Solve the following linear programming problem by simplex method :\nMaximize\n$$z = 3x_1 + 5x_2 + 4x_3$$\nsubject to\n$$2x_1 + 3x_2 \\le 8$$\n$$2x_2 + 5x_3 \\le 10$$\n$$3x_1 + 2x_2 + 4x_3 \\le 15$$\n$$x_1, x_2, x_3 \\ge 0.$$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 450,
+        "subtags": [
+          289,
+          293
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) For a function $f : \\mathbb{C} \\to \\mathbb{C}$ and $n \\ge 1$, let $f^{(n)}$ denote the $n^{\\text{th}}$ derivative of f and $f^{(0)} = f$. Let f be an entire function such that for some $n \\ge 1$, $f^{(n)}\\left(\\frac{1}{k}\\right) = 0$ for all k = 1, 2, 3, ... . Show that f is a polynomial.\n(b) Find the initial basic feasible solution of the following transportation problem using Vogel's approximation method and find the cost.\n|  | $D_1$ | $D_2$ | $D_3$ | $D_4$ | $D_5$ | Supply |\n| --- | --- | --- | --- | --- | --- | --- |\n| $O_1$ | 4 | 7 | 0 | 3 | 6 | 14 |\n| $O_2$ | 1 | 2 | -3 | 3 | 8 | 9 |\n| $O_3$ | 3 | -1 | 4 | 0 | 5 | 17 |\n| Demand | 8 | 3 | 8 | 13 | 8 |  |\n(c) Let $\\sum_{n=1}^{\\infty} x_n$ be a conditionally convergent series of real numbers. Show that there is a rearrangement $\\sum_{n=1}^{\\infty} x_{\\pi(n)}$ of the series $\\sum_{n=1}^{\\infty} x_n$ that converges to 100.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 448,
+        "subtags": [
+          291,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 450
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 448
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve $(D^2 - 2DD' + D'^2) z = e^{x + 2y} + x^3 + \\sin 2x$,\nwhere\n$$D \\equiv \\frac{\\partial}{\\partial x}, \\quad D' \\equiv \\frac{\\partial}{\\partial y}, \\quad D^2 \\equiv \\frac{\\partial^2}{\\partial x^2}, \\quad D'^2 \\equiv \\frac{\\partial^2}{\\partial y^2}.$$\n(b) Explain the main steps of the Gauss-Jordan method and apply this method to find the inverse of the matrix\n$$\\begin{bmatrix} 2 & 6 & 6 \\\\ 2 & 8 & 6 \\\\ 2 & 6 & 8 \\end{bmatrix}.$$\n(c) Write the Boolean expression\n$$z (y + z) (x + y + z)$$\nin its simplest form using Boolean postulate rules. Mention the rules used during simplification. Verify your result by constructing the truth table for the given expression and for its simplest form.\n(d) Let $\\Gamma$ be a closed curve in xy-plane and let S denote the region bounded by the curve $\\Gamma$. Let\n$$\\frac{\\partial^2 w}{\\partial x^2} + \\frac{\\partial^2 w}{\\partial y^2} = f(x, y) \\quad \\forall (x, y) \\in S.$$\nIf f is prescribed at each point (x, y) of S and w is prescribed on the boundary $\\Gamma$ of S, then prove that any solution $w = w(x, y)$, satisfying these conditions, is unique.\n(e) Show that the moment of inertia of an elliptic area of mass M and semi-axis a and b about a semi-diameter of length r is $\\frac{1}{4} M \\frac{a^2 b^2}{r^2}$. Further, prove that the moment of inertia about a tangent is $\\frac{5M}{4} p^2$, where p is the perpendicular distance from the centre of the ellipse to the tangent.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          294,
+          295,
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 453
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Find a complete integral of the partial differential equation\n$$2 (pq + yp + qx) + x^2 + y^2 = 0.$$\n(b) For given equidistant values $u_{-1}, u_0, u_1$ and $u_2$, a value is interpolated by Lagrange's formula. Show that it may be written in the form\n$$u_x = y u_0 + x u_1 + \\frac{y (y^2 - 1)}{3!} \\Delta^2 u_{-1} + \\frac{x (x^2 - 1)}{3!} \\Delta^2 u_0,$$\nwhere $x + y = 1$.\n(c) Two uniform rods AB, AC, each of mass m and length 2a, are smoothly hinged together at A and move on a horizontal plane. At time t, the mass centre of the rods is at the point $(\\xi, \\eta)$ referred to fixed perpendicular axes Ox, Oy in the plane, and the rods make angles $\\theta \\pm \\phi$ with Ox. Prove that the kinetic energy of the system is\n$$m \\left[ \\dot{\\xi}^2 + \\dot{\\eta}^2 + \\left( \\frac{1}{3} + \\sin^2 \\phi \\right) a^2 \\dot{\\theta}^2 + \\left( \\frac{1}{3} + \\cos^2 \\phi \\right) a^2 \\dot{\\phi}^2 \\right].$$\nAlso derive Lagrange's equations of motion for the system if an external force with components [X, Y] along the axes acts at A.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 454,
+        "subtags": [
+          293,
+          294
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Reduce the equation\n$$y^2 \\frac{\\partial^2 z}{\\partial x^2} - 2xy \\frac{\\partial^2 z}{\\partial x \\partial y} + x^2 \\frac{\\partial^2 z}{\\partial y^2} = \\frac{y^2}{x} \\frac{\\partial z}{\\partial x} + \\frac{x^2}{y} \\frac{\\partial z}{\\partial y}$$\nto canonical form and hence solve it.\n(b) Derive the formula\n$$\\int_{a}^{b} y dx = \\frac{3h}{8} [ (y_0 + y_n) + 3 (y_1 + y_2 + y_4 + y_5 + \\dots + y_{n-1}) + 2 (y_3 + y_6 + \\dots + y_{n-3}) ].$$\nIs there any restriction on n ? State that condition. What is the error bound in the case of Simpson's $\\frac{3}{8}$ rule ?\n(c) A stream is rushing from a boiler through a conical pipe, the diameters of the ends of which are D and d. If V and $v$ be the corresponding velocities of the stream and if the motion is assumed to be steady and diverging from the vertex of the cone, then prove that\n$$\\frac{v}{V} = \\frac{D^2}{d^2} e^{(v^2 - V^2) / 2K},$$\nwhere K is the pressure divided by the density and is constant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 452,
+        "subtags": [
+          293,
+          297
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Given the one-dimensional wave equation\n$$\\frac{\\partial^2 y}{\\partial t^2} = c^2 \\frac{\\partial^2 y}{\\partial x^2}; \\quad t > 0,$$\nwhere $c^2 = \\frac{T}{m}$, T is the constant tension in the string and m is the mass per unit length of the string.\n(i) Find the appropriate solution of the above wave equation.\n(ii) Find also the solution under the conditions\n$y(0, t) = 0, \\quad y(l, t) = 0$ for all t\nand $\\left[ \\frac{\\partial y}{\\partial t} \\right]_{t = 0} = 0, \\quad y(x, 0) = a \\sin \\frac{\\pi x}{l}, \\quad 0 0.$\n(b) Write an algorithm in the form of a flow chart for Newton-Raphson method. Describe the cases of failure of this method.\n(c) If the velocity of an incompressible fluid at the point (x, y, z) is given by\n$$\\left( \\frac{3xz}{r^5}, \\frac{3yz}{r^5}, \\frac{3z^2 - r^2}{r^5} \\right), \\quad r^2 = x^2 + y^2 + z^2,$$\nthen prove that the liquid motion is possible and that the velocity potential is $\\frac{z}{r^3}$. Further, determine the streamlines.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          294,
+          297
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 451,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    }
+  ]
+}

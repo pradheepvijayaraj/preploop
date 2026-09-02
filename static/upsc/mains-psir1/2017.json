@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2017_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each :\n(a) According to Sri Aurobindo, Swaraj is a necessary condition for India to accomplish its destined goal\n(b) Neo-liberal perspective of State\n(c) Post-modernism\n(d) Eco-feminism\n(e) Hobbesian notion of Political Obligation",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          362,
+          364,
+          373,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 531
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Rawls' theory of justice is both contractual and distributive. Examine.\n(b) Everywhere, inequality is a cause of revolution – Aristotle. Comment.\n(c) Define Socialism. Discuss the salient features of Fabian Socialism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          339,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by Multiculturalism ? Discuss Bhikhu Parekh's views on Multiculturalism.\n(b) Deliberative democracy does not have its salience without participation and participatory democracy does not have its credence without deliberations. Comment.\n(c) Differentiate between Freedom and Liberty. Discuss Marx's notion of freedom.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 530,
+        "subtags": [
+          363,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 530
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Political democracy could not last unless social democracy lay at its base – B.R. Ambedkar. Comment.\n(b) Write a brief note on The End of History debate.\n(c) What do you understand by the notion of Statecraft? Discuss the theory of statecraft as given by Kautilya.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          364,
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each :\n(a) The success of Mahatma Gandhi lay in transforming both political and non-political movements into a unified nationalist movement.\n(b) Right to privacy is an intrinsic part of the right to life.\n(c) Indian federation has moved from cooperative federation to competitive federation.\n(d) State subvention/funding may be an effective instrument in strengthening electoral democracy in India.\n(e) In the post-liberalization era, Indian politics is moving from ascriptive politics to developmental politics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          11,
+          7,
+          363
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Differentiate parliamentary supremacy from parliamentary sovereignty. Would you consider the Indian Parliament as a Sovereign Parliament ? Examine.\n(b) Has the 73rd Constitutional Amendment empowered women in panchayats in India ? Discuss.\n(c) Religion is still an important factor in Indian politics. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 523,
+        "subtags": [
+          5,
+          372
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 523
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 530
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) India has moved from 'one-party dominant system' to 'one-party led coalition'. Discuss.\n(b) How is the President of India elected ? Outline the salient characteristics of the electoral college of the Indian President.\n(c) Examine the role of the National Commission for Minorities in preserving, promoting and protecting the rights of minorities in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 28,
+        "subtags": [
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 28
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) Judiciary has acquired the role of both, a legislature and an executive in recent years. Examine with suitable examples.\n(b) What do you understand by Green Revolution? Do you think that a Second Green Revolution is needed to adequately address the agrarian challenges in contemporary India? Examine.\n(c) Differentiate Moderate Nationalism from Extremist/Militant Nationalism in terms of their objectives and means.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 526,
+        "subtags": [
+          13,
+          197
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 526
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 355
+        }
+      ]
+    }
+  ]
+}

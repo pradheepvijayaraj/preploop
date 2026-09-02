@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2016_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers of the following questions in about 150 words each :\n(a) \"Sociology is pre-eminently study of modern societies.\" Discuss.\n(b) What is 'value-free sociology'? Clarify.\n(c) Analyze the importance of qualitative method in social research.\n(d) Evaluate Marx's ideas on mode of production.\n(e) \"Vertical mobility brings structural change even in a closed social system.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 574,
+        "subtags": [
+          418,
+          419,
+          421
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 579
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Elucidate the basic premises of Davis' structural-functional theory of social stratification. How far is it relevant in understanding contemporary Indian society?\n(b) Describe the functional prerequisites of social system as given by Talcott Parsons. Examine in the context of a university as a social system.\n(c) Is sociology common sense? Give reasons in support of your argument.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 578,
+        "subtags": [
+          421,
+          416
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 579
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Analyze the manifest and latent functions of 'security of the tenure of bureaucrats' in the light of Merton's theory.\n(b) Describe the basic postulates of scientific method. How far are these followed in sociological research?\n(c) \"Hypothesis is a statement of the relationship between two or more variables.\" Elucidate by giving example of poverty and illiteracy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Examine Max Weber's method of maintaining objectivity in social research.\n(b) \"Participant observation is the most effective tool for collecting facts.\" Comment.\n(c) Discuss the relationship between poverty and social exclusion.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 575,
+        "subtags": [
+          418,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers of the following questions in about 150 words each :\n(a) Describe the nature of social organization of work in industrial society.\n(b) Discuss the importance of 'power elite' in democracy.\n(c) Is religion playing an important role in increasing fundamentalism? Give reasons for your answer.\n(d) To what extent is patriarchy a cause for the problems of women? Discuss.\n(e) \"Social conflict is both a cause and a consequence of social change.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 580,
+        "subtags": [
+          423,
+          424,
+          89,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Globalization has pushed the labour into informal organization of work.\" Substantiate your answer with suitable examples.\n(b) \"Social change can be brought about through development.\" Illustrate from the contemporary situation of India.\n(c) Examine the role of protest movements in changing the status of Dalits in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          422
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Religious pluralism is the order of present-day societies.\" Explain by giving suitable examples.\n(b) Discuss the contemporary trends in family as a response to social change in modern society.\n(c) To what extent revolution replaces the existing order of society? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 582,
+        "subtags": [
+          425,
+          423
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Education is a major source of social mobility in contemporary society.\" Explain.\n(b) How is Durkheim's theory of religion different from Max Weber's theory of religion?\n(c) Distinguish between family and household as sociological concepts.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 579,
+        "subtags": [
+          419,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 579
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    }
+  ]
+}

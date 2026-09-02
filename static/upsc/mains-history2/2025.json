@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2025_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each : 10×5=50\n(a) \"The Sikh monarchy was Napoleonic in the suddenness of its rise, the brilliancy of its success and the completeness of its overthrow.\"\n(b) \"The seeds of domestic dissensions were thickly and deeply sown in the Maratha system under the Peshwas.\"\n(c) \"Bhagat Singh and his comrades significantly expanded the meaning and scope of revolution, redefining it beyond mere political upheaval to include social and ideological transformation.\"\n(d) \"The significant feature of the Indian Councils Act of 1892 was the principle of election which it introduced, though the word 'election' was very carefully avoided in it.\"\n(e) \"The colonial rule opened the Indian markets for British-manufactured goods and led to 'deindustrialization' or destruction of indigenous handicraft industries.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 358,
+        "subtags": [
+          198,
+          206,
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 356
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that the idea of permanent fixation of land revenue of 1793 in Bengal was highly influenced by the Physiocratic school of thinking? Discuss.\n(b) \"The tug of war between the two principles of freedom and control of the press made its influence felt on the colonial rulers' attitude to the press.\" Discuss.\n(c) \"The movement for linguistic States generated deep apprehensions among the nationalist elite. They feared it would lead to the Balkanization of India.\" Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          194,
+          0
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"During the Carnatic Wars, the French position, which at one time dazzled the Indian world by its political successes, was destined to end in humiliation and failure.\" Explain.\n(b) Why has the 'safety valve theory' related to the foundation of the Indian National Congress been thoroughly discredited by recent researchers? Analyze.\n(c) \"The emergence of Gandhi signified the Indianization of the national movement.\" Analyze with reference to his early movements between 1917-1922.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          197,
+          199
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 357
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The tensions between cultural revivalism and modernization shaped the trajectory of the socio-religious reform movements in 19th century India.\" Discuss.\n(b) In what ways did the tribal and peasant uprisings of the 19th century contribute to the rise and growth of nationalism in India? Examine.\n(c) Discuss the major initiatives taken by the Government of India for the removal of caste injustice and inequality after 1947.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 121,
+        "subtags": [
+          0,
+          203
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 121
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 361
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each : 10×5=50\n(a) \"The French Revolution started and led to the victory in its first phase by the aristocracy.\"\n(b) \"With the Reform Act of 1832 began an activity in reconstructing legislation to which there had been no parallel in British history.\"\n(c) \"The First World War did not produce just political consequences, it also had a deep impact on the ways of thinking.\"\n(d) \"In the Soviet Union, as also in China, there was a strong belief that anti-imperial movements in the colonies would result in their moving into the socialist orbit.\"\n(e) \"The pre-Marxian socialist thinkers envisioned socialist societies without fully considering the practical mechanisms for achieving or maintaining them.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          34,
+          43,
+          210,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 121
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Nationalism in the 19th century was a driving force for both integration and disintegration.\" Illustrate with examples from Europe and other parts of the world.\n(b) \"The American Revolution was, in many respects, a manifestation of the Enlightenment in political, civil and ecclesiastical spheres.\" Explain.\n(c) Did new imperialism represent a continuation of old colonial practices or did it mark a fundamental shift in global power structure? Discuss critically.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          41,
+          205
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"By the time of 1932 elections, Germany's ruling classes began to feel that the only way to escape from a deep economic crisis was to hand over political power to a totalitarian agency.\" Explain.\n(b) Discuss critically the salient features of Mikhail Gorbachev's domestic reforms.\n(c) \"Anti-clericalism of the Enlightenment echoed the sentiments of the Renaissance and the Reformation. Yet it neither endorsed the paganism of the Renaissance nor did it share the faith of Reformation.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 360,
+        "subtags": [
+          210,
+          41
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) Why did the non-communist Vietnamese leaders fail to provide successful leadership for Indo-China's anti-colonial struggle? Discuss.\n(b) To what extent did the concept of free trade of European Economic Community contribute to the formation of European Union? Examine.\n(c) Examine the impact of the links between scientific education and industrial expansion on German society in the early 20th century.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 147,
+        "subtags": [
+          209,
+          42
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 367
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 135
+        }
+      ]
+    }
+  ]
+}

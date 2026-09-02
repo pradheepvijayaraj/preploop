@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2015_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Waldo's 'The Administrative State' provides a fundamental challenge to some of the orthodox premises. Explain.\n(b) Discuss how the Public Choice Theory promotes the concept of 'Steering' and undermines the concept of 'Rowing' in visualising efficient and effective administration.\n(c) \"Delegated Legislation is a necessary evil.\" Comment.\n(d) Do you agree with the view that the charismatic approach of the mid-1970s is a \"new version\" of the Classical Trait Theory of Leadership? Give reasons.\n(e) \"The term policy implementation is in some respects preferable to the label public administration.\" Argue.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 549,
+        "subtags": [
+          390,
+          395,
+          392,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Globalisation has transformed the nature and character of State from traditional administrative Welfare State to a Corporate State.\" Analyse the changes in the nature of public administration in this context.\n(b) \"Contemporary Organisational theory seems further afield of Chester Barnard's Functions of the Executive than of organisational ecology.\" Examine the statement in the light of ecological elements in Barnard's thought.\n(c) \"PPPs serve too many parties and too many interests ... to be focussed.\" Identify in the context of the statement, the parties involved in Public-Private Partnerships and their conflicting aims.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 548,
+        "subtags": [
+          393,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Follett's work was not directed towards the resolution of the conflict of ideas, but towards the resolution of structural conflicts between workers and capitalists.\" In the light of the statement critically evaluate Follett's idea of dynamic administration.\n(b) \"Information constitutes the life-blood of the functioning of an organisation.\" Explain the utility and significance of communication in decision-making.\n(c) \"Legislative action is not subject to the rules of natural justice.\" Explain the exceptions to the rule of natural justice.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 549,
+        "subtags": [
+          392,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Right from the days of the 'Peoples' Charter' to the new concept of 'Precariat Charter', the concept of Citizen's Charter and its scope is constantly evolving.\" Comment.\n(b) \"Weberian model of bureaucracy lacks emotional validity when applied to modern democratic administration.\" Comment.\n(c) How far do you agree with the view that the growing influence of media comes in the way of agenda-setting by the Government?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          391,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"Comparative Performance Measurement (CPM) bridges everyday work experience with the broader horizons of comparativism.\" Explain.\n(b) Analyse the relevance of Whitleyism in contemporary employer – employee relationship.\n(c) \"No significant change can be made in the budgetary process without affecting the political process.\" (Wildavsky). Analyse.\n(d) \"In the appreciative systems of policy makers, goals are subsidiary to norms and values.\" (Vickers). Explain.\n(e) Show in what way the Gender and Development approach differs from the Woman and Development approach.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 554,
+        "subtags": [
+          398,
+          400,
+          10,
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 558
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Administrative ethics is a process of independently critiquing decision standards, based on core social values that can be discovered, within reasonable organisational boundaries that can be defined, subject to the personal and professional accountability.\" (Denhardt). Explain.\n(b) \"Lenin's concept of Socialist management refers to directing the organisational development of Socialist society.\" Explain.\n(c) \"Policy analysis is incomplete without taking into account policy delivery.\" Argue.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 552,
+        "subtags": [
+          393,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 552
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) How does Ferrel Heady rationalize the three stages of development in comparative administration?\n(b) Distinguish between 'Codes of Conduct' and 'Codes of Ethics'. Justify your answer.\n(c) \"E-Governance creates a direct relationship between the Citizen and the State.\" In this context, explain the changing role of the elected representatives.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          392,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The concept of political feasibility in policy alternative is a probabilistic concept and is related to each policy alternative.\" In the context of the above statement analyse Dror's contribution.\n(b) \"The position-classification attempts to establish a triangular relationship between duties and responsibilities, working conditions and qualification requirements.\" Elucidate.\n(c) \"MIS, PERT and CPM have accelerated the process of reinventing O & M.\" In the context of the above statement, explain the recent developments in managerial techniques.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          398,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    }
+  ]
+}

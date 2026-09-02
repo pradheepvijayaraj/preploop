@@ -1,0 +1,431 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2025_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer each of the following questions in about 150 words :\n(a) Discuss the key points that an Auditor would take into consideration while auditing the books of accounts of an insurance company.\n(b) What role does accounting play in a financial information system? What type of information can be derived from it?\n(c) What is Cost Accounting? What are its objectives? How does it differ from Financial Accounting?\n(d) Discuss the various variances in standard costing system. How are the material, labour and overhead variances different from one another?\n(e) Distinguish between VAT and Service Tax. How do they apply to goods and services, and what are the administrative challenges in these taxes?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          131,
+          129,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) From the following Trial Balance and other additional information furnished by AGN Ltd., prepare the Balance Sheet as at 31st March, 2025 as required by Schedule-III Division-I of the Companies Act, 2013 and show the Notes to Accounts below the Balance Sheet :\nTrial Balance\n| Particulars | Debit (₹) | Credit (₹) |\n| --- | --- | --- |\n| Equity Capital (Face Value of ₹ 100) |  | 20,00,000 |\n| Calls-in-Arrears | 2,000 |  |\n| General Reserve |  | 4,60,000 |\n| Loan from SBI (Long-term) |  | 3,00,000 |\n| Land | 4,00,000 |  |\n| Building | 8,00,000 |  |\n| Plant & Machinery | 11,00,000 |  |\n| Furniture | 1,20,000 |  |\n| Raw Materials | 1,00,000 |  |\n| Finished Goods | 4,00,000 |  |\n| Trade Receivables | 3,80,000 |  |\n| Advances (Short-term) | 90,000 |  |\n| Provision for Taxation |  | 1,38,000 |\n| Dividend Payable |  | 1,20,000 |\n| Profit & Loss A/c |  | 1,80,000 |\n| Loans (Unsecured) |  | 2,50,000 |\n| Trade Payables |  | 4,00,000 |\n| Cash at Bank | 3,86,000 |  |\n| Cash in Hand | 70,000 |  |\n| Total | 38,48,000 | 38,48,000 |\nAdditional Information :\n(i) 6000 Equity Shares were issued for consideration other than cash\n(ii) Loan from SBI includes ₹ 8,000 for interest accrued but not due. The loan is secured by hypothecation of building\n(iii) The cost of assets :\n|  | ₹ |\n| --- | --- |\n| Building | 9,60,000 |\n| Plant & Machinery | 14,00,000 |\n| Furniture | 1,80,000 |\n| (iv) Trade Receivables of ₹ 1,80,000 are due for 8 months|  |\n(b) It is observed that at a monthly sale of ₹ 1,20,000, a firm suffers an operating loss of ₹ 30,000. The management apprehends that any increase in sale will further rise the loss. However, the Accountant of the firm analyzed the situation based on cost, volume and profit, and showed that the firm may earn ₹ 30,000 operating profit by doubling the sale.\nBased on the above information, you are required to measure—\n(i) P/V ratio;\n(ii) monthly fixed costs;\n(iii) BEP;\n(iv) MOS for profit of ₹ 40,000;\n(v) profit for monthly sale of ₹ 3,00,000.\n(c) (i) Explain in brief the principles of inventory valuation based on AS 2.\n(ii) Describe in brief the permissible methods of depreciation based on the relevant Accounting Standard.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 3.0
+            },
+            {
+              "label": "iii",
+              "marks": 3.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 6.0
+            },
+            {
+              "label": "ii",
+              "marks": 9.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain in brief the deductions that are expressly allowed in computing the income from business under the Income-tax Act, 1961.\n(b) Harish sold jewellery on 15th June, 2023 for ₹ 10,10,000 (cost of jewellery to Harish on 25th May, 2002 was ₹ 94,500 and brokerage paid on the sale of jewellery was ₹ 10,000). On 15th December, 2023, he purchased a residential house for ₹ 5,00,000. On 15th June, 2023, he did not own any residential house. The cost inflation index for 2002–03 was 105 and for 2023–24, it was 348.\nCompute the amount of capital gains chargeable to tax for the Assessment Year 2024–25.\n(i) Assuming that Harish sells the new residential house before 15th December, 2026, what will be the taxable capital gains and for which year?\n(ii) Assuming that Harish purchases any other residential house before 15th June, 2025 or constructs any other residential house before 15th June, 2026, what will be the taxable capital gains and for which year?\n(c) Sky Ltd. invited application for issuing 200000 Equity Shares of ₹ 10 each at a premium of ₹ 2 per share, payable as follows :\n₹ 6 per share (including premium) on application and allotment\nBalance on the first and final call\nApplications for 600000 Equity Shares were received. Applications for 300000 shares were rejected and money refunded. Shares were allotted on pro rata basis to the remaining applicants. The first and final call was made and all the amount was received except on 2000 shares, which were forfeited and reissued at ₹ 7 per share.\nPass necessary Journal Entries in the books of Sky Ltd.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          18,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) State the duties of an Auditor with regard to payment of dividend. Discuss the audit procedure to be followed by the Auditor in respect of checking of payment of dividend.\n(b) Discuss the important points that an Investigator must consider in the beginning and during the conduct of an Investigation. How should an investigator draft his report?\n(c) A by-product 'Beta' is derived in the course of manufacturing a product 'Alpha'. The by-product is further processed for sale. From the following data available from the records, prepare an account showing the cost per kg of product 'Alpha' and the by-product 'Beta'. The quantities produced during the period under consideration were—'Alpha' 100 kg and 'Beta' 50 kg. The selling price of 'Beta' was ₹ 120 per kg on which the profit earned was estimated at 30% :\n|  | Joint Expenses (₹) | Separate Expenses - Alpha (₹) | Separate Expenses - Beta (₹) |\n| --- | --- | --- | --- |\n| Materials | 10,000 | 6,000 | 500 |\n| Labour | 7,000 | 5,000 | 2,000 |\n| Overheads | 2,500 | 1,500 | 600 |\n||  |  |  |",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          131,
+          129
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer each of the following questions in about 150 words :\n(a) Explain the concept of optimal capital structure. How does a company decide on the right mix of debt and equity?\n(b) Write about Miller and Orr model of cash management.\n(c) Differentiate between capital market and money market in the context of Indian financial system.\n(d) Explain the concept of dividend policy. Discuss the various types of dividend policies followed by the companies.\n(e) Explain the concept of financial services. Discuss the concept of credit rating and its growing importance in Indian financial services.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          21,
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) Define and explain the concept of merger, takeover and amalgamation. What leads to the failure of a merger or an acquisition? How should a company ensure that merger or acquisition is successful?\n(b) Rainbow Ltd. provides the following data for the year 2023–24 :\nSales—₹ 80 lakh\nVariable Cost—₹ 56 lakh\nFixed Operating Cost—₹ 8 lakh\nFixed Finance Cost—₹ 4 lakh\nEffective Tax Rate—25%\nEPS—₹ 9\n(i) Compute the Degree of Operating Leverage (DOL), Degree of Financial Leverage (DFL) and Degree of Combined Leverage (DCL) for the company and interpret the results.\n(ii) If the company can increase its sales by 20%, by what amount will EPS change? Give your answer on the basis of your results obtained in (i).\n(c) A company provides the following information related to the capital structure planning :\nLeverage is measured as Debt/(Debt + Equity)\nAt 20% leverage, cost of equity (K_e) is measured at 18%\n(i) What will be the K_e at 40% leverage, if Net Income (NI) model is followed?\n(ii) If Net Operating Income (NOI) model is followed while overall cost of capital (K_o) is 16%, what will be the K_e at 40% leverage? Assume cost of debt capital (K_d) to remain constant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 288,
+        "subtags": [
+          132,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 9.0
+            },
+            {
+              "label": "ii",
+              "marks": 6.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 6.0
+            },
+            {
+              "label": "ii",
+              "marks": 9.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) As a Financial Manager of an engineering company, you are required to compute the weighted average cost of capital of the company using (1) Book-value weights and (2) Market-value weights. The company's present capital structure is :\n|  | ₹ |\n| --- | --- |\n| Equity Shares (₹ 10 per share) | 30,00,000 |\n| 10% Preference Shares (₹ 100 per share) | 4,00,000 |\n| 12% Debentures (₹ 100 per debenture) | 14,00,000 |\n| Total | 48,00,000 |\nAll these securities are traded in the securities market. Their recent prices are :\nDebentures—₹ 110 per debenture\nPreference Shares—₹ 115 per share\nEquity Shares—₹ 40 per share\nAnticipated external financing opportunities are :\n(i) New ₹ 100 Debentures can be sold at par at 9% coupon rate, redeemable at 10% premium after 5 years. Flotation cost would be 2%\n(ii) New ₹ 100 Preference Shares carrying 8% dividend can be sold at par, redeemable at premium of 5% after 10 years. Flotation cost would be ₹ 3 per share\n(iii) New ₹ 10 Equity Shares can be sold at ₹ 35. Flotation cost would be 2% of issue price. Expected dividend on Equity Shares is 20%. Anticipated growth rate in dividend is 8%. Corporate tax rate is 40%\n(b) Discuss the present state of Indian capital market. Illustrate the role of SEBI in regulating the markets in the changing international investment scenario.\n(c) How is Economic Order Quantity (EOQ) determined? How does quantity discount affect the EOQ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 42,
+        "subtags": [
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the structure of Indian financial system. Discuss the emerging role of RBI in the changing global scenario in this 21st century.\n(b) A plant with a life of 3 years has the following projected cash flows :\n| Year | Cash Flows (₹) |\n| --- | --- |\n| 0 | (-) 20,00,000 |\n| 1 | 8,00,000 |\n| 2 | 8,00,000 |\n| 3 | 9,00,000 |\nThere is no residual value at the end of the life of the plant. Calculate the—\n(i) Internal Rate of Return (IRR);\n(ii) discounted payback period.\nApplicable discounting rate is 10% p.a. Present values of ₹ 1 at the discounting rate of 10% and 12% are given below for 3 years :\n| Year | : | 0 | 1 | 2 | 3 |\n| --- | --- | --- | --- | --- | --- |\n| PV at 10% | : | 1 | 0.909 | 0.826 | 0.751 |\n| PV at 12% | : | 1 | 0.892 | 0.797 | 0.712 |\n||  |  |  |  |  |\n(c) Discuss the role of insurance industry and IRDA in the economic development of the country.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    }
+  ]
+}

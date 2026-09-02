@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2021_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "(Answer the following questions in about 150 words each : 10x5=50)\n(a) Examine the factors that facilitated commercialisation of Indian agriculture during the British rule.\n(b) Do you think that the 'new guarantee' system was better than the 'old guarantee' system in the history of Railways in India? Give reasons.\n(c) Analyse the relevance of Gadgil formula in reducing horizontal imbalance of fiscal health.\n(d) Explain the principal causes of deceleration in industrial growth during the mid-1960s to mid-1970s.\n(e) Distinguish between absolute measure and relative measure of poverty. What kind of measure is used in estimating poverty in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          19,
+          17,
+          58,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Compare the main features of development of jute and cotton textile industry in India during the British period.\n(b) Analyse the trends in the production of primary goods and capital goods in Indian industries during the pre-liberalisation period.\n(c) Critically analyse the performance of public sector enterprises during the pre-reform period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 300,
+        "subtags": [
+          145
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 302
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) Do you think that effective land reforms are necessary but not sufficient conditions for raising agricultural productivity in India? Explain your answer.\n(b) Examine how the domestic companies are competing with the MNCs in the post-liberalisation era.\n(c) Analyse the impact of Green Revolution on agricultural output, employment and income distribution in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          58,
+          24
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) Do you think that India experienced a major break in GDP growth and its sectoral composition during the 1980s? Give reasons.\n(b) Examine the relative role of demand side factors in determining national income in India.\n(c) Do you think that non-income dimensions should be treated as complementary to income dimension in measuring poverty in India? Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 302,
+        "subtags": [
+          146,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "(Answer the following questions in about 150 words each : 10x5=50)\n(a) Examine the arguments to explain the theory of 'economic drain' from India in the second half of the 19th century.\n(b) Analyse the effectiveness of the major commitments of Agreement on Agriculture (AoA) of the Uruguay Round of WTO on Indian agriculture.\n(c) Analyse the new initiatives taken by the Government of India to boost food processing sector.\n(d) Discuss the strategies adopted by the RBI to promote financial inclusion in India.\n(e) Evaluate the role of MGNREGA in asset creation and poverty alleviation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          143,
+          19,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) What are the major components of public expenditure on agriculture in India? Would you recommend any changes in the pattern of public expenditure on agriculture to stimulate agricultural growth?\n(b) Analyse the significance of planning in the context of market-based development in India.\n(c) Examine the procurement policy of the Government of India in the post-liberalisation period and its impact on agricultural prices.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Analyse the sectoral inflows of FDI in India during the post-liberalisation period.\n(b) Critically discuss the strategies formulated by the Government of India to increase private sector participation in public enterprises.\n(c) Critically analyse the recommendations of the Twelfth Finance Commission on fiscal federalism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          145,
+          17
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 38
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) Define capital account convertibility. Examine Tarapore Committee (I and II) recommendations on capital account convertibility of rupee.\n(b) Analyse the effects of TRIPS Agreement on Indian agriculture.\n(c) How does the New Economic Policy change the structure of employment in India? Evaluate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 306,
+        "subtags": [
+          148,
+          24
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    }
+  ]
+}

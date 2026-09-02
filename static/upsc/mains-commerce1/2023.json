@@ -1,0 +1,380 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2023_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What is meant by buyback of shares by companies? Explain the reasons and sources of buyback of shares.\n(b) \"Cost Accounting is becoming more and more relevant in the emerging economic scenario in India.\" Comment.\n(c) Explain the major points to be considered by an auditor while auditing the accounts of a non-profit organization.\n(d) Briefly explain the accounting treatment of Government Grants as per AS-12.\n(e) \"An assessee is not only liable in respect of his own incomes for tax purposes but his liability may extend to some other incomes also.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130,
+          131,
+          129,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) The Balance Sheet of AB Ltd. as on March 31, 2022 is as under :\n|  | ₹ |\n| --- | --- |\n| I. Equity and Liabilities |  |\n| 1. Shareholders' Funds : |  |\n| (a) Share Capital : |  |\n| 16000 Equity Shares of ₹ 100 each fully paid | 16,00,000 |\n| (b) Reserves and Surplus | (-) 21,40,000 |\n| 2. Non-Current Liabilities : |  |\n| 8% Debentures | 28,00,000 |\n| Accrued Interest | 1,40,000 |\n| 3. Current Liabilities : |  |\n| Sundry Creditors | 9,00,000 |\n| Income Tax Liability | 20,000 |\n| Total | 33,20,000 |\n| II. Assets |  |\n| 1. Non-Current Assets : |  |\n| Land, Building and Machinery | 28,00,000 |\n| 2. Current Assets : |  |\n| Stock | 2,00,000 |\n| Sundry Debtors | 80,000 |\n| Investments | 30,000 |\n| Cash at Bank | 2,06,000 |\n| Cash in Hand | 4,000 |\n| Total | 33,20,000 |\nThe fixed assets are heavily overvalued. A scheme of reorganization was prepared and passed. The salient points of the scheme are the following :\n(i) Each share shall be sub-divided into ten fully paid Equity Shares of ₹ 10 each\n(ii) After such sub-division, each shareholder shall surrender to the company 90% of his holding, for the purpose of re-issue to debenture holders and creditors so far as required and otherwise for cancellation\n(iii) Of those surrendered, 100000 Equity Shares of ₹ 10 each shall be converted into 8% Preference Shares of ₹ 10 each fully paid for debenture holders\n(iv) The debenture holders' total claim shall be reduced to ₹ 10,00,000. This will be satisfied by the issue of 100000 Preference Shares of ₹ 10 each fully paid\n(v) The claim of sundry creditors shall be reduced by 80% and the balance shall be satisfied by allotting them Equity Shares of ₹ 10 each fully paid from the shares surrendered\n(vi) Shares surrendered and not re-issued shall be cancelled\nAssuming that the scheme is duly approved by all parties interested and by the Court, draft necessary Journal Entries and Balance Sheet of the company after the scheme has been carried into effect.\n(b) A newly setup manufacturing company is planning to produce a product that will be sold for ₹ 150 per unit. The demand of the product is estimated at 10000 units per year. The company has the choice of two machines (i.e., Machines—A and B), each of which has a capacity of producing 10000 units per year. Machine—A would have fixed costs of ₹ 4,00,000 per year and would yield a profit of ₹ 5,00,000 per year on sale of 10000 units. Machine—B would have fixed costs of ₹ 2,80,000 per year and would yield profit of ₹ 3,20,000 per year on sale of 10000 units. Variable costs behave linearly for both machines.\nCalculate the volume of sales at which the costs of two machines will be indifferent.\n(c) What is the relevance of residential status as per the Indian Income-tax Act, 1961? Discuss in detail how the residential status of an individual is determined for income tax purposes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          25,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) From the following information, prepare Process A/cs and calculate the actual profits earned by X Ltd. for the month of April 2022 :\n| Particulars | Processes A | Processes B | Processes C | Finished Stock |\n| --- | --- | --- | --- | --- |\n| Opening Stock (in ₹) | 8,000 | 9,600 | 6,400 | 24,000 |\n| Direct Material (in ₹) | 16,000 | 16,800 | 24,000 |  |\n| Direct Wages (in ₹) | 12,000 | 12,000 | 12,800 |  |\n| Overheads (in ₹) | 11,200 | 4,800 | 32,000 |  |\n| Closing Stock (in ₹) | 4,000 | 4,800 | 3,200 | 12,000 |\n| Profit on Cost (%) | 33 1/3 | 25 | 25 |  |\n| Inter-process Profit for Opening Stock (in ₹) | — | 1,600 | 1,600 | 8,800 |\nStocks in process are valued at prime cost and finished stock has been valued at price at which it received from Process—C. Sales during the period were ₹ 2,80,000.\n(b) Mr. A, resident of Chennai, owns two houses, the particulars of which are as under :\n|  | House—I | House—II |\n| --- | --- | --- |\n| Standard Rent (under the Rent Control Act) (in ₹) | 38,000 | 36,000 |\n| Municipal Valuation (in ₹) | 40,000 | 45,000 |\n| Fair Rent (in ₹) | 50,000 | 60,000 |\n| De facto Rent (in ₹) | — | 45,000 |\n| Municipal Taxes paid during previous year (in ₹) | 6,000 | 7,250 |\n| Fire Insurance Premium (in ₹) | 500 | 4,500 |\n| Water Benefit Tax (due but outstanding) (in ₹) | 600 | 750 |\n| Interest on Loan taken to construct the house (in ₹) | 22,500 | 5,750 |\n| Rent of Lease (due but outstanding) (in ₹) | 750 | 750 |\n| Use of Assets | Self-occupied | Rented for Residence |\nCompute the Taxable Income of Mr. A for the Assessment Year, 2022-23. House—I is constructed in February 2022, whereas House—II in 2012. How will the outcome of this situation be treated as per the provisions of the Income-tax Act?\n(c) \"An audit is not essentially an investigation.\" Why? Explain the general procedure followed in an investigation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          18,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) A Limited invited applications for 160000 shares of ₹ 10 each at a premium of ₹ 2.50 per share payable as follows :\nOn Application—₹ 3 per share\nOn Allotment—₹ 4.50 per share (including premium)\nOn 1st Call—₹ 2 per share\nOn 2nd and Final Call—₹ 3 per share\nApplications were received for 340000 shares, out of which applications for 20000 shares were rejected and money refunded to them. The allotment was made pro rata to the remaining applicants. Money overpaid on application was used against allotment money due.\nKapil to whom 4000 shares were allotted failed to pay the allotment money and on his subsequent failure to pay the first call, his shares were forfeited.\nRamu, the holder of 2400 shares, failed to pay the two calls and his shares were forfeited after the final call.\nOf the forfeited shares, 4800 shares were re-issued at the rate of ₹ 8 per share credited as fully paid, including the whole of Kapil's forfeited shares.\nYou are required to give the necessary Journal Entries.\n(b) Discuss the concept of a division as an independent profit centre. Compare the Rate of Return Method with the Residual Income Method of performance evaluation of a division.\n(c) Explain the following as per the Indian Income-tax Act, 1961 :\n(i) Gratuity\n(ii) Leave encashment at the time of retirement",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 9.0
+            },
+            {
+              "label": "ii",
+              "marks": 6.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the 'Financial Indifference Point' in the context of EBIT-EPS analysis by giving suitable example.\n(b) What is meant by capital structure? Discuss the major determinants of capital structure.\n(c) Explain the objectives of monetary policy of the RBI.\n(d) What is capital market? Discuss the role of capital market in the economic development of a country.\n(e) What is merger? Explain various types of merger.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          132,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) Moon Ltd. wants to replace its labour-intensive manufacturing facility. The company is evaluating a project to install a machining system. It is estimated that the system will result in annual savings of ₹ 13,50,000 in wages, ₹ 4,50,000 in supervisory cost, ₹ 1,50,000 in material losses during production, ₹ 1,20,000 in inventory cost and ₹ 90,000 in other operating costs.\nThe machining system is likely to cost ₹ 22,50,000 and will require an installation cost of ₹ 1,50,000. Its useful life is estimated at 5 years. To operate the system, the company requires the services of two trained operators at an annual salary of ₹ 4,50,000 each. Its annual repairs and maintenance cost is likely to be ₹ 1,20,000. Assuming that the corporate tax rate is 30% and the required rate of return is 12%, suggest Moon Ltd. whether it should accept the project or not.\nThe PVF of an annuity @ 12% for 5 years is 3.605.\n(b) The following information has been extracted from the records of X Ltd. engaged in large-scale customer retailing. You are required to forecast its working capital requirements for the year 2022-23. One year constitutes 52 weeks :\nProjected annual sales—₹ 87,81,500\nPercentage of net profit on cost of sales—30%\nAverage credit allowed to debtors—14 weeks\nAverage credit allowed by creditors—7 weeks\nAverage inventory carrying (in terms of sales requirements)—12 weeks\nAdd 15% of the computed figures to allow for contingencies\n(c) What is a mutual fund? Discuss the types of mutual fund prevalent in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          25,
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) The following Balance Sheet is given as on 31st March, 2022 :\n| Particulars | Amount ₹ |\n| --- | --- |\n| I. Equity and Liabilities |  |\n| 1. Shareholders' Funds : |  |\n| Equity Share Capital | 5,00,000 |\n| 10% Preference Share Capital | 1,00,000 |\n| Reserves and Surplus | 92,000 |\n| 2. Non-Current Liabilities : |  |\n| 12% Debentures | 4,00,000 |\n| 3. Current Liabilities : |  |\n| Sundry Creditors | 1,00,000 |\n| Bills Payable | 40,000 |\n| Provision for Income Tax | 1,00,000 |\n| Total | 13,32,000 |\n| II. Assets |  |\n| 1. Non-Current Assets : |  |\n| Fixed Assets : |  |\n| (a) Tangible Assets : |  |\n| Plant & Machinery | 2,80,000 |\n| Land & Building | 2,00,000 |\n| Furniture & Fittings | 1,56,000 |\n|  | 6,36,000 |\n| Less : Provision for Depreciation | 1,48,000 |\n|  | 4,88,000 |\n| (b) Intangible Assets : |  |\n| Goodwill | 80,000 |\n| Investments | 3,00,000 |\n| 2. Current Assets : |  |\n| Current Assets | 4,40,000 |\n| Prepaid Rent | 4,000 |\n| Unamortized Preliminary Expenses | 20,000 |\n| Total | 13,32,000 |\nFrom the given Balance Sheet, calculate the following :\n(i) Debt-equity Ratio\n(ii) Proprietary Ratio\n(iii) Solvency Ratio\n(iv) Fixed Capital Ratio from Proprietary Capital\n(v) Capital Gearing Ratio\n(b) What is the importance of Funds Flow Statement to the management? How is it different from a Cash Flow Statement?\n(c) What is credit rating? Discuss its objectives, functions and limitations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          129
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) X Limited has its present annual sales amounting to ₹ 60 lakhs at ₹ 24 per unit. Variable costs are ₹ 16 per unit and fixed costs amount to ₹ 5 lakhs per annum. Its present credit period of one month is proposed to be extended to either two or three months whichever appears to be more profitable. The following estimates are made for the purpose :\n| Credit Policy | 1 month | 2 months | 3 months |\n| --- | --- | --- | --- |\n| Increase in sales (%) | — | 8 | 30 |\n| Percent of bad debt to sales | 1 | 2 | 6 |\nFixed costs will increase by ₹ 1,00,000 annually after an increase in sales above 25% over the present level.\nThe company requires a pre-tax return on investment of at least 20% for the level of risk involved.\nWhat will be the most rewarding credit policy in case of X Limited under the above circumstances?\n(b) Details regarding three companies are given below :\n|  | A Limited | B Limited | C Limited |\n| --- | --- | --- | --- |\n| r = | 15% | 10% | 8% |\n| k = | 10% | 10% | 10% |\n| E = | ₹ 10 | ₹ 10 | ₹ 10 |\nUsing Walter's model, you are required to calculate the value of an Equity Share of each of these companies when dividend payout ratio is (i) 20%, (ii) 50% and (iii) 0%.\n(c) What is venture capital? Explain the functions of venture capital for the development of economy. Also discuss the various stages of venture capital financing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    }
+  ]
+}

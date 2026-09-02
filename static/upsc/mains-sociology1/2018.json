@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2018_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) The focal point of Sociology rests on interaction. How do you distinguish it from common sense ?\n(b) Distinguish between fact and value in Weber's Protestant Ethic and Spirit of Capitalism.\n(c) Do you think 'I' and 'Me' are central terms in Mead's work ?\n(d) What is the difference between natural and social inequality ? Give examples from caste and class dimensions.\n(e) What are the new forms of family in developed societies ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          416,
+          420,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Is non-positivistic methodology scientific ? Illustrate.\n(b) Explain Durkheim's basic arguments on suicide. Can you analyse high suicide rates of contemporary Indian society with Durkheim's theory ?\n(c) Evaluate if social stratification is functional for society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 575,
+        "subtags": [
+          419,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Does collapse of functionalism and bankruptcy of Marxism coincide with the rupture of modernity? Discuss.\n(b) Define patriarchy. How does patriarchy manifest in interpersonal relations?\n(c) What is the difference between anomie in Merton and Durkheim? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) According to Marx, how are human beings alienated from their human potential and what does he suggest to change this?\n(b) Schooling does not ensure upward mobility of all members of the society. Discuss with reference to class societies.\n(c) Discuss the challenges thrown by religious revivalism to a secular nation-state.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          421,
+          424
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 579
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Is the theory of cultural lag valid in present times ? Discuss.\n(b) Are social movements primordial in means and progressive in agenda ? Explain.\n(c) Does scientific method make Sociology a science ? Illustrate your answer with Durkheim's method.\n(d) Distinguish between quantitative and qualitative techniques of data collection with suitable examples from Indian society.\n(e) Is social mobility possible in closed systems of stratification ? Illustrate from research work.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          417,
+          418,
+          421
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 579
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the nature of social organisation of work in capitalist society with reference to the 'Limits of the working day'.\n(b) Distinguish between family and household with reference to the concept of development of the household.\n(c) Explain with examples, the explanatory and exploratory designs of social research.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 580,
+        "subtags": [
+          89,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) How can Parsons' AGIL framework be used to analyse key problems in a society? Discuss.\n(b) What is labour commitment? Discuss it with reference to studies of manufacturing industry.\n(c) What, according to Pareto, are the basic characteristics of elites? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          422,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The sociological imagination enables us to grasp history and biography and the relationship between the two in a society.\" — C.W. Mills. Explain.\n(b) What are sects ? Discuss their role in multi-religious societies with empirical examples.\n(c) In what way did Durkheim perceive religion as functional to society ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 582,
+        "subtags": [
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        }
+      ]
+    }
+  ]
+}

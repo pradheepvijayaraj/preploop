@@ -1,0 +1,382 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2018_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with legal provisions and judicial pronouncements :\n(a) \"Whether the maxim 'actus non facit reum nisi mens sit rea' in general and the Common Law doctrine of 'mens rea' as an independent doctrine in particular are relevant in the interpretation of provisions of the Indian Penal Code?\"\nExplain the above in the light of juristic opinions and judicial pronouncements.\n(b) Critically examine the development of the law relating to remoteness of damages. Which test do you prefer for deciding the question of remoteness of damages and why? Give reasons for your answer.\n(c) In view of the consistent opinion rendered in Aruna Shanbaug case and also considering the socio-legal, medical and constitutional significance of Euthanasia, do you consider that the view expressed by the Constitutional Bench of Supreme Court in Common Cause (A Regd. Society) vs. Union of India (2018) is conclusive? Comment critically.\n(d) \"The paramount task of the law of torts is to pay an important regulatory role in the adjustment of losses and eventuate allocation of their cost and that until the emergence of the welfare state, the law of torts provided the only source for alternating the plight of the injured.\"\nIn the light of the above statement, discuss the nature and scope of law of torts and substantiate your answer with leading case law. Also discuss the position in India.\n(e) \"Right of private defence to the extent of causing death of an assailant cannot be based on the surmises and speculation. The accused must be under a bonafide fear of death or grievous hurt would otherwise be the consequence of the assault, if he does not defend. To determine the existence of apprehension is always a question of fact.\"\nExplain the above proposition in the light of existing legal provisions and judicial decisions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 419,
+        "subtags": [
+          245,
+          281,
+          248
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 403
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 439
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 406
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Section 300 (4) of the Indian Penal Code will be applicable in cases where the knowledge of the offender as to the probability of death of a person approximates to practical certainty.\"\nIllustrate the above statement.\n(b) Explain the maxim 'volenti non fit injuria'. Is the knowledge of risk not the same thing as consent to suffer the risk? Support your answer with judicial pronouncement.\n(c) A group of persons decided to act in concert with common intention to commit rape on victim (V). More than one person from the group, in furtherance of common intention, acted in concert in the commission of rape as per pre-arranged plan. One lady member of the group facilitated the commission of such rape by many persons of the group.\nThe essence of liability in such situation being the existence of common intention. Decide the criminal liability of the following members of the group :\n(i) Who were members of the plan but did not participate in the act\n(ii) Who committed rape\n(iii) The sole lady member who lend full facilities for the commission of rape",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 406,
+        "subtags": [
+          264,
+          245
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 406
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 422
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 403
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) Six people decided to carry out dacoity of a bank in a village. They went to the bank to commit it, but were intercepted by police. All of them ran away. While the police was chasing them, one of the dacoits (X) killed Mr. Y, who tried to obstruct his way. Decide liability for the murder committed by one of them in view of Sections 391 and 396 of the Indian Penal Code.\n(b) \"A master is liable for all acts of his servant done during the course of employment.\" Explain it in general and from Indian perspective in particular.\n(c) Corruption by public servants has become gigantic problem. Large-scale corruption retards the nation-building activities and everyone has to suffer on their count. The efficiency of public servant would improve only when the public servant does his duty truthfully and honestly. Therefore, in such cases, it is difficult to accept any plea of leniency in sentence (State of MP vs. Shambhu Dayal Nagar (2006) 8 SCC 693). Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 416,
+        "subtags": [
+          249,
+          263
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 407,
+          "subparts": [
+            {
+              "label": "x",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 416
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Plea bargaining in India is the truncated one, as it is applicable to sentence only and not to the charge. Equally it is a court-monitored procedure, except that it provides a clause related to compensation to the victim.\" Critically analyse the retention of such provision in the Indian Criminal Justice dispensation. Also suggest reforms, if any, you understand are necessary.\n(b) \"Rule of absolute liability has been expounded by the apex court in M. C. Mehta's vs. Union of India.\" How far is it a reform over the rule of strict liability? Comment.\n(c) \"For fixing criminal liability of a doctor under Section 304-A of the Indian Penal Code, it is necessary to prove that the act complained against the doctor must show such rashness or negligence of such higher degree as to indicate mental state which can be described as totally apathetic towards patient. Such gross negligence alone is punishable.\"\nIn the light of the latest judicial pronouncement, explain the above statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 422,
+        "subtags": [
+          260,
+          262
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 418
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 420
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 422
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with relevant legal provisions and decided cases :\n(a) If certain goods are displayed either in a show window or inside the shop and such goods bear price tags, discuss whether such display amounts to an offer to sell. Explain the distinction between offer and invitation to offer with the help of decided cases.\n(b) In an action to avoid a contract on the ground of undue influence, the plaintiff has to prove two points. Explain those points and different kinds of relations leading to presumption of undue influence which vitiates free consent.\n(c) Section 28 of the Indian Contract Act, 1872 makes agreements in restraint of legal proceedings void. Are there any exceptions to this rule? Discuss with the help of relevant provisions and decided cases.\n(d) Public Interest Litigation (PIL) in India, of late, has been used not only to represent the unrepresented and weak but also to advance the interest of others. Comment on the recent trends relating to the application, use and misuse of PIL in India.\n(e) In spite of introduction and recognition of Technological Protection Measures (TPMs), the digital copyright continues to be unsafe and unsecured. Explain the impact of the 2012 Amendments to the Copyright Act, 1957 on the protection of digital copyright in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 430,
+        "subtags": [
+          268,
+          267,
+          277,
+          59
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 430
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 426
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 435
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"It is well-settled that if and when there is frustration, the dissolution of the contract occurs automatically ... . It does not depend on the choice or election of either party. It depends on the effect of what has actually happened on the possibility of performing the contract.\" Discuss the effects of frustration of contract.\n(b) \"If a person falsely represents that he is an agent of another, the principal may ratify the act even though the same was done without his authority.\"\nDiscuss, in the light of the above statement, the essentials of valid ratification and its effect.\n(c) 'Sustainable development' has been accepted as a balancing concept between ecology and development. Discuss the recognition and application of this principle under the laws relating to environmental protection in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          263,
+          30
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 71
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) If an officer with an intelligence agency of the Government receives a cheque for consideration on the basis of an agreement to pass on intelligence inputs, can such cheque be enforceable under Section 138 of the Negotiable Instruments Act, 1881? Discuss the scope of the legally enforceable liability of the drawer under Sections 138 and 139 of the Act.\n(b) \"E-governance represents a new form of governance which needs dynamic laws, keeping pace with the technological advancement.\" Comment on the adequacy of the Information Technology Act, 2000 in ensuring effective E-governance in India.\n(c) Even though Section 89 of the Code of Civil Procedure, 1908 provides for out of court settlement of civil disputes filed in a civil court, the impact of such settlement through Alternative Dispute Resolution (ADR) appears to be poor. Analyse the reasons for failure to settle the disputes through ADR modes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 432,
+        "subtags": [
+          278,
+          280
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 432
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 436
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 438
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) The courts have found it very difficult to come to the rescue of the weaker party to a standard form contract, and thus evolved certain modes to protect such weaker party against the possibility of exploitation inherent in such contracts. Explain the modes of protection available to weaker party in a standard form contract.\n(b) Trial by media appears to be an affront to the concept of free and fair trial in criminal cases, apart from being a kind of contempt of court in certain cases. Analyse the impact of trial by media on the administration of criminal justice in general and on the stakeholders in particular.\n(c) \"Mahatma Gandhi, the Father of Nation, observed that the meaning of real freedom is not to acquire authority by few but to acquire the capacity to question the abuse of such authority.\"\nExamine, in the light of the above statement, the obligations of the public authorities and explain whether they have discharged it effectively during the last about seven decades.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 434,
+        "subtags": [
+          281,
+          253
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 434
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 439
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 411
+        }
+      ]
+    }
+  ]
+}

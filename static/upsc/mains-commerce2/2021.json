@@ -1,0 +1,358 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2021_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Explain the following in about 150 words each :\n(a) Non-Verbal Communication\n(b) Factors Affecting Quality of Work Life\n(c) Transformational Leadership\n(d) Sources of Resistance to Change\n(e) Power and Authority",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": [
+          135,
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The environment is a major contingency for which an organisation must plan and to which it must adapt.\" Explain.\n(b) Discuss the important structural dimensions of organisations.\n(c) \"Rules are different from norms.\" In the light of this statement, explain the importance of rules and norms from the organisational design perspective.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"An organisation without goals is like a rudderless ship.\" Comment and explain the importance of goals.\n(b) Explain the objectives and the phases involved in establishing a Quality Circle system for an organisation.\n(c) \"Organic structures are opposite to mechanistic structures.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain how promotion can be used as a tool to enhance job performance.\n(b) What is the relevance of Transactional Analysis in modern organisations ? Explain the key types of transactions.\n(c) Describe the Path-Goal theory of leadership and its associated leadership styles.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Explain the following in about 150 words each :\n(a) Strike vs. Lockout\n(b) Performance Management\n(c) Philosophy of Workers' Participation in Management\n(d) Scope of Industrial Relations\n(e) Labour Absenteeism",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) Describe the importance and types of training.\n(b) What is a good job description ? List some methods of collecting job description information.\n(c) What is Placement ? Explain the components of an Employee Induction Programme.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Different types of tests are used in the selection of employees.\" Discuss.\n(b) Discuss the implications of Maslow's need hierarchy theory and Herzberg's two-factor theory in relation to employee motivation and compensation.\n(c) Differentiate between the traditional and modern methods of Performance Appraisal.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Trade unions are an impediment to the growth of industry.\" Do you agree ? Critically evaluate the role of trade unions in the present context.\n(b) \"Industrial conflict is basically a struggle between management and workers.\" Examine this statement.\n(c) What is the importance of industrial relations ? Explain how Industrial Relations (IR) can be enhanced in organisations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2016_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each (10 marks, 150 words):\n(a) \"Taylorism is considered very controversial despite its popularity.\" (Stephen P. Waring) Comment.\n(b) \"Public Administration is the translation of politics into reality that citizens see everyday.\" (Donald F. Kettl and James W. Fesler) Explain.\n(c) \"Morale can drive an organization forward or can lead to employees' discontent, poor job performance and absenteeism.\" Examine.\n(d) \"The autonomy of Public Corporations raised a great debate about their internal working and external relation with the Ministers and the Parliament.\" Discuss.\n(e) \"In spite of certain advantages, Social Audit arrangements have mostly been ineffective because there is no legal provision for punitive action.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 556,
+        "subtags": [
+          390,
+          392,
+          10,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Douglas McGregor's Theory X and Theory Y describe two contrasting models of workforce motivation applied by managers in an organization.\" Examine.\n(b) \"The New Public Administration has seriously jolted the traditional concepts and outlook of the discipline and enriched the subject by imparting wider perspective by linking it closely to the society.\" (Felix A. Nigro and Lloyd G. Nigro) Elucidate.\n(c) \"The central concern of Administrative Law has been the legal limitation of administrative discretion.\" Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          390,
+          395
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 553
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"If the Regulatory Commissions .... are wholly independent, they are completely irresponsible for the doing of very important policy determining and administrative work .... on the other hand, to rob the commissions of their independence is seriously to menace the impartial performance of their judicial work.\" (Cushman) Examine.\n(b) \"Good governance is ensuring respect for human rights and the rule of law, strengthening democracy, promoting transparency and capacity in Public Administration.\" (Kofi Annan) In the light of the statement, critically examine the criteria of good governance as provided by United Nations and Nayef Al-Rodhan.\n(c) \"The legislative control over administration is not as effective as it ought to be.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 552,
+        "subtags": [
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 552
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Blake and Mouton defined leadership styles based on two dimensions—concern for people and concern for production.\" In the light of the statement, discuss the Managerial Grid Model. Explain with reason which one of the styles is the best.\n(b) \"Bureau-Shaping Model has been developed as a response to the Budget-Maximizing Model.\" Comment.\n(c) \"Civil society performs a key role in defending people against the State and market and in asserting the democratic will to influence the State.\" Analyze the statement with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          396,
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Training is considered as paid holidays.\" Comment. (150 words)\n(b) \"Public borrowing produces different effects on the economy.\" Examine. (150 words)\n(c) \"Self-Help Groups are considered as one of the most significant tools to adopt participatory approach for economic empowerment of women.\" Comment. (150 words)\n(d) \"Riggs observed that three 'trends' could be discerned in the comparative study of Public Administration.\" Discuss. (150 words)\n(e) \"In Public Policy Making, 'Rationalism' is the opposite of 'Incrementalism'.\" Examine. (150 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          398,
+          397,
+          396
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Fred Riggs continuously changed his theory in order to create the perfect model.\" Comment.\n(b) \"The idea of development stands like a ruin in the intellectual landscape\" and \"it is time to dismantle this mental structure\". (Wolfgang Sachs) In the light of the statement, critically examine the anti-development thesis.\n(c) \"Information Technology brings efficiency and transparency to Public Administration.\" Examine the statement with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 554,
+        "subtags": [
+          397,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Fiscal policy and monetary policy are the two tools used by the State to achieve its macroeconomic objectives.\" Examine the statement and point out the differences between the tools.\n(b) \"A central reason for utilization of Performance Appraisal is performance improvement of the employees.\" In the light of the statement, analyze the needs of Performance Appraisal in an organization.\n(c) \"The problem is to achieve the right balance between a competitive market economy and an effective State : markets where possible; the State where necessary.\" Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          392
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The key to understanding performance-based budgeting lies beneath the word 'result'.\" In the light of the statement, examine the elements of performance-based budgeting.\n(b) \"Disciplinary action may be informal and formal.\" Explain and point out the provisions made in the Constitution or Statute to check the misuse of power to take disciplinary action.\n(c) \"The term 'work study' may be used in narrower and wider senses.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 558,
+        "subtags": [
+          394,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 558
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    }
+  ]
+}

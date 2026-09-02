@@ -1,0 +1,181 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 1996",
+    "exam": "UPSC CSE",
+    "totalQuestions": 6,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 1996,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_1996_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 200,
+    "durationSeconds": 10800,
+    "examRegime": "essay-single-era"
+  },
+  "questions": [
+    {
+      "id": "upsc_1996_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "The VIP cult is a bane of Indian democracy",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_1996_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Need for transparency in public administration",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          363
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_1996_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "New cults and godmen: a threat to traditional religion",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          469,
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_1996_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Literacy is growing very fast, but there is no corresponding growth in education.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 62,
+        "subtags": [
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_1996_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Truth is lived, not taught",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 604,
+        "subtags": [
+          450,
+          454
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_1996_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Restructuring of UNO reflect present realities",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          462,
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    }
+  ]
+}

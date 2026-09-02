@@ -1,0 +1,369 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2017_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words :\n(a) Derive the expansion path for a firm operating with the Cobb-Douglas Production Function.\n(b) \"Under monopolistic competition a firm enjoys monopoly power without enjoying monopoly profit.\" — Explain.\n(c) Show that in the complete Keynesian model only fiscal policy is effective during a period of depression.\n(d) Explain the difference between the assumptions of New Classical and the New Keynesian approaches in managing individuals and markets.\n(e) Show that full employment is the logical conclusion of the Classical macro model.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Pareto optimality conditions are necessary but not sufficient conditions for social welfare maximisation.\" Comment.\n(b) Discuss briefly the circumstances where fiscal expansion leads to full crowding out.\n(c) Explain how the equilibrium employment and real wage would change in a typically classical model if, in the event of increase in supply of labour, money wage becomes rigid.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 296,
+        "subtags": [
+          137,
+          140
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 294
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 297
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) How Chamberlin uses planned sales curve to explain equilibrium of a firm and group when the entry of firms is permitted ?\n(b) Demonetisation is expected to result in a fall in the ratio of currency to deposit. Using the money multiplier theory explain its possible impact on supply of money.\n(c) Why do you expect a high correlation between the money supply and aggregate expenditure ? Does this resolve the monetarist-fiscalist debate ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 296,
+        "subtags": [
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) What is financial repression ? Mention some of its consequences.\n(b) \"Transaction demand for money is not always interest rate inelastic.\" Discuss.\n(c) Explain the Keynesian and classical extreme monetary assumptions for showing their effects on the slope of the LM curve.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 296,
+        "subtags": [
+          20
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 41
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Distinguish between effective and differential tax incidence.\n(b) Write a short note on gravity model of trade.\n(c) Determine optimum tariff of a country with the help of offer curve.\n(d) What is 'solow-residual' ? What are its implications ?\n(e) What are the implications of trade in higher education under GATS for India ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          140,
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 297
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The consumption and production effects of a tariff for a commodity depend on the elasticities of demand and supply respectively.\" Discuss.\n(b) \"Monetary Contraction is a better option than devaluation to improve balance of payments position of a developing economy under fixed exchange rate system.\" Discuss.\n(c) Do you agree with the view that the honeymoon with free trade under W.T.O. is at an end ? Give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          139,
+          22
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Petroleum is sold in the world market and priced in US dollars. RISCO in India must import petroleum to use it in its manufacturing. How are its profit affected when Indian rupee depreciates against the US dollar ?\n(b) State and discuss Arrow Impossibility theorem. How does Sen modify it for social welfare maximisation ?\n(c) Show that Cobb-Douglas Production Function exhibits both Hicks and Harrod neutral technical progress.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          22,
+          137
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 294
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"In view of economic uncertainties, Hirschman approach to economic development makes more sense.\" Discuss.\n(b) \"The trade-off between environment and development remains unresolved.\" Comment in view of the United States exiting from Paris Climate Agreement.\n(c) Discuss the problem of intergenerational inequity arising out of internal public debt.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 299,
+        "subtags": [
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 299
+        }
+      ]
+    }
+  ]
+}

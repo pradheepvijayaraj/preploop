@@ -1,0 +1,365 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 1 · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2022_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What are Sweat Equity Shares? Under what conditions can these shares be issued by a company?\n(b) What is Activity-Based Costing (ABC)? How does ABC system support corporate strategy?\n(c) What is Interim Dividend? Specify the duties of an auditor in this regard.\n(d) Explain briefly the steps involved in preparing the budget for an industrial organization.\n(e) State the exceptions to the provision under the Income Tax Act regarding set-off of loss from one source against income from another source under the same head.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          129,
+          25,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) Balance Sheets of A Ltd. and B Ltd. as on March 31, 2021 are as follows :\n|  | A Ltd. (₹) | B Ltd. (₹) |\n| --- | --- | --- |\n| I - Equity and Liabilities : |  |  |\n| 1. Shareholder's Funds |  |  |\n| (a) Share Capital |  |  |\n| Authorised Capital |  |  |\n| Share of ₹ 100 each | 5,00,000 | - |\n| Share of ₹ 10 each | - | 10,00,000 |\n| Issued capital fully paid | 5,00,000 | 4,00,000 |\n| (b) Reserve and Surplus |  |  |\n| Capital Reserve | 1,00,000 | - |\n| General Reserve | 35,000 | 4,00,000 |\n| 2. Non-Current Liabilities |  |  |\n| Secured Loans | - | 2,50,000 |\n| Unsecured Loans | 1,00,000 | - |\n| 3. Current Liabilities |  |  |\n| Sundry Creditors | 1,55,000 | 1,80,000 |\n| Total | 8,90,000 | 12,30,000 |\n| II - Assets : |  |  |\n| 1. Non-Current Assets |  |  |\n| Fixed Assets | 4,00,000 | 8,00,000 |\n| Goodwill | 40,000 | - |\n| 2. Current Assets |  |  |\n| Stock | - | 1,00,000 |\n| Others | 4,50,000 | 3,30,000 |\n| Total | 8,90,000 | 12,30,000 |\nIt was proposed that A Ltd. should be amalgamated in B Ltd. Following arrangements were accepted by both the companies :\n(i) Goodwill of A Ltd. is considered as valueless.\n(ii) Arrears of depreciation in A Ltd. amounted to ₹ 20,000.\n(iii) The holder of every 2 shares in A Ltd. was to receive :\n(1) As fully paid at par, 10 shares in B Ltd.; and\n(2) So much cash as is necessary to adjust the right of the shareholders of both the companies in accordance with the intrinsic value of the shares as per their balance sheets subject to necessary adjustments with regard to goodwill and depreciation in A Ltd's Balance Sheet.\nYou are required to :\n(I) Determine the composite of purchase consideration; and\n(II) Show the balance sheet after amalgamation.\n(b) Great Ocean Ltd. is currently buying a component from a local supplier @ ₹ 30 each. As the supply is irregular, the company is considering the following two proposals :\n(i) Buy and install a semi-automatic machine for manufacturing this component, which would involve an annual fixed cost of ₹ 18,00,000 and variable cost of ₹ 12 per manufactured component.\n(ii) Buy and install an automatic machine for manufacturing this component, incurring an annual fixed cost of ₹ 30,00,000 and variable cost of ₹ 10 per manufactured component.\nThe annual requirement of the company is expected to be 5,00,000 units and the volume is expected to increase to 6,00,000 units thereafter. Would you recommend the automatic or semi-automatic machine? Justify your recommendation with necessary computations.\n(c) What is Annual Value? Illustrate the procedure of computing the annual value of a house property which is let out throughout the previous year.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          130,
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) X, an employee of a firm, furnished the following particulars of his income for the year ended March 31, 2021 :\n|  | ₹ |\n| --- | --- |\n| Basic Salary | 2,88,000 |\n| Dearness Allowance | 57,600 |\n| Own contribution to recognized Provident Fund | 40,320 |\n| Employer's contribution to the above fund | 40,320 |\n| Interest on balance in recognized Provident Fund | 28,000 |\n| Bonus | 24,000 |\nAdditional Information :\n(i) X was provided with a small car for which the employer paid all the running and maintenance costs. The car was used for official as well as personal purposes.\n(ii) He was also provided with rent-free accommodation at Kolkata for which the employer paid a rent of ₹ 2,500 pm. He was allowed to use one refrigerator and an air-conditioner costing ₹ 16,000 and ₹ 24,000 respectively, while their written-down values as on 01.04.2020 were ₹ 9,000 and ₹ 14,000 respectively.\n(iii) Life insurance premium of ₹ 24,000 was paid by his employer on an Insurance Policy for ₹ 4,80,000 on the life of X.\nCompute the taxable salary of X for the Assessment Year 2021 – 22.\n(b) Explain the term 'Revenue' as per AS-9. State the items not included in the term 'Revenue'. When should revenue from sale of goods be recognized?\n(c) Explain the concept and features of Responsibility Accounting. Discuss the steps involved in implementing such an Accounting System.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 39,
+        "subtags": [
+          129
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) The following details have been extracted from the cost records of a company :\nMaterial : 5 lbs @ ₹ 5 – ₹ 25\nLabour : 4 Hrs @ ₹ 3 – ₹ 12\nThe production schedule for the month of January, 2022 required the completion of 7000 units; however 8100 units were actually produced during the month. Purchase of materials of 40000 lbs was made at a total invoice price of ₹ 1,65,000.\nProduction record for the month of January, 2022 revealed the following :\nMaterials requisitioned and used – 35800 lbs, Direct labour – 17200 Hrs – ₹ 59,400.\nCalculate the appropriate material and labour variances.\n(b) Discuss the impact of behavioural sciences on Accounting.\n(c) Discuss the major points to be considered by an auditor while conducting the audit of charitable institutions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          129,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain 'Capital Asset Pricing Model'.\n(b) Briefly explain any five risks faced by the financial institutions in India.\n(c) Discuss Walter's model of dividend decision.\n(d) Discuss the problem of multiple internal rates of return in relation to capital budgeting decision.\n(e) Explain the objective of maximising the wealth of shareholders.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) From the following data, you are required to prepare a Balance Sheet and a Statement of Profit and Loss:\n|  | ₹ |\n| --- | --- |\n| (a) Share Capital | 9,60,000 |\n| (b) Working Capital | 3,64,000 |\n| (c) Bank Overdraft | 60,000 |\nAdditional information :\n(i) Current Ratio – 2\n(ii) Quick Ratio – 1.5\n(iii) Proprietary Ratio (Fixed Assets/ Proprietary Fund) – 0.80\n(iv) Gross Profit Ratio – 0.20\n(v) Inventory Turnover Ratio – 4\n(vi) Trade Receivables Turnover – 36 days\n(vii) Net Profit to Paid-up Capital – 10%\nAssume there are no fictitious assets. In the case of current assets, there are no assets other than inventories, trade receivables and cash. Closing inventory is 20% higher than the opening inventory. Also assume 360 days in a year.\n(b) Capital structure of a company consists of the following :\n|  | ₹ |\n| --- | --- |\n| Equity Share Capital : (Shares of ₹ 100 each) | 40,00,000 |\n| Retained Earning | 20,00,000 |\n| 8% Preference Shares | 20,00,000 |\n| 7% Debentures | 4,00,000 |\n| Total | 84,00,000 |\nThe company requires ₹ 50,00,000 to finance the expansion programme for which the following alternatives are available :\n(i) Issue of 40,000 equity shares at a premium of ₹ 25 per share\n(ii) Issue of 10% Preference Shares\n(iii) Issue of 8% Debentures\nIt is estimated that in the case of equity shares, preference shares and debentures financing, the PE ratios would be 21.4, 17 and 15.7 respectively.\nAssume the company earns 12% on its capital with the income tax rate of 50%.\nYou are required to evaluate the three financing alternatives and recommend the best alternative suitable for the company.\n(c) What is money market? Explain the features of a developed money market.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          25,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 42
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) A company wishes to raise additional finance of ₹ 20 lakh for meeting its investment plans. It has ₹ 4,20,000 in the form of retained earnings available for investment purposes.\nFollowing are the additional details :\n(i) Debt/Equity mix — 30%/70%\n(ii) Cost of debt upto ₹ 3,60,000 is 10% before tax; Beyond ₹ 3,60,000 is 16% before tax;\n(iii) Earnings per share is ₹ 8\n(iv) Dividend payout is 50% of earnings\n(v) Expected growth rate in dividend is 10%\n(vi) Current market price per share is ₹ 88\n(vii) Tax rate is 50%\nYou are required to determine the pattern for raising the additional finance, the post-tax average cost of additional debt, the cost of retained earnings and the cost of equity.\nAlso compute the overall weighted average after-tax cost of additional finance.\n(b) From the following Summary Cash Account of Z Ltd., you are required to prepare Cash Flow Statement for the year ended March 31, 2022 in accordance with AS-3 using the Direct method.\nSummary Cash Account (for the year ended March 31, 2022) (₹ in '000)\n|  | ₹ |  | ₹ |\n| --- | --- | --- | --- |\n| Balance on 01/04/2021 | 100 | Payment to suppliers | 4,000 |\n| Issue of Equity Shares | 600 | Purchase of fixed assets | 400 |\n| Receipts from customers | 5,600 | Overhead expenses | 400 |\n| Sale of fixed assets | 200 | Wages & Salaries | 200 |\n|  |  | Taxation | 500 |\n|  |  | Dividend | 100 |\n|  |  | Repayment of bank loan | 600 |\n|  |  | Balance on 31/03/2022 | 300 |\n|  | 6,500 |  | 6,500 |\nNote :\nThe company does not have any cash equivalance.\n(c) What is corporate restructuring? Explain the techniques of corporate restructuring.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) From the following information as contained in the Trading and Profit & Loss Account and Balance Sheet of X Ltd., you are required to calculate the operating cycle period.\nTrading and Profit & Loss Account (for the year ended March 31, 2022) (₹ in lakh)\n|  | ₹ |  | ₹ |\n| --- | --- | --- | --- |\n| To Opening Stock : |  | By Sales | 640 |\n| Raw Materials | 28 | By Closing Stock : |  |\n| Work-in-Process | 60 | Raw Materials | 32 |\n| Finished Goods | 40 | Work-in-Process | 80 |\n| To Purchases | 480 | Finished Goods | 60 |\n| To Wages | 50 |  |  |\n| To Manufacturing Expenses | 30 |  |  |\n| To Gross Profit | 124 |  |  |\n|  | 812 |  | 812 |\n| To Office & Administrative Expenses | 32 | By Gross Profit | 124 |\n| To Selling & Distribution Expenses | 16 |  |  |\n| To Net Profit | 76 |  |  |\n|  | 124 |  | 124 |\nBalance Sheet (as on March 31, 2022) (₹ in lakh)\n| Liabilities | ₹ | Assets | ₹ |\n| --- | --- | --- | --- |\n| Share Capital | 600 | Land & Buildings | 300 |\n| Loans | 320 | Plant & Machinery | 480 |\n| Profit & Loss Account | 76 | Stocks : |  |\n| Creditors | 84 | Raw Materials | 32 |\n|  |  | Work-in-Process | 80 |\n|  |  | Finished Goods | 60 |\n|  |  | Debtors | 104 |\n|  |  | Cash | 24 |\n|  | 1080 |  | 1080 |\nAdditional Information :\n(i) Closing balance of debtors is ₹ 8 lakh more than the opening balance of debtors.\n(ii) Opening balance of creditors is ₹ 24 lakh.\n(iii) Purchases and sales are made on credit basis only.\n(b) Discuss the role of commercial banks in the economic development of a country.\n(c) Explain the Arbitrage process as per the M&M Model.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          132,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 42
+        }
+      ]
+    }
+  ]
+}

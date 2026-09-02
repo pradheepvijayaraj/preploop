@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2025_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Answer each of the following questions in about 150 words :\n(a) Relationship between quality work life (QWL) and organisational performance.\n(b) Determinants of Personality\n(c) Types of external-environment of organisation\n(d) Types of Organisational Structure\n(e) Neo-classical theory of organisation",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Organisational design is not merely about structure, but about strategically aligning people, processes, and objectives in an ever-changing environment.\" Discuss.\n(b) Explain the concept of PDCA. State in detail its features, application, advantages and limitations.\n(c) Explain the process of perception and discuss how perceptual distortions can influence managerial decision-making in changing organisational environment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the different leadership styles commonly found in organisations. Evaluate how such leadership styles can influence employee motivation, performance and organisational culture.\n(b) To what extent does a project based organisational structure enhances goal clarity and flexibility and how sustainable in this approach for long-term strategic growth?\n(c) Discuss how mechanistic and organic structures affect decision-making, communication and flexibility within an organisation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) How do different sources of power influence the formal and informal power structures within an organisation, and what are the implications for leadership effectiveness and ethical decision-making?\n(b) \"Organisations often pursue multiple and sometimes conflicting goals.\" Critically evaluate this statement. How these conflicting goals affect organisational strategy, decision-making and performance? Elaborate.\n(c) What are the major challenges in achieving effective coordination in an organisation and how does it impact overall performance? Discuss",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Answer each of the following questions in about 150 words :\n(a) Job evaluation and internal equity\n(b) Impact of traditional job specifications\n(c) Impact of absenteeism\n(d) Factors influencing salary and wage administration.\n(e) Causes of Industrial Disputes",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Performance appraisal is not merely for appraisal but is for accomplishment and improvement of performance.\" Elaborate.\n(b) \"Workers' participation democratises workplaces, while collective bargaining institutionalises conflict.\" Critically evaluate this statement.\n(c) Examine the scope of industrial relations in the light of modern labour market transformations, including the impact of changing work patterns, globalisation and technological advancement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) What is the role of International Labour Organisation (ILO) and how has it influenced labour and social policies in India? Elaborate.\n(b) Define recruitment. Describe the various methods of recruitment. Which method, in your opinion, will be more suitable to recruit a higher post like marketing manager? Explain in detail.\n(c) \"Training programmes are helpful to avoid personnel obsolescence.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) What should be done to improve the work culture in our country? Give suitable suggestions.\n(b) Define trade union. What are the challenges faced by trade unions in present time? Elaborate.\n(c) Is there any difference between union participation and employee participation? Discuss the pros and cons of both and suggest whether and how they can coexist.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    }
+  ]
+}

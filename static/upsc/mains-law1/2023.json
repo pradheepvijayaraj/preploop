@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2023_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Preamble of the Indian Constitution is indicative of basic values that the political system is expected to pursue.\" How far do you agree with the statement ? Explain with the reference to values that have been enshrined in the Preamble of the Constitution.\n(b) \"The office of the President under the Indian Constitution has been designed to be largely that of a 'figurehead'.\" Explain, with reference to the cases decided on the subject.\n(c) \"There is an obvious slant in favour of the Centre, in distribution of powers between Centre and States.\" Do you agree with the statement ? Explain.\n(d) \"The principles of natural justice are not cast in stone and there is always a possibility of deviation from stated principles of law in view of overall demands of justice.\" Explain citing decided cases on the subject.\n(e) Explain and elucidate the grounds of judicial review for administrative action, by quoting decided cases on the subject.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 369,
+        "subtags": [
+          215,
+          7,
+          222,
+          57
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 369
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 380
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 161
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The Constitution of India has provided for a clear-cut distinction between civil and political rights on the one hand and economic and cultural rights on the other, with a distinct primacy given to civil and political rights.\" Explain.\n(b) \"Panchayati Raj Institutions and Urban Local Bodies have been accorded constitutional status.\" Explain the ambit and structure of the authority of Panchayati Raj Institutions and Urban Local Bodies under the Indian Constitution.\n(c) \"The Constitution of India provides constitutional status and protection to civil servants.\" What protections have been secured for civil servants in India ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 369,
+        "subtags": [
+          8,
+          218
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 369
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 27
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 376
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Superintendence, direction and control of elections is vested in the office of the Election Commission and therefore, the appointment of Election Commissioner is of crucial importance in conducting free and fair elections.\" Critically examine the above statement with reference to recent judicial decisions.\n(b) \" 'Legal-Aid' provides a basic tool for access to justice for poor and marginalized sections of society.\" Discuss and elucidate the Constitutional provisions and the provisions of the Legal Services Authorities Act, 1987.\n(c) \"The strength of the 'eminent domain' is inversely proportional to the strength of democratic structure of any system.\" Do you agree with this statement ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 378,
+        "subtags": [
+          212,
+          211
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 378
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 369
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by breakdown of constitutional machinery in a State ? Critically examine the powers of the President in imposing President's Rule under Article 356 of the Constitution, by citing decided cases on the point.\n(b) Discuss the objectives of the establishment of Lokpal and Lok Ayukta, and their powers and functions under the Lokpal and Lok Ayuktas Act, 2013. Examine the effectiveness of the said Act.\n(c) If at any time, it appears to the President that a critical question of law and fact has arisen, the President can obtain the opinion of the Supreme Court. Discuss the role of the Supreme Court in this matter, by giving suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 373,
+        "subtags": [
+          224
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 382
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 373
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Triumph of Positivism has reduced an individual to be an object of international law rather than a subject of international law.\" Comment on the status of the individual under international law in the light of the above statement.\n(b) What do you mean by 'Contiguous Zone' ? Explain with reference to Indian practices on the subject.\n(c) Explain the impact of recognition on the powers and privileges of the States.\n(d) Explain the principle of 'Jus cogens' with reference to 'Vienna Convention on Law of Treaties, 1969'.\n(e) \"International Criminal Court is more of a Eurocentric Organisation than an International Court.\" Explain the jurisdiction of International Criminal Court in light of the above statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 390,
+        "subtags": [
+          225,
+          227,
+          235
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 390
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 390
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Law must be stable, and yet it cannot stand still, as it needs to reconcile the conflicting needs of stability and change and in the fast-developing world, the stability appears to have become the casualty in international law.\" Differentiate between traditional International Law and new International Law in light of the above statement.\n(b) \"States show considerable flexibility in the procedures, whereby they give effect to the rules of the International Law, within their territory.\" Explain the acceptability of norms of International Law in India, citing relevant cases on the subject.\n(c) How do you distinguish between 'Continental Shelf' and 'Exclusive Economic Zone' ? Explain giving examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          229
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 387
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Preamble of the UN Charter is representative of the aspirations of humanity in ensuring peace and security across the globe.\" How far have these objectives been achieved by the UN ? Explain and elucidate.\n(b) \"Reservation in multilateral treaty excludes or modifies the legal effect of certain provisions of a treaty in its application to that State.\" Explain the circumstances under which reservations in treaties are permissible under International Law.\n(c) Under what circumstances is recourse to 'force' or 'aggression' permissible and justifiable under International Law ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          235,
+          238
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 396
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"WTO provides a platform for agreements amongst its members which form the legal foundation of global trade.\" Critically evaluate the importance of WTO in the new international economic order.\n(b) \"Member States of the UN need to take appropriate action for protecting and improving human environment.\" In light of the above statement, highlight the major steps of the UN for protecting human environment.\n(c) \"International Humanitarian Law is a set of rules to limit the effects of armed conflict, whereas International Human Rights Law seeks to ensure a set of rights which are essential for survival of humans as Humans.\" Distinguish between International Humanitarian Law and International Human Rights Law in terms of their contents and purposes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 401,
+        "subtags": [
+          244,
+          239
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 401
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 402
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 397
+        }
+      ]
+    }
+  ]
+}

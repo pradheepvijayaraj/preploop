@@ -1,0 +1,4 @@
+[env]
+# llama.cpp enables Metal by default on macOS even when no GPU layers are
+# requested. Keep the search runtime genuinely CPU-only on every platform.
+GGML_METAL = "OFF"

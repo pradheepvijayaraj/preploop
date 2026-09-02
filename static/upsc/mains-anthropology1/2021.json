@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2021_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Animism and Deep Ecology\n(b) Marriage Regulations and Alliance Theory\n(c) Historical Particularism and Franz Boas\n(d) \"The bio-cultural approach is the hallmark of Biological Anthropology.\" Explain.\n(e) Thermoluminescence (TL) dating",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 250,
+        "subtags": [
+          88,
+          79,
+          85
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [
+            101
+          ],
+          "mainTag": 250
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 245
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 236
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) What are the physical and cultural characteristics of Homo erectus ? Discuss its phylogenetic status.\n(b) Elucidate the concept of \"thick description\" of Clifford Geertz with a suitable example.\n(c) Describe the features of early farming cultures and Neolithic of the Near East.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 76,
+        "subtags": [
+          93,
+          86
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) How do political organisations of simple societies establish power, authority and legitimacy?\n(b) Explain the genetic mechanisms of micro and macro evolution.\n(c) Discuss the salient features of different traditions of European Mesolithic.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 244,
+        "subtags": [
+          31,
+          80
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 237
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Elaborate the scope of anthropology and elucidate its uniqueness in the field of other social sciences.\n(b) Mention the major branches of linguistic anthropology and discuss language use in social and cultural settings.\n(c) \"Chromosomal aberrations can play havoc with the human body and mind.\" Explain with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 234,
+        "subtags": [
+          81,
+          99
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 234
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 238
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 256
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Human adolescent growth spurt\n(b) The losses and gains of erect posture\n(c) Is race a valid and biologically meaningful concept ?\n(d) Descent Groups\n(e) Modes of Subsistence",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 260,
+        "subtags": [
+          100,
+          89,
+          90
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 260
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 260
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 247
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) What is acclimatization? Discuss adaptive responses to high altitude and cold climate.\n(b) How are the cases of disputed paternity solved? Discuss the recent techniques.\n(c) Critically evaluate Lewis Morgan's classification of family.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 258,
+        "subtags": [
+          96,
+          46
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 258
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 140
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically evaluate different types of social stratifications with suitable examples.\n(b) Discuss the bio-social determinants of fertility and fecundity.\n(c) What is Anthropometry? Discuss its role in assessing the nutritional status and sports capability of a person.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 244,
+        "subtags": [
+          104,
+          106
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 261
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 263
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss various tools of data collection in conducting anthropological research.\n(b) Discuss the physiological and evolutionary theories of aging.\n(c) Explain the structural analysis of kinship as proposed by Lévi-Strauss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 234,
+        "subtags": [
+          105,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 234
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 262
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    }
+  ]
+}

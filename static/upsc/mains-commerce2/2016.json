@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2016_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Explain the following (each in about 150 words) :\n(a) Ritualism\n(b) Strategy-Structure Relationship\n(c) Tridimentional Grid\n(d) Freudian Stages\n(e) Ethnocentrism",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Organisations are collectivities of people that have been established for the pursuit of relatively specific objectives on a more or less on continuous basis\". Elucidate the implication(s) of this statement.\n(b) The criticisms of Neo-classical organisation theory ranges from 'human relations as a tool for cynical puppeteering of people' to 'human relations no more than a trifling body of empirical descriptive information'. Throw light on this statement.\n(c) \"Political and legal environment works both as a promoting and as a restraining force in business operations\". Examine this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Informal organisation is detrimental to the interest of formal organisation and, therefore, it is an evil to be nipped in the bud itself.\" Comment on this statement and explain how managers should handle informal organisation.\n(b) \"The relative advantages of functional structure of organisations are like two-edged swords.\" What are the implications of this statement ?\n(c) How 'power' differs from 'authority' ? Discuss the sources of power in an organisation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"When there is an accident in a factory, the supervisor may treat it as the carelessness of worker(s), while the worker(s) may treat it as the high-handedness of management and lack of adequate provisions of security measures.\" What is the significance of this Phenomenon, and why people see the same situation differently ?\n(b) \"Biological factors are important in determining the personality of a person.\" Comment on this statement.\n(c) What are the various elements in the 'Porter-Lawler Model' of motivation ? What are the implications of these elements in motivating a person ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Explain the following (each in about 150 words) :\n(a) Versatility transfer\n(b) Burack Smith Model forecasting Human resource needs\n(c) Measures to control Absenteeism\n(d) Dunlop's approach of Industrial Relation\n(e) Industrial Jurisprudence",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Human resource management practices are culture bound.\" Discuss this statement and show how different cultures adopt different human resource management practices.\n(b) \"Placement is a decisive step that affect both the employees and the organisation.\" Explain the statement.\n(c) Discuss briefly the various on-the-job and off-the-job training and development methods.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"A job description is a word picture of the organisational relationships, responsibilities and specific duties that constitute a given job or position.\" Discuss the major criteria for a well-made job description that link the underlined factors.\n(b) \"The immediate objective of job-evaluation process is to obtain internal and external consistency in wage and salaries.\" Elucidate the statement and throw light on the effect of job-evaluation on human relation in an industry.\n(c) A manufacturing company has about 200 employees in its plant. It undertakes performance appraisal on informal basis. The company wants to adopt a formal appraisal system. Advice the company as to how it should proceed in the matter.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) Why do employees join a trade union ? Discuss a strategy which an organisation can adopt for dealing with the trade union with the possibility of making the company union free.\n(b) \"The objective of arbitration is not compromise but adjudication, though the parties are at liberty to compromise. A wise arbitrator will certainly promote such agreements, but as a rule, there is no place for compromise in the awards.\" In the light of this statement compare the advantages and disadvantages of settlement approach and arbitration. Also show at which stage of negotiation parties may opt for arbitration.\n(c) Union demands and collective bargaining settlements in private industry and public sector industries differ significantly. List down the differences and suggest suitable remedies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    }
+  ]
+}

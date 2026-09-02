@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2017_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Write a note on pseudovolcanic features.\n(b) Distinguish between low energy coasts and coral coasts.\n(c) Discuss the impacts of ocean currents on air mass behaviour.\n(d) Describe the characteristics of biological deserts.\n(e) Explain the concept of micro carbon sink and its relevance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": [
+          52,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the forces which govern the air movement on the Earth's surface.\n(b) \"The knowledge of slope analysis has limited field application in the slope management.\" Explain.\n(c) Describe the configuration of the Pacific Ocean floor.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          52,
+          54
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Climate change is a reality.\" Explain with suitable examples.\n(b) Distinguish between the characteristics of Chernozem and Sierozem soils.\n(c) Give a classification of plants based on the amount of water requirement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the concept of Periglacial cycle as propounded by Peltier.\n(b) \"Climate, slope gradient and rock structure influence the avulsion of channels.\" Explain.\n(c) Discuss the Perception, Attitude, Value and Emotion (PAVE) Theory of environmental management.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the concept of Time-Geography.\n(b) \"Whittlesey's agricultural regions are relevant even today.\" Discuss.\n(c) Write an explanatory note on geographical systems.\n(d) \"The traditional cultural identities are at loss with the growth of global connectivity.\" Explain.\n(e) Give an account on sustainable development and its components.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          153,
+          154,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 311
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the contemporary paradigms of Geography.\n(b) \"The intensity of energy crisis varies regionally.\" Explain.\n(c) Examine the causes and consequences of forced migration of population in the present context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          153,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the applicability of Christaller's Central Place Theory.\n(b) \"There are considerable demographic similarities between West European nations and Japan.\" Explain.\n(c) Define the quality of life and explain its parameters with adequate examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 311,
+        "subtags": [
+          151,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 311
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The Heartland Theory is gaining importance once again.\" Comment.\n(b) Examine the role of small towns in the regional development process.\n(c) Explain the concept of social capital in relation to India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          1
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        }
+      ]
+    }
+  ]
+}

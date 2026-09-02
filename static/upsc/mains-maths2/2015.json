@@ -1,0 +1,415 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2015_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) (i) How many generators are there of the cyclic group $G$ of order 8? Explain.\n(ii) Taking a group $\\{e, a, b, c\\}$ of order 4, where $e$ is the identity, construct composition tables showing that one is cyclic while the other is not.\n(b) Give an example of a ring having identity but a subring of this having a different identity.\n(c) Test the convergence and absolute convergence of the series $\\sum_{n=1}^{\\infty} (-1)^{n+1} \\frac{n}{n^2+1}$.\n(d) Show that the function $v(x, y) = \\ln(x^2 + y^2) + x + y$ is harmonic. Find its conjugate harmonic function $u(x, y)$. Also, find the corresponding analytic function $f(z) = u + iv$ in terms of $z$.\n(e) Solve the following assignment problem to maximize the sales :\n|  | I | II | III | IV | V |\n| --- | --- | --- | --- | --- | --- |\n| A | 3 | 4 | 5 | 6 | 7 |\n| B | 4 | 15 | 13 | 7 | 6 |\n| C | 6 | 13 | 12 | 5 | 11 |\n| D | 7 | 12 | 15 | 8 | 5 |\n| E | 8 | 13 | 10 | 6 | 9 |",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 447,
+        "subtags": [
+          290,
+          291,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) If $R$ is a ring with unit element 1 and $\\phi$ is a homomorphism of $R$ onto $R'$, prove that $\\phi(1)$ is the unit element of $R'$.\n(b) Is the function\n$$f(x) = \\begin{cases} \\frac{1}{n}, & \\frac{1}{n+1} < x \\le \\frac{1}{n} \\\\ 0, & x = 0 \\end{cases}$$\nRiemann integrable? If yes, obtain the value of $\\int_0^1 f(x) \\, dx$.\n(c) Find all possible Taylor's and Laurent's series expansions of the function\n$$f(z) = \\frac{2z-3}{z^2 - 3z + 2}$$\nabout the point $z = 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 449,
+        "subtags": [
+          289,
+          290
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 449
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) State Cauchy's residue theorem. Using it, evaluate the integral\n$$\\int_C \\frac{e^z + 1}{z(z + 1)(z - i)^2} \\, dz; \\quad C: |z| = 2$$\n(b) Test the series of functions $\\sum_{n=1}^{\\infty} \\frac{nx}{(1 + n^2x^2)}$ for uniform convergence.\n(c) Consider the following linear programming problem :\nMaximize $Z = x_1 + 2x_2 - 3x_3 + 4x_4$\nsubject to\n$x_1 + x_2 + 2x_3 + 3x_4 = 12$\n$x_2 + 2x_3 + x_4 = 8$\n$x_1, x_2, x_3, x_4 \\ge 0$\n(i) Using the definition, find its all basic solutions. Which of these are degenerate basic feasible solutions and which are non-degenerate basic feasible solutions?\n(ii) Without solving the problem, show that it has an optimal solution. Which of the basic feasible solution(s) is/are optimal?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 450,
+        "subtags": [
+          291,
+          290
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 450,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Do the following sets form integral domains with respect to ordinary addition and multiplication? If so, state if they are fields :\n(i) The set of numbers of the form $b\\sqrt{2}$ with $b$ rational\n(ii) The set of even integers\n(iii) The set of positive integers\n(b) Find the absolute maximum and minimum values of the function $f(x, y) = x^2 + 3y^2 - y$ over the region $x^2 + 2y^2 \\le 1$.\n(c) Solve the following linear programming problem by the simplex method. Write its dual. Also, write the optimal solution of the dual from the optimal table of the given problem :\nMaximize $Z = 2x_1 - 4x_2 + 5x_3$\nsubject to\n$x_1 + 4x_2 - 2x_3 \\le 2$\n$-x_1 + 2x_2 + 3x_3 \\le 1$\n$x_1, x_2, x_3 \\ge 0$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 450,
+        "subtags": [
+          289,
+          294
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 447,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Solve the partial differential equation\n$$(y^2 + z^2 - x^2)p - 2xyq + 2xz = 0$$\nwhere $p = \\frac{\\partial z}{\\partial x}$ and $q = \\frac{\\partial z}{\\partial y}$.\n(b) Solve $(D^2 + DD' - 2D'^2)u = e^{x+y}$, where $D = \\frac{\\partial}{\\partial x}$ and $D' = \\frac{\\partial}{\\partial y}$.\n(c) Find the principal (or canonical) disjunctive normal form in three variables $p, q, r$ for the Boolean expression $((p \\land q) \\to r) \\lor ((p \\land q) \\to \\sim r)$. Is the given Boolean expression a contradiction or a tautology?\n(d) Consider a uniform flow $U_0$ in the positive $x$-direction. A cylinder of radius $a$ is located at the origin. Find the stream function and the velocity potential. Find also the stagnation points.\n(e) Calculate the moment of inertia of a solid uniform hemisphere $x^2 + y^2 + z^2 = a^2$, $z \\ge 0$ with mass $m$ about the $OZ$-axis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          295,
+          297,
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 453
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 455
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve for the general solution $p \\cos(x + y) + q \\sin(x + y) = z$, where $p = \\frac{\\partial z}{\\partial x}$ and $q = \\frac{\\partial z}{\\partial y}$.\n(b) Solve the plane pendulum problem using the Hamiltonian approach and show that $H$ is a constant of motion.\n(c) Find the Lagrange interpolating polynomial that fits the following data :\n| $x$ | $-1$ | $2$ | $3$ | $4$ |\n| --- | --- | --- | --- | --- |\n| $f(x)$ | $-1$ | $11$ | $31$ | $69$ |\nFind $f(1.5)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 452,
+        "subtags": [
+          293,
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 454
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 452
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Find the solution of the initial-boundary value problem\n$$u_t - u_{xx} + u = 0, \\quad 0 0$$\n$$u(0, t) = u(l, t) = 0, \\quad t \\ge 0$$\n$$u(x, 0) = x(l - x), \\quad 0 < x < l$$\n(b) Solve the initial value problem $\\frac{dy}{dx} = x(y - x)$, $y(2) = 3$ in the interval $[2, 2.4]$ using the Runge-Kutta fourth-order method with step size $h = 0.2$.\n(c) A Hamiltonian of a system with one degree of freedom has the form\n$$H = \\frac{p^2}{2\\alpha} - bqpe^{-\\alpha t} + \\frac{b\\alpha}{2}q^2e^{-\\alpha t}(\\alpha + be^{-\\alpha t}) + \\frac{k}{2}q^2$$\nwhere $\\alpha$, $b$, $k$ are constants, $q$ is the generalized coordinate and $p$ is the corresponding generalized momentum.\n(i) Find a Lagrangian corresponding to this Hamiltonian.\n(ii) Find an equivalent Lagrangian that is not explicitly dependent on time.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 454,
+        "subtags": [
+          293,
+          294
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 454,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Reduce the second-order partial differential equation\n$$x^2 \\frac{\\partial^2 u}{\\partial x^2} - 2xy \\frac{\\partial^2 u}{\\partial x \\partial y} + y^2 \\frac{\\partial^2 u}{\\partial y^2} + x \\frac{\\partial u}{\\partial x} + y \\frac{\\partial u}{\\partial y} = 0$$\ninto canonical form. Hence, find its general solution.\n(b) Find the solution of the system\n$10x_1 - 2x_2 - x_3 - x_4 = 3$\n$-2x_1 + 10x_2 - x_3 - x_4 = 15$\n$-x_1 - x_2 + 10x_3 - 2x_4 = 27$\n$-x_1 - x_2 - 2x_3 + 10x_4 = -9$\nusing Gauss-Seidel method (make four iterations).\n(c) In an axisymmetric motion, show that stream function exists due to equation of continuity. Express the velocity components in terms of the stream function. Find the equation satisfied by the stream function if the flow is irrotational.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 455,
+        "subtags": [
+          293,
+          294
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2020_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) \"The strength of Public Administration is in its exploration of the complexities and nuances of public policy making and implementation.\" Discuss.\n(b) \"Principles of analysis and principles of action were not differentiated in Taylor's scientific management.\" Comment.\n(c) \"Arbitrariness in the application of rule of law is a primary cause of poor governance.\" Discuss.\n(d) \"Departments, Boards and Commissions as forms of organization are dissimilar in the context of accountability and responsibility.\" Analyse.\n(e) \"Administrative man bridges the psychological man and the rational man. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 549,
+        "subtags": [
+          10,
+          395,
+          393
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 549
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The movement towards governance as an organizing concept for public administration and management is because the focus of administration has been shifting from the bureaucratic state to the 'hollow state' and 'third-party government'.\" Critically examine.\n(b) \"Organizations of the future will be organic-adaptive structures but temporary systems.\" Discuss how Warren Bennis characterises the new form of organization.\n(c) \"Productivity is not the result of working conditions but the result of emotional response of workers to work performed.\" Are Elton Mayo's findings relevant in contemporary organizations ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 548,
+        "subtags": [
+          393,
+          392
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Performance information use' is a form of organizational behaviour that is influenced by individual, job, organizational and environmental factors.\" Critically analyse.\n(b) New Public Service emphasizes democracy and citizenship as the basis for public administration theory and practice. Elucidate.\n(c) \"Accountability under New Public Management has undergone a radical change, although the focus has continued to remain on management.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          390,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Developments in the field of Administrative Law reflect an increasingly blurred boundary between the state and society, and between justice and administration.\" Has administrative law become more constitutional than the Constitution itself? Argue.\n(b) \"The content and process theories of motivation have the same focus but are different in approaches.\" Do you agree? Give reasons.\n(c) Thrust on the citizen centricity and Right based approaches, aim to empower the citizens. In the light of the above, has the administrative accountability improved? Justify your argument.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          395,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) \"Comparative Public Administration started with no paradigm of its own and developed none.\" Comment.\n(b) \"Markets, hierarchies and networks represent modern governing structures in government.\" Explain.\n(c) Has policy analysis become a major source of legitimation of status quo in political and social order ? Discuss.\n(d) \"Fiscal policy should address the issues of inequity, intricacy and obscurantism.\" Explain.\n(e) \"Prevention of misconduct requires institutionalization of ethical values at the political and administrative levels.\" Justify.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          396,
+          393,
+          398
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 556
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Administrative ideas must be seen in the context of environment in which they develop.\" In the light of the above statement, examine the influence of New Public Management and Information and Communication Technologies on comparative study of Public Administration.\n(b) Affirmative action in socio-economic development has not altogether eliminated discrimination. Discuss it in the context of women empowerment.\n(c) Have political realities thwarted the move towards evidence based policy making? Critically examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 554,
+        "subtags": [
+          397,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Globalization is impacting the context of national policy making. The national policy agenda is becoming international.\" Explain.\n(b) \"Collaboration and its cognates for public service delivery need to be viewed from the governance lenses.\" Comment.\n(c) \"Administrative reform is \"an artificial inducement of administrative transformation against resistance.\" (Gerald Caiden). Identify the nature of resistance and inducements required to overcome it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Disruptive nature of developments in Information Technology has changed the contours of e-governance in the last one decade.\" Analyse.\n(b) \"Performance Management Framework enables a clear line of sight between planning, measuring and monitoring performance.\" Critically analyse.\n(c) \"Objectives of performance budgeting include improving expenditure prioritization, effectiveness and efficiency.\" Has performance budgeting worked effectively in govern-mental system? Argue.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 557,
+        "subtags": [
+          10,
+          400
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 558
+        }
+      ]
+    }
+  ]
+}

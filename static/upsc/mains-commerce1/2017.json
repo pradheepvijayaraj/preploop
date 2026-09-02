@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2017_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) State the provisions of Indian Accounting Standards regarding Foreign Exchange Transactions.\n(b) Distinguish between Internal Reconstruction and External Reconstruction of Companies.\n(c) Define 'Responsibility Centre'. Explain its various types.\n(d) Write a note on 'Service Tax'.\n(e) \"Verification of Advances is an important function of an auditor of a Bank.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 288,
+        "subtags": [
+          129,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) The Balance Sheets of Rakesh Ltd. and Lokesh Ltd. as at 31.12.2013 were as follows:\n| Liabilities | Rakesh Ltd. (₹) | Lokesh Ltd. (₹) | Assets | Rakesh Ltd. (₹) | Lokesh Ltd. (₹) |\n| --- | --- | --- | --- | --- | --- |\n| Equity Share Capital (Shares of ₹ 10 each) | 6,00,000 | 4,00,000 | Fixed Assets (other than Goodwill) | 5,00,000 | 3,50,000 |\n| Reserves | 1,50,000 | 1,00,000 | Stock-in-trade | 95,000 | 75,000 |\n| Profit and Loss A/c | 75,000 | 60,000 | Debtors | 1,40,000 | 1,00,000 |\n| Sundry Creditors | 37,500 | 30,000 | Cash and Bank | 1,17,500 | 60,000 |\n|  |  |  | Preliminary Expenses | 10,000 | 5,000 |\n| Total | 8,62,500 | 5,90,000 | Total | 8,62,500 | 5,90,000 |\nRakesh Ltd. took over and absorbed Lokesh Ltd. as on 1.7.2014. No balance sheet of Lokesh Ltd. was prepared on the date of takeover, but the following information is made available to you:\n(i) In the six months ended 30.6.2014 Lokesh Ltd. made a net profit of ₹ 60,000 after providing for depreciation at 10% per annum on fixed assets.\n(ii) Rakesh Ltd. during that period made a net profit of ₹ 1,45,000 after providing for depreciation at 10% per annum on the fixed assets.\n(iii) Both the companies had distributed dividends of 10% on 1.4.2014.\n(iv) Goodwill of Lokesh Ltd. on the date of takeover was estimated at ₹ 25,000 and it was agreed that the stocks of Lokesh Ltd. would be appreciated by ₹ 15,000 on the date of takeover.\n(v) Rakesh Ltd. to issue shares to Lokesh Ltd. on the basis of the intrinsic value of the shares on the date of takeover.\nPrepare the Balance Sheet of Rakesh Ltd. after absorption.\n(b) How is Differential Cost Analysis helpful in decision-making?\n(c) \"Residential status has its effect on computation of taxable income under the Income Tax Act, 1961.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          130,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) A company manufacturing two products furnishes the following data for a year:\n| Product | Annual Output (units) | Total Machine Hours | Total Number of Purchase Orders | Total Number of Set-ups |\n| --- | --- | --- | --- | --- |\n| A | 5,000 | 20,000 | 160 | 20 |\n| B | 60,000 | 1,20,000 | 384 | 44 |\nThe annual overheads are as under:\n| Overheads | Amount (₹) |\n| --- | --- |\n| Volume related activity costs | 5,50,000 |\n| Set-up related costs | 8,20,000 |\n| Purchase related costs | 6,18,000 |\nYou are required to calculate the cost per unit of each product 'A' and 'B' based on\n(i) Traditional method of charging overheads\n(ii) Activity based costing method\n(b) Discuss the provisions of Indian Accounting Standards on Accounting for Depreciation.\n(c) Mr. 'X' owns two house properties, 'A' and 'B'. Property 'A' is used by him for his own residential purpose, whereas property 'B' is let out to a tenant for a monthly rent of ₹ 15,000 throughout the financial year 2016-17. The other particulars in respect of the properties are as under:\n| Particulars | Property 'A' (₹) | Property 'B' (₹) |\n| --- | --- | --- |\n| Municipal Valuation | 30,000 | 50,000 |\n| Standard Rent under Rent Control Act | 40,000 | 1,00,000 |\n| Municipal Taxes paid by Mr. 'X' | 8,000 | 24,000 |\n| Maintenance Charges paid | 6,000 | 18,000 |\n| Date of completion of construction | 31.3.2010 | 31.8.2013 |\n| Interest on home loans for construction of properties from Nationalised Bank | 70,000 | 1,20,000 |\n| Fire Insurance Premium Payable | 1,500 | 3,000 |\nThe following further information is available:\n(i) Out of interest of ₹ 1,20,000 on home loan taken for construction of property 'B', an amount of ₹ 30,000 was outstanding payable as at 31.3.2017.\n(ii) Mr. 'X' was employed by ABC Ltd. on a monthly salary of ₹ 50,000 plus monthly travelling allowance of ₹ 10,000.\n(iii) He donated during the year ₹ 1,50,000 to a charitable trust approved under Section 80G of the Income Tax Act, 1961.\n(iv) He spent ₹ 7,500 for his health check-up during the year.\nYou are required to compute Total Taxable Income of Mr. 'X' for the Assessment Year 2017-18.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          130,
+          129
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) A bank has received an application from a customer for a loan. You have to investigate on behalf of the bank the accounts of the customer. Highlight those points you would like to concentrate upon.\n(b) Define 'Normal Wastage', 'Abnormal Wastage' and 'Abnormal Effectiveness'. State how these are treated in Process Costing.\n(c) Mr. 'A' inherited a residential house from his father in January 2015. His father had bought the said house in the year 1979 at a cost of ₹ 70,000. Mr. 'A' sold the house in June 2016 for a sale consideration of ₹ 17,00,000 and the registered valuer has valued the said house at ₹ 1,00,000 as at 1.4.1981. The Cost Inflation Index (CII) is as under:\n| Financial Year | CII |\n| --- | --- |\n| 1981-82 | 100 |\n| 2015-16 | 1000 |\n| 2016-17 | 1200 |\nYou are required to compute the income from capital gains for the Assessment Year 2017-18. Also suggest the actions, if any, that may be taken by Mr. 'A' to avoid tax on capital gains.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          131,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) \"Profit maximisation is the goal of Financial Management.\" Critically examine.\n(b) Discuss the Risk-Return Trade-off in financial decisions.\n(c) Distinguish between Money Market and Capital Market.\n(d) Discuss the various methods of deciding exchange ratio in merger of companies.\n(e) State the valuation formula put forward by James Walter. Also explain the logic behind it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          132,
+          21,
+          129
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) A company sells 2600 units of 'Mixer' at ₹ 2,000 each, annually. The details of cost per unit are as follows:\n| Particulars | ₹ |\n| --- | --- |\n| Raw and Packing Materials | 800 |\n| Direct Wages | 400 |\n| Overhead Expenses | 400 |\nOverhead expenses include ₹ 2.60 lakhs on depreciation. Production is evenly maintained over the year, on a weekly basis. All sales are on credit. Materials are introduced at the beginning of the process.\nThe following additional information is also available:\n| Item | Average Period |\n| --- | --- |\n| Raw Material and Packing Materials in stock | 4 weeks |\n| Work-in-Progress (Material 100%, Labour and Overheads 50%) | 1 week |\n| Finished Goods | 1 week |\n| Credit Allowed to Debtors | 6 weeks |\n| Credit Allowed by Suppliers | 4 weeks |\nCash balance to be maintained is ₹ 60,000.\nCalculate the Net Working Capital Requirements of the company.\n(b) Discuss the role of SEBI in regulating the Capital Market.\n(c) Define Capital Rationing. Explain the factors leading to Capital Rationing and also state the situations of Capital Rationing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          21,
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) The following information is related to 'Alpha Co. Ltd.' for the year ended 31.3.2016:\n| Particulars | ₹ |\n| --- | --- |\n| Equity Share Capital (₹ 10 each) | 50 lakhs |\n| 12% Bonds of ₹ 1,000 each | 37 lakhs |\n| Sales | 84 lakhs |\n| Fixed Cost (excluding interest) | 6.96 lakhs |\n| Financial Leverage | 1.49 |\n| Profit Volume Ratio | 27.55% |\n| Income Tax Applicable | 40% |\nYou are required to calculate\n(i) Operating Leverage\n(ii) Combined Leverage\n(iii) Earning Per Share\n(b) Explain the techniques used by the Credit Manager in monitoring the status and the composition of Accounts Receivables.\n(c) What is Commercial Paper? Explain its significance and the pre-conditions for the issue of Commercial Paper.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) The Balance Sheets of S.K. Ltd. as at 31.3.2014 and 31.3.2015 are as under:\n| Liabilities | 31.3.2014 (₹) | 31.3.2015 (₹) |\n| --- | --- | --- |\n| Equity Share Capital | 75,00,000 | 1,02,50,000 |\n| General Reserve | 42,50,000 | 50,00,000 |\n| Profit and Loss Account | 15,00,000 | 18,75,000 |\n| 13% Debentures of ₹ 100 each | 58,00,000 | 43,50,000 |\n| Current Liabilities | 30,00,000 | 32,50,000 |\n| Proposed Dividend | 7,50,000 | 9,10,000 |\n| Provision for Income Tax | 22,50,000 | 24,75,000 |\n| Total | 2,50,50,000 | 2,81,10,000 |\n| Assets | 31.3.2014 (₹) | 31.3.2015 (₹) |\n| --- | --- | --- |\n| Goodwill | 10,00,000 | 7,75,000 |\n| Land and Building | 68,00,000 | 61,20,000 |\n| Plant and Machinery | 75,12,000 | 1,07,95,000 |\n| Investment | 25,00,000 | 21,25,000 |\n| Stock | 33,00,000 | 27,50,000 |\n| Debtors | 24,45,000 | 36,20,000 |\n| Cash and Bank | 14,93,000 | 19,25,000 |\n| Total | 2,50,50,000 | 2,81,10,000 |\nThe following additional information is available:\n(i) During the financial year 2014-15, the company issued equity shares at par.\n(ii) Debentures were redeemed on 1.4.2014 at a premium of 10%.\n(iii) Some investments were sold at a profit of ₹ 75,000 and the profit was credited to General Reserve Account.\n(iv) During the year, an old machine costing ₹ 23,50,000 was sold for ₹ 6,25,000. Its written down value was ₹ 8,00,000.\n(v) Depreciation is to be provided on plant and machinery at 20% on the opening balance.\n(vi) There was no purchase or sale of land and building.\n(vii) Provision for tax made during the year was ₹ 4,50,000.\nYou are required to prepare a Cash Flow Statement for the year ended 31.3.2015.\n(b) Define 'Optimum Capital Structure'. Discuss the major considerations in the Optimum Capital Structure planning of a firm.\n(c) Explain the significance of the following Accounting Ratios :\n(i) Debt-Equity Ratio\n(ii) Acid Test Ratio\n(iii) Inventory Turnover Ratio\n(iv) Operating Profit Ratio\n(v) Current Ratio",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        }
+      ]
+    }
+  ]
+}

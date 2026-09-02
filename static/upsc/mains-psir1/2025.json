@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2025_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the Philosophical approach to the study of Political theory.\n(b) Write a note on the relation between equality and liberty from the multi-cultural perspective.\n(c) Explain the Macpherson’s view on power.\n(d) Mention the difference between Italian and German brands of facism.\n(e) Explain briefly the elite theory of democracy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          339,
+          364,
+          33,
+          363
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 521
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) What is the Marxist and liberal approach towards the state ? On what grounds the theoretical differences between them are premised ? Explain.\n(b) Karl Popper presents a defence of the open society against its enemies. Elaborate.\n(c) Explain how Rawls used the liberal and egalitarian perspective to develop his concept of distributive justice.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 520,
+        "subtags": [
+          361,
+          340
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) Provide a comparative analysis of behavioural and institutional approach to the study of political theory.\n(b) “State .......... does the greatest harm to mankind by destroying individuality, which lies at the root of all progress.” — Mahatma Gandhi. Elucidate.\n(c) Explain how the slogan ‘the personal is political’ addresses the issue of women’s oppression and discrimination ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) The foundational base of western democracy has been shaped by Locke’s ideas of constitutionalism, freedom and property. Elucidate.\n(b) Hannah Arendt analysed a few categories of vita activa. Explain.\n(c) Do you think that legitimacy acquired by consent or manufactured by indoctrination is an essential element in maintenance of political rule ? Justify your answer with relevant examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          363
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain briefly the role of Peasant Movements after 1857 and before independence.\n(b) Write a note on the Dalit perspective of Indian National Movement.\n(c) Land reforms programmes led to some constitutional amendments. Comment.\n(d) Delineate the key factors that have shaped the evolving political landscape in Jammu and Kashmir post 2019.\n(e) How far has been the National Human Rights Commission successful in achieving its objectives ? Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          5,
+          361,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Parliamentary committees are indispensable to the legislative process. It provides for the opportunity for cross-pollination between the two chambers of the Parliament. Discuss.\n(b) Examine the constitutional provisions and nature of advisory jurisdiction of Supreme Court of India. Evaluate your answer with relevant examples.\n(c) The recent developments in Indian Politics has not eroded the true spirit of federalism in India. Critically examine this statement with the help of appropriate examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 28,
+        "subtags": [
+          5,
+          7
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 28
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 22
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Enunciate the impediments to women’s participation in local governance in the process of political decentralisation.\n(b) Caste remains a vital axis for political mobilisation in India. How would the caste census address the aspirations of people ? Discuss.\n(c) There is a debate on the procedure for appointment of the Chief Election Commissioner and Election Commissioners to the Election Commission of India. Analyse its various aspects.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          372,
+          371
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 530
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 529
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) The decision to conduct Population Census-2027 has reopened the debate on delimitation in India. Discuss its various aspects.\n(b) With reference to Nehruvian perspective of planning and economic development, examine how the early phase of economic planning in India has laid the foundation of modern India’s economic growth.\n(c) Illustrate with examples how political parties in India have played a crucial role in drawing the historically disadvantaged groups into the mainstream political system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 530,
+        "subtags": [
+          13,
+          9
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 530
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2018_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "SECTION 'A'\n1. Comment on the following in about 150 words each:\n(a) John Stuart Mill is a 'reluctant democrat'. - C. L. Wayper\n(b) Decline of Political Theory\n(c) Distributive Justice\n(d) Substantive Democracy\n(e) \"Nothing against the State, nothing over it, nothing beyond it.\" – Mussolini",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 528,
+        "subtags": [
+          361,
+          340,
+          363,
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 528
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "e",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the neo-liberal theory of State.\n(b) Analyse John Rawls justification of discrimination to achieve the goals of Justice.\n(c) Equality means fair treatment rather than equal treatment. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 520,
+        "subtags": [
+          340,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by three generations of Human Rights?\n(b) Critically examine Macpherson's views on Democracy.\n(c) Explain the relationship between power, authority and legitimacy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          363,
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) John Locke is the father of liberalism. Explain.\n(b) Discuss Ambedkar's ideas on 'annihilation of caste'.\n(c) Critically examine Machiavelli's views on religion and politics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 117,
+        "subtags": [
+          372,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 530
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each:\n(a) Revolt of 1857 is a 'Sepoy Mutiny' or 'First War of Independence'.\n(b) Indian Constitution is a 'Lawyers' Paradise'. – Ivor Jennings\n(c) New Panchayat Raj is an effective instrument for women empowerment.\n(d) Implementation of GST and NEET is a major challenge to Indian federalism.\n(e) Political personalities are more significant than political parties in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          5,
+          370,
+          7,
+          9
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 528
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 28
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Whether judicial activism has undermined or strengthened Parliamentary Democracy in India ? Discuss.\n(b) Do the Lieutenant Governors have more powers than the Governors of the States ? Explain.\n(c) Critically examine the ethnic conflicts in North-East India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          364,
+          372
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 530
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the provisions of Panchayat Extension Services Act (PESA), 1996.\n(b) Analyse the arguments in favour and against the lateral entry into higher civil services in India.\n(c) Discuss asymmetrical federalism in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 528,
+        "subtags": [
+          13,
+          7
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 528
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 22
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) Examine the various causes of agrarian crisis in India.\n(b) Explain the increasing role of regional political parties in the national politics.\n(c) Critically analyse the environmentalist movement in Tuticorin, Tamilnadu.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 33,
+        "subtags": [
+          9,
+          373
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 531
+        }
+      ]
+    }
+  ]
+}

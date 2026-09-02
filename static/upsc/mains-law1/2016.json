@@ -1,0 +1,370 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2016_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "(a) Explain the concept of 'Federalism' as incorporated in the Indian Constitution.\n(b) \"The procedure adopted for amending the Constitution is unique; it is not rigid yet difficult.\" Elaborate.\n(c) The rule against bias strikes at such factors which may improperly influence in arriving at a decision. Comment.\n(d) What do you understand by the term 'Eminent Domain'? Discuss its relevance in the present-day context.\n(e) Discuss the relationship between 'Fundamental Rights' and 'Directive Principles of State Policy' in the light of the constitutional amendments and decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": [
+          55,
+          57,
+          212,
+          213
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 156
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 161
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 371
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the legislative powers of the Union and States as provided in the Constitution on the basis of subjects and territory.\n(b) Discuss 'Residuary Powers' of the Parliament to legislate.\n(c) \"The need for administrative rule making entails delegated legislation.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 381,
+        "subtags": [
+          217
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 375
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 381
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 381
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) Briefly enumerate the executive powers of the President, especially when two or more States are involved in non-observance of an inter-State agreement.\n(b) While discussing the underlying principle of the 99th Amendment Act, 2014, comment on the present system of appointment of judges to the Higher Judiciary in the country.\n(c) Discuss the powers and functions of the Union Public Service Commission. Also explain how it has maintained its impartiality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 21,
+        "subtags": [
+          215,
+          219
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 377
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The 'Rule of Law' is based on the principle of legality and is opposed to exercise of arbitrary powers.\" Discuss. Explain whether failure to give reasons amounts to exercising power arbitrarily.\n(b) The role of 'Ombudsman' is to correct the administrative faults which are troubling the rights of a person in view of proliferation of trading entities. Discuss.\n(c) \" 'The Policy and Guideline Theory' presupposes delivery of justice by quasi-judicial authority.\" Elaborate it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 371,
+        "subtags": [
+          224,
+          222
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 371
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 382
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 380
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "(a) Discuss the nature and basis of International Law.\n(b) Discuss the status of individual in International Law especially with respect to Human Rights Treaties.\n(c) A treaty is void if it conflicts with an existing or new or emerging peremptory norm of International Law or 'jus cogens' at the time of its inclusion. Comment.\n(d) Discuss whether the trend of convention providing a special clause prohibiting all kinds of reservations or some or specific or special kind of reservation or prohibiting reservations totally will hinder the growth of International Law.\n(e) International Law evidences the evidentiary theory of recognition. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          231,
+          235
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 389
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss how International Law becomes part of the law of the land in India. In case of conflict between the International Law and Municipal Law, which one would be applied by the Municipal Courts of this country? Explain.\n(b) Can India invoke the India-UK Mutual Legal Assistance Agreement for extraditing an Indian national who has run away to UK in spite of an Indian Court order in respect of fraud and money laundering against him? Explain.\n(c) What are the essential differences between the International Humanitarian Law and International Human Rights Law? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 384,
+        "subtags": [
+          233,
+          239
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 384
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 391
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 397
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the legal regime of 'right of innocent passage' through the territorial waters (including international straits) of a State.\n(b) Discuss the law of delimitation of the continental shelf of a State including the continental shelf common to two or more States.\n(c) Discuss the functions, powers and jurisdiction of the International Tribunal for the Law of the Sea (ITLOS) established under the UN Convention on the Law of the Sea, 1982.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 387,
+        "subtags": [
+          232
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 387
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 390
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 387
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the constituent elements of an international rule of customary law with the help of cases.\n(b) Discuss, with the help of relevant case law, various methods specifically mentioned under Chapter VI of the UN Charter to resolve international disputes peacefully. Also discuss the role of Security Council in this regard.\n(c) Final words of Paris Agreement under the UNFCCC, 2015 was adopted unanimously by 195 countries. According to this Agreement, Nationally Determined Contributions (NDC) are to be reported every 5 years and are to be registered with UNFCCC Secretariat which will be 'progressive' depending upon the targets set by each country itself and therefore contributions have been made 'non-binding' as a matter of International Law and there will be a 'name and shame system' or 'name and encourage plan'.\nAfter explaining essential features, comment on the effectiveness of such an Agreement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        }
+      ]
+    }
+  ]
+}

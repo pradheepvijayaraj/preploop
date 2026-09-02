@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2024_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Differentiate between perceived demand curve and proportional demand curve in a monopolistic competitive market. Explain why the proportional demand curve is steeper than the perceived demand curve.\n(b) Discuss critically the phenomenon of classical dichotomy.\n(c) Show that ad valorem tax is preferable to specific sales tax from a firm's point of view in generating the same level of tax revenue.\n(d) Examine the role of treasury bills in controlling money supply.\n(e) Write down the major assumptions behind Neoclassical Loanable Funds Theory of Interest.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          139,
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) Derive Pareto optimality conditions in production in a two commodities-two factors-two producers framework. Show that Pareto optimality does not necessarily guarantee for equity.\n(b) Write down the behavioural assumptions used in Marshallian and Walrasian approaches of market stability. Show that these two approaches become conflicting when both the demand and supply curves are positively sloped.\n(c) Describe the short-run and long-run equilibrium of a firm under monopolistic competition.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the concept of underemployment equilibrium with graphical illustration. Why full employment cannot be reached automatically in Keynes' approach? Analyse.\n(b) Calculate the equilibrium national income (Y) and interest rate (r) by using an appropriate macroeconomic model from the information given below :\nAggregate saving function : s = -40 + 0.5(Y - T) + 0.25r\nTax function : T = 20 + 0.2Y\nInvestment function : I = 20 - 0.25r\nMoney demand function : L = 0.4Y - 0.5r\nAggregate money supply : M = 40 (rupees in crore)\nHow will the equilibrium values change when money supply is increased by ₹ 20 crore?\n(c) Critically analyse classical theory of interest.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) Describe the mechanism of credit creation by commercial banks and its implications on multiplier effect. Analyse some of the limitations that can jeopardise the implications on multiplier effect.\n(b) Distinguish between public goods and private goods. Explain how market failure occurs in the case of public goods.\n(c) What is the difference between Fisher's theory and Cambridge cash balance approach to quantity theory of money? What is the criticism of each? Which one is more relevant in present context? Justify.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 41,
+        "subtags": [
+          15,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 41
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Critically examine 'per capita' GDP as a crude indicator of development.\n(b) Explain managed floating and sterilized interventions for exchange rate.\n(c) Discuss how carbon trading is helpful in reducing environmental degradation.\n(d) \"Higher tariffs do not increase employment, they just redistribute the unemployed.\" Do you agree with the statement? Explain.\n(e) Explain how the equilibrium terms of trade are determined by using offer curves of the trading partners.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 298,
+        "subtags": [
+          22,
+          142,
+          138,
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 298
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the elasticity approach and absorption approach for adjustments in balance of payments.\n(b) By using Stolper-Samuelson theorem, discuss the possible effects of free trade on income inequalities in developing countries.\n(c) Explain how the elasticity of demand for foreign exchange is influenced by the elasticity of home demand for imports and by the elasticity of home supply of import-competing goods.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 46,
+        "subtags": [
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 46
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain how the structural transformation, in the economy, takes place with surplus labour as per Lewis theory of economic development.\n(b) What are the advantages and disadvantages of public-private partnership model for economic development? What are the key prerequisites for success of PPP model? Explain giving examples.\n(c) Discuss the issues (pros and cons) in the debate over import substitution and export promotion strategy for developing countries. Which strategy would you favour and why? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 33,
+        "subtags": [
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the major components used in Human Development Index (HDI) by the United Nations Development Programme (UNDP). Write down the methodological limitations of this index. Suggest appropriate method to eliminate these limitations.\n(b) Discuss the inverted 'U' shaped hypothesis by Kuznets in describing the relationship between inequality and economic growth. How is this hypothesis useful for developing countries?\n(c) Distinguish between warranted rate of growth and natural rate of growth. Explain how knife-edge instability problem occurs in Harrod's model of economic growth.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          141
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 298
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    }
+  ]
+}

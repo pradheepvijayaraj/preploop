@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2020_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Discuss the subject matter of comparative politics. Outline the limitations of comparative political analysis.\n(b) Analyze the contribution of liberal democratic principles in the democratization of Indian polity.\n(c) Has the increased participation of the underprivileged in the political process of the developing societies strengthened democracy or created political chaos and conflict? Comment.\n(d) Critically examine the impact of the process of globalization from the perspective of the countries of the Global South.\n(e) What are the core assumptions of idealism as an approach to study International Relations? Explain its continuing relevance in peace building.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          382,
+          376,
+          385,
+          377
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the concept of balance of power. What are the various techniques of maintaining balance of power?\n(b) Enumerate the challenges in the operation of the principles related to collective security in the UN Charter.\n(c) Critically analyze the implications of Sino-American strategic rivalry for the South and South-East Asian region.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 544,
+        "subtags": [
+          378,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 536
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the ways to strengthen the Non-Aligned Movement (NAM) to enable it to address the challenges faced by the developing countries.\n(b) Critically evaluate the role of the United States of America in the World Trade Organization (WTO) dispute settlement mechanism and its implications for the future of the WTO.\n(c) Explain the significance and importance of the demand raised by the developing countries for a New International Economic Order (NIEO). Are they likely to achieve their objectives of NIEO in foreseeable future?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 538,
+        "subtags": [
+          383
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 538
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the significance and urgency of the UN Security Council reforms. Explain the relevance of the reform proposals made by the UN Secretary-General António Guterres for the developing countries.\n(b) Critically analyze the role of ASEAN in the promotion of regional peace and security through economic cooperation and trade.\n(c) Examine the role of the United Nations Framework Convention on Climate Change (UNFCCC) and other major efforts by the UN to address the global environmental crisis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          50
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Describe the structure and function of the National Security Council of India. What role does it play in the formulation of Indian foreign policy?\n(b) Outline the reasons of low volume of trade in the SAARC region.\n(c) Analyze the impact of hydropolitics on Indo-Bangladesh relations.\n(d) Discuss the future prospects of Indo-Nepal relations in the context of the recent publication of new Nepalese map wrongly claiming Indian territory.\n(e) How does cross-border terrorism impede the achievements of peace and security in South Asia?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          382
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) How do the guiding principles of India-Africa relations seek to enhance harmony and mutual cooperation between India and Africa?\n(b) What are the notable features of the recently concluded pact or the Acquisition and Cross-Servicing Agreement (ACSA) between India and Japan? How is it likely to address the security concerns of India?\n(c) Discuss the significance of Indo-US strategic partnership and its implications for India's security and national defence.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 543,
+        "subtags": [
+          384,
+          389
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain the defence and foreign policy options of India to address the challenges emerging out of the current India-China standoff at the Line of Actual Control (LAC).\n(b) Explain the importance of India's claim for a permanent seat in the UN Security Council.\n(c) Discuss the efficacy of India's 'no first use' policy (nuclear weapons) in the context of the evolving strategic challenges from its neighbours.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          387,
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The war in Afghanistan is crucial from the point of view of India's national security. If the Americans withdraw and Jihadis emerge with a sense of triumphalism, India will face increasing onslaught of terrorism.\" Comment.\n(b) Identify the key sectors of cooperation between India and Israel since 2014. Examine their significance in strengthening the bilateral ties between the two countries.\n(c) Critically examine the role of India in shaping the emerging world order.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    }
+  ]
+}

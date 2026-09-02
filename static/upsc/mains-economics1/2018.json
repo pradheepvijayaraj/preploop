@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2018_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Does a monopolistically competitive market lead to excess capacity under price competition?\n(b) Explain some of the measures for assessing the monopoly power of a firm.\n(c) Using the IS-LM model, show how expected deflation may cause equilibrium output to remain at less than full-employment level.\n(d) Is stagflation a logical outcome of Keynesian orthodoxy? Give reasons for your answer.\n(e) What is high-powered money? Explain how changes in short-term monetary policy affect high-powered money and money multiplier.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138,
+          14,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "e",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain why in a duopoly model of collusion, each firm has an incentive to cheat the other.\n(b) Show how a dominant firm with a competitive fringe can act as a price leader in an oligopoly market.\n(c) Give an outline of Kaldor's theory of distribution. Also explain the implications of an increase in the wage level and a reduction in the saving rate on the distribution of income.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) In the simple Keynesian model, if consumption and investment are both functions of income, how would the multiplier be affected?\n(b) What is hysteresis? Explain the impact of hysteresis in Gradualist Monetarist and Eclectic Keynesian frameworks.\n(c) How will you derive the real aggregate demand curve using the New Classical Theory?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) What is interest rate targeting? Explain using the concept of Taylor rule.\n(b) In an open economy with high capital mobility, monetary management can be a successful tool to increase output. Explain.\n(c) The burden of tax depends upon the elasticity of demand and supply of a commodity or service. Explain with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 297,
+        "subtags": [
+          138,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 297
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Under what conditions will devaluation create trade surplus and increase output in the simple Keynesian framework?\n(b) What are shadow prices? Why are these preferred over market prices in project evaluation?\n(c) In Harrod's model of growth, if the expected growth rate exceeds the warranted growth rate, what will be the relation between the actual growth rate and the expected growth rate?\n(d) How do externalities lead to market failure? How can this situation be remedied?\n(e) Give an outline of a model of speculative attack under fixed exchange rate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          23,
+          14,
+          22
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 46
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain, with the help of diagram, how Haberler's theory of opportunity cost is an improvement over the comparative cost theory of Ricardo.\n(b) A quota on import and an equal-import tariff are equivalent in a competitive market but not under monopoly. Explain.\n(c) What is Doha Development Agenda? Explain how it negotiated TRIPS and TRIMS among nations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Development of human capital may lead to constant returns and propel an economy to self-sustaining economic growth. Explain.\n(b) Kuznets hypothesis predicts decline in income inequalities in the long run. In recent decades do trends in income inequalities in developed and developing economies support this hypothesis? Give reasons for your answer.\n(c) Examine Arthur Lewis model of economic development with unlimited supplies of labour. What is A. K. Sen's critique of that approach?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain why the market and the State have complementary roles in economic development.\n(b) How does rural economic activity create environmental degradation in developing economies?\n(c) What policies would you suggest to combat negative environmental externalities?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 299,
+        "subtags": [
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 299
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2022_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Write on the following in about 150 words each :\n(a) Systems Approach\n(b) Cultural Relativism\n(c) \"Revolution in Permanence\"\n(d) Bases of Power\n(e) Locke's Social Contract",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 522,
+        "subtags": [
+          9,
+          11,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 28
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Factors like community, culture and nation weaken the hegemony of neo-liberalism today. Discuss.\n(b) \"Equality of estates caused equality of power, and equality of power is liberty.\" Comment.\n(c) Elitist theory of democracy denies the possibility of democracy as 'rule of the people'. Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 522,
+        "subtags": [
+          339,
+          363
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the liberal theory of State in contemporary politics.\n(b) Human Rights are complex and contested social practice that organises relations between individuals, society and the State. Comment.\n(c) Individualism is inherent in Hobbes' absolutist ideology. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 520,
+        "subtags": [
+          11,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Dr. Ambedkar's idea of social justice leads to 'egalitarian justice' as compared to Rawls' 'justice as fairness' which aims at the notion of 'pure procedural justice'. Comment.\n(b) \"The Panchayats with Gram Sabhas should be so organised as to identify the resources locally available for the development in agricultural and industrial sectors.\" Examine the statement in the context of Gram Swaraj.\n(c) Examine the entitlement theory of justice.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Analyse the workers' movement in India in the pre-Independence period.\n(b) The Preamble of the Indian Constitution reflects itself as a 'social contract'. Elucidate.\n(c) Legislative Council is a house without any effective powers. Comment.\n(d) How far is the National Commission for Backward Classes an empowered body? Assess its role in the context of rising demand for backwardness among dominant communities.\n(e) High concentration of economic activities and consumption patterns in post-liberalisation period has led to the failure of environmental movements in India. Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          5,
+          364,
+          371,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 529
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) Electoral behaviour of voters is governed more by the social and economic factors than the political factors. Explain.\n(b) The Doctrine of Basic Structure of the Constitution has enhanced the power of judicial review of the Supreme Court. Examine.\n(c) Discuss the composition and functions of the Inter-State Council. To what extent has this body been successful in achieving its objectives?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          5,
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the unique features of the 73rd Constitutional Amendment. Do you think this Amendment would contribute in achieving the goal of empowerment of marginalised sections of the society?\n(b) The Speaker represents the freedom and dignity of the House. Examine.\n(c) Discuss the policy initiatives of the Fourteenth Finance Commission aimed towards promoting and strengthening agricultural development in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          364,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) Ethnicity is the underlying cause which poses a great challenge in the resolution of the problems in the North-East region of India. Comment.\n(b) The making of the Indian Constitution is described as an attempt towards 'social revolution'. Comment.\n(c) How far is it correct that the regional parties have strengthened Indian democracy and federal system? Substantiate your answer with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 530,
+        "subtags": [
+          367,
+          9
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 530
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 525
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        }
+      ]
+    }
+  ]
+}

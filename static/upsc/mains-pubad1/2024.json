@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2024_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Politics-administration dichotomy debate is still alive.\" Comment.\n(b) \"Formal organisations are made up of informal groups.\" Discuss.\n(c) \"Grapevine is a necessary evil.\" Examine.\n(d) \"Healthy Headquarters and Field Agencies relationship thrives on effective communication.\" Comment.\n(e) \"Media has become more of a societal lens than institutional lens.\" Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          391,
+          10,
+          392
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) McGregor's Theory X' and Theory Y' provide insights into human motivation at workplace differently. Examine in detail.\n(b) Good governance adds normative and evaluative attributes to the process of governing. Comment.\n(c) Regulatory Authorities are independent and effective for controlling service delivery activities, but are subjected to extraneous factors. Do you agree? Give reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          399,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) Strengthening social audit through appropriate ways will promote inclusive government. Comment.\n(b) The development of administrative law in Welfare State has made administrative tribunals a necessity. Examine.\n(c) Ineffectiveness of legislative control over administration can stem from various factors, hence in ensuring effectiveness a comprehensive approach is the need of the hour. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 552,
+        "subtags": [
+          395
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 552
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) ERG theory of motivation attempts to reconceptualise the theory of Hierarchy of Needs. Comment.\n(b) Scientific Management and Human Relations theory are two distinct approaches for improving efficiency and production. Explain.\n(c) New Public Governance, an emerging paradigm, is contrasted with market-based approach of New Public Management. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 551,
+        "subtags": [
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) The Anti-Development Thesis is a critical perspective on the traditional development models. Comment.\n(b) Civil Servants should be allowed only to cast vote or to participate in the electoral process of the country. Examine.\n(c) Critical Path Method (CPM) is a project management technique used to plan and manage project effectively. Discuss.\n(d) Auditing is not about finding faults, it is about ensuring the accuracy and integrity of financial information. Analyse.\n(e) The study of Public Administration must include its ecology. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          395,
+          399,
+          400,
+          390
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 558
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 548
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) A trend to adopt innovative practices in administrative ethics is gaining ground for improving public trust in government. Discuss.\n(b) The future of e-governance is shaped by emerging trends for making government services efficient and accessible. Analyse.\n(c) Undoubtedly, social and historical factors play a significant role in shaping administrative system, but side by side, understanding of these influences is essential for designing responsive governance structure. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          399,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) Riggs' Prismatic Model has been criticised as overly gloomy and technical complex, but it remains as a useful starting point for Comparative Public Administration research. Analyse.\n(b) Performance Management and Performance Appraisal are two distinct activities in Public Personnel Administration. Discuss.\n(c) Balancing State intervention and Market freedom is the need of developing countries. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 554,
+        "subtags": [
+          398,
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) Bureaucracy in developing countries faces several challenges and tackling of these will make them more responsive, adaptive and align with development needs. Discuss.\n(b) Modern economists think public debt is an essential means of increasing employment, and element of economic policy, but it also shifts the burden to future generations. Analyse.\n(c) Unless there is a sound mechanism for policy evaluation, policy formulation process remains redundant. Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    }
+  ]
+}

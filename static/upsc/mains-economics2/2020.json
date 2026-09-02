@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2020_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "(a) Examine how the laissez-faire policy was responsible for the famine in the late 19th century India.\n(b) Evaluate the contributions of V.K.R.V. Rao in the National Income Accounting of India.\n(c) Assess the impact of land tenure system adopted by the British on the peasants and productivity of Indian agriculture.\n(d) Comment on the role of the public sector during the early phase of industrial development in India.\n(e) Analyse the impact of fertilizer subsidy on agricultural productivity growth during the post reform period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          146,
+          144,
+          145
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine how the currency policy of the British affected the growth of monetisation in the Indian economy during 19th century.\n(b) Evaluate the development of the transport system in India during 1857 to 1947.\n(c) Analyse the validity of the inverted 'U'-shaped hypothesis of Kuznets in the context of changes in inequality in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 40,
+        "subtags": [
+          143,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) What are the major problems faced by the Small Scale Industries (SSIs) ? Examine the role of the MSMED Act, 2006, in enhancing productivity of Small Scale Industries in India.\n(b) Critically examine the new manufacturing policy, 2011 for fostering industrial growth in India.\n(c) Analyse the effects of colonialism on de-industrialisation in India during the 18th century.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 302,
+        "subtags": [
+          58,
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) Analyse the trends in GDP growth and inequality during the first three decades of planning in India. Has the distribution of income in India become more equal during the post reform period ? Suggest some policy measures that could help reduce income inequalities.\n(b) Discuss the changes in sectoral composition of GDP with the changes in the sectoral components of employment in India since Independence.\n(c) \"While absolute poverty declines over the decades, the poverty gap between different social groups shows rising trend in India\". Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          24
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the role of FDI in contributing economic growth of India.\n(b) Do you think the food processing sector as the sunrise sector in India during the post-reform period ? Justify your answer.\n(c) Discuss the relevance of decentralised planning after the implementation of the 74th Constitutional Amendment Act, 1992.\n(d) Do you think that Indian currency is fully convertible ? Explain.\n(e) Comment on poverty alleviation schemes undertaken by the Government of India for urban poor.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          147,
+          15,
+          149,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the trend in gross capital formation in agriculture in India during the post liberalisation period. Do you think that private investment has been crowded out by the public investment during this period ?\n(b) Examine the efficacy and resilience of the Public Distribution System in India for providing food security.\n(c) What is intellectual property ? Why does intellectual property need to be promoted and protected ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 301,
+        "subtags": [
+          147,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the role of the RBI in maintaining financial stability under the new regime of monetary system.\n(b) Discuss the role of the Fiscal Responsibility and Budget Management Act, 2003, in improving the fiscal health of the State finances in India.\n(c) Examine the recent trend in rural wages in India. Discuss the role of MGNREGA in determining this trend.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 40,
+        "subtags": [
+          17,
+          24
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between Fiscal Federalism and Fiscal Consolidation. Discuss the fundamental changes in Indian fiscal federalism after introducing GST.\n(b) Critically examine the strategy of disinvestment in improving the growth of the manufacturing sector.\n(c) Describe the salient features of New Foreign Trade Policy (2015-20) in India. Examine its role in improving the current account balance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 38,
+        "subtags": [
+          58,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    }
+  ]
+}

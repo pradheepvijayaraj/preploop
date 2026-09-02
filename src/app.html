@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#000000" />
+    <style>
+      /* Cover the document before the app's stylesheet and renderer start.
+         Canvas follows the system/early theme script; then use our real palette. */
+      html {
+        min-height: 100%;
+        color-scheme: light dark;
+        background: var(--background, Canvas);
+      }
+      body {
+        margin: 0;
+      }
+    </style>
+    <link rel="manifest" href="/manifest.webmanifest" />
+    %sveltekit.head%
+  </head>
+  <body data-sveltekit-preload-data="hover">
+    <div style="display: contents">%sveltekit.body%</div>
+  </body>
+</html>

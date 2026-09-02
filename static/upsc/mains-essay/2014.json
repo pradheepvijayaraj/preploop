@@ -1,0 +1,254 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2014",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2014,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2014_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 250,
+    "durationSeconds": 10800,
+    "examRegime": "essay-modern"
+  },
+  "questions": [
+    {
+      "id": "upsc_2014_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "With greater power comes greater responsibility.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 209,
+        "subtags": [
+          364,
+          452
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Is the growing level of competition good for the youth?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 298,
+        "subtags": [
+          465,
+          459
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Are the standardized tests good measure of academic ability or progress?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 62,
+        "subtags": [
+          465,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Words are sharper than the two-edged sword.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 604,
+        "subtags": [
+          364,
+          454
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Was it the policy paralysis or the paralysis of implementation which slowed the growth of our country?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 607,
+        "subtags": [
+          348,
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Is sting operation an invasion on privacy?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 612,
+        "subtags": [
+          457,
+          447
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "Fifty Golds in Olympics: 1. Can this be a reality for India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 298,
+        "subtags": [
+          465,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "Tourism: 1. Can this be the next big thing for India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 607,
+        "subtags": [
+          348,
+          459
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2016_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with legal provisions and judicial pronouncements.\n(a) \"In determining the quantum of criminal liability, the law takes into account the motive, magnitude and character of the offender.\" Examine this statement in the light of absence of mens rea in statutory offences.\n(b) \"The Prevention of Corruption Act, 1988 prevents the public servants from misuse and abuse of their official capacity.\" Comment.\n(c) \"No fault liability rule has undergone a drastic change in the recent past.\" Comment.\n(d) \"Malice is not to be inferred merely from the acquittal of the plaintiff. The plaintiff must prove independently of the acquittal that his prosecution was malicious and without reasonable and probable cause.\" Comment.\n(e) Critically examine the Code of Criminal Procedure (Amendment) Act, 2005 especially with reference to plea bargaining.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 418,
+        "subtags": [
+          245,
+          258,
+          262
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 403
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 416
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 420
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 418
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 418
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Section 124A of the IPC dealing with sedition is ultra-vires of the Constitution insofar as it seeks to punish merely bad feelings against the Government. It is an unreasonable restriction on freedom of speech and expression guaranteed under Article 19(1) (a) and is not saved under Article 19(2) of the Constitution by the expression 'in the interest of public order'.\" Comment.\n(b) \"Culpable homicide is not murder, if it is committed without premeditation, in a sudden fight in the heat of passion.\" Critically examine the statement with leading case law.\n(c) \"A man is not criminally responsible for unintended and unknown consequences of his lawful acts performed in a lawful manner, by lawful means with proper care and caution.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 404,
+        "subtags": [
+          247,
+          245
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 405
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 403
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Harm suffered voluntarily does not constitute a legal injury and is not actionable.\" Elaborate along with its limitations.\n(b) \"Direct evidence of negligence, however, is not always necessary and the same may be inferred from the circumstances of the case.\" Elucidate with cases.\n(c) \"It is immaterial whether the defendant intended the defamatory statement to apply to the plaintiff or knew of the plaintiff's existence if the statement might reasonably be understood by those who knew the plaintiff, to refer to him.\" Elucidate with case law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 422,
+        "subtags": [
+          257
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 422
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 422
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 415
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Provisions of the Consumer Protection Act, 1986 shall be in addition to and not in derogation of the provisions of any other law for the time being in force.\" Critically examine the statement.\n(b) \"The law making conspiracy a crime is designed to curb immoderate power to do mischief which is gained by a combination of the means.\" Explain.\n(c) \"Every confinement of the person is an imprisonment, whether it be in a common prison or in a private house, or in the stocks or even by forcibly detaining one in the public streets.\" Explain with the help of case law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 411,
+        "subtags": [
+          266,
+          251
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 424
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 409
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 411
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with relevant legal provisions and decided cases.\n(a) \"An offer is to an acceptance what a lighted match-stick is to a train of gunpowder. It produces something which cannot be recalled or undone\" — Anson. Explain.\n(b) \"Every contract contains a 'core' or 'fundamental obligation' which must be performed. If one party fails to perform this fundamental obligation, he will be guilty of a breach of contract whether or not any exempting clause has been inserted which purports to protect him.\" Critically examine the statement with case law.\n(c) \"In determining whether a group of persons is or is not a firm, or whether a person is or is not a partner in the firm, regard shall be had to the real relations between the parties, as shown by all relevant facts taken together.\" Comment.\n(d) A owed B ₹ 1,000, but the debt is barred by the Limitation Act, 1963. Subsequently A signs a written promise to pay ₹ 1,000 on account of the previous debt. Decide the validity of this agreement.\n(e) \"Every sole maker, drawer, payee or endorsee, or all of joint makers, drawers, payees, or endorsees, of a negotiable instrument may endorse and negotiate it.\" In the light of the above statement, distinguish between endorsement and negotiation and also explain different kinds of 'endorsements'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 432,
+        "subtags": [
+          267,
+          273
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 432
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 431
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 432
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 432
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The Right to Information Act, 2005 was enacted in order to promote transparency and accountability in the working of every public authority.\" How far has this goal been achieved by the Right to Information Act, 2005 in the last ten years ? Critically analyse your answer with the support of exceptions and case law.\n(b) \"Though there is no law for media trial, however, in freedom of expression and speech under fundamental rights, media has the freedom to express its views based on evidence. This trial has no authority before the court of law.\" Critically examine the statement with case law.\n(c) \"There can be a mistake of identity only when a person bearing a particular identity exists within the knowledge of the plaintiff, and the plaintiff intends to deal with him only. If the name assumed by the swindler is fictitious, there will be no mistake of identity.\" Examine the statement with leading case law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 421,
+        "subtags": [
+          71,
+          281
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 227
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 439
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 421
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) Highlight the important amendments made in the Arbitration and Conciliation Act, 1996 by the Arbitration and Conciliation (Amendment) Act, 2015.\n(b) \"The revocation of agent's authority can be made by the principal subject to certain rules.\" Examine these rules in the light of protection to agent.\n(c) \"The rights of unpaid seller do not depend upon any agreement, express or implied, between the parties. They arise by implication of law.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 430,
+        "subtags": [
+          275,
+          271
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 433
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 429
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 430
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The object of awarding damages for a breach of contract is to put the injured party in the same position, so far as money can do it, as if he had not been injured.\" In the light of the above statement, explain the various kinds of damages that the court can award. Also explain the rules relating to assessment of damages.\n(b) Explain the salient features and your views on the Information Technology Act, 2000 as amended in 2008 by the Information Technology (Amendment) Act, 2008.\n(c) \"The object of Public Liability Insurance Act, 1991 is to provide relief to the victims of accidents in hazardous industries in addition to any other right to claim compensation.\" Explain with case law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 422,
+        "subtags": [
+          278,
+          270
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 422
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 436
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 428
+        }
+      ]
+    }
+  ]
+}

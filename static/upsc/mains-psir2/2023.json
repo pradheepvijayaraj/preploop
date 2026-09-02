@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2023_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) What are the crucial functions of empirical political theory in Comparative Politics?\n(b) What are the difficulties faced by a political theorist in comparing the States?\n(c) How does democratic politics construct citizenship?\n(d) What is the structure and functions of International Court of Justice?\n(e) Discuss the structure and functions of UN Security Council.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          374,
+          375,
+          376
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 533
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the relevance of the normative ethos of the Non-Aligned Movement in magnifying India's soft power in pursuit of her national interest.\n(b) In what ways does the functionalist approach in International relations help in maintaining peace and order in global politics?\n(c) How does the regime change and political crisis in Myanmar threaten regional security and peace?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 541,
+        "subtags": [
+          377,
+          50
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"During the Cold War, the Non-Aligned Movement tried to become a 'Third force' in World Politics, but failed because it was too large and unwieldy.\" Discuss.\n(b) Account for the rise of European Union as a highly influential regional organisation.\n(c) Narrate the various ways in which rapid environmental degradation is posing a serious threat to human security. Illustrate your answer with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 541,
+        "subtags": [
+          50,
+          381
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 539
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the impact of Globalisation on the developing countries of the world.\n(b) What do you mean by offensive and defensive realism ?\n(c) Discuss the various constraints on American hegemony today. Which of these are likely to become more prominent in the future ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          377,
+          389
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Explain the major features of India's Foreign Policy in the 21st century.\n(b) What are the reasons for lack of 'regionness' in South Asia?\n(c) Why is the compromise reached at WTO regarding the Covid-19 vaccine manufacturing not a Trade Related Intellectual Property Rights (TRIPS) waiver?\n(d) Why do ethnic conflicts and insurgencies continue to remain major impediments to regional co-operation in South Asia?\n(e) What diplomatic steps has India taken to articulate the interests of the Global South in International Politics?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          382,
+          380,
+          385
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Arms trade, economic ties and congruent geo-political interests are no longer the three pillars of India – Russia relationship in the emerging strategic context. Comment.\n(b) Discuss the importance of India's role in UN peacekeeping operations as a ground for its claim to a permanent seat in the UN Security Council.\n(c) Quadrilateral Security Dialogue (QUAD) performs an important role in India's strategic balancing act to withstand the dominance of China in Asia. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          387
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"India's Nuclear policy is deeply influenced by its cultural beliefs and the pragmatic approach of its foreign policy.\" Discuss.\n(b) What steps has India taken to regain its foothold in Afghanistan since the Taliban has taken over the country in August 2021?\n(c) What are the challenges and limitations in India – Iran relations?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 546,
+        "subtags": [
+          387,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the external determinants of the Foreign Policy of a State ?\n(b) Discuss the significance of \"West Asia Quad\" in the light of India's 'Look West' policy.\n(c) Discuss the major drivers of India's interests in Africa.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          384,
+          385
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    }
+  ]
+}

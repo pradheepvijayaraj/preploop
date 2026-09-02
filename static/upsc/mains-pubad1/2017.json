@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2017_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Even after 130 years of its publication, Woodrow Wilson's essay 'The Study of Administration' continues to have great relevance even today.\" Comment.\n(b) \"What is distinctive about the Classical and Human Relations schools of administration is their complementarity to each other.\" Analyse.\n(c) \"Conflict is the appearance of differences — differences of opinions and of interests\"— (Mary Parker Follett). Comment.\n(d) \"Leaders do the right things; managers do them rightly\" — (Warren Bennis). Is this distinction by him valid ? Explain.\n(e) \"Administrative law is recognised by its substance rather than its form.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 549,
+        "subtags": [
+          393,
+          392,
+          395
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) New Public Management has been branded by certain scholars as 'Neo-Taylorism'. Is it a justified comparison? What factors have led to the decline of NPM so soon after its birth?\n(b) \"Abraham Maslow's 'Hierarchy of Needs' and Frederick Herzberg's 'Two-Factor theory' have commonalities in the analysis of human motivation.\" Comment.\n(c) Civil Society supplements and complements the State. However, its capacity and role depend upon the will of the State. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          392,
+          393
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) The Participative Management School of Argyris and Likert advocates democracy within the administrative system. Will this approach be equally useful to developing countries with evolving democracies?\n(b) \"Executive positions imply a complex morality and require a high capacity of responsibility\"— (Chester Barnard). Comment.\n(c) When the media is controlled by vested interests, how can it control the vested interests in the government ? How can the media become more responsible and impartial ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          392,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"With every major transformation in the applied world of Public Administration, the study of Public Administration has grown in scope and intensity.\" Discuss the relationship between the evolution of the discipline and profession of Public Administration.\n(b) \"Systems Theory in essence is not a theory, but an approach to the study of administrative phenomena.\" Comment.\n(c) \"The principle of delegated legislation, is I think right, but I must emphasise that it is well for Parliament to keep a watchful and even zealous eye on it at all stages\" — (Herbert Morrison). Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 548,
+        "subtags": [
+          391,
+          395
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 553
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Budgeting is a political process\" — (Aaron Wildavsky). Examine.\n(b) \"Development Administration and Administrative Development have a chicken and egg kind of relationship\" — (Riggs). Elaborate.\n(c) \"Digitalisation provides great impetus to E-governance.\" Discuss.\n(d) \"360° performance appraisal system is a rational idea, but it involves complex and inauthentic procedures.\" How can it be made foolproof?\n(e) \"A large public debt forces the adoption of tax and spending policies that result into higher taxes and reduced services.\" Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 557,
+        "subtags": [
+          400,
+          397,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 558
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Liberalisation, privatisation and globalisation have transformed the nature of development administration.\" Discuss.\n(b) \"Lateral entry of competent experts into the government will promote freshness and innovation, but it can create problems of accountability.\" Discuss.\n(c) \"There can be no performance auditing without performance budgeting.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          394,
+          400
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 558
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The Riggsian models of Fused-Prismatic-Diffracted Societies and their administrative systems have been inspired by Max Weber's typology of Traditional Charismatic Legal-Rational Authorities.\" Analyse.\n(b) \"Bureaucracy has inbuilt limitations to act as the prime catalyst to multi-faceted development in a democratic country.\" Analyse this statement with appropriate examples.\n(c) Can we say that statutory audit and social audit are two sides of the same coin ? Or, are they two separate coins with varying values ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 554,
+        "subtags": [
+          397,
+          394
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 554
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 552
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Various components of Human Resources Management are inter-related.\" Discuss.\n(b) \"Administrative ethics includes the code of conduct of civil servants, but goes beyond it as well.\" Discuss.\n(c) \"Of all the processes involved in public policy, implementation is of greatest importance.\" Examine the impediments in policy implementation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 556,
+        "subtags": [
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 556
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    }
+  ]
+}

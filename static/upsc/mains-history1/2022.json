@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "name": "Mains History Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2022_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer Booklet. Locational hints for each of the places marked on the map are given below seriatim : 50\n(i) Palaeolithic site\n(ii) Mesolithic site with burials\n(iii) Neolithic pit-dwelling\n(iv) Early village settlement\n(v) Neolithic site\n(vi) Neolithic-Chalcolithic site\n(vii) Harappan UNESCO site\n(viii) Megalithic burial site\n(ix) Place of Second Sangam\n(x) Earliest Satavahana capital\n(xi) Place of inscribed statue of Ashoka\n(xii) First Gupta hoard of coins\n(xiii) Hoard of metal sculptures\n(xiv) Ancient port\n(xv) Oldest Jesuit church\n(xvi) Centre of Gandhara art\n(xvii) Buddhist monastery\n(xviii) Place of earliest Vishnu temple\n(xix) Shiva and Buddhist temple complex\n(xx) Earliest Chaitya Griha\n\n![Map supplied with UPSC HISTORY1 2022](/upsc/assets/history1/history1_2022_q1_map.jpg)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 328,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "i",
+          "marks": 2.5
+        },
+        {
+          "label": "ii",
+          "marks": 2.5
+        },
+        {
+          "label": "iii",
+          "marks": 2.5
+        },
+        {
+          "label": "iv",
+          "marks": 2.5
+        },
+        {
+          "label": "v",
+          "marks": 2.5
+        },
+        {
+          "label": "vi",
+          "marks": 2.5
+        },
+        {
+          "label": "vii",
+          "marks": 2.5
+        },
+        {
+          "label": "viii",
+          "marks": 2.5
+        },
+        {
+          "label": "ix",
+          "marks": 2.5
+        },
+        {
+          "label": "x",
+          "marks": 2.5
+        },
+        {
+          "label": "xi",
+          "marks": 2.5
+        },
+        {
+          "label": "xii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiv",
+          "marks": 2.5
+        },
+        {
+          "label": "xv",
+          "marks": 2.5
+        },
+        {
+          "label": "xvi",
+          "marks": 2.5
+        },
+        {
+          "label": "xvii",
+          "marks": 2.5
+        },
+        {
+          "label": "xviii",
+          "marks": 2.5
+        },
+        {
+          "label": "xix",
+          "marks": 2.5
+        },
+        {
+          "label": "xx",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) The urban character of the Harappan Civilization was a result neither of any outside influence nor a sudden act but a gradual evolution of regional socio-economic factors. Comment.\n(b) Foreign accounts as a source of ancient Indian history may have some advantages but also have a few shortcomings. Citing appropriate examples, examine the statement.\n(c) Though some of the ideas of Buddhism may have had their origin in Vedic-Upanishadic traditions but it was an altogether new religion with its own specific principles and institutions. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 327,
+        "subtags": [
+          168,
+          172
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 327
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 329
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history1_q3",
+      "type": "fill-blank",
+      "question": "(a) The economic achievements of the Guptas were the culmination of a process which began during the Kushanas. Comment.\n(b) Ashoka’s Dhamma was propagated not just for moral upliftment and social harmony but also for the extension of the state’s authority. Analyse the statement.\n(c) With the help of representative examples, delineate the main differences between the Nagara and Dravida styles of temple architecture.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 334,
+        "subtags": [
+          173,
+          178
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 334
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 330
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 335
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history1_q4",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the importance of tripartite struggle for the domination over North India during the eighth and ninth centuries.\n(b) Throw light on the chief characteristics of Tamil Bhakti Movement during the early medieval period.\n(c) Kalhana’s Rajatarangini is the best example of history writing tradition in early India. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 336,
+        "subtags": [
+          168
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What were ‘Brahmadeya’ grants? How do you account for the large number of such grants in the early medieval period?\n(b) The establishment of large number of urban settlements in North India in the thirteenth century was principally owing to the deployment of Turkish garrisons across the lands. Comment.\n(c) Much of the political instability after the death of Iltutmish was the doing of the Chahalgan. Elucidate.\n(d) The Rajput school of painting was Mughal in style and Rajput in its content. Comment.\n(e) Account for the rise of the Maratha power in the eighteenth century.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 336,
+        "subtags": [
+          183,
+          190,
+          191
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 340
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 347
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 348
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history1_q6",
+      "type": "fill-blank",
+      "question": "(a) The market regulations of Ala-ud-din Khilji were useful for the Sultan’s military might but harmful for the economy of the Sultanate. Comment.\n(b) Examine the nature of the Mansabdari system during the reign of Akbar.\n(c) Chola maritime expansion was driven largely by concerns of overseas commerce. Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 348,
+        "subtags": [
+          184,
+          187
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 341
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 344
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 348
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history1_q7",
+      "type": "fill-blank",
+      "question": "(a) The Virashaiva Movement of Southern Deccan in the twelfth century was essentially an attempt at social reform. Discuss.\n(b) The various Gharanas of Hindustani classical music were outcomes of patronage by regional princely courts, rather than central imperial ones. Discuss.\n(c) The prolonged conflict between the Vijayanagara Kingdom and the Bahmani successor states was influenced less by cultural factors, and more by strategic and economic considerations. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 342,
+        "subtags": [
+          176,
+          190
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 333
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 347
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 342
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history1_q8",
+      "type": "fill-blank",
+      "question": "(a) Trade and commerce in the Mughal Empire brought about the integration of the Indian subcontinent into a single market. Comment.\n(b) Aurangzeb’s Deccan policy was a major factor in Mughal decline. Discuss.\n(c) The Vaishnava Bhakti tradition of the fifteenth century contributed to the flourishing of provincial literature. Discuss with appropriate examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 337,
+        "subtags": [
+          189,
+          191
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 346
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 348
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 337
+        }
+      ]
+    }
+  ]
+}

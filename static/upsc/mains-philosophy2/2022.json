@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2022_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Discuss the role of enlightenment movement in the rise of humanism.\n(b) In the age of individualism and universal franchise, what role does caste play in body-politic? Discuss.\n(c) Is corruption a systemic issue or an ethical issue? Give your critical comments.\n(d) \"Complete liberty may lead to inequality while order and restrictions imply a necessary loss of freedom.\" Critically discuss.\n(e) What are the moral justifications of capital punishment? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 503,
+        "subtags": [
+          350,
+          347,
+          341,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 503
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 505
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 404
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) What arguments does Bodin present to contend that sovereignty must be absolute, perpetual and undivided? Is Bodin's conception of sovereignty compatible with the social and political ideals of equality, justice and liberty? Critically discuss.\n(b) Critically evaluate Gandhi's views on eradication of caste discrimination.\n(c) Explain the difference between the notion of equity and equality with reference to Marxian philosophy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 500,
+        "subtags": [
+          350,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that economic development does not on its own lead to human development and social progress? Give reasons and justifications for your answer.\n(b) Discuss gender as a cultural category as opposed to sex as a biological category.\n(c) Critically analyze the descriptive and normative aspects of multiculturalism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 506,
+        "subtags": [
+          349,
+          346
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 506
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 504
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss propaganda as a challenge to democratic form of government.\n(b) Does idea of unconditional rights necessarily lead to anarchy? Critically examine.\n(c) Are monarchy and theocracy necessarily related? Discuss with reference to the theory of Divine Right.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          344
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 502
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Write an essay on Spinoza's notion of God and His attributes.\n(b) \"One can have morality without religion but not religion without morality.\" Discuss.\n(c) \"Immortality of Soul is a necessary postulate for rebirth.\" Critically examine with reference to Buddhism.\n(d) Is the notion of faith indispensable for the idea of revelation? Critically comment.\n(e) Explain the difference between the cognitivist and non-cognitivist approaches to the religious language with reference to the statement—\"God exists\".",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          358,
+          354,
+          355,
+          360
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 513
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 518
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Present a critical exposition of different arguments offered by St. Thomas Aquinas to prove the existence of God also known as 'Five Ways'. Which one of them do you find philosophically most interesting? Give reasons in support of your answer.\n(b) Explain the relation between the God and the Self according to Rāmānujācārya.\n(c) If God is the Absolute Creator, then the responsibility of the evil cannot belong to the human agent. Critically examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"An unquestionable acceptance of only one Absolute Truth will inevitably result in religious exclusivism.\" Discuss.\n(b) Is it possible to have an idea of Liberation without the conception of a real agent? In this context, discuss the difference between Advaita and Viśiṣṭādvaita systems of thought.\n(c) Discuss the nature and variety of religious experiences as presented by William James.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 517,
+        "subtags": [
+          354,
+          356
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 514
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the main points of distinction between a priori and a posteriori arguments for the existence of God. Which one according to you should be preferred over the other? Give reasons and justifications for your answer.\n(b) Discuss the nature of Soul and Bondage according to Jainism.\n(c) Critically examine the idea of Brahman in Advaita philosophy of Śaṃkara. Does Śaṃkara's conception of Brahman leave room for theism? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 510,
+        "subtags": [
+          354,
+          51
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 149
+        }
+      ]
+    }
+  ]
+}

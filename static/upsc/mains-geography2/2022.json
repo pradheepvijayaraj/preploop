@@ -1,0 +1,407 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2022_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical / commercial / economic / ecological / environmental / cultural, in no more than 30 words for each entry:\n(i) Tarangambadi\n(ii) Mahe\n(iii) Bomdila\n(iv) Dhola Sadiya Bridge\n(v) Talakaveri\n(vi) Satkosia\n(vii) Dholavira\n(viii) Sonamarg\n(ix) Malikku Atoll\n(x) Gangasagar\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Why has extreme particulate pollution remained a festering issue in Delhi NCR region ?\n(c) How do physiography and climate of India explain the biological diversity of the country?\n(d) The process of desertification leads to soil desiccation and soil loss. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 318,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 318,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the factors affecting the unpredictability of South-West Monsoon system in India.\n(b) The peninsular location of India provides scope for harnessing non-conventional energy resources. Discuss with examples.\n(c) Groundwater contamination in the fast expanding urban landscape of India appears to have become a major public health issue. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 312,
+        "subtags": [
+          4,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the recent changes brought about in institutional frameworks of agriculture in India. Evaluate its impact on the agrarian economy of the country.\n(b) Discuss the continuing disputes on water sharing between the riparian states of North-West India.\n(c) Soils of India, are clear reflections of the structure and process. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          4,
+          155
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) India is bestowed with rich mineral resources due to its geological structure. Correlate the above statement with large mineral belts of India.\n(b) Discuss the importance of 'Dry-land' farming in the drought-prone regions of India.\n(c) Incidence of extreme rainfall events and flash floods in recent times have led to devastating consequences for people living in low-lying areas and flood plains of the country. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          156,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Discuss the impact of Forest Rights Act, 2006 on the local forest communities in India.\n(b) Can the Panchayat Raj institutions play a role in grassroots level planning in India? If yes, discuss how.\n(c) Discuss the significance of new ports on the Western Coast of India on the external trade of the country.\n(d) How would decline in Total Fertility Rate (TFR) below the replacement level, in many states of India affect the future population structure of the country?\n(e) Kalapani dispute has opened a new front on the India-Nepal international border. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          163,
+          158,
+          161,
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 315
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Why do disparities in development and incomes between regions persist in large countries like India? How does the recent ADP plan address the issue?\n(b) Critically examine the role of IRNSS-NavIC programme on the satellite navigation system of India.\n(c) Examine the role of high population concentration in Indian slums in making them more vulnerable during pandemic conditions like the COVID-19.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          157,
+          162
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the salient characteristics of industrial complexes of Western India. Examine the impact of SEZ policy on the region.\n(b) Discuss the emergence of linguistic regions and states in India.\n(c) What are the drivers of urban sprawl around the major cities of the country? How have new investments in transport projects supported sprawl development?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          161,
+          158
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 315
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) How do agro-climatic and land capability indicators assist in macro-agricultural regionalisation of India ? Illustrate with an appropriate map.\n(b) Discuss the geopolitical significance of Quad in the Indo-Pacific realm with reference to marine trade in the region.\n(c) Evaluate the role of the National Food Security Act, 2013 in providing access of food to the poor in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          164
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 321
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    }
+  ]
+}

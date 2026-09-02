@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2016_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Attempt all of the following questions in about 150 words each :\n(a) \"The Regulating Act of 1773 not only introduced values in administration but also laid the foundation of centralized administration in India.\" Explain.\n(b) Do you think that some of the ideals enshrined in the Preamble of the Constitution remain only on paper even today ? Critically evaluate.\n(c) Examine the efficacy of the measures taken to redefine and execute cooperative federalism in India.\n(d) Evaluate the performance and efficacy of the Maharatna, Navratna and Miniratna type of Public Sector Undertakings in the context of Liberalization, Privatization and Globalization (LPG).\n(e) \"The growing prominence of NGOs in development areas is strongly related to the declining legitimacy of the State.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 559,
+        "subtags": [
+          402,
+          414,
+          403,
+          128
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"In contemporary times, Kautilya's Arthashastra is relevant more in the field of international relations than in economic affairs.\" Analyse the statement.\n(b) \"Dominant centralized administration is correlated with decisive and authoritative leadership provided by the Prime Minister's office.\" Explain with suitable examples since independence.\n(c) \"A significant legacy of the Mughal rule in India is a well-organized revenue administration at the State and District levels.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 559,
+        "subtags": [
+          404,
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) What factors have led to the expansion of the role of the Ministry of Home Affairs? How can it coordinate its affairs more effectively with the Ministry of Defence?\n(b) \"Introduction of G.S.T. (Goods and Services Tax) no doubt has economic benefits, but tends to compromise the States' inherent right to impose taxes.\" In this context, comment on the changing nature of Union-State financial relations.\n(c) \"Planning in India has failed to meet the challenges of economic development and social change.\" Discuss the statement in the context of the emergence of NITI Aayog.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 562,
+        "subtags": [
+          405,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The absence of congruence of views on appointments to judiciary between the Supreme Court and the Union Government has had an adverse impact on the judicial system.\" In the light of the above statement, examine the proposal to constitute an All India Judicial Service (AIJS).\n(b) \"The separation between regulatory and development functions in many States has not only weakened the District Collector but also development administration.\" Critically examine the need to relook at this policy.\n(c) \"Legislatures have become a place for infighting rather than for proper policy making.\" Comment in the context of the working of State Governments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 562,
+        "subtags": [
+          406,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Attempt all of the following questions in about 150 words each:\n(a) \"Autonomy granted to higher civil servants tends to increase their creativity and productivity.\" Argue the case to make the civil service more accountable as well as innovative.\n(b) Justify the budgetary support to nationalized banks to overcome the crisis resulting out of Non-Performing Assets (NPA).\n(c) \"National Green Tribunal is viewed by many critics as a hindrance to economic development.\" Evaluate the statement and give arguments in support of your answer.\n(d) Is training of police in India still a reflection of the colonial mindset? Give reasons for your answer.\n(e) \"The concept of 'new localism' is related to the emerging nature of the relationship between the State Governments and local government bodies.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          407,
+          412,
+          401,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The goals of good governance will remain utopian if local governments, responsible for providing all basic services directly to the citizens, are not empowered as mandated by the 73rd and 74th Constitutional Amendment Acts.\" Critically evaluate the status of empowerment of the local bodies.\n(b) Explain how the National Disaster Management Plan (NDMP) provides a framework and direction to the government agencies for all phases of disaster management cycle.\n(c) What merits do you foresee in the proposed merger of the Railway Budget with the General Budget ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 567,
+        "subtags": [
+          415,
+          407
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 573
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The Right to Information Act is a path-breaking legislation which signals the march from darkness of secrecy to dawn of transparency.\" What hurdles do the citizens face in obtaining information from the government ? Explain how the reluctance of the government to part with information under R.T.I. can be addressed.\n(b) \"The objectives of fiscal devolution to local bodies as mandated by the 73rd and 74th Constitutional Amendment Acts has been derailed by the actual working of the State Finance Commissions.\" Comment.\n(c) \"The initiative of the Income Tax Department on disclosure of black money has had a mixed response.\" Give suggestions for tackling this complex problem.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 572,
+        "subtags": [
+          412,
+          407
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that the Seventh Pay Commission's recommendations do not reflect and correlate the need for civil service reforms and accountability with pay increase ? Justify your answer.\n(b) \"In a democratic polity, any conception of ethics and integrity in public life must encompass not only politicians and civil servants but also citizens.\" Discuss.\n(c) \"Police reforms in India have remained a contentious issue.\" Critically analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          411,
+          410
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        }
+      ]
+    }
+  ]
+}

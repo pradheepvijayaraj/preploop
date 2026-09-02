@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2023_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Material culture and archaeology\n(b) Interface between Purushartha and Ashrama\n(c) Jajmani system : continuity and change\n(d) Prehistoric rock arts from Uttarakhand\n(e) Religious pluralism and social solidarity",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 264,
+        "subtags": [
+          45,
+          122,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Tribes are backward Hindus.\" Critically comment with reference to the contributions of G. S. Ghurye.\n(b) \"Indus Valley was the first settlement of the big civilization.\" Comment critically.\n(c) Discuss the basic tenets of Jainism and its impact on Indian society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 271,
+        "subtags": [
+          107,
+          113
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 270
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Sanskritization is a culture-bound concept.\" Critically comment to assess the strength and limitation of this concept in developing a theoretical framework to study social change.\n(b) Was Mesolithic culture the first step towards sedentary way of life? Illustrate your answer by citing suitable examples.\n(c) Critically examine the impact of modern democratic institutions on contemporary tribal societies. Illustrate with suitable ethnographic examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 268,
+        "subtags": [
+          107,
+          122
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Elucidate the problems faced by Particularly Vulnerable Tribal Groups and the major challenges in the formulation of special programmes for their development.\n(b) Critically compare Risley's and Sarkar's approaches to the classification of peoples of India.\n(c) Is caste mobility a recent phenomenon? Discuss in the light of Indological and Empirical context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 284,
+        "subtags": [
+          110,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 267
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Scheduled areas\n(b) Ramapithecus-Sivapithecus debate\n(c) Village as little republic\n(d) Dravidian languages and their subgroups\n(e) Karma and Rebirth",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 278,
+        "subtags": [
+          108,
+          115,
+          116,
+          112
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 278
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 269
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Is annihilation of caste possible? Discuss the future of caste system in the light of various proactive measures taken by the Indian State.\n(b) Distinguishing between ethnic identity and ethnicity, discuss the factors responsible for ethnic conflict in tribal areas.\n(c) \"Siwalik deposits show a variety of Neogene fossil primates.\" Critically examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          123,
+          108
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 280
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 265
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Elucidate the shifting terrains of India's tribal policies in colonial and post-colonial periods.\n(b) Critically examine how the displacement of tribal communities due to hydroelectric river dam projects has affected the women in local context. Illustrate with suitable ethnographic examples.\n(c) Elucidate the role of anthropology in nation building. Illustrate with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 284,
+        "subtags": [
+          120,
+          114
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 277
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the distribution of tribes in different geographical regions of India. Identify the distinct institutional features of tribal societies of these regions.\n(b) Critically evaluate the contributions of S. C. Roy to Indian anthropology.\n(c) How are Other Backward Classes identified? Enumerating the important features, elucidate the recent changes in their social and economic life.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 275,
+        "subtags": [
+          114,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    }
+  ]
+}

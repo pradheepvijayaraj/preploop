@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2017_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss in the context of anarchy whether the freedom of an individual is consistent with the sovereignty of the State.\n(b) Discuss whether a blending of monarchy with democracy is conceivable to avoid their undesirable defects for making the governance better for citizens and State.\n(c) Is caste discrimination a result of the superiority complex of a privileged class of the society or of religious rituals ? Discuss with reference to the views propounded by Dr. B.R. Ambedkar.\n(d) Out of rights and duties, which one is prior to the other ? Discuss in the context of accountability.\n(e) Discuss the different aspects of the fundamental distinction between democratic equality and the Marxian notion of equality.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 500,
+        "subtags": [
+          344,
+          350,
+          343,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 502
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 501
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) Do you agree with the view that secularism as a western ideal is redundant in the Indian context? Discuss in the context of the multicultural Indian society.\n(b) Critically evaluate whether the ideal of social progress gives a secondary significance to an individual's freedom over his duties.\n(c) Discuss whether Kautilya's concept of sovereignty turns into a despotic rule. How far is it comparable to Bodin's concept? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 149,
+        "subtags": [
+          343,
+          342
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 149
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 501
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 500
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Does Marxism curb individual freedom in the name of protecting social justice? Discuss.\n(b) Can you justify capital punishment for crimes like rape, murder and corruption? Discuss.\n(c) Is empowerment of women a sufficient means to their equal rights to land, property and divorce? Discuss in the context of religious sanctions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          246,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the concept of social development as rooted in ethical principles against the concept of social progress being based on economic and political ideals.\n(b) How far do Marx, Gandhi and Amartya Sen agree and disagree on the concept of justice in the Indian democracy? Discuss.\n(c) Will a severe punishment for crimes against women change the mind-set of society? Justify your position.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 506,
+        "subtags": [
+          340,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 506
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 404
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Does a committed religious person go against social morality ? Discuss from the moral perspective.\n(b) How do you define a non-theological concept of evil ? Explain.\n(c) Is God necessary for religion ? Justify your answer.\n(d) Discuss whether the doctrine of immortality of soul is indispensable for a religion.\n(e) Critically discuss the relationship of man with God in the Yoga system of philosophy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          358,
+          353,
+          354
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 511
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Is there an essential difference between the concept of Liberation in theological and non-theological approaches to life? Discuss.\n(b) Does religion guarantee the absolute truth ? Discuss in the context of religious pluralism.\n(c) Compare and contrast the different forms of cosmological argument for the existence of God.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 512,
+        "subtags": [
+          359,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) Is not the language of analogies more confusing and the language of symbols more unintelligible ? Evaluate it in the case of a religious language.\n(b) What will be the authority and acceptance of the absolute ethical values in the non-theological system of social practices ? Discuss.\n(c) Discuss whether the voluntarist's theories of faith are adequate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 518,
+        "subtags": [
+          358,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) Can a religious person take an elastic view about religious ideals, principles and practices, etc. which are supposed to be eternal ? Will it make the religion progressive or will it demolish its authority ? Discuss critically.\n(b) What is a non-theological concept of God ? How is it different from a theological concept of God ? Discuss with arguments.\n(c) In order to make expressions of religious experiences communicable, what kind of language needs to be constructed and used ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          351,
+          360
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 518
+        }
+      ]
+    }
+  ]
+}

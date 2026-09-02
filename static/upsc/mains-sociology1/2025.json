@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2025_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What is common sense? How are common knowledge and sociology related to each other? Explain.\n(b) What is the relationship (similarities and differences) between sociology and history in terms of their area of study and methodology? Discuss.\n(c) What is a variable in social research? What are their different types? Elaborate.\n(d) Can Merton's reference group theory be relevant in understanding 'identity making' in digital world? Explain.\n(e) Is the social stratification theory gender-blind? Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 574,
+        "subtags": [
+          418,
+          419,
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) What is positivism? Critically analyze the major arguments against it.\n(b) Highlight the main features of historical materialism as propounded by Marx. How far is this theory relevant in understanding contemporary societies? Explain.\n(c) What do you mean by reliability? Discuss the importance of reliability in social science research.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 575,
+        "subtags": [
+          419,
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 576
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Compare capability deprivation approach with that of social capital deprivation in understanding chronic poverty.\n(b) Are pressure groups a threat to or a necessary element of democracy? Explain with suitable illustrations.\n(c) What is hypothesis? Critically evaluate the significance of hypothesis in social research.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          423
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Give an account of the recent trends of marriage in the Indian context. How are these different from traditional practices?\n(b) What would you identify as the similarities and differences in the elite theories of Mosca, Michels and Pareto? Discuss their main/crucial issues.\n(c) Critically analyze the sociological significance of informal sector in the economy of developing societies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          419,
+          422
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) In what way is the scope of sociology unique? Explain.\n(b) Does the structural-functionalist perspective on social stratification promote a status quo? Give reasons for your answer.\n(c) Do you think that the formal workspaces are free of gender bias? Argue your case.\n(d) How does Weber's Verstehen address the objectivity-subjectivity debate in sociology?\n(e) To what extent can education and skill development be an agent of social change? Critically analyze.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 574,
+        "subtags": [
+          420,
+          422,
+          419,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) What is science? Do you think that the methods used in natural sciences can be applied to sociology? Give reasons for your answer.\n(b) What do you understand by gender-based domestic division of labour? Is it undergoing a change in the wake of increasing participation of women in formal employment? Clarify your answer with illustrations.\n(c) How can you assess the significance of social movements in the digital era? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 575,
+        "subtags": [
+          422,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 575
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) What is sampling in the context of social research? Discuss different forms of sampling with their relative advantages and disadvantages.\n(b) How do theories of Marx, Weber and Durkheim differ in understanding religion? Explain.\n(c) What is the nature of relationship between science and religion in modern society? Analyze with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 576,
+        "subtags": [
+          419,
+          424
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 582
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by sustainable development? Discuss the elements of sustainable development as proposed in the UNDP's Sustainable Development Goals Report-2015.\n(b) How do 'Civil Society Organizations' such as 'NGOs' and 'Self-Help Groups' contribute to grassroots level social changes? Discuss.\n(c) In what way does queer kinship challenge the traditional kinship system? Substantiate by giving illustrations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    }
+  ]
+}

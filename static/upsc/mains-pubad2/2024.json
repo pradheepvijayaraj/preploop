@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2024_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) \"Ethics in Public services has been the main concern of Kautilya's Arthashastra.\" Examine the statement.\n(b) \"The Mughal Administration was by nature centralised.\" Analyse.\n(c) \"Autonomy to Public Undertakings is a myth.\" Analyse.\n(d) \"It should be people's Prime Minister Office (PMO), it can't be Prime Minister's PMO.\" Comment.\n(e) \"Implementation of Goods and Services Tax (GST) has led to a Paradigm shift in the centre-state relations, both financially and politically.\" Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 561,
+        "subtags": [
+          411,
+          401,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) The National Data and Analysis Platform (NDAP) of NITI Aayog facilitates a robust ecosystem to promote democratisation and inclusivity in development. Discuss.\n(b) Examine the impact on administration in view of changing relations between political and permanent executive.\n(c) Decentralised planning enhances economic development and social justice. Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          405,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"The role of State Finance Commission in distribution of finances between state and local governments is vital.\" Discuss.\n(b) \"Centre-state relations are undergoing a drastic change.\" Elaborate.\n(c) \"There has been a strain in relations between Governor and State governments in the recent past.\" Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 563,
+        "subtags": [
+          409
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) Public sector undertakings have been the bedrock of welfarism in India for many decades. Evaluate the pros and cons of current disinvestment scenario.\n(b) The collegium system of appointments to higher judiciary has been the cornerstone of independence of judiciary. It has remained as the subject of debates in the recent past. Discuss.\n(c) The concept of bureaucratic authoritarianism is one of the models of non-democratic rules. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 561,
+        "subtags": [
+          408,
+          402
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) The constitutional stature provided to the Public Service Commissions accord them the autonomy to work towards fair recruitments. Comment.\n(b) \"The neutrality of civil service has become a myth.\" Comment.\n(c) Examine the role of Telecom Regulatory Authority of India (TRAI) in protecting the interests of consumers.\n(d) \"Parliamentary control over public expenditure is declining.\" Comment.\n(e) \"The Liberalization, Privatization and Globalization (LPG) has enhanced the participation of private sector in Indian Economy.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          412,
+          407,
+          403
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The success of administrative reforms in a country like India depends upon the political will.\" Comment.\n(b) The journey of transformation of local governance has been long. Examine the challenges to realise the spirit of gram swaraj.\n(c) With what aims and objectives was the Capacity Building Commission established? Evaluate how far it has come in realising the goals.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 566,
+        "subtags": [
+          128,
+          412
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) The separation of police investigation and prosecution has its own benefits and challenges. Analyse in context of recent developments.\n(b) Lack of financial resources and independence in managing local funding is hindering the economic and social development of urban areas. Discuss.\n(c) National Investigation Agency (NIA) is playing an important role in countering terrorism. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 568,
+        "subtags": [
+          409
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) Police-Public relations are poor in India. What measures are required to strengthen these relations?\n(b) The office of the Comptroller and Auditor General of India and its functioning is away from the public eye. Still it is one of the most important office under the constitution. Discuss.\n(c) Critically examine the problems of administration in coalition regimes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 568,
+        "subtags": [
+          403,
+          414
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 572
+        }
+      ]
+    }
+  ]
+}

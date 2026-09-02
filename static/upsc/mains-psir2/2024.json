@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2024_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the interpretive approach to the study of comparative politics.\n(b) Explain the central tenets of the World-Systems Theory.\n(c) The expansionist tendencies of the current Russian regime indicate its intentions for the realisation of a Greater Russia on the lines of the Soviet era. Comment.\n(d) Explain the various facets of the idealist approach to the study of international relations. Comment on its contemporary relevance.\n(e) The changing global order and ongoing regional conflicts, with the global powers taking sides, have jeopardised the progress made towards disarmament in the past. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 535,
+        "subtags": [
+          374,
+          379,
+          386
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 537
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 544
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Deglobalisation is displacing globalisation.\" Comment.\n(b) What are the distinctive features of the post-modern state in the advanced capitalist economies? Analyse.\n(c) What were the limitations of NAFTA ? How did its replacement by the United States-Mexico-Canada Agreement counter them ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          375,
+          380
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 533
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 538
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the major recent social movements related to the physical rights of women in various countries of the world.\n(b) Critically examine the role of political parties in sustaining and stabilising democracies in the developing societies.\n(c) Do you agree with the view that the USA uses NATO as a traditional tool of strategy to perpetuate its hegemony in the world?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 539,
+        "subtags": [
+          376,
+          378
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 539
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 536
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The Gramscian theory of hegemony provides many valuable insights into the nature of global power.\" Comment.\n(b) The return of trade barriers and economic sanctions has diminished the spirit of GATT. In this context, discuss the factors contributing to the decline of WTO in recent times.\n(c) Do you agree with the view that the EU has thus far proved to be the most successful experiment in the regional integration processes? Account for its successes and also some of the recent challenges that it is faced with.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 544,
+        "subtags": [
+          380,
+          50
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"India must strive to become a semi-permanent member of the UNSC, rather than a permanent member without the right to veto.\" Comment.\n(b) \"Bhutan has historically been an ally of India, but the China-Bhutan border related issues have become a security issue for India. Discuss.\"\n(c) \"Nothing is going to move within the WTO negotiations unless India is on board.\"\nDiscuss the main reasons behind India's increased clout in the WTO.\n(d) Discuss the rationale behind replacing the \"Asia-Pacific\" strategy with the new term \"Indo-Pacific\" strategy.\n(e) Despite deep ties, India's relations with Sri Lanka have seen strains due to China's growing influence in Sri Lanka through investments and economic dominance. Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          387,
+          385
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Would you concur with the view that of late, India's foreign policy has been in a transition mode from Nehruvianism to Neoliberalism ? Support your answer with the help of suitable examples.\n(b) Does the idea of the 21st century as 'Asian century' continue to remain feasible given the growing friction between India and China ?\n(c) Discuss the potential role that India could play as the leader of the Global South in realising the goal of establishing a new international economic order in the 21st century.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          389,
+          385
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the future of SAARC in the light of India's increased focus on other regional groupings like ASEAN and BIMSTEC.\n(b) Critically examine India's persistent refusal to sign the nuclear non-proliferation treaty (NPT) despite being recognized as a de facto nuclear power.\n(c) \"India and USA have become such strong strategic partners that they need not become formal allies.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the continuity and change in India's Palestine policy in the wake of the ongoing Israel-Hamas War.\n(b) Discuss the implications of the scrapping of the Free Movement Regime with Myanmar by the Indian Government on the complex ethno-political dynamics of the north-eastern region.\n(c) \"India has of late, chosen to debunk non-alignment in its pursuit of multi-alignment.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          50,
+          383
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 541
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains History Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2020_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer Booklet. Locational hints for each of the places marked on the map are given below seriatim.\n\n![Map supplied with UPSC HISTORY1 2020](/upsc/assets/history1/history1_2020_q1_map.jpg)\n(i) Palaeolithic site\n(ii) Palaeolithic Factory site\n(iii) Neolithic site\n(iv) Early and Mature Harappan site\n(v) Chalcolithic site\n(vi) Site of Coin and Seal Moulds\n(vii) Ancient Administration Centre\n(viii) Ancient Political Headquarter\n(ix) Ancient Temple site\n(x) Pre and Proto Historic site\n(xi) Ancient Capital City\n(xii) Place of Shaiva Temple\n(xiii) World Heritage Centre of Temple complex\n(xiv) An Inscriptional site\n(xv) Place of Jain Temple\n(xvi) Largest Buddhist Monastery\n(xvii) Ancient Temple Complex\n(xviii) Place of oldest Mosque\n(xix) Temple Complex dedicated to Shiva\n(xx) Ancient Education Centre",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 324,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "i",
+          "marks": 2.5
+        },
+        {
+          "label": "ii",
+          "marks": 2.5
+        },
+        {
+          "label": "iii",
+          "marks": 2.5
+        },
+        {
+          "label": "iv",
+          "marks": 2.5
+        },
+        {
+          "label": "v",
+          "marks": 2.5
+        },
+        {
+          "label": "vi",
+          "marks": 2.5
+        },
+        {
+          "label": "vii",
+          "marks": 2.5
+        },
+        {
+          "label": "viii",
+          "marks": 2.5
+        },
+        {
+          "label": "ix",
+          "marks": 2.5
+        },
+        {
+          "label": "x",
+          "marks": 2.5
+        },
+        {
+          "label": "xi",
+          "marks": 2.5
+        },
+        {
+          "label": "xii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiv",
+          "marks": 2.5
+        },
+        {
+          "label": "xv",
+          "marks": 2.5
+        },
+        {
+          "label": "xvi",
+          "marks": 2.5
+        },
+        {
+          "label": "xvii",
+          "marks": 2.5
+        },
+        {
+          "label": "xviii",
+          "marks": 2.5
+        },
+        {
+          "label": "xix",
+          "marks": 2.5
+        },
+        {
+          "label": "xx",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) Puranas were the innovative genre of literature to popularise and revive Vedic religion. Elaborate with examples.\n(b) Discuss the factors that played an important role in the process of urbanisation after the Later-Vedic period.\n(c) Throw light on the nature of religion and classification of gods mentioned in the Rigveda.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 329,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 20.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history1_q3",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the significant political features of the Post Mauryan Northern India. What are the main sources of it ?\n(b) A number of scholars considered Alexander as ‘The Great’, although long term impacts of Alexander’s invasion on India need to be re-evaluated. Comment.\n(c) Discuss the salient features of cultural traditions of South India as reflected in Sangam Literature.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 332,
+        "subtags": [
+          178
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 20.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history1_q4",
+      "type": "fill-blank",
+      "question": "(a) ‘Sanskrit literature of classical Gupta Age set standards for the early medieval India’. Evaluate the statement with representative examples.\n(b) Trace and identify the changing pattern of Tantrism in Ancient India with examples.\n(c) Describe the evolution and development of regional temple architecture of South India with special reference to Pallavas.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 335,
+        "subtags": [
+          177,
+          175
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 20.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Critically evaluate the Muslim Nobility during the period of Tughlaq dynasty.\n(b) Describe in detail about the foreign travellers’ accounts which gave information of Vijayanagar kingdom.\n(c) How did international trade support urbanisation in North India during the 13-14th century CE.\n(d) Evaluate the aim and impact of the translation of Sanskrit scriptures into Persian language during Mughal period.\n(e) Examine the sources of the history of Chhatrapati Shivaji with special reference to Shivabharat and Sabhasad Bakhar.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 340,
+        "subtags": [
+          185,
+          179,
+          190,
+          168
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0
+        },
+        {
+          "label": "b",
+          "marks": 10.0
+        },
+        {
+          "label": "c",
+          "marks": 10.0
+        },
+        {
+          "label": "d",
+          "marks": 10.0
+        },
+        {
+          "label": "e",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history1_q6",
+      "type": "fill-blank",
+      "question": "(a) Assess the causes of the defeat of Northern Indian States against the Turkish invasion.\n(b) Amuktamalyada dwells much upon the relationship of fort, Brahmanas and dispersed tribal groups. Comment.\n(c) Elaborate upon the agrarian reforms of Alauddin Khilji.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 339,
+        "subtags": [
+          191,
+          173
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 20.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history1_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe village polity and economy of medieval Deccan.\n(b) Some new crafts production were introduced by the Turks. Comment.\n(c) The mission of Kabir was to preach a religion of love which would unite all castes and creeds. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 332,
+        "subtags": [
+          179,
+          184
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 20.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_history1_q8",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the contribution of Sher Shah towards trade and commerce, administration and agricultural reforms.\n(b) Make an estimate of the development of paintings under Mughal rulers with special reference to colours, technique, themes and influences on them.\n(c) Critically evaluate history of the Eighteenth century India with reference to culture and economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 348,
+        "subtags": [
+          189,
+          190
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 20.0
+        }
+      ]
+    }
+  ]
+}

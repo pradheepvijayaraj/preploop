@@ -1,0 +1,495 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2017_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Write in short about Embalming.\n(b) Describe microscopically, the cellular components of lungs. Add a note on fetal distress syndrome.\n(c) Describe the developmental component and nerve supply of the tongue.\n(d) Describe the functions of spinocerebellum.\n(e) Tabulate the findings of various biochemical tests in blood and urine of patients of pre-hepatic, hepatic and post-hepatic jaundice.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          301,
+          299,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Describe how iron is absorbed, transported and stored in our body. Give the different tests done to assess status of iron in the body.\n(b) (i) Enumerate the sites for formation of erythrocytes in the embryo, foetus and adults.\n(ii) Describe the characteristic changes in the cytoplasm and nucleus during erythropoiesis.\n(c) (i) Describe in detail about hepatic spaces in relation to peritoneal reflection. Add a note on its applied importance.\n(ii) Describe blood supply of brain stem and add a note on its applied importance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          299,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the functions of basal ganglia in voluntary actions.\n(ii) Compare the functions of basal ganglia with primary cortex.\n(b) Describe the gross anatomy, innervation and applied importance of the urinary bladder. Add a note on autonomous bladder.\n(c) Discuss the principle of 'Polymerase Chain Reaction (PCR)' technology and outline the steps involved. Write its clinical application.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the shoulder joint under the following headings :\nI. Movement\nII. Blood Supply\nIII. Ligaments\n(ii) Give the anatomic basis of black eye.\n(b) (i) Show the sucking reflex through a diagram. Describe positive and negative feedback actions of estrogen.\n(ii) Describe baroreceptor reflex mechanism in the regulation of blood pressure.\n(c) Justify the statement 'Vitamin D is a hormone'. Describe the synthesis, mechanism of action and physiological functions of vitamin D.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 7.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) Define neoplasm. List five differences between benign and malignant neoplasm.\n(b) Explain the challenges in epidemiology and control measures in malaria. Discuss its laboratory diagnosis.\n(c) Discuss acute paracetamol poisoning emphasizing on mechanism of toxicity and its treatment.\n(d) Describe the gross and microscopic appearance of post-primary tuberculosis of lung.\n(e) How will you assess that the injury is 'Grievous Hurt' as per Section 320 of the Indian Penal Code ? Illustrate with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          302,
+          305
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 463
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 463
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the gross and microscopic features of acute proliferative glomerulonephritis.\n(ii) Describe in brief the etiopathogenesis of squamous cell carcinoma of cervix.\n(b) Describe the mechanism of action of sulfonamides. Also describe which methods bacteria employ to develop resistance to it.\n(c) (i) What are the factors responsible for invasive candida infection. Briefly describe the laboratory diagnosis of bloodstream candida infection.\n(ii) Name opportunistic fungal (two) and parasitic (two) agents causing infections in an HIV patient. Describe the laboratory diagnosis of any one of them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 7.5
+            },
+            {
+              "label": "ii",
+              "marks": 7.5
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) A 16-year-old girl has been brought for medical examination to the hospital by the police with alleged history of rape. How will the medical officer proceed to examine her ? Describe the possible findings. What are the specimens preserved to establish the alleged crime ?\n(b) Discuss the clinical features, management and post-mortem findings in a case of cyanide poisoning.\n(c) Explain the reasons for the following :\n(i) Beta blockers should not be given with Verapamil.\n(ii) Folinic Acid is administered along with Methotrexate.\n(iii) Thiazides are useful in nephrogenic Diabetes insipidus.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 462,
+        "subtags": [
+          305,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 463
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Discuss the pathogenesis of enteric fever. What are the different mechanisms by which salmonella acquires antimicrobial resistance ?\n(ii) Define immunological tolerance and discuss its role in autoimmunity, with one example.\n(b) A 40-year-old chronic alcoholic male presents himself with ascites, splenomegaly, jaundice and hematemesis.\n(i) What is the likely disease in the liver ?\n(ii) What is the reason for hematemesis ?\n(iii) Describe the gross and microscopic features of the liver in this case.\n(c) Discuss briefly the mechanism of action, uses and side effects of the following :\n(i) Griseofulvin\n(ii) Sulfonylurea\n(iii) Gentamicin",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          301,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 3.0
+            },
+            {
+              "label": "iii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

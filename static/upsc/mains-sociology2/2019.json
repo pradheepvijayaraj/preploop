@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2019_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short answers to the following questions in about 150 words each, with a sociological perspective:\n(a) Elaborate Srinivas's views on religion and society among the Coorgs.\n(b) Illustrate the contributions of the Tebhaga Movement to the peasants struggle in India.\n(c) Examine the changing initiatives of the land tenure system in India.\n(d) Write a note on Ghurye's conception of caste in India.\n(e) Comment on the growing assertion of tribal community for autonomy in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 589,
+        "subtags": [
+          195,
+          428,
+          45,
+          27
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 60
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically examine Dube's contributions to the study of Indian villages.\n(b) What is caste politics? Substantiate your answer with examples of how identities are defined by caste dynamics.\n(c) Do you think that the Indian saints have brought about social reform and awareness in Indian society? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 586,
+        "subtags": [
+          45,
+          427
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 585
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) What is ethno-nationalism? Examine the critical factors responsible for tribal discontent in India.\n(b) Is industrial development in India a bane or a boon to agrarian class structure? Substantiate your answer with suitable examples.\n(c) Give an account of Ranajit Guha's approach in studying 'subaltern class'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 587,
+        "subtags": [
+          27
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Define patriarchy. Does it have bearings on women's entitlement in Indian family system? Explain.\n(b) How do you understand the 'minority' question? Examine the violence and discrimination against the religious minorities in India.\n(c) What do you understand by LGBTQ? Comment on the issues concerning their marriage rights.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 589,
+        "subtags": [
+          430
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following questions in about 150 words each, with a sociological perspective:\n(a) Comment on the critical issues of commercialization of higher education in India.\n(b) Discuss the challenges in implementing the Rural Development Programmes in India.\n(c) Elaborate urbanism as a way of life in India.\n(d) Comment on the changing democratic profile of India.\n(e) Elucidate the concerns of growing urban displacement dynamics in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 592,
+        "subtags": [
+          433,
+          47,
+          435,
+          441
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 599
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Examine the importance of Development Planning in Indian Mixed Economy, and analyze its problems and prospects.\n(b) Highlight the main features of the 'Inter-linking of Rivers' project in India. What could be its probable advantages to Indian agriculture?\n(c) Has reduction of green cover affected ecological degradation leading to global warming? Elaborate your answer with illustration.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 590,
+        "subtags": [
+          195,
+          438
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 590
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 596
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Do you think that 'demonetization' has accelerated the economic growth in India? How do you understand the informalization of labour, underemployment and gender discrimination in this context?\n(b) Discuss the implications of 'Swachha Bharat Abhiyan'. Do you think that civil society has a role to play here? Substantitate your answer with examples.\n(c) Do you agree that social movements are caused by opportunity structures that are generated by media? Why?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 596,
+        "subtags": [
+          434
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 596
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 596
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Why has 'active aging' become a glocal goal? Do you agree that the role of elderly care-giving is disproportionately gendered in developing countries? Why?\n(b) What is POSH Act? \"Identification of tormentor by women at workplace does not come easily even today.\" Examine the statement with substantive examples from India.\n(c) What is 'social security'? Examine recent security measures adopted by the Government in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 600,
+        "subtags": [
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 600
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 600
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    }
+  ]
+}

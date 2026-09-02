@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2025_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each : Support your answer with relevant legal provisions and judicial pronouncements :\n(a) \"Doctrine of 'foreseeability', not the 'proximity', is a correct test of 'remoteness'.\" Explain with the help of case-laws.\n(b) \"The definition of 'public servant' as per the Prevention of Corruption Act, 1988 is only illustrative and not exhaustive.\" Comment.\n(c) Describe the salient features of the Protection of Civil Rights Act, 1955.\n(d) Explain the principle of liability of master for the torts committed by his servant. Write case-laws.\n(e) Under what circumstances can the appropriate government commute the sentence of death and life imprisonment for any other punishment? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 421,
+        "subtags": [
+          258,
+          259,
+          262,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 416
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 417
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 420
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 404
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Homicide means killing of a human being by a human being.\" Explain the statement and distinguish between culpable homicide amounting to murder and not amounting to murder.\n(b) \"Right to private defence is a valuable right but it must be exercised reasonably.\" Explain with examples.\n(c) \"Nuisance is no branch of negligence.\" Explain. Describe who can sue and who is liable for nuisance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 412,
+        "subtags": [
+          71,
+          265
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 412
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 227
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 423
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the law of defamation. Is this correct to say that law of defamation gives too much protection to 'reputation' and imposes too a great restriction on the freedom of speech? Comment.\n(b) \"The law of torts is said to be a development of the maxim ubi jus ibi remedium.\" Illustrate your answer with the help of decided case-laws.\n(c) Critically examine the provisions relating to few major offences which fall under the 'offences against marriage' in the criminal law of India. Support your answer with case-law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 415,
+        "subtags": [
+          261,
+          255
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 415
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 413
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Dacoity is an aggravated form of theft and robbery.\" Explain with relevant provisions and case-laws.\n(b) \"In case of joint offenders, their liability is joint and separate.\" Explain the conditions when such principle is applicable.\n(c) \"The establishment of 'Consumer Mediation Cell' and procedure for mediation in the Consumer Protection Act, 2019 is a step towards alternative dispute resolution in consumer cases.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 413,
+        "subtags": [
+          249,
+          266
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 407
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 424
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each : Support your answer with relevant legal provisions and judicial pronouncements :\n(a) \"Law as well as justice should try to prevent unjust enrichment.\" Elucidate the statement in reference to relevant provisions of the Indian Contract Act, 1872.\n(b) \"In breach of a sale contract, both the buyer and the seller have remedies against each other.\" Discuss the statement in reference to relevant provisions of the Sale of Goods Act, 1930.\n(c) \"An outgoing partner shares subsequent profits but not the liability for acts of the firm after his retirement.\" Elucidate the statement referring to relevant provisions of the Indian Partnership Act, 1932.\n(d) \"The role of certifying officer is not quasi-judicial but administrative in nature.\" Explain.\n(e) \"Public interest litigation is a tool to protect fundamental rights of persons or group of persons who are unable to approach the court due to poverty or social and economic conditions.\" Critically analyze this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          272,
+          273,
+          271,
+          277
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 430
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 431
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 429
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 435
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Every agreement by which anyone is restrained from exercising a lawful profession, trade or business of any kind is to that extent void.\" Discuss the statement along with the circumstances in which such agreements have been considered valid by the courts.\n(b) \"Any departure from the terms of the offer or the addition of any qualification while accepting the offer vitiates the acceptance unless it is agreed to by the offeror.\" Elucidate the statement in the light of the provisions of the Indian Contract Act, 1872 and established principles.\n(c) \"The law draws a distinction between coercion and undue influence. Coercion in the execution of a contract occurs when there is a physical compulsion of the person. In contrast, undue influence may exist without violence or threats of violence against the victim.\" In the light of this statement, distinguish between coercion and undue influence referring to relevant provisions and presumptions raised under the Indian Contract Act, 1872.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          269
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 427
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 425
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The parties to a contract must either perform or offer to perform their respective promises unless the performance is dispensed with or excused under the provisions of the Contract Act or of any other law.\" Explain the statement in reference to relevant provisions of the Indian Contract Act, 1872.\n(b) \"Both horizontal and vertical agreements are included in Section 3 of the Competition Act, 2002 even when horizontal agreements are considered more harmful in comparison to vertical agreements.\" Discuss.\n(c) \"The 'precautionary principle' and the 'polluter pays principle' are essential principles of the sustainable development.\" Explain both the principles and also their contribution in sustainable development referring to relevant case-laws.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          279,
+          30
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 437
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 71
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Right to Information, for citizens to secure access to information under the control of public authorities, is an important enactment.\" Discuss. Also describe the obligations of public authorities as mentioned in the Act.\n(b) \"To enforce the arbitration agreement, the terms of the agreement must be clear and certain.\" Explain.\n(c) Discuss the remedies for infringement of trademark and passing off available to the trademark owner.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 227,
+        "subtags": [
+          275,
+          59
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 227
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 433
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 200
+        }
+      ]
+    }
+  ]
+}

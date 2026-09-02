@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2015_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Which are the major approaches of comparative politics ? Explain in brief, the political economy approach to the study of comparative inquiry.\n(b) Do you subscribe to the view that the modern constructs of the State and politics are pre-eminently Eurocentric and not indigenous and appropriate for the analysis of non-western societies ?\n(c) Identify the major differences between the classical realism of Hans J. Morgenthau and the neorealism of Kenneth Waltz. Which approach is best suited for analysing international relations after the Cold War ?\n(d) Is globalization essentially a process of 'universalisation' of capitalist modernity ?\n(e) What is the difference between Interest Groups and Pressure Groups ? Are the Pressure Groups in India in a position to fully protect or promote the interests of their members ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          377,
+          48,
+          376
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) 'The struggle for democracy has been marked by bitter strife and tribulations.'\nExamine the statement, illustrating the cases of Pakistan, Nepal and Myanmar.\n(b) Discuss the theory of Nuclear Deterrence. Did Nuclear Deterrence prevent a superpower war?\n(c) What are the real objectives of Millennium Development Goals (MDG)? Do you think that millennium development goals have been able to achieve the desired goals of poverty alleviation and sustainable development?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          388,
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Do you endorse that the conventional discourse on human rights has failed to include women's rights ? Explain in the context of feminist theories.\n(b) How far are the world governance mechanisms, dominated by IMF and World Bank, legitimate and relevant ? What measures do you suggest to improve their effectiveness in global governance?\n(c) Discuss the collapse of the Soviet Union and its impact on international politics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 539,
+        "subtags": [
+          48,
+          379
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 539
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) Has the reform of the economic and social arrangements of the United Nations been effective ?\n(b) 'The European Union has become, the most politically influential, economically powerful and demographically diverse regional entity in the world.' Discuss.\n(c) How is it that economic and neo-liberal globalization is being interrogated from inside even in developed countries ? What are the economic consequences of such globalization ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          50,
+          48
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 146
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) The social structure of a country influences its foreign policy-making. How does the social structure of India impact the course and direction of its foreign policy?\n(b) 'Non-alignment' has been the basic principle of India's foreign policy since independence. Discuss its relevance in the contemporary context.\n(c) Identify the constraints/challenges to the regional cooperation in South Asia.\n(d) Ethnic conflicts and insurgencies in North-East India can be better managed by improving relations with the neighbouring countries. Substantiate the statement with suitable examples.\n(e) How does the Parliament determine and influence the making of India's foreign policy?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          383,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Before the year 2000, the Indo-U.S. relationship has been marked more with estrangement than cordiality. Why ?\n(b) 'Economic interest has emerged as the main component of India's foreign policy.' Discuss the statement in the light of India's initiatives to improve relations with China, Japan and the Central Asian republics.\n(c) In 1998, India declared itself a nuclear weapon state. India refuses to sign NPT and CTBT. What would be the implications for India's nuclear policy in case it signs both the treaties ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          382,
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) Vision of a new world order has emerged as the major objective of India's foreign policy. Discuss the policy initiative taken by India in this regard and the challenges faced by it.\n(b) Discuss the factors for the decline of India's presence in Latin America.\n(c) River water disputes are emerging as a major source of irritation between India and its neighbours. Identify the sources of conflicts and suggest the remedial measures.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          385,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) The United Nations completes 70 years of its establishment in 2015. What reforms is India asking for to strengthen the global institutions of governance and why ?\n(b) Discuss the realistic foreign policy initiatives taken by India to balance its relations between Israel and the Arab world.\n(c) Discuss the humanitarian role played by India in the crisis-stricken Gulf countries like Yemen and Iraq.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 545,
+        "subtags": [
+          382
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 545
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        }
+      ]
+    }
+  ]
+}

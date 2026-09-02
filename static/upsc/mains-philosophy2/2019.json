@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2019_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) How far do you think John Rawls is continuing with Plato's concept of justice ?\n(b) Discuss the status of theocracy in the modern secular state.\n(c) Evaluate Mahatma Gandhi as a political anarchist.\n(d) Is corruption not a form of mass violence ? Discuss.\n(e) Can gender equality be realised within a socialist regime ? Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          344,
+          33,
+          347,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 502
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 505
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) Do rights make citizens accountable to the State ? Argue in the context of the present Indian scenario.\n(b) What are the descriptive and normative perspectives on ideas of multiculturalism?\n(c) Does technological development lead to progress in the ethical standards of the society ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          346,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 504
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 506
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss how far does Austin's concept of sovereignty go along with Kautilya's concept of sovereignty.\n(b) Consider critically, that gender discrimination is a rather man-made concept but not naturally endowed.\n(c) What do you consider to be the future of Marxism in the context of the prevalent free market economy?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 500,
+        "subtags": [
+          349,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) Examine whether there is any difference between the views of Mahatma Gandhi and Dr. Babasaheb Ambedkar on the philosophical foundations of secular democracy.\n(b) Does liberty put limitations to equality ? Discuss.\n(c) Does capital punishment weaken the doctrine of social justice ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 508,
+        "subtags": [
+          341,
+          340
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) What is instrumental to self-revelation : Faith or Reason ? Justify your position.\n(b) Is religion a uniting force for humanity in the globalizing world as of today ? Discuss.\n(c) Can there be a philosophical argument to support violence in the name of religion ? Discuss.\n(d) Does a devoted commitment to a religious way of life make man go astray from social morality ? Examine.\n(e) State and evaluate the proofs for the existence of God as propounded in Jainism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          355,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 513
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss whether and how does religious symbolism lead to mysticism?\n(b) What role do the concepts of evil and profane play to provide a firm foundation to religion?\n(c) How would a religious person deny the possibility of a religion without God? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          356
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 514
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) Expound and explain the central problem in the discussion between religious pluralists and religious exclusivists.\n(b) Secular ethics cannot fully resolve as to why one should be moral all the time. Examine.\n(c) How far can religious experience be made a topic of public discourse? Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 517,
+        "subtags": [
+          51,
+          356
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 149
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 514
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) State and explain the doctrines of Karma, Rebirth and Reincarnation in Hinduism.\n(b) State and evaluate the personalistic and impersonalistic aspects of God.\n(c) Discuss the relationship between man and God according to any one of the religions in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 512,
+        "subtags": [
+          351,
+          358
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Commerce & Accountancy Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2021_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Briefly explain the significance of Accounting Standard-3 (AS-3).\n(b) Discuss the importance of Employee Stock Option Plan (ESOP).\n(c) What are sunk cost and opportunity cost? Explain with example.\n(d) What is the relationship between residential status and incidence of tax?\n(e) Discuss the key aspects in respect of audit of insurance company.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          25,
+          130,
+          18,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) X Ltd. and Y Ltd. were in telecom business. Both the companies took a decision to amalgamate and a new company XY Ltd. is to be formed with an authorized capital of ₹ 20,00,000 divided into 200000 equity shares of ₹ 10 each. The Balance Sheets of the companies as on 31.03.2021 were as under :\n| Particulars | X Ltd. (₹) | Y Ltd. (₹) |\n| --- | --- | --- |\n| I. Equity and Liabilities : |  |  |\n| 1. Shareholders' Fund : |  |  |\n| (a) Share capital | 2,80,000 | 5,00,000 |\n| (b) Reserves and Surplus (Profit and Loss A/c) | 60,000 | 3,10,000 |\n| 2. Non-current liabilities : |  |  |\n| 8% Secured Debentures | 2,20,000 | — |\n| 3. Current Liabilities : |  |  |\n| Trade Payables | 1,08,000 | 2,80,000 |\n| Total | 6,68,000 | 10,90,000 |\n| II. Assets : |  |  |\n| 1. Non-current Assets : |  |  |\n| Property, Plant and Equipment | 2,50,000 | 5,90,000 |\n| 2. Current Assets : |  |  |\n| (a) Inventories | 2,70,000 | 1,00,000 |\n| (b) Trade Receivables | 88,000 | 2,84,000 |\n| (c) Cash at Bank | 60,000 | 1,16,000 |\n| Total | 6,68,000 | 10,90,000 |\nThe Assets and Liabilities of the existing companies are to be transferred at book value with the exception of some items detailed below :\n(1) The debentures of X Ltd. are to be discharged by issue of 8% debentures of XY Ltd. at a premium of 10%\n(2) Property, Plant and Equipment of Y Ltd. was valued at ₹ 6,10,000\n(3) The Trade Receivables of X Ltd. are realised fully and bank balance of X Ltd. are to be retained by the liquidator and the Trade Payables are to be paid of the proceeds thereof\n(4) Goodwill of X Ltd. was worth ₹ 1,00,000 and Y Ltd. was worth ₹ 3,00,000\nYou are required to—\n(i) compute the basis on which shares in XY Ltd. will be issued at par to the shareholders of the existing companies;\n(ii) draw up a Balance Sheet of XY Ltd. as at 1st April, 2021, the date of completion of amalgamation;\n(iii) pass necessary Journal Entries including bank entries for closing the books of X Ltd.\n(b) Explain the principles and steps in setting up a good costing system in a manufacturing organisation.\n(c) (i) Define short-term capital assets and long-term capital assets.\n(ii) How to compute tax on short- and long-term capital gains?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 286,
+        "subtags": [
+          25
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) Mr. B (49 years), a resident individual, furnishes the following particulars pertaining to the year ending 31st March, 2021 :\nAnalysis of his bank account in his ledger reveals the under-mentioned data—\n|  | (₹) |\n| --- | --- |\n| • Rent received for a vacant plot of land | 4,00,000 |\n| • Amount received from X (P) Ltd. for a house at Pune for which he had been in negotiation for rent enhancement since last 4 years (this has not been taxed in any earlier year. However, this house is transferred during March, 2020) | 3,00,000 |\n| • Gift received from Alekhyo, his best friend | 1,20,000 |\n| • Gift received from mother's father | 1,60,000 |\n| • Winning from a TV game show (net) | 1,40,000 |\n| • Amount forfeited (initially paid by a buyer of his vacant plot, since the buyer could not finalise the deal as per agreement) | 6,20,000 |\n| • Amount received under Keyman Insurance Policy | 4,40,000 |\n| Other information : |  |\n| (i) Donation given in cash to a charitable trust registered under Section 12AA | 24,000 |\n| (ii) Interest credited in the Public Provident Fund (PPF) account during the year | 17,800 |\n| (iii) Public Provident Fund paid in the name of his minor daughter | 1,50,000 |\n| (iv) He owns agricultural lands at Malaysia. He has derived agricultural income therefrom | 3,60,000 |\nCompute the taxable income of Mr. B for the assessment year 2021–22.\n(b) What is right share? Explain its advantages.\n(c) In a factory, the product passes through two processes, A and B. Loss of 5% is allowed in process A and 2% in process B. Nothing being realised by disposal of the wastage. During July, 2021, 10000 units of material costing ₹ 6 each were introduced in process A. The other costs were as follows :\n|  | Process A (₹) | Process B (₹) |\n| --- | --- | --- |\n| Materials | — | 6,140 |\n| Labour | 10,000 | 6,000 |\n| Overheads | 6,000 | 4,600 |\nThe output was 9300 units from process A. The output of process B was 9200 units.\nPrepare Process Accounts and Abnormal Loss/Gain Accounts.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 288,
+        "subtags": [
+          129,
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) ABC company produces tables. An analysis of their accounting reveals—\n|  |  |\n| --- | --- |\n| Fixed cost | ₹ 1,00,000 for the year |\n| Variable cost | ₹ 40 per table |\n| Selling price | ₹ 140 per table |\n| Capacity | 2000 tables per year |\n(i) Find the break-even point (BEP).\n(ii) Find the number of tables to be sold to get a profit of ₹ 60,000.\n(iii) What will be the answer for (i) and (ii), if selling price changes to ₹ 120 per table?\n(iv) If the company can manufacture 600 tables more per year with an additional fixed cost of ₹ 4,000, what should be the selling price to maintain the profit per table as (ii) above?\n(b) \"Accounting is an information system for decision making.\" Explain. State its characteristics.\n(c) What is tax audit? Explain its objectives. Who can be a tax auditor?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          129,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 286
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What is risk-return trade-off? Explain its significance in financial decision making.\n(b) Define optimum capital structure. Discuss its determinants.\n(c) What is capital rationing? Explain the principles of capital rationing.\n(d) Briefly explain any five innovative debt instruments.\n(e) Explain the importance of venture capital financing (VCF) in promoting start-up enterprises.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          132,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) The Zenith Enterprises Ltd. has two investment proposals—project X and project Y. These are mutually exclusive. Project X requires an initial outlay of ₹ 3.4 crores and project Y requires an initial outlay of ₹ 3.3 crores. The risk-free rate is 8% for both the projects. The risk premium rate for project X is 2% and project Y is 4%.\nThe expected cash inflow and certainty equivalent coefficient for projects are given below :\n| Year | Project X Expected Cash Inflow | Project X CE | Project Y Expected Cash Inflow | Project Y CE |\n| --- | --- | --- | --- | --- |\n| 1 | ₹ 1.8 crores | 0.85 | ₹ 1.8 crores | 0.90 |\n| 2 | ₹ 2.0 crores | 0.75 | ₹ 1.8 crores | 0.85 |\n| 3 | ₹ 2.0 crores | 0.60 | ₹ 2.0 crores | 0.75 |\nThe PVF for 3 years :\n|  | Year 1 | Year 2 | Year 3 |\n| --- | --- | --- | --- |\n| PVF @ 8% | 0.926 | 0.857 | 0.794 |\n| PVF @ 10% | 0.909 | 0.826 | 0.751 |\n| PVF @ 12% | 0.893 | 0.797 | 0.712 |\nFrom these details, determine which of the two projects should be accepted by using—\n(i) risk-adjusted discount rate method;\n(ii) certainty equivalent approach method.\n(b) What is credit policy? Explain the criteria involved in assessing the credit-worthiness of a customer.\n(c) Discuss the phases of operating procedures of monetary policy framework in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) XYZ Co. is operating on 60% capacity, producing 48000 units per annum at the following cost price structure :\n|  |  |\n| --- | --- |\n| Raw material | ₹ 5 per unit |\n| Wages | ₹ 3 per unit |\n| Overhead (variable) | ₹ 2 per unit |\n| Overhead (fixed) | ₹ 1 per unit |\n| Profit | ₹ 2 per unit |\n| Selling Price | ₹ 13 per unit |\nThe current assets and liabilities were as follows :\n|  | (₹) |\n| --- | --- |\n| Raw material 4000 units at cost | 20,000 |\n| Work-in-progress 1000 units at cost | 8,000 |\n| Finished goods 3000 units at cost | 33,000 |\n| Sundry debtors | 78,000 |\n| Creditors for goods | 30,000 |\n| Liability for wages | 3,000 |\n| Liability for expenses | 6,000 |\nIn view of the increased demand for the product, it has been decided that from 1.1.2021 the unit should operate at 80% capacity. You are required to ascertain the additional working capital as would be necessary in view of additional production. The price of materials, rates of wages and expenses and selling price per unit will not be changed. The period of credit allowed to customers, credit allowed by suppliers and also time lag in payment of wages and expenses shall remain the same as before.\n(b) Shasun Ltd. has the following capital structure :\n| Sources of Capital | Book value (₹) | Market value per security (₹) |\n| --- | --- | --- |\n| 30000 equity shares of ₹ 100 each | 30,00,000 | 120 |\n| 10000 8% preference shares of ₹ 100 each | 10,00,000 | 108 |\n| 20000 10% debentures of ₹ 100 each | 20,00,000 | 105 |\nThe company is expected to declare 20% dividend on its equity share with a growth rate of 5%. The corporate tax rate is 30% and corporate dividend tax is 10%. Calculate Weighted Average Cost of Capital (WACC) of the company using—\n(i) book value as weight;\n(ii) market value as weight.\n(c) Discuss the role of IRDA in Indian insurance sector.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          25,
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) A company has a capital of ₹ 100 crores with shares of ₹ 100 each. The shares are currently quoted at par in the market. The company is planning to declare a dividend of ₹ 6 per share at the end of current financial year which has just started. The rate of capitalisation for the risk class to which the company belongs is 10%. Using Modigliani-Miller (MM) model, answer the following :\n(i) Calculate the price of the shares at the end of the year, if (1) dividend is declared and (2) dividend is not declared.\n(ii) Calculate the number of shares to be issued assuming the company pays dividend, has net income of ₹ 10 crores and make new investment of ₹ 20 crores during the year.\n(iii) Find out the value of the firm, if (1) dividend is declared and (2) dividend is not declared.\n(b) Briefly explain the different techniques of inventory management in a manufacturing unit.\n(c) Discuss the key reforms in banking sector in line with BASEL norms.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 42,
+        "subtags": [
+          130,
+          132
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 42
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 289
+        }
+      ]
+    }
+  ]
+}

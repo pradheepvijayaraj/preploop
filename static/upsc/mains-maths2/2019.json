@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "MATHS2",
+    "section": "mains-maths2",
+    "sourceId": "upsc_2019_mains_maths2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_maths2_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $G$ be a finite group, $H$ and $K$ subgroups of $G$ such that $K \\subset H$. Show that $(G:K) = (G:H)(H:K)$.\n(b) Show that the function\n$$f(x, y) = \\begin{cases} \\frac{x^2 - y^2}{x - y} & , \\quad (x, y) \\neq (1, -1), (1, 1) \\\\ 0 & , \\quad (x, y) = (1, 1), (1, -1) \\end{cases}$$\nis continuous and differentiable at $(1, -1)$.\n(c) Evaluate\n$$\\int_0^\\infty \\frac{\\tan^{-1}(ax)}{x(1+x^2)} dx, \\quad a > 0, a \\neq 1.$$\n(d) Suppose $f(z)$ is analytic function on a domain $D$ in $\\mathbb{C}$ and satisfies the equation $Im f(z) = (Re f(z))^2, Z \\in D$. Show that $f(z)$ is constant in $D$.\n(e) Use graphical method to solve the linear programming problem.\nMaximize $Z = 3x_1 + 2x_2$\nsubject to\n$x_1 - x_2 \\geqslant 1,$\n$x_1 + x_3 \\geqslant 3$\nand $x_1, x_2, x_3 \\geqslant 0$",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 449,
+        "subtags": [
+          289,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q2",
+      "type": "fill-blank",
+      "question": "(a) If $G$ and $H$ are finite groups whose orders are relatively prime, then prove that there is only one homomorphism from $G$ to $H$, the trivial one.\n(b) Write down all quotient groups of the group $Z_{12}$.\n(c) Using differentials, find an approximate value of $f(4.1, 4.9)$ where\n$f(x, y) = (x^3 + x^2y)^{\\frac{1}{2}}$.\n(d) Show that an isolated singular point $z_0$ of a function $f(z)$ is a pole of order $m$ if and only if $f(z)$ can be written in the form $f(z) = \\frac{\\phi(z)}{(z - z_0)^m}$\nwhere $\\phi(z)$ is analytic and non zero at $z_0$.\nMoreover $\\text{Res}_{z=z_0} f(z) = \\frac{\\phi^{(m-1)}(z_0)}{(m-1)!}$ if $m \\geqslant 1$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 447,
+        "subtags": [
+          294,
+          291
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "d",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 449
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the uniform convergence of\n$$f_n(x) = \\frac{nx}{1+n^2x^2}, \\quad \\forall x \\in \\mathbb{R} (-\\infty, \\infty)$$\n$$n = 1, 2, 3, \\dots$$\n(b) Solve the linear programming problem using Simplex method.\nMinimize $Z = x_1 + 2x_2 - 3x_3 - 2x_4$\nsubject to\n$x_1 + 2x_2 - 3x_3 + x_4 = 4$\n$x_1 + 2x_2 + x_3 + 2x_4 = 4$\nand $x_1, x_2, x_3, x_4 \\geqslant 0$\n(c) Evaluate the integral $\\int_C Re(z^2)dz$ from $0$ to $2 + 4i$ along the curve $C$ where $C$ is a parabola $y = x^2$.\n(d) Let $a$ be an irreducible element of the Euclidean ring $R$, then prove that $R/(a)$ is a field.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 448,
+        "subtags": [
+          292,
+          291,
+          289
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 450
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 447
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q4",
+      "type": "fill-blank",
+      "question": "(a) Find the maximum value of $f(x, y, z) = x^2y^2z^2$ subject to the subsidiary condition $x^2 + y^2 + z^2 = c^2, \\quad (x, y, z > 0)$.\n(b) Obtain the first three terms of the Laurent series expansion of the function\n$f(z) = \\frac{1}{(e^z - 1)}$ about the point $z = 0$ valid in the region $0 < |z| < 2\\pi$.\n(c) Discuss the convergence of $\\int_1^2 \\frac{\\sqrt{x}}{\\ln x} dx$.\n(d) Consider the following LPP,\nMaximize $Z = 2x_1 + 4x_2 + 4x_3 - 3x_4$\nsubject to\n$x_1 + x_2 + x_3 = 4$\n$x_1 + 4x_2 + x_4 = 8$\nand $x_1, x_2, x_3, x_4 \\geqslant 0$\nUse the dual problem to verify that the basic solution $(x_1, x_2)$ is not optimal.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          291,
+          290,
+          292
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 449
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 448
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 450
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q5",
+      "type": "fill-blank",
+      "question": "(a) Form a partial differential equation of the family of surfaces given by the following expression :\n$\\psi(x^2 + y^2 + 2z^2, y^2 - 2zx) = 0$.\n(b) Apply Newton-Raphson method, to find a real root of transcendental equation $x \\log_{10} x = 1.2$, correct to three decimal places.\n(c) A uniform rod $OA$, of length $2a$, free to turn about its end $O$, revolves with angular velocity $\\omega$ about the vertical $OZ$ through $O$, and is inclined at a constant angle $\\alpha$ to $OZ$; find the value of $\\alpha$.\n(d) Using Runge-Kutta method of fourth order, solve $\\frac{dy}{dx} = \\frac{y^2 - x^2}{y^2 + x^2}$ with $y(0) = 1$ at $x = 0.2$. Use four decimal places for calculation and step length $0.2$.\n(e) Draw a flow chart and write a basic algorithm (in FORTRAN/C/C++) for evaluating\n$y = \\int_0^6 \\frac{dx}{1+x^2}$ using Trapezoidal rule.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 452,
+        "subtags": [
+          293,
+          296
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 454
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 452
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q6",
+      "type": "fill-blank",
+      "question": "(a) Solve the first order quasilinear partial differential equation by the method of characteristics :\n$x \\frac{\\partial u}{\\partial x} + (u - x - y) \\frac{\\partial u}{\\partial y} = x + 2y$ in $x > 0, -\\infty < y < \\infty$ with $u = 1 + y$ on $x = 1$.\n(b) Find the equivalent numbers given in a specified number to the system mentioned against them :\n(i) Integer $524$ in binary system.\n(ii) $101010110101.101101011$ to octal system.\n(iii) decimal number $5280$ to hexadecimal system.\n(iv) Find the unknown number $(1101.101)_8 \\rightarrow (?)10$.\n(c) A circular cylinder of radius $a$ and radius of gyration $k$ rolls without slipping inside a fixed hollow cylinder of radius $b$. Show that the plane through axes moves in a circular pendulum of length $(b - a)\\left(1 + \\frac{k^2}{a^2}\\right)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 454,
+        "subtags": [
+          293,
+          295
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 451
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 453,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 454
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q7",
+      "type": "fill-blank",
+      "question": "(a) Using Hamilton's equation, find the acceleration for a sphere rolling down a rough inclined plane, if $x$ be the distance of the point of contact of the sphere from a fixed point on the plane.\n(b) Apply Gauss-Seidel iteration method to solve the following system of equations :\n$2x + y - 2z = 17$,\n$3x + 20y - z = -18$,\n$2x - 3y + 20z = 25$, correct to three decimal places.\n(c) Reduce the following second order partial differential equation to canonical form and find the general solution :\n$\\frac{\\partial^2 u}{\\partial x^2} - 2x \\frac{\\partial^2 u}{\\partial x \\partial y} + x^2 \\frac{\\partial^2 u}{\\partial y^2} = \\frac{\\partial u}{\\partial y} + 12x$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 451,
+        "subtags": [
+          296,
+          294
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 454
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 452
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 451
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_maths2_q8",
+      "type": "fill-blank",
+      "question": "(a) Given the Boolean expression\n$X = AB + ABC + A\\overline{B}C + A\\overline{C}$\n(i) Draw the logical diagram for the expression.\n(ii) Minimize the expression.\n(iii) Draw the logical diagram for the reduced expression.\n(b) A sphere of radius $R$, whose centre is at rest, vibrates radially in an infinite incompressible fluid of density $\\rho$, which is at rest at infinity. If the pressure at infinity is $\\Pi$, so that the pressure at the surface of the sphere at time $t$ is\n$$\\Pi + \\frac{1}{2}\\rho \\left\\{ \\frac{d^2 R^2}{dt^2} + \\left(\\frac{dR}{dt}\\right)^2 \\right\\}.$$\n(c) Two sources, each of strength $m$, are placed at the points $(-a, 0), (a, 0)$ and a sink of strength $2m$ at origin. Show that the stream lines are the curves $(x^2 + y^2)^2 = a^2(x^2 - y^2 + \\lambda xy)$, where $\\lambda$ is a variable parameter.\nShow also that the fluid speed at any point is $(2ma^2)/(r_1 r_2 r_3)$, where $r_1, r_2$ and $r_3$ are the distances of the points from the sources and the sink, respectively.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 455,
+        "subtags": [
+          295
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 453,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 455
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 455
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,390 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2025_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Show that when prices and income increase in the same proportion, there will be no change in quantity demanded for a commodity in Marshallian approach.\n(b) Interpret the slope of the IS curve. Why is IS curve normally negatively sloped ?\n(c) What is classical dichotomy ? Is it the same as neutrality of money ? Explain.\n(d) What are the major reasons for market failure ? Explain the role of the government in this context.\n(e) What are the determinants of velocity of money in Fisher's equation ? How does it differ from the Cambridge version of velocity of money ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) Derive Marshallian demand curve for an inferior good in a two-commodity framework by using income and substitution effects. Is this demand curve always negatively sloped ? Explain.\n(b) Consider a firm in a Duopoly market with product differentiation in which, Duopolist I faces a demand function given by :\np_1 = 200 - 4q_1 - 2q_2\nThe cost function of Duopolist I is :\nc_1 = 5q_1^2\nAssume that Duopolist II has 1/3 rd share of the whole market.\nFind out optimal price, output and profit for Duopolist I. Also find out the output of Duopolist II.\n(c) What is Scitovsky Paradox ? Explain it in the context of Kaldor-Hicks compensation test.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) Define liquidity trap. Show that fiscal policy is fully effective in the horizontal part while the monetary policy is fully effective in the vertical part of the LM curve. Illustrate your answer graphically with economic reasons.\n(b) How does the loanable fund theory become superior to the classical theory of interest ?\n(c) \"The failure of classical full employment equilibrium paved the way for Keynes' theory of underemployment equilibrium.\" Discuss critically.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Explain the effects of public spending on national income, if it is financed through government borrowings.\n(ii) Why do some believe that it is important to restrict the growth of public expenditure ? Suggest how public expenditure might be controlled.\n(b) (i) Suppose that the market demand and supply functions are given by :\nQ_d = - 500P + 5000\nand Q_s = 400P - 400\nFind out the effects of imposition of specific sales tax of 18% on equilibrium price and quantity.\n(ii) In a monopoly market, the demand and cost curves are given by :\np = 200 - 8q\nand c = 25 + 10q\nSuppose that the government imposes a tax of ₹ 10 per unit. How will equilibrium price and quantity be affected ?\n(c) Define money multiplier and discuss its determinants. Explain in terms of money multiplier, how the banking system of an economy can control money supply.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 297,
+        "subtags": [
+          16,
+          20
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 297,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 7.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 41
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Define offer curve and explain its slope.\n(b) What is J-curve effect ? Explain it graphically.\n(c) State Heckscher-Ohlin theory. Explain the Leontief Paradox in this context.\n(d) Write down the implications of knife-edge problem in Harrod's model of growth.\n(e) Write down the major limitations of HDI developed by the UNDP.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138,
+          23,
+          14,
+          141
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 298
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the price effect, protective effect, consumption effect, revenue effect and distributive effect of tariff in partial equilibrium framework.\n(b) Define the concepts of trade creation and trade diversion. Explain their role in the context of gains from trade bloc.\n(c) Do you think that perfect capital mobility under fixed exchange rate improves the effectiveness of fiscal and monetary policies ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          23,
+          22
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 46
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Analyse critically the role of human capital and Research and Development (R&D) expenditure on economic growth in the framework of endogenous growth model.\n(b) \"Increasing role of multinationals has reduced the significance of foreign aid during post-World Trade Organization (WTO) regime.\" Do you agree with this statement ? Explain.\n(c) Define the concept of natural growth in Harrod's model. What are the implications of deviation of actual growth from natural growth ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the role of World Trade Organization (WTO) in the present context. Discuss the merits and demerits of TRIMs and TRIPs.\n(b) Do you think that economic growth and sustainable development are contrary to each other ? Justify your answer.\n(c) Explain the role of planning in the development process in the context of increasing significance of market economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          14,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    }
+  ]
+}

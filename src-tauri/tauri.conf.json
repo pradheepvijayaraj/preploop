@@ -1,0 +1,59 @@
+{
+  "$schema": "../node_modules/@tauri-apps/cli/config.schema.json",
+  "productName": "PrepLoop",
+  "version": "1.0.0",
+  "identifier": "com.utilin.loop",
+  "build": {
+    "frontendDist": "../build",
+    "devUrl": "http://localhost:5173",
+    "beforeDevCommand": "bun run dev",
+    "beforeBuildCommand": "bun run bundle:prepare"
+  },
+  "app": {
+    "windows": [
+      {
+        "title": "PrepLoop",
+        "visible": false,
+        "backgroundColor": "#0a0a0a",
+        "width": 1440,
+        "height": 900,
+        "minWidth": 1280,
+        "minHeight": 800,
+        "resizable": true,
+        "fullscreen": false,
+        "center": true
+      }
+    ],
+    "security": {
+      "csp": "default-src 'self'; script-src 'self'; connect-src 'self' ipc: http://ipc.localhost; font-src 'self' data:; img-src 'self' asset: http://asset.localhost data:; style-src 'self' 'unsafe-inline'; object-src 'none'; frame-src 'none'; worker-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'",
+      "devCsp": "default-src 'self'; script-src 'self' 'unsafe-eval'; connect-src 'self' ipc: http://ipc.localhost ws://localhost:5173; font-src 'self' data:; img-src 'self' asset: http://asset.localhost data:; style-src 'self' 'unsafe-inline'; object-src 'none'; frame-src 'none'; worker-src 'none'; base-uri 'none'; form-action 'none'; frame-ancestors 'none'"
+    }
+  },
+  "bundle": {
+    "active": true,
+    "macOS": {
+      "minimumSystemVersion": "13.0",
+      "signingIdentity": "-"
+    },
+    "targets": "all",
+    "resources": ["models/granite-r2-q8_0.gguf", "models/search-index"],
+    "icon": [
+      "icons/32x32.png",
+      "icons/128x128.png",
+      "icons/128x128@2x.png",
+      "icons/icon.icns",
+      "icons/icon.ico"
+    ],
+    "shortDescription": "UPSC CSE prelims and mains practice",
+    "longDescription": "PREPLOOP for UPSC Civil Services: Prelims GS and CSAT, Mains Essay and GS Papers I–IV, plus optional papers across 12 subjects. Offline desktop practice and timed tests with bundled past papers.",
+    "category": "Education"
+  },
+  "plugins": {
+    "updater": {
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IEUxMDE2MTUwRjM4NDZGNTMKUldSVGI0VHpVR0VCNFJvSjhZbmJELzlIWnZ3ZzZwMFl0Wm5aTTljUkwxcFc4YmdoNkFJWUJvMFcK",
+      "endpoints": [
+        "https://github.com/utilinlabs/preploop/releases/latest/download/latest.json"
+      ]
+    }
+  }
+}

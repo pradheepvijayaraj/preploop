@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2016_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each.\n(a) Explain the salient features of 73rd and 74th Constitutional Amendments in India and elaborate the impact of its implementation.\n(b) Do you agree with the view that an increase in the productivity of agriculture as a result of Green Revolution was only short-term ? Give reasons.\n(c) What were the economic and non-economic rationale for adopting mixed-economy model in India ?\n(d) Discuss the basic features of the IInd five year plan in India.\n(e) What were the economic consequences of discriminating protection in the trade policy during British Regime ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 35,
+        "subtags": [
+          19,
+          144,
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the manufacturing condition prevailed during pre-independence period. Do you feel that private sector did not come forward for investment due to fear of Nationalisation ? Give reasons.\n(b) Critically examine condition of Agriculture and rural economy during the pre-independence era.\n(c) Discuss the Wage-Goods model of development as given by C.N. Vakil and P.R. Bramhanand.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          143,
+          24
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the difference between absolute poverty and relative poverty. Between the two which is more appropriate ? Give reasons.\n(b) Explain the major tools for measuring inequality. Highlight the more appropriate method of measuring inequality.\n(c) Examine the implications of Trade Related Intellectual Property Rights (TRIPS) on Indian Economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          148
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) What is 'Crony Capitalism' ? Is it true that almost all Developing Countries are facing the threat of 'Crony Capitalism' in their development efforts ?\n(b) Examine the process of introducing and passing GST Bill in Parliament. How it helps in Fiscal Consolidation in the country ?\n(c) What were the major hurdles to development as experienced in India during first decade after independence ? Discuss them and what steps were taken to remove them ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 196,
+        "subtags": [
+          17,
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each.\n(a) \"Partial Capital Account Convertibility cannot serve the purpose of integrating Indian Economy with World Economy\". Critically examine.\n(b) Critically examine the salient features of Fiscal Responsibility Act.\n(c) Examine the basic features of the National Food Security Act 2013.\n(d) Bring out the salient features of New EXIM policy of Government of India.\n(e) Write short notes on \"Skill India\" and \"Make in India\".",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 306,
+        "subtags": [
+          17,
+          147,
+          58,
+          24
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 306
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) Monetary Policy in India is often criticised as ineffective because large part of the country is not yet monetised. Do you agree with the view ? Give reasons.\n(b) Trace the development of Non Banking Financial Companies in India since the liberalisation era and comment on their impact on the effectiveness of the interest rate policies of the RBI.\n(c) Explain how Railways played an important role in unifying the people of India during pre-independence period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 40,
+        "subtags": [
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) During post-independence era India assigned the role of 'Commanding Heights' to the public undertakings. Should this policy be continued ? Give reasons for your answer.\n(b) Explain the contribution of V.K.R.V. Rao in the estimation of National Income.\n(c) Critically examine the major changes in FDI policies of the Government of India since 1991.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 38,
+        "subtags": [
+          146,
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 196
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the basic features of new national rural employment guarantee scheme ? What are the impediments in their implementation ?\n(b) \"Agriculture Subsidy is both an Economic as well as Social issue, hence the Government finds it difficult to take a decisive decision\". Comment on the above statement.\n(c) Discuss the changes in the sectoral composition of GDP in recent years.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 53,
+        "subtags": [
+          147,
+          146
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        }
+      ]
+    }
+  ]
+}

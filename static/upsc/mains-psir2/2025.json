@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper 2 · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2025_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the psychological approach to the study of comparative politics.\n(b) Neo-liberalism lightened neo-realism's dark view of international politics. Comment.\n(c) Explain the non-traditional security threats in the context of food and environmental crises.\n(d) Discuss the political socialization of open and closed societies.\n(e) Comment on the Red Lipstick Movement in the context of feminist rights.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          379,
+          381,
+          48,
+          376
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 537
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 539
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 534
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) The world currently has been in the throes of a twin process of 'democratic backsliding' and 'democratic backlash'. How would you explain this paradox?\n(b) The withdrawal of the United States of America from the World Health Organization is set to have far-reaching impacts on global health. Reimagining the existing WHO is vital for the global health agenda. Discuss.\n(c) Transnational actors have qualitatively transformed the world by the way of their fresh insights and actions. Illustrate your answer with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          236,
+          48
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 146
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Of late, centrist and centre-left political parties have been facing setbacks while centre-right parties have been in ascendency the world over. Comment.\n(b) Collective security and responsibility to protect (R2P) are similar but different in scope, goals and methods. Explain.\n(c) Global South-sensitive model of globalization would prevent the danger emanating from overcentralized globalization. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          378,
+          385
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 536
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) Latin America has made moderate success in countering US-led global economic order by forming various organizations emphasizing regional sovereignty, economic integration and alternative development. Discuss.\n(b) How successful has the 'ASEAN Plus Three' been in addressing regional problems? Support your answer with specific examples.\n(c) \"Trump's return to the White House is a jolt to push the European Union to invest in its own defence and economic and technological revival.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 543,
+        "subtags": [
+          50,
+          48
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 146
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) China's growing footprint and a tangible shift in power dynamics in Bangladesh has weakened India's leverage in Dhaka. Comment.\n(b) Would you agree with the contention that India's inclination to lean on a 'more aggressive hyper-realist posture' has gained a new momentum in the aftermath of the Pahalgam terrorist strike? Comment.\n(c) For India, a multipolar world order would also mean a multipolar Asia. Comment.\n(d) Does the Non-Aligned Movement have any future in the wake of India's growing indifference towards it?\n(e) Historical ties between India and Japan grew into a 'special strategic and global partnership'. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          386,
+          383
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 541
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Critically analyze the different phases of India's foreign policy since independence. How justified, do you think, is S. Jaishankar's classification of the current phase as the phase of 'energetic diplomacy'?\n(b) India maintains strong ties with countries that will assure a free and open Indo-Pacific and guarantee greater connectivity with rest of the world. Analyze.\n(c) The tariff threats have pushed India and the European Union closer. Evaluate the India-EU partnership.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          385,
+          389
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) India continues to invoke its time-tested policy of strategic autonomy vis-à-vis both the United States of America and Russia by rejecting US' offer of mediation on Kashmir issue and by refusing to criticize Russia in its ongoing war against Ukraine. Comment.\n(b) Trump's unilateral imposition of reciprocal tariffs on scores of countries poses impending threat to the future of the rule-based multilateral global trading system under the WTO. What options do the WTO members have to salvage the organization?\n(c) NonAlignment 2•0 underscores India's unique aspiration to emerge as a site for an alternative universality. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 547,
+        "subtags": [
+          380,
+          383
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 547
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 541
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) India's reluctance to perceive any 'existential threat' inevitably made the multilateral path to nuclear security a 'default option' until it decided to cross the nuclear Rubicon in 1998. Identify and analyze some of the major reasons behind this shift in India's position on the nuclear question.\n(b) Discuss some of the key drivers of India's new interests in Africa which might help in developing long-term comparative advantage over China.\n(c) Discuss the potential role India can play in initiating a possible phase of trilateral economic engagement among India, China and Nepal.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 546,
+        "subtags": [
+          385,
+          384
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 546
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 543
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,320 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2024_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each. Support your answer with relevant legal provisions and Judicial pronouncements :\n(a) The underlying principle of mens-rea is expressed in the familiar Latin maxim — 'actus non-facit reum nisi mens sit rea,' — 'the act does not make a man guilty unless the mind is also guilty.' Explain with decided cases.\n(b) 'The principle that every conspirator is liable for all the acts of co-conspirators if they are towards attaining the goals of the conspiracy even if some of them have not actively participated in the commission of that offence/s.'\nIn the light of above statement, explain the principle of criminal conspiracy as per Indian Penal Code 1860.\n(c) 'It is the degree of negligence which really determines whether a particular action will amount to rash and negligent act as required to hold a person guilty of homicide under Section 304-A of Indian Penal Code, 1860.' Discuss.\n(d) 'The determination of vicarious liability of the state is linked with the negligence made by all its functionaries and no immunity can be claimed.'\nIn the light of above observation discuss; vicarious liability of state with reference to its sovereign functions.\n(e) \"The introduction of 'product liability' under the Consumer Protection Act, 2019 marked an end of the 'buyer beware' doctrine and the introduction of 'seller beware' as the new doctrine.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 403,
+        "subtags": [
+          251,
+          264,
+          263,
+          266
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0
+        },
+        {
+          "label": "b",
+          "marks": 10.0
+        },
+        {
+          "label": "c",
+          "marks": 10.0
+        },
+        {
+          "label": "d",
+          "marks": 10.0
+        },
+        {
+          "label": "e",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Justification for introduction of 'plea-bargaining' in India was that it will reduce delay in case of undertrial prisoners in a cheaper and quicker method.\"\nDo you appreciate its existence in the same form or not ? Justify your answer.\n(b) 'Intoxication impairs perception and judgement both so one fails to foresee the result of his conduct.' In this backdrop, examine the law relating to the defence of intoxication and refer to the leading cases.\n(c) How far do you agree that prevention of corruption Act 1988 is an important legal instrument in curbing corruption in the society. Discuss.\nWhat are the types of offences recognised under this law and what are punishments ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 418,
+        "subtags": [
+          248,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"It is the mode of acquiring possession of property of other party with/without his consent, which determines the type of offence against property and thus distinguishes theft, misappropriation and Criminal breach of trust.\" Discuss.\n(b) \"A person is liable for Public nuisance, when he does an act or illegal omission which causes any common injury, danger or annoyance to the public ...\"\nDiscuss Nuisance in the light of above statement along with its types.\n(c) Explain 'false imprisonment' as per law of Torts and distinguish it from 'malicious prosecution.'",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 413,
+        "subtags": [
+          265,
+          262
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) 'If an enterprise is permitted to carry on any hazardous or inherently dangerous activity for its profits, the cost of any accident arising on account of such activity must be an appropriate term of overheads.' Comment. (M. C. Mehta v. U.O.I.)\n(b) 'Kidnapping is a substantive offence while abduction is not an offence exclusively. It becomes offence, when committed with a criminal intent.' Explain.\n(c) 'The offence of abetment depends upon the intention of the abettor not upon the act committed by the abetted person.' Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 420,
+        "subtags": [
+          255,
+          250
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each. Support your answer with relevant legal provisions and Judicial pronouncements :\n(a) A \"'Quasi-Contract' arises out of judicial principles and not out of contractual agreement between two parties.\" Explain.\n(b) Every partner of a Limited Liability Partnership (LLP) for the purposes of its business is its agent but not that of other partners. Analyse the extent of liability of LLP and its partners.\n(c) 'The rights of an unpaid seller do not depend upon any agreement, express or implied, between the parties. They arise by implication of law.' Explain.\n(d) Mutual rights and duties of the Principal and agent may be wholly provided for in their contract. Discuss the general duties of the agent with special reference to the duty of reasonable care and skill.\n(e) What is the commercial significance of the Geographical Indications of Goods ? Explain the benefits that accrue to the registered proprietors and authorised users by registration of Geographical Indications of Goods.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          273,
+          272,
+          271,
+          59
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0
+        },
+        {
+          "label": "b",
+          "marks": 10.0
+        },
+        {
+          "label": "c",
+          "marks": 10.0
+        },
+        {
+          "label": "d",
+          "marks": 10.0
+        },
+        {
+          "label": "e",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the rules which are taken into account by the courts while awarding damages for the breach of contract. Refer to the relevant statutory provisions and case law.\n(b) 'An illegal contract is always void but a void contract is not always illegal.' Examine while illustrating both the types of contract.\n(c) 'The liability of a surety is secondary, but it is co-extensive with that of Principal debtor.' In this backdrop, discuss the nature and extent of liability of surety.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          263
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"The principle of arbitral autonomy is an integral element of the ever evolving domain of arbitration law .... The basis of arbitral autonomy is to give effect to the true intention of the parties to distance themselves from the 'risk of domestic judicial parochialism.' \" Comment with reference to the theory and practice.\n(b) 'Sections 124 and 125 of the Indian Contract Act, 1872 are not exhaustive of the law of indemnity.' Comment in the context of Indemnity and Indemnity-holder's rights.\n(c) 'Mistake does not defeat consent, but only misleads the parties.' Explain citing the relevant legal provisions and cases decided by the courts.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 433,
+        "subtags": [
+          268,
+          261
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"There is, in recent years, a feeling which is not without any foundation that 'public interest litigation' is now tending to become 'publicity interest litigation' or 'private interest litigation', and has a tendency to be counter-productive.\" Examine the statement critically.\n(b) Discuss the relevance of the 'safe harbour' clause under the Information Technology Act 2000. Comment on the need to make the intermediaries liable for transmitting the posts and communications of third parties.\n(c) An information shall ordinarily be provided in the form in which it is sought. Are there any exceptions to this rule ? Explain with suitable illustrations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 435,
+        "subtags": [
+          278,
+          71
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    }
+  ]
+}

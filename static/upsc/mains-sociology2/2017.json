@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2017_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short answers with a sociological perspective on the following, in about 150 words each:\n(a) Write a critique of the structural and functional perspective used by M.N. Srinivas in the understanding of Indian society.\n(b) Which is more significant, the principle of 'hierarchy' or the principle of 'difference', in intercaste relations in the present day?\n(c) What are the distinct features of Islam as practised in India, and how have they changed over time?\n(d) How have the struggles against untouchability changed their forms and perspectives from Gandhian to Ambedkarite positions?\n(e) Write a short note on 'changing means of production and increased rural poverty.'",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          443,
+          431,
+          45,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 601
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) The main objectives of socio-religious movements during the colonial rule in India were reforming and synthesizing Hinduism. Write on any two such important movements.\n(b) Discuss Yogendra Singh's thesis on Modernisation of Indian Tradition, and evaluate its applicability in the present day context.\n(c) What are the changes in the cultural and structural aspects of the caste system since independence?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 585,
+        "subtags": [
+          435,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 585
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Indebtedness is one of the serious issues leading to farmers' suicides. Discuss reasons and suggest solutions.\n(b) Clarify the distinction between 'household' and 'family' and evaluate whether joint families have completely disintegrated.\n(c) Compare the North Indian Kinship System with the South Indian Kinship System.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 588,
+        "subtags": [
+          195
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 588
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the concepts of 'dominant caste' and 'vote bank', giving examples from specific regions.\n(b) What is the nature of religious change among tribal communities ? Illustrate with two examples from colonial and post independence times.\n(c) Compare the pressing problems of a dalit poor family living in an urban slum with a similar type of family living in a rural setting.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          431,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short answers with a sociological perspective on the following, in about 150 words each:\n(a) What are the reasons for the escalation of violence against women in the public domain?\n(b) Write a note on Education and Equality in India.\n(c) Give an account of the problems relating to the \"creamy layer\".\n(d) Do you agree that the issue of child labour raises questions about and beyond the informal sector? Give reasons.\n(e) What are the emerging concerns on women's reproductive health?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 600,
+        "subtags": [
+          445,
+          45,
+          47,
+          440
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 600
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 598
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss some of the striking issues of development induced imbalances that need urgent attention.\n(b) Examine the impact of heritage tourism on urban socio-spatial patterns in India.\n(c) What are the causes and solutions for the low female sex-ratio in the DEMARU States of Punjab, Haryana, Himachal and Gujarat?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 599,
+        "subtags": [
+          47,
+          440
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 599
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 598
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Despite gains from the women's movement and state policy of women empowerment, gender equality is far from achieved. Identify two major challenges that prevent this goal from being reached.\n(b) To what extent does nation building depend on strengthening of pluralities in Indian society?\n(c) Explain the issues relating to ethnicity and sub-ethnicity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 594,
+        "subtags": [
+          435,
+          439
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 594
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 597
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) What is Cultural Revivalism ? Give some examples from performing arts, language dissemination and arts and crafts in recent times.\n(b) What, according to you, are the two fundamental axes of social discrimination in Indian society ? Are they changing ?\n(c) Why have we started using another category of tribes called the Particularly Vulnerable Tribal Groups (PVTGs) ? Why are they so called ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 585,
+        "subtags": [
+          426,
+          27
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 585
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 60
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2021_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Describe the concept of 'Altiplanation'.\n(b) What are the important factors responsible for airmass modifications ?\n(c) Discuss the hazards associated with rise of sea-surface temperature.\n(d) Gene pool centres are 'Good Hope' for biodiversity conservation. Elucidate.\n(e) Describe how ecosystem services of Himalaya are essential for Highland-Lowland sustainability in Asia.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": [
+          53,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) The concept of Plate tectonics has been derived from the isostasy and continental drift theory. Elaborate citing suitable examples.\n(b) Give a detailed account of bottom topography of the Pacific Ocean.\n(c) Soil erosion and soil degradation are threat to food supply. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          54,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine major influencing factors for varied patterns of precipitations on the continents.\n(b) Maritime security is being neglected. Indicate the major challenges and suggest solutions in the context of Law of the Sea.\n(c) Explaining the concept of carbon neutrality, describe the measures taken by carbon positive and negative nations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": [
+          53
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) With suitable examples, elaborate human ecological adaptations. Explain its impacts on ecology and environment in various parts of the world.\n(b) Stream basins and drainage divides are important components to delineate a watershed area. Explain.\n(c) Indicating the causes of lightning, describe the threats associated with it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          52,
+          53
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) The interrelationships between social and spatial structure are complex. Explain in the context of socio-spatial dialectic.\n(b) How is energy transition seen as an instrument for achieving zero carbon by 2050?\n(c) Protected cultivation assists in healthier and a larger produce. Justify with examples.\n(d) Explain the processes of contagion and hierarchical diffusion in addressing regional imbalances.\n(e) Examine the relevance of Central Place Theory of Christaller in the present context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          1,
+          54,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) Development-induced displacement poses serious challenges. Mention its causes, consequences and solutions.\n(b) Describe the role of accessibility and affordability in food security of developing world.\n(c) The environmental issues are not adequately addressed in the regional planning. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 308,
+        "subtags": [
+          2,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Suggest criteria, indicators and techniques for delimitation of formal regions.\n(b) Boundaries are important in geopolitics. Explain. What issues develop from the inclusionary and exclusionary aspects of borders?\n(c) Small number of mega cities are playing key role in organisation of global economics and culture. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          1,
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) Why is radicalism seen as a major paradigm shift in geography? Explain its causes, approaches and criticism.\n(b) Aging population has adverse social and economic consequences. Explain with examples.\n(c) Present a critical account of Alfred Weber Theory of industrial location.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          151,
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    }
+  ]
+}

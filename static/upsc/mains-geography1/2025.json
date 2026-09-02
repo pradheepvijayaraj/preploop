@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper 1 · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2025_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Explain the causes of glacial lake outburst flood.\n(b) What is solifluction? What are its impacts?\n(c) What geological and tectonic processes lead to the formation of nappes in orogenic belts?\n(d) Explain the relationship between air masses and local winds.\n(e) What are the fundamental differences among ocean wave, ocean current and tide?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          54
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) How does denudation chronology help in understanding the sequential development of landscapes and landforms? Elucidate.\n(b) What is deep-sea mining? What are the potential benefits and risks associated with it?\n(c) Man and wildlife conflicts are ever increasing. Discuss its causes, consequences and remedies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          54,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the formation of atmospheric tricellular circulation system. Describe with example its importance in making the Earth a living planet.\n(b) What is the 'UN Decade on Ecosystem Restoration'? How does it balance ecological goals with emerging socio-economic needs like food security and development?\n(c) \"The Himalaya is still rising.\" Expand this statement and describe the processes involved in it with suitable sketches and examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          150,
+          52
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) What are the ecological consequences of agricultural deforestation in the Amazon and Congo Basins, particularly concerning biodiversity and climate regulation?\n(b) Examine the distribution and balance of energy in the Earth's atmosphere system.\n(c) Describe the process of formation of barrier islands and explain their significance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 15,
+        "subtags": [
+          53,
+          52
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Why did the Welfare Approach in Human Geography emerge as a significant perspective in 1970s?\n(b) What are the key environmental and economic challenges linked to the extraction and processing of critical minerals?\n(c) \"Pull factors in internal migration are often based on perceptions rather than reality.\" Explain.\n(d) \"Regional imbalances are the product of in situ and ex situ factors.\" Elucidate it with examples.\n(e) Why is systems analysis important in urban planning and what are its limitations?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          1,
+          2,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) How have dichotomy and dualism affected the methodological development of Geography? Describe.\n(b) Analyze the role of language and religion in delineating major cultural regions of the world.\n(c) Analyze the spatial patterns and regional specialization of plantation crops across tropical and subtropical regions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Why is oil important for energy security? What is the role of oil in clean energy transition?\n(b) Critically evaluate the role of primate cities in dominating the urban spheres of influence in developing countries.\n(c) \"The global demographic landscape is evolving with rapid population growth in some places and rapid ageing in others.\" Elucidate with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 12,
+        "subtags": [
+          152,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) Why has F. Perroux's theory of growth pole as a model of regional growth been criticised? Explain with examples.\n(b) Analyze the role of demographic transition theory in explaining variations in fertility and mortality rates globally.\n(c) How do regional components make the regional synthesis in spatial arrangement? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    }
+  ]
+}

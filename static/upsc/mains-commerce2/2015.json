@@ -1,0 +1,361 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 2 · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2015_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Explain the following (each in about 150 words) :\n(a) Balance Score Card\n(b) VUCA World\n(c) Force Field Analysis\n(d) Psychological Contract\n(e) Accountability vs Responsibility.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Competitiveness of Indian industry is directly linked with digitisation initiatives,\" Identify the issues involved and implication of this statement.\n(b) \"Since liberalisation there has been continuous pressure on the functioning of regulatory agencies which monitor Indian business organisations.\" Evaluate this statement and suggest remedial measures to enhance their effectiveness.\n(c) What is meant by empowered organisations ? Suggest steps to foster an empowered organisation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          134,
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) According to Hendry Mintzberg, how does the power dynamics between various parts of the organisation, result in different structural forms of organisation ? What are these structural forms, and how do they affect organisational effectiveness ?\n(b) \"Organisation culture is the long term phenomenon that decides the success or failure of the mission and vision of the organisation and ultimately its survival in the current global scenario.\" Explain this statement and also identify the cultural problems of modern business organisations.\n(c) In post modern-organisations, are traditional concepts like line and staff functions irrelevant ? Do you think so ? Give arguments in support of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"S-O-B-C model gives only a bare bones sketch of organisation behaviour rather than a full blown explanation. However it can serve as a conceptual framework for organisational behaviour.\" What do you mean by this statement ? Give suggestions to enrich this model.\n(b) What is positive psychology ? How can Indian companies use the concepts of the same to foster entrepreneurial thinking in their workforce ? Explain.\n(c) \"Organisational citizenship behaviour enhances the effectiveness of quality circles.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Explain the following (each in about 150 words) :\n(a) Behavioural Anchored Rating Scale.\n(b) Human Resource Accounting.\n(c) Conciliation vs Mediation in Disputes Resolution.\n(d) Pen down strike vs Tool down strike.\n(e) Banning Lockouts.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          134,
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Cafeteria Scheme allows individual employees to decide, with certain limits, on the make up of their Fringe Benefits Package.\" Discuss. Also examine the implications of this statement.\n(b) \"Compared to factory workers, it is more difficult to attempt job analysis, job description, and job specification for the Scientists and Engineers working in Research and Development Departments.\" Comment. How does the HR Department help management to address these challenges effectively ?\n(c) What is the impact of 'Halo Effect' on Performance Appraisal ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"360° feedback system is gaining popularity.\" Comment. Also examine the barriers to its effective implementation in India.\n(b) \"I.T. Companies in India seek special concessions in the Factories Act of 1948, for their establishments.\" What are these concessions ? Do you agree that these should be granted ? Give arguments in support of your answer.\n(c) \"Constitutional provisions are in favour of Workers Participation in Management, but its implementation requires effective strategies.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          135
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Majority of I.T. Companies are keen to reduce their labour turnover.\" What are the reasons for it ? How could exit interviews and post exit questionnaires enable them to do so ? Comment.\n(b) \"Collective bargaining requires mutual trust among key stakeholders within an industry.\" Comment. What considerations are to be taken into account in managing collective bargaining arrangements ?\n(c) \"Changing Indian labour legislations is the last unfinished agenda since 1991.\" Assess its rationale.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    }
+  ]
+}

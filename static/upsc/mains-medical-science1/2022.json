@@ -1,0 +1,531 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2022_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Discuss the stomach under the following headings:\n(i) Peritoneal relations\n(ii) Blood supply\n(iii) Lymphatic drainage\n(b) Discuss the regulation of secretion and physiological functions of growth hormone.\n(c) Define physiological jaundice of the newborn. What are the predisposing causes and effects of this condition?\n(d) Discuss in brief the developmental anomalies of the kidney and the ureters.\n(e) Discuss the physiological functions of placental hormones in pregnancy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          299,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 5.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Describe the anatomy of uterus under the following headings:\n(i) Gross features\n(ii) Relations of uterus\n(iii) Ligaments and supports\n(iv) Blood supply\n(v) Lymphatic drainage\n(vi) Applied aspects\n(b) Discuss the physiological mechanism of short-term and long-term regulation of arterial blood pressure.\n(c) (i) Explain the process of initiation of protein synthesis in eukaryotes. Enumerate any four inhibitors of protein synthesis with their mechanism of action.\n(ii) Explain the principle and applications of radioimmunoassay.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          298,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) (i) Discuss the functions of basal ganglia. Add a note on Parkinson's disease.\n(ii) Discuss the mechanism of excitation-contraction coupling in the skeletal muscle.\n(b) Explain the biochemical role of the different derivatives of vitamin A. Add a note on the causes, clinical manifestations and management of vitamin A deficiency.\n(c) (i) Describe the functional components, course, branches and applied aspects of the facial nerve.\n(ii) Discuss the attachments and applied aspects of rotator cuff muscles of the shoulder joint.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          300,
+          298
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) Explain the mechanism of iron absorption in the intestine. What are the factors regulating the process?\n(ii) Explain the diagnostic role of thyroid function test (TFT) in the diagnosis of thyroid disorders.\n(b) (i) Draw a well-labelled diagram of stretch reflex.\n(ii) What are the functions and clinical applications of stretch reflex?\n(c) (i) Discuss the lymphatic drainage of the mammary gland and its clinical significance.\n(ii) Describe the development of the interventricular septum and write briefly about the congenital anomaly of the heart related to this structure.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 457,
+        "subtags": [
+          300
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) Describe the molecular mechanisms of carcinogenesis of breast carcinoma. Describe the salient histopathological features of invasive carcinoma of no special type.\n(b) (i) Draw a diagram of IgA. What is its role in a disease?\n(ii) What are opportunistic infections? Enumerate the various bacterial, parasitic, viral and fungal opportunistic infections seen in a case of AIDS.\n(c) Discuss about angiotensin II receptor blocker (ARB). How are they different from angiotensin converting enzyme (ACE) inhibitors? Write the pharmacotherapy of hypertensive emergency.\n(d) Define granulomatous inflammation. Describe in brief different types of granuloma.\n(e) What is a firearm? What are the features of a firearm ammunition entry wound that will help in determining the range and direction of fire?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          302,
+          303,
+          304
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 462
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe in brief the pathogenesis and histopathological features of rheumatic heart disease.\n(ii) Enumerate two important causes of cirrhosis. Describe the key histopathological features of cirrhosis.\n(b) State the therapeutic indications, drug interactions and side effects of the following drugs:\n(i) Celecoxib\n(ii) Chloroquine\n(c) (i) What is Giardia lamblia? Write the manifestations of the disease produced by infection with Giardia and give its laboratory diagnosis.\n(ii) What are the different dengue viruses? Give the pathogenesis of the infections by them. How is the laboratory diagnosis done in a case of dengue haemorrhagic fever?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) What are organophosphate compounds? Discuss briefly the clinical features, treatment and postmortem findings of a case of organophosphate poisoning.\n(b) (i) Enumerate four differentiating features between benign and malignant tumours. Describe in brief the pathogenesis of cancer cervix.\n(ii) Describe in brief the pathogenesis of type I diabetes mellitus. Enumerate two important glomerular lesions of diabetic nephropathy.\n(c) (i) Discuss the second line drugs used for the treatment of tuberculosis.\n(ii) Discuss the role of aldosterone antagonists as vasodilators.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          305,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 463
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Enumerate different species of Aspergillus and the infections caused by them. Give the laboratory diagnosis of a case of pulmonary aspergillosis.\n(ii) What is dysentery? Give the differences between bacterial and amoebic dysentery. Describe the laboratory diagnosis of a case of amoebic dysentery.\n(b) (i) What is drowning? Explain briefly the different types of drowning.\n(ii) Draw a labelled diagram of the hyoid bone. Discuss briefly the various fractures of the hyoid bone.\n(c) (i) Elaborate the mechanism of action of Metformin.\n(ii) Briefly describe the therapeutic indications and adverse effects of Thiazides.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

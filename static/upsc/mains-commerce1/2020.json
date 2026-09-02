@@ -1,0 +1,368 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 1 · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "COMMERCE1",
+    "section": "mains-commerce1",
+    "sourceId": "upsc_2020_mains_commerce1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_commerce1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Distinguish between Net Profit and Cash from Operating Activities.\n(b) What are the various components of cost of fixed assets ?\n(c) Distinguish between cost control and cost reduction.\n(d) State the provision of law relating to carry forward and set off of business loss.\n(e) Discuss the special points that an auditor would take into consideration while auditing the accounts of a banking company.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          25,
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce1_q2",
+      "type": "fill-blank",
+      "question": "(a) Z Ltd issued a prospectus offering 2,00,000 equity shares of ₹ 10 each on the following terms :\nOn application — ₹ 1 per share\nOn allotment (including premium of ₹ 2) — ₹ 5 per share\nOn first call (3 months after allotment) — ₹ 3 per share\nOn final call (3 months after first call) — ₹ 3 per share\nApplication money was received for 3,27,000 shares on 23rd April and allotment made on 30th April was as under :\n|  |  | Shares allotted |\n| --- | --- | --- |\n| (i) | Allotment in full | 38,000 |\n| (ii) | Allotment of 2/3 of shares applied for | 1,60,000 |\n| (iii) | Allotment of 1/4 of shares applied for | 2,000 |\nCash amounting to ₹ 41,000 (for 41,000 shares applied for upon which no allotment was made) was returned to applicants forthwith. The amounts due were received on due dates except with the final call on 100 shares. These shares were forfeited on 15th November and reissued to A on the 16th on payment of ₹ 9 per share.\nYou are required to give the necessary journal entries (without narratives).\n(b) A B Ltd manufactures auto parts. The costs incurred for processing 1,00,000 units of a component are as follows :\n|  | (₹ in lakhs) |\n| --- | --- |\n| Direct material | 5 |\n| Direct labour | 8 |\n| Variable factory overhead | 6 |\n| Fixed factory overhead | 5 |\nThe purchase price of the component is ₹ 22. The fixed overhead would continue to be incurred even if the component is bought from outside although there would be a reduction of ₹ 2,00,000.\nRequired :\n(i) Should the part be made or bought when the present facility released remains idle in the event of purchase ? and\n(ii) If the released capacity can be rented out to another company for ₹ 1,50,000, what would be the decision ?\n(c) Define perquisite. How are rent free accommodation and medical facility valued under income tax rules ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130,
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 39
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce1_q3",
+      "type": "fill-blank",
+      "question": "(a) Y has two houses in Chennai. He has self-occupied both the houses. The particulars of the houses are as follows :\n|  | House (I) ₹ | House (II) ₹ |\n| --- | --- | --- |\n| Municipal value per year | 1,20,000 | 1,15,000 |\n| Fair rent per annum | 1,50,000 | 1,75,000 |\n| Standard rent per year | 1,00,000 | 1,65,000 |\n| Date of completion of construction | 31.3.2009 | 31.3.2009 |\n| Municipal taxes payable during the year | 12% | 8% |\n| Interest on amount borrowed for repair of both the houses during the current year | Nil | 55,000 |\nY has paid the municipal taxes for House II only. It is due for House I. Compute the house property income of Y for the assessment year.\nAdvice :\n(i) Which house should be opted by Y to be assessed as self-occupied ? and\n(ii) State the reasons for it.\n(b) What do you mean by P/V ratio ? How is it computed ? What are its uses in BEP analysis ?\n(c) What is meant by normal wastage and abnormal wastage ? State how are they treated in process costing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          18
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 39
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce1_q4",
+      "type": "fill-blank",
+      "question": "(a) The following information relates to Cloud Ltd as on 31.03.20X1 :\n|  | ₹ |\n| --- | --- |\n| 2000 Equity shares of ₹ 100 each | 2,00,000 |\n| 1000 6% Debentures of ₹ 100 each | 1,00,000 |\n| Interest on Debenture outstanding | 12,000 |\n| Trade Creditors | 50,000 |\n| Fixed Assets | 2,00,000 |\n| Current Assets | 65,000 |\n| Fixed Assets revalued at | 1,06,000 |\n| Current Assets revalued at | 48,000 |\nThe following scheme was duly agreed and approved by the court :\n(i) The shares were sub-divided into shares of ₹ 5 each and 90 per cent of the shares were surrendered.\n(ii) The total claims of debenture holders were reduced to ₹ 59,000 and in consideration of this, they were also allotted shares (out of surrendered shares) amounting to ₹ 20,000.\n(iii) The creditors agreed to reduce their claims to ₹ 30,000, 1/3 of which was satisfied by issue of equity shares out of those surrendered.\n(iv) The shares surrendered but not re-issued were cancelled.\nYou are required to draft the necessary journal entries for the reconstruction.\n(b) Briefly discuss the important methods of measuring divisional performance.\n(c) What is divisible profit ? How could an auditor ensure that the dividend is not paid out of capital ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Explain Gordon's share valuation model and state in which case dividend policy is irrelevant under this model.\n(b) Discuss the Decision-Tree approach for evaluating risky investments.\n(c) Out of cost of equity and cost of debt, which one is lower and why ?\n(d) Briefly explain the components of Indian financial system.\n(e) Enumerate the methods of issue of securities in the primary market.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": [
+          130,
+          132,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 42
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce1_q6",
+      "type": "fill-blank",
+      "question": "(a) The expected cash flows of a project are as follows :\n| Year | Cash flows (₹) |\n| --- | --- |\n| 0 | (-) 1,00,000 |\n| 1 | 40,000 |\n| 2 | 50,000 |\n| 3 | 40,000 |\nThe cost of capital is 10 per cent.\nCalculate :\n(i) Payback period\n(ii) Net present value\n(iii) Discounted payback period\n(iv) Profitability Index\n(b) Explain how with managerial intervention cash balance is maintained within limits using Miller and Orr model.\n(c) Define and compare the following ratios :\n(i) Return on Assets (ROA)\n(ii) Return on Capital Employed (ROCE)\n(iii) Return on Equity (ROE)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 54,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce1_q7",
+      "type": "fill-blank",
+      "question": "(a) Calculate degree of\n(i) operating leverage\n(ii) financial leverage\n(iii) combined leverage\nfrom the following data under situations I and II and financial plans A and B.\n|  | ₹ |\n| --- | --- |\n| Sales | 90,000 |\n| Variable cost | 45,000 |\n| Fixed operating costs : |  |\n| Situation I | 15,000 |\n| Situation II | 20,000 |\n| Fixed financial costs : |  |\n| Plan A | 20,000 |\n| Plan B | 10,000 |\n(b) X Ltd is contemplating taking over Y Ltd by issue of shares based on market price of shares. The following data are available :\n(₹ '00000)\n|  | X Ltd | Y Ltd |\n| --- | --- | --- |\n| PAT | 40 | 20 |\n| No. of equity shares (in lakhs) | 5 | 4 |\n| P/E ratio | 10 | 8 |\nFind :\n(i) Market price of shares of X Ltd and Y Ltd\n(ii) Number of shares to be issued by X Ltd for taking over Y Ltd\n(iii) Number of equity shares of X Ltd after merger.\n(c) What are the powers vested with the SEBI to protect the interests of investors in the stock market ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 289,
+        "subtags": [
+          25,
+          21
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 289
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 54
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 42
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_commerce1_q8",
+      "type": "fill-blank",
+      "question": "(a) Zenith Corporation provides 30 days credit to its customers. Its present level of sales is ₹ 50 lakhs. The firm's cost of capital is 10 per cent and the ratio of variable costs to sales is 0·85.\nZenith is considering extension of credit period to 60 days. Such an extension is likely to push sales up by ₹ 5 lakhs. The bad debt proportion to sales would rise from 1 per cent to 2 per cent.\nEvaluate impact of extension of credit period on profits. Ignore tax and assume 360 days a year.\n(b) Explain NOI (Net Operating Income) model of capital structure.\nA firm's cost of equity at zero leverage is 15 per cent. What would be its overall cost of capital at 40 per cent leverage under NOI model ?\n(c) What do you mean by credit rating ? State the credit rating methodology followed by CARE (Credit Analysis and Research)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 287,
+        "subtags": [
+          131
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 287
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 288
+        }
+      ]
+    }
+  ]
+}

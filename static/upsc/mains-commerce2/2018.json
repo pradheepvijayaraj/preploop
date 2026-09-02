@@ -1,0 +1,363 @@
+{
+  "metadata": {
+    "name": "Mains Commerce Paper 2 · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "COMMERCE2",
+    "section": "mains-commerce2",
+    "sourceId": "upsc_2018_mains_commerce2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_commerce2_q1",
+      "type": "fill-blank",
+      "question": "Explain the following in about 150 words each :\n(a) Benchmarking\n(b) Organisational Re-engineering\n(c) Halo Effect\n(d) Adaptive Coping Cycle\n(e) Red-tapism",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce2_q2",
+      "type": "fill-blank",
+      "question": "(a) How does a learning organisation differ from a traditional organisation ? What impact do these differences have on the way people are managed ?\n(b) \"The political power game is very real in modern organisations.\" Comment on this statement. Also examine its postulates of power in organisations that help focus on the political realities.\n(c) What is meant by impression management ? Also distinguish between impression motivation and impression construction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"There are a number of misconceptions that people have about the glass ceiling.\" What are some of these ? Also, what can organisations do to help break the glass ceiling ?\n(b) What are the major contributions of Herzberg's theory of motivation ? Do you think it makes a contribution to the better understanding of motivation in the workplace ? Comment and give arguments in support of your answer.\n(c) What is the nature of 'selfs' in the Johari Window ? What implications does each have for interpersonal conflict ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The overriding purpose of Quality of Work Life (QWL) is to change the climate at work so that the human - technological - organisational interface leads to a better quality of work life.\" Examine this statement. How do gaps create problems for this interface ?\n(b) What are some styles of charismatic leadership ? Critically examine the Robert House theory of charismatic leadership in the context of Indian scenario.\n(c) Examine the attributes of virtual organisation. Also assess their implications in the Indian corporate sector.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 291,
+        "subtags": [
+          133
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 291
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce2_q5",
+      "type": "fill-blank",
+      "question": "Explain the following in about 150 words each :\n(a) OCTAPAC Culture\n(b) Repertory Grid\n(c) Golden Handshake\n(d) Standing Orders\n(e) Dissolution of Trade Union",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 290,
+        "subtags": [
+          135,
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 293
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Merit-based promotion leads to dissatisfaction of all except one, hence the resulting effect is negative; seniority-based promotion has the distinctive advantage of satisfying all in due course of time.\" Critically evaluate this system. Also suggest a suitable promotion policy for Indian enterprises.\n(b) \"Demand forecasting of human resource is the process of estimating the future quantity and quality of people required.\" In the light of this statement, evaluate various techniques specially applicable to the service industry.\n(c) What is meant by attrition rate ? Why and how are Indian information technology and marketing companies facing this growing attrition rate ? Develop a suggestive framework to overcome these problems.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce2_q7",
+      "type": "fill-blank",
+      "question": "(a) How is performance management system different from performance appraisal system ? Also explain how customised performance appraisals can be used as a strategic tool for performance management system.\n(b) \"Collective bargaining is important to both employers and employees but there are certain snags.\" Do you agree with this statement ? Suggest measures to make the process more effective.\n(c) \"The basic aim of talent management is to develop and maintain a talent pool consisting of a skilled, engaged and committed workforce.\" Do you agree with this comment ? Assess its implications in the context of recent government initiatives for the development of talent management in the country.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 292,
+        "subtags": [
+          136
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 292
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 292
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_commerce2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"In India, workers' participation in management is a farce and an ineffective mechanism but it can be reinforced with suitable legal initiatives.\" Comment and offer your suggestions to make the legal framework more effective and viable.\n(b) Discuss the objectives and functions of International Labour Organisation (ILO). Also critically examine its pattern of structure and contribution in the field of Indian labour market.\n(c) \"It is often argued that reward systems should be adjusted in line with changing organisational strategic objectives - yet in the real world, this is not often the case.\" Comment on this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 293,
+        "subtags": [
+          133,
+          134
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 293
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 290
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 291
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2022_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answers with relevant legal provisions and judicial pronouncements :\n(a) \"The existence of mens rea along with commission of actus reus makes the act an offence.\" Explain.\n(b) What are the remedies available under the Law of Tort other than damages? Discuss by citing suitable illustrations.\n(c) Analyze the effectiveness of Sections 326-A and 326-B of the Indian Penal Code, 1860. What additional suggestions have been made by the Supreme Court of India in Laxmi vs. Union of India Case in 2015 ?\n(d) How far has Section 7-A of the Protection of Civil Rights Act, 1955 been effective to control untouchability in India?\n(e) The Right of Private Defence is based on the cardinal principle that it is the primary duty of man to help himself, but this right is not absolute. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 403,
+        "subtags": [
+          261,
+          246,
+          259,
+          263
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 403
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 417
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 421
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) The 'State Liability' under the Law of Tort has undergone metamorphosis. Explain with the help of case laws.\n(b) \"The provisions of Section 149 of the IPC, 1860 relate to the question of offence while Section 34 is a question of evidence.\" Give reasons for the statement.\n(c) How is the rule of 'absolute liability' different from 'strict liability'? Cite the relevant judgements.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 419,
+        "subtags": [
+          252,
+          262
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 419
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 410
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 420
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by an 'unlawful assembly'? Discuss the circumstances when a lawful assembly becomes unlawful. Support your answer with suitable illustrations.\n(b) \"The 'Right of Reputation' is acknowledged as an inherent personal right of every person.\" Discuss the statement in the light of Law of Defamation in India.\n(c) \"The consent of victim negates the offence of rape.\" How far will it be true in case it is obtained by the offender on the false promise of marriage?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 413,
+        "subtags": [
+          257,
+          254
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 415
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 412
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) Summarize the law relating to 'attempt to suicide' in India. How far the Mental Healthcare Act, 2017 added new dimensions to the law of attempt to suicide in India?\n(b) Outline the legal framework for the protection of online consumers provided under the Consumer Protection Act, 2019 and the Consumer Protection (E-Commerce) Rules, 2020.\n(c) \"Tortious liability arises from breach of duty primarily fixed by the law. This duty is towards persons generally and its breach is redressible by an action for unliquidated damages.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 405,
+        "subtags": [
+          266,
+          264
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 405
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 424
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 422
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answers with relevant legal provisions and judicial pronouncements :\n(a) \"All the contracts are agreements, but all the agreements are not contracts.\" Elucidate the statement.\n(b) Discuss the quasi-criminal nature of Section 138 of the Negotiable Instruments Act, 1881.\n(c) Discuss the implications of the High Level Committee (known as T. S. R. Subramanian Committee) Report, 2014 for review of environment-related laws in India.\n(d) Elaborate the conditions and warranties provided under the Sale of Goods Act, 1930.\n(e) \"The quotation from a work which has already been lawfully made available to the public does not constitute infringement of copyright.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 427,
+        "subtags": [
+          274,
+          30,
+          272,
+          59
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 427
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 432
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 71
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 430
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The liability of a surety is coextensive with principal debtor, unless it is otherwise provided by the contract.\" Elucidate the statement by narrating the circumstances under which a surety is discharged from his liability.\n(b) What do you mean by 'abuse of dominance' and 'abusive conduct' prohibited under the Competition Act, 2002?\n(c) Dwell on the concept of emergency arbitration in providing expeditious relief in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 421,
+        "subtags": [
+          279,
+          275
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 437
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 433
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) State the circumstances of supervening impossibility and frustration of contract in the light of the decided cases.\n(b) \"The Information Technology Act, 2000 aimed at e-commerce development, but failed to satisfy growth-building traders and consumer confidence.\" Comment.\n(c) \"An agreement without consideration is void.\" Is there any exception to it? Discuss by giving suitable illustrations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          278,
+          269
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 436
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 427
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) What are the essentials of an agency? How is an agency created and terminated under the Indian Contract Act, 1872?\n(b) \"Time is an essence of the contract.\" What are the remedies available to the aggrieved party in case of non-fulfilment of obligation within the stipulated time?\n(c) Discuss the ambit and scope of Section 3(d) of the Patent Act, 1970 in the context of the Novartis Case, 2013.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 429,
+        "subtags": [
+          269,
+          59
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 429
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 427
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 200
+        }
+      ]
+    }
+  ]
+}

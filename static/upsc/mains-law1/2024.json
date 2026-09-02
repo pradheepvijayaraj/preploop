@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2024_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Examine the appellate jurisdiction of the Supreme Court in appeals from High Courts in regard to criminal matters.\n(b) The Parliament or any State Legislature should keep within the domain assigned to it and not encroach upon the other's subject. Critically examine.\n(c) \"Every person who is a member of civil service of the Union holds office during the pleasure of the President.\" Is there any exception to this rule? Describe.\n(d) The Indian Constitution permits delegation but imposes specific restrictions to ensure alignment with the Parent Act and protect legislative intent. Examine with illustrations.\n(e) \"A law is void only to the extent of inconsistency or contravention with the relevant Fundamental Right.\" Explain with the help of decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 21,
+        "subtags": [
+          227,
+          215,
+          223,
+          212
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 381
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 370
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) The concept of Public Interest Litigation is an exception to the rule of 'locus standi'. Elaborate in the light of its evolution, aims and objects in India with the help of leading cases. Also discuss its drawbacks.\n(b) \"Constitutionalism is the concept of limited government under a Fundamental Law.\" In the light of this, differentiate between distinctive features of Constitution and Constitutionalism.\n(c) Discuss the relationship between the President and the Council of Ministers under the parliamentary form of government in India. Explain with the help of relevant constitutional provisions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 370,
+        "subtags": [
+          211,
+          215
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 369
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 373
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Article 194, which is an exact reproduction of Article 105, deals with the State Legislatures and their members and committees.\" On this background, comment that both the Articles are complementary to each other and should be read together.\n(b) Who are 'minorities'? The Constitution of India protects the rights and interests of minorities to the extent that the rights conferred to them to establish and administer educational institutions of their choice are not absolute and are subject to reasonable restrictions. Discuss with the help of decided case laws.\n(c) Discuss the procedure of amending the Constitution. Are there any restrictions also in this regard? Support your answer with the help of relevant Supreme Court judgments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": [
+          211,
+          55
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 369
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 156
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) In recent years, the concept of 'Cooperative Federalism' has played a pivotal role in constitutional governance of the nation but at the same time it comes across various challenges as well. Elaborate.\n(b) \"The Fundamental Rights are not an end in themselves but are the means to an end. The end is specified in the Directive Principles.\" Analyze the statement.\n(c) \"The ordinance making power of the President and the Governors is a unique feature of the Indian Constitution but it balances on a razor-sharp edge between pragmatic governance and potential over-reach.\" Critically examine with the help of decided case laws.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": [
+          213,
+          216
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 371
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 374
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Define International Law. Enumerate its weaknesses and give suggestions for improvement.\n(b) What is State recognition? Draw a distinction between recognition de jure and de facto.\n(c) Examine the importance of nationality and discuss the modes of acquisition of nationality.\n(d) Distinguish between the concept of territorial sea and inland water. Comment on the breadth of territorial sea that is internationally accepted.\n(e) Examine the importance of 'the Economic and Social Council' as a principal organ of the United Nations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          227,
+          230,
+          232,
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 388
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 390
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) Peaceful settlement of international disputes has been developed on the principles of International Law concerning friendly relations and cooperations among States. Explain.\n(b) The present world 'Economic Order' is supposed to be granted by the operation of free market forces propelled by free competition and enterprises, based on free movement of goods and services including technology. Elucidate.\n(c) International Law and Municipal Law are two branches of unified knowledge of law, which are applicable to human community in someway or the other. Elaborate with the help of prevalent theories.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 395,
+        "subtags": [
+          238,
+          226
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 395
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 396
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 384
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) Following 'World War II' destruction, the World Bank and the International Monetary Fund emerged as two historic institutions to promote economic recovery and to build a global monetary system to ensure economic stability around the world. Discuss at length.\n(b) Discuss the law on extradition. The procedure for granting asylum and approving extradition requests differ significantly. Explain.\n(c) What is intervention? Discuss the intervention on humanitarian grounds and the intervention due to self-defence.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 401,
+        "subtags": [
+          233,
+          238
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 401
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 391
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 396
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the constitution of United Nations Security Council's 'Counter-Terrorism Committee'. To what extent has this Committee been effective in countering terrorism across international borders? Critically analyze.\n(b) What do you understand by nuclear disarmament? Do you agree with the opinion that Comprehensive Nuclear-Test-Ban Treaty (CTBT) has been successful in achieving its objects? Critically examine.\n(c) What is statelessness? A stateless person is often subjected to a number of human rights violation. What are the impediments that people face due to statelessness? Elaborate the human rights issues that are connected to statelessness.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 399,
+        "subtags": [
+          240,
+          231
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 399
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 398
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 389
+        }
+      ]
+    }
+  ]
+}

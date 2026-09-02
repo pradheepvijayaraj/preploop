@@ -1,0 +1,379 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper 1 · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2015_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each (10 marks each):\n(a) Archaeological Anthropology.\n(b) Society and Culture.\n(c) Incest Taboos.\n(d) Horticulture.\n(e) Historical Particularism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 237,
+        "subtags": [
+          86,
+          88,
+          90,
+          93
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 237
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [
+            89
+          ],
+          "mainTag": 245
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 247
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Elucidate the biological and cultural factors in Human Evolution.\n(b) How did Morgan explain the evolution of marriage, family and Socio-Political organization, and how did other evolutionists disagree with his explanation?\n(c) How do diffusionism and evolutionism differ as explanations of Culture Change?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 245,
+        "subtags": [
+          31,
+          86
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 245
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Define family and critically examine the universality of family.\n(b) How do you relate the concepts of 'Sacred' and 'Profane' in Durkheim's theory of religion with a focus on the role of totem ?\n(c) Explain the basic features of 'Postmodernism' in Anthropology.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 250,
+        "subtags": [
+          46,
+          92
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 140
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 249
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the Formalists' and Substantivists' views on the applicability of economic laws in the study of primitive societies. (b) Explain the difference between emic and etic, and how does the difference derive from the study of language? (c) What made Geertz's Interpretive Anthropology distinct from Turner's Symbolic Anthropology? What does each of them mean by the terms 'Symbol' and 'Symbolic'?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 244,
+        "subtags": [
+          94,
+          93
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 251
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :-\n(a) Palaeolithic culture.\n(b) Down's Syndrome.\n(c) Longitudinal method of studying growth.\n(d) Menopause and its impact.\n(e) DNA technology in Medicine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          99,
+          103,
+          104,
+          84
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 256
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 260
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 261
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 241
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Describe the salient characteristics and geographical distribution of Homo erectus.\n(b) Critically examine Darwin's theory of evolution in understanding evolution.\n(c) Discuss chromosomal aberrations in man illustrating with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 240,
+        "subtags": [
+          31,
+          99
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 240
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 256
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) What is an anthropometric somatotype ? Describe Heath and Carter's method of somatotyping.\n(b) Critically examine the physiological responses and acclimatization to cold climate in Man.\n(c) Elucidate the role of Anthropology in selection and monitoring of sports persons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 260,
+        "subtags": [
+          101,
+          106
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 260
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 258
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 263
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Forensic Science can help in criminal investigations. Discuss.\n(b) Define genetic polymorphism. Give details of its types with suitable examples.\n(c) What do you understand by Immunogenetics ? Explain with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 263,
+        "subtags": [
+          98,
+          96
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 263
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 255
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 253
+        }
+      ]
+    }
+  ]
+}

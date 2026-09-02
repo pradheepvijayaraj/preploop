@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2023_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each: (10 marks each, 150 words each)\n(a) \"Precepts without concepts are blind and concepts without precepts are empty.\" In the light of this statement discuss how Kant reconciles rationalism with empiricism.\n(b) \"History is a process of dialectical change.\" In the light of this statement discuss Hegel's approach in understanding history.\n(c) \"That thing is said to be free which exists solely from the necessity of its own nature, and is determined to action by itself alone.\" Discuss Spinoza's views on freedom and determinism in the light of the above statement.\n(d) How does Kierkegaard argue against Hegel's idea of universal spirit in favour of the individual as the essence of spirit ? Critically discuss.\n(e) What are the main arguments offered by Kant to prove that apriori synthetic judgements are possible ? Discuss with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 479,
+        "subtags": [
+          322,
+          319
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 479
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 479
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically analyse Hume's argument that causality is a matter of habit/custom involving psychological principle of association.\n(b) Present an exposition of Aristotle's distinction between actuality and potentiality. Does it provide a solution to the problem of being and becoming as presented in ancient Greek philosophy? Discuss with suitable examples.\n(c) Discuss Descartes' theory of innate ideas and the grounds on which Locke refutes it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          318,
+          319
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) Does the rejection of metaphysics as proposed by Logical Positivists relate to problem of meaning or problem of knowledge or nature of things or all of them together? Discuss with suitable examples.\n(b) Elucidate the significance of bracketing and reduction in Husserl's phenomenological method.\n(c) \"Consciousness is what it is not and is not what it is.\" In the light of this statement bring out the chief features of Sartre's conception of consciousness.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 482,
+        "subtags": [
+          326,
+          327
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) Why does Strawson consider person to be a primitive concept? What implication does it have for the mind-body dualism? Discuss.\n(b) Why according to Russell is the proposition – \"The present king of France is bald\" problematic? Critically discuss.\n(c) What were the main reasons that led Wittgenstein to shift from picture-theory of meaning to use-theory of meaning? Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 487,
+        "subtags": [
+          323,
+          325
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 487
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 483
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each :\n(a) \"All human knowledge is empirical and therefore relative.\" Critically examine Jaina theory of sevenfold judgement (saptabhanginaya) in the light of above statement.\n(b) \"If Puruşa and Prakrti are two completely independent realities, then no relation between the two is possible.\" In the light of this statement make a brief presentation of Śankara's criticism of Sāmkhya dualism.\n(c) What is Advaitin interpretation of the great sentence (mahāvākya) 'Thou art that' (tat tvam asi) ? Briefly discuss.\n(d) Present an account of Vaiśeṣika's view of negation in the light of their statement – \"Negation always has a counterpositive and absolute negation is an impossibility.\"\n(e) Explain the nature and role of Supermind in evolution as per Aurobindo's philosophy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 489,
+        "subtags": [
+          334,
+          333,
+          324,
+          338
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 496
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss Rāmānuja's criticism of Śaṅkara's conception of Brahman and Īśvara (God).\n(b) Present Bhatta's view of anupalabdhi (non-cognition) as a valid means of knowledge.\n(c) Elucidate Naiyāyikas view of ordinary and extraordinary perception. Are they justified in accepting that universals are perceived? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 495,
+        "subtags": [
+          336,
+          333
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) Elucidate Naiyāyikas account of fallacies of the middle term in relation to five characteristics of valid middle term.\n(b) Liberation is defined by Advaita Vedāntins as 'attainment of that which is already attained'. How does Śaṅkara illustrate this statement? Discuss with your own comments.\n(c) Explain Chitta and its modifications in the philosophy of Yoga. Why does Yoga philosophy prescribe cessation of modifications of Chitta? Give reasons in support of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          337,
+          335
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 493
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Ignorance of dependent origination is suffering while its knowledge is cessation of suffering.\" Present an account of Buddhist soteriology in the light of above statement.\n(b) Write a note on Nyāya notion of Prāgabhāva (prior non-existence). How does this notion help Naiyāyikas in defending their position on causation against the Sāmkhya view of causation? Critically discuss.\n(c) Do words refer to universals or particulars or both? Present an exposition of Nyāya and Mīmāṁsā position with regard to above question along with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          332
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    }
+  ]
+}

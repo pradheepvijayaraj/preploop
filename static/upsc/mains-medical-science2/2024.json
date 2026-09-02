@@ -1,0 +1,504 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2024_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) Discuss in short the role of a Chest X-ray in the diagnosis of pulmonary tuberculosis.\n(b) Describe the clinical features for diagnosing a case of Depression.\n(c) What are the key differences between Kwashiorkor and Marasmus ? Which is the easiest method which can help in the early detection of Protein Energy Malnutrition (PEM) in children ?\n(d) During the initial phase of stabilization in a severe acute malnourished child, map out the dietary plan. State the type, amount and frequency of feed that the child requires and for how long that would be necessary. In this phase, what is the vitamin and mineral supplementation given ?\n(e) In a confirmed case of scabies in an adult :\n(i) What are the primary manifestations of the disease and what is the pattern of distribution of lesions on the body ?\n(ii) What are the complications seen in scabies ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 472,
+        "subtags": [
+          309,
+          306,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 472
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 472
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Discuss in short about the different modalities used in the diagnosis of Extra-Pulmonary Tuberculosis.\n(ii) Describe the clinical features of malabsorption syndrome.\n(b)\n(i) Write in brief the ten steps of Baby-friendly Hospital Initiative (revised 2018).\n(ii) Write the advantages of breast-feeding.\n(c) A young adult female develops asymptomatic depigmented chalky white macules and patches with no sign of inflammation over face and around body orifices.\n(i) What is the diagnosis ?\n(ii) What are the associated findings seen in this disorder ?\n(iii) How is this disorder classified ?\n(iv) Describe the clinical course of the disease.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 472,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) Describe the clinical features, diagnosis and treatment of Kala-azar.\n(b) What are the types of vaccines currently in use against Pneumococcus organisms ? State the National Immunization Schedule for administering Pneumococcal Vaccine in infants. Enumerate the diseases that the Pneumococcal Vaccine can safeguard against.\n(c) A young female patient develops acute inflammatory papules and vesicles all over her scalp and tips of ears following repeated use of hair dye.\n(i) What is the diagnosis ?\n(ii) How can the diagnosis be confirmed ?\n(iii) How will this condition be treated ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 466
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A sixty-year-old male develops central chest pain while walking uphill. The pain is squeezing in character, radiating to left arm, that relieves on taking rest.\nDiscuss in short about the evaluation and treatment of this case.\n(b)\n(i) Enumerate the causes of respiratory distress in a newborn. How would you differentiate between respiratory distress of respiratory origin and that of cardiac origin ?\n(ii) Write the complications of cyanotic congenital heart diseases.\n(iii) How will you manage a one-year five-month old child presenting with severe respiratory distress with a history of cough and fever for 5 days ?\n(c)\n(i) What is the meaning of the term 'lichenoid' ?\n(ii) Name the disease that is a prototype of lichenoid reaction.\n(iii) Describe the clinical features of the disease.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 4.0
+            },
+            {
+              "label": "iii",
+              "marks": 8.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Enlist conditions having an increased risk of malignant disease in bone and cartilage.\n(ii) Briefly mention classification of bone tumours.\n(b) A 55-year-old male patient underwent subtotal gastrectomy for carcinoma stomach. Briefly describe early and late complications of this procedure.\n(c)\n(i) A 25-year-old infertile woman presents with menorrhagia. USG (Ultrasound) pelvis revealed multi-fibroid uterus, largest measuring 3 × 3 cm. Describe the evaluation and management of Fibroid Uterus in the above patient.\n(ii) Describe recent classification of Abnormal Uterine Bleeding (AUB). Briefly discuss the endometrial pattern in various types of Abnormal Uterine Bleeding.\n(d)\n(i) A young newly married couple wants advice on contraception. Describe the various methods of contraception which are suitable for them.\n(ii) Enlist the various methods of female sterilization and complications of tubectomy.\n(e)\n(i) Describe the 'yellow' category of biomedical waste in terms of — types of waste, types of bags or containers to be used, and treatment and disposal options.\n(ii) Comment upon 'incineration' as a method of biomedical waste management.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          311,
+          312,
+          317
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 470,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 475,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a)\n(i) A 22-year-old Unbooked Primigravida at 38 weeks of gestation presents to Emergency with labour pains. How would you evaluate the patient for obstetric triaging and further management of labour ?\n(ii) Discuss the clinical features, diagnosis and management of Rupture Uterus following obstructed labour.\n(b)\n(i) Write the clinical features and diagnostic work-up in a case of carcinoma rectum.\n(ii) Briefly mention Dukes' staging for this condition.\n(iii) Enumerate surgical options for this disease.\n(c) In the context of HIV/AIDS control and the National AIDS Control Programme in India, comment upon the following :\n(i) 95-95-95 targets\n(ii) Categorization of districts\n(iii) TB-HIV coordination to reduce mortality",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          309,
+          315
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) A 50-year-old male presented with a 3 cm nodule in the left lobe of thyroid gland with a hard left cervical lymph node. Fine Needle Aspiration Cytology (FNAC) from the thyroid nodule revealed orphan Annie-eyed nuclei.\n(i) What is the diagnosis in this case ? How can this condition be managed surgically ?\n(ii) Enumerate different prognostic scoring systems for this condition.\n(iii) What are the post-operative complications of total thyroidectomy ?\n(b)\n(i) List the various sources of health information.\n(ii) Describe the limitations of hospital records as a source of health information.\n(iii) Write in brief the use of pictograms for presenting health information data.\n(c)\n(i) What are the signs and symptoms of Pelvic Inflammatory Disease (PID) ?\n(ii) What are the complications of PID ?\n(iii) How do you manage a 28-year-old woman, P1L1 with unilateral Tubo-ovarian abscess ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          316,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 474,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a)\n(i) What are the different types of epidemiological studies ?\n(ii) What are the possible sources of control in case-control studies ?\n(iii) List the advantages of case-control studies as compared to cohort studies.\n(b) Define Antenatal Care. What are its objectives ? What is the schedule of antenatal clinic visits that a mother is expected to follow during the course of her pregnancy ? What are the advantages and disadvantages of 'domiciliary midwifery service' ?\n(c)\n(i) Enumerate the causes of hematuria in a 60-year-old male.\n(ii) Briefly describe the management of carcinoma prostate in a 60-year-old male.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 471,
+        "subtags": [
+          310,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 471,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

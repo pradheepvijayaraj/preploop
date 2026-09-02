@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "name": "Mains History Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2021_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer Booklet. Locational hints for each of the places marked on the map are given below seriatim : 50\n\n![Map supplied with UPSC HISTORY1 2021](/upsc/assets/history1/history1_2021_q1_map.jpg)\n(i) Paleolithic site\n(ii) Mesolithic site\n(iii) Neolithic site\n(iv) Neolithic-Chalcolithic site\n(v) Harappan site\n(vi) Proto-historic and historic site\n(vii) Inscriptional site\n(viii) Jain monastic site\n(ix) Coin hoard\n(x) Paleolithic site\n(xi) Terracotta site\n(xii) Rock-cut caves\n(xiii) Ancient learning centre\n(xiv) Political and cultural centre\n(xv) Buddhist site\n(xvi) Ancient port\n(xvii) Early historic site\n(xviii) Ivory hoard\n(xix) Buddhist monastic centre\n(xx) Temple complex",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 328,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "i",
+          "marks": 2.5
+        },
+        {
+          "label": "ii",
+          "marks": 2.5
+        },
+        {
+          "label": "iii",
+          "marks": 2.5
+        },
+        {
+          "label": "iv",
+          "marks": 2.5
+        },
+        {
+          "label": "v",
+          "marks": 2.5
+        },
+        {
+          "label": "vi",
+          "marks": 2.5
+        },
+        {
+          "label": "vii",
+          "marks": 2.5
+        },
+        {
+          "label": "viii",
+          "marks": 2.5
+        },
+        {
+          "label": "ix",
+          "marks": 2.5
+        },
+        {
+          "label": "x",
+          "marks": 2.5
+        },
+        {
+          "label": "xi",
+          "marks": 2.5
+        },
+        {
+          "label": "xii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiv",
+          "marks": 2.5
+        },
+        {
+          "label": "xv",
+          "marks": 2.5
+        },
+        {
+          "label": "xvi",
+          "marks": 2.5
+        },
+        {
+          "label": "xvii",
+          "marks": 2.5
+        },
+        {
+          "label": "xviii",
+          "marks": 2.5
+        },
+        {
+          "label": "xix",
+          "marks": 2.5
+        },
+        {
+          "label": "xx",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that ecological factors influenced the flow and ebb of the Harappan Civilization? Comment.\n(b) Do you consider that the Upanishadic principles embody the high point of Vedic religious thought? Comment.\n(c) Analyze the significance of external influences and indigenous development on post-Mauryan art.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 327,
+        "subtags": [
+          172,
+          175
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 327
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 329
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 332
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history1_q3",
+      "type": "fill-blank",
+      "question": "(a) Will it be proper to consider the megaliths to represent a single, homogeneous or contemporaneous culture? What kind of material life and cultural system is revealed in the megalithic cultures?\n(b) How would you characterize the nature of Mauryan state on the basis of Kautilya’s Arthashastra?\n(c) How did the Varnashrama Dharma manifest the increasing social complexities in the Gupta and post-Gupta period arising from social and economic developments?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 331,
+        "subtags": [
+          171,
+          177
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 328
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 331
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 334
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history1_q4",
+      "type": "fill-blank",
+      "question": "(a) “The political and economic needs of rulers, combined with economic and status needs of the merchant class, together provided the receptive cultural milieu in which Buddhism flourished.” Comment.\n(b) Large number of land grants in hitherto non-arable tracts invariably meant expansion of agriculture in early medieval India. How did the management of hydraulic resources (different types of irrigation works) facilitate expansion of agriculture in this period?\n(c) Discuss the relationship between emergence of literature in vernacular languages and formation of regional identities in early medieval India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 336,
+        "subtags": [
+          173
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 330
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the different stages of Indian feudalism and analyze its impact on Indian political system.\n(b) Do you consider Sultan Iltutmish to be the real founder of the Delhi Sultanate? Discuss.\n(c) Identify the different categories of Persian literature which emerged during the Delhi Sultanate.\n(d) Examine the causes of Babur’s success against Ibrahim Lodi in the First Battle of Panipat.\n(e) Discuss the attitude of Chishti saints towards the state. How were the Suhrawardi saints different in their attitude towards the government?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 338,
+        "subtags": [
+          179,
+          191,
+          186
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 338
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 338
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 348
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 343
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the transformation of Sikh community from a Nirguna Bhakti sect into a politico-military organization.\n(b) Give your assessment of Bahlul Lodi’s relation with his nobility.\n(c) Examine the basic features of Mughal tomb architecture with special reference to the Taj Mahal.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 347,
+        "subtags": [
+          182,
+          179
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 339
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 347
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the importance of Iqta system. How did it help in centralization of administration of the Delhi Sultanate?\n(b) Why is the reign of the Khaljis known as the ‘Khalji Revolution’?\n(c) The late seventeenth century Mughal India is considered to be a period of Jagirdari crisis. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 345,
+        "subtags": [
+          181,
+          182
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 338
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 339
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 345
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history1_q8",
+      "type": "fill-blank",
+      "question": "(a) “The Chola rulers were not only mighty conquerors, efficient administrators but also builders of fine temples.” Comment.\n(b) Discuss with relevant illustrations the relations between Akbar and the Rajput states.\n(c) How far is it justified to consider the states like Bengal, Awadh and Hyderabad as ‘successor states’ of the Mughal state?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 343,
+        "subtags": [
+          179,
+          187
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 344
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 343
+        }
+      ]
+    }
+  ]
+}

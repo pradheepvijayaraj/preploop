@@ -1,0 +1,396 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2020_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain how equilibrium rate of interest and income are determined with the interaction of both product and money market.\n(b) Distinguish between post-Keynesian approaches to horizontalist and structuralist theory of endogenous money supply.\n(c) Explain how renewable resources will play a role in future economics.\n(d) Mention the classification of assets held by a commercial bank. Discuss the problems faced by commercial bank due to rise in NPAs.\n(e) Explain Myrdal's cumulative causation theory as the theory for development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          139,
+          142,
+          20,
+          14
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 41
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) What is conjectural variation? Show how some models of oligopoly are derived on the basis of it.\n(b) Show that systematic monetary and fiscal policies are ineffective in controlling output and price level.\n(c)\n(i) What makes technical progress endogenous? Do you think that technology is a 'non-rival' good?\n(ii) Show that if the research becomes more successful, the growth rate will increase and hence the standard of living.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          16,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) Suppose that we have only two firms in the market with constant marginal costs of C_1 and C_2 respectively such that C_1 > C_2. What is the Bertrand equilibrium in this market? How is it different from the competitive equilibrium?\n(b) \"Even green energy is not always green.\" Do you agree? Illustrate your answer taking biofuels as an example.\n(c) You are given the data on the following variables in an economy :\nGovernment spending = 300\nPlanned investment = 200\nNet exports = 50\nAutonomous taxes = 250\nIncome-tax rate = 0.1\nMarginal propensity to consume = 0.5\n(i) Consumption (C) is 600, when income (Y) is equal to 1500. Solve for autonomous consumption.\n(ii) Solve for the equilibrium levels of output denoted (respectively by Y_w^* and Y_{wo}^) in the two scenarios—presence and absence of income tax in the economy.\n(iii) Solve for the change in net exports that would bring the equilibrium output level in the economy with the income tax to the level of Y_w^ that you found in (ii). Specify both the magnitude and sign of the change.\n[ Figures are in ₹ '000 crore, obviously except tax rate and MPC ]",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 295,
+        "subtags": [
+          16,
+          142
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) Many countries subsidize some of their export industries. Use a partial equilibrium model under perfect competition to illustrate the following effects of an export subsidy for a large country :\n(i) Welfare effects of an export subsidy\n(ii) Which group is winning and which is losing from the subsidy?\n(b) Briefly state the Kaldor's theory of distribution in determining the share of profit and the share of wages in national income. Explain the mechanism behind Kaldor's model.\n(c) Show how the idea of monopolistic competition becomes intrinsic to the endogenous growth theory as postulated by Romer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          23,
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 7.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) State Arrow's five reasonable conditions which a social welfare function must satisfy.\n(b) In the context of international trade theory, discuss in detail the various stages of the international product life cycle.\n(c) Discuss the issue of compatibility between international trade and environment sustainability.\n(d) In the context of a developing economy, do you think that fiscal policy is more effective than monetary policy? Give reasons in support of your answer.\n(e) Explain how public-private partnership helps in the rapid economic development of a country.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          137,
+          140,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 294
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 297
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) In an economy, the government is trying to boost the local economy by a massive advertisement 'buy local—local is best'.\n(i) Assuming that the public tend to be persuaded by the campaign, what effect might this have on the economy's multiplier?\n(ii) Critics argue that this is unfair and leads to distortions in free trade. Examine how the economy performs here under flexible exchange rate system.\n(b) What do you mean by Tobin's 'q' theory of investment? How would you modify the standard IS-LM functions in the presence of Tobin's 'q'?\n(c) Explain how Keynesian speculative demand for money is restated in regressive expectation model. Point out its limitations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 296,
+        "subtags": [
+          23,
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 8.0
+            },
+            {
+              "label": "ii",
+              "marks": 7.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe Lewis model of development in an economy with unlimited supply of labour. Is Lewis model really capital-driven? Give reasons.\n(b) Explain how trade blocks are important in the process of economic globalization. Illustrate your answer with suitable examples.\n(c) Two firms produce homogeneous outputs with cost functions C_1 = q_1^2, C_2 = 2q_2^2 and the inverse market demand function P = 100 - (q_1 + q_2). Show that at the Cournot-Nash equilibrium, firm 2 makes higher profit than at the joint profit maximizing equilibrium. Explain why this is so.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          14,
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the recent changes in the trade and investment flows among different countries in the world. Discuss the major factors that led to these changes.\n(b) In an economy with only two commodities, two consumers and two producers with single factor of production, derive the necessary conditions for Pareto optimality in a 'perfect' economy.\n(c) Discuss different forms of subsidies. Explain how perverse subsidies are detrimental to the economy and environment in the long run.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 299,
+        "subtags": [
+          23,
+          16
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 299
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2012",
+    "exam": "UPSC CSE",
+    "totalQuestions": 4,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2012,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2012_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 200,
+    "durationSeconds": 10800,
+    "examRegime": "essay-single-era"
+  },
+  "questions": [
+    {
+      "id": "upsc_2012_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "In the context of Gandhiji’s views on the matter, explore, on an evolutionary scale, the terms ‘Swadhinata’, ‘Swaraj’ and ‘Dharmarajya’. Critically comment on their contemporary relevance to Indian democracy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 521,
+        "subtags": [
+          461,
+          446
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Is the criticism that the ‘Public-Private-Partnership’ (PPP) model for development more of a bane than a boon in the Indian context justified?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Science and Mysticism: Are they compatible?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 608,
+        "subtags": [
+          469,
+          455
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2012_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Managing work and home - is the Indian working woman getting a fair deal?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 200,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 59,
+        "subtags": [
+          459
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 200
+        }
+      ]
+    }
+  ]
+}

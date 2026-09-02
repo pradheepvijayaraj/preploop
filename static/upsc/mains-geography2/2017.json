@@ -1,0 +1,404 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2017_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry :\n(i) Thumba\n(ii) Nayachar Island\n(iii) Doddabetta\n(iv) Devasthal\n(v) Pangong Lake\n(vi) Hampi\n(vii) Havelock Island\n(viii) Luni River\n(ix) Daringbadi\n(x) Dudhsagar Waterfalls\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Give a reasoned account of unusual pattern of distribution of monsoonal rainfall in India in 2017.\n(c) Explain the inter-State issues involved in implementation of the Satluj-Yamuna Link Canal project.\n(d) Small towns in India have problems and prospects of their own. Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 318,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 318,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 319
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the freshwater crisis in India and prepare a blueprint for its sustainable management.\n(b) Identify the Naxal-affected areas in India and discuss their socio-economic problems.\n(c) Critically examine the feasibility of development of a comprehensive network of airways in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          162,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"An effective three-tier Panchayat Raj System will strengthen the bottom-up approach to multilevel planning in India.\" Explain.\n(b) \"Linguistic diversity is an asset as well as a challenge in India.\" Explain the statement focussing on the distribution of languages and the major steps taken to address the related issues.\n(c) How may tourism in hilly areas of India be developed as an important source of economy?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          161
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Mention various methods of functional classification of towns in India and explain the method applied by Asok Mitra.\n(b) Farmers' suicide is one of the major agrarian problems in India. Bring out its causes and suggest the remedial measures with special reference to Maharashtra, Andhra Pradesh and Punjab.\n(c) Land reform is a key to modern agriculture in India. Describe various measures taken in this direction after Independence.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          156
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the role of 'Hill Transport Subsidy Scheme' in reducing regional imbalances in areas identified by the Government of India.\n(b) Bring out the geopolitical implications of Doklam dispute in the context of Indo-China relations.\n(c) Bring out the significance of Indian Regional Navigation Satellite System (IRNSS).\n(d) Mini steel plants can act as an instrument of decentralization of iron and steel industry in India. Explain.\n(e) Goods and Services Tax (GST) has differential impact on developed and backward States of the country. How and why?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          164,
+          157,
+          160
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 321
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 317
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Interlinking of rivers may serve as a major source of assured irrigation and all-weather inland navigation in India. Comment on its feasibility taking into account physical, economic and ecological implication.\n(b) Religious minorities are largely concentrated in border States of India. Discuss its causes and consequences.\n(c) What do you understand by soil pollution? Delineate the areas vulnerable to it in India and suggest remedial measures.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          161,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Integrated development of road and rail networks in a complementary framework is a prerequisite for regional development. Explain with reference to North-Eastern Region of India.\n(b) Describe the salient features of Sagar Mala Project and highlight its role in port-led development of coastal regions in India.\n(c) Justify the inclusion of Meghalaya in Peninsular India and discuss its vegetation and soil types.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          155
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) Name the major industrial regions of India indicating the bases of their identification. Highlight their basic problems.\n(b) Drainage pattern in Peninsular India is a result of its geological structure and topography. Elaborate.\n(c) Why has solar energy in India not been developed to desired level in spite of its high potential?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          155,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    }
+  ]
+}

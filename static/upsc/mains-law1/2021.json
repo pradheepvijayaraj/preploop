@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2021_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"The Fundamental Rights may be said to constitutionalise social values of existing society.\" Explain and illustrate.\n(b) \"Public Interest Litigation in India is judge-led and even to some extent judge-induced.\" Explain with the help of relevant case law.\n(c) \"Right to Education is the base for the Fundamental Rights and Human Rights.\" Discuss the efforts made by the Government with regard to Right to Education of the children.\n(d) Explain the relationship between the President and the Council of Ministers. Is the President bound to accept the advice of the Council of Ministers ? Discuss.\n(e) Delegation of 'Legislative Powers' has neither been permitted nor prohibited under the Indian Constitution. Discuss the constitutionality of delegated legislation with the help of decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 370,
+        "subtags": [
+          215,
+          223
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 381
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Pluralism is the keystone of Indian culture and religious tolerance is the bedrock of Indian Secularism. It is based on the belief that all religions are equally good and efficacious pathways to perfection of God-realisation. Thus, all persons are equally entitled to freedom of religion which is not absolute.\" Critically examine the above statement with the help of constitutional provisions and relevant case laws.\n(b) Discuss the procedure for the appointment of judges of the Supreme Court and High Courts and transfer of judges of the High Courts in the light of the decisions of the Supreme Court of India. Also refer to the constitutional provisions.\n(c) Discuss the purpose, function and use of Articles 256 and 257 of the Constitution of India. Should these provisions be restructured ? What are the consequences of State's defiance of the directives issued under these Articles by the Union ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 369,
+        "subtags": [
+          6,
+          213
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 369
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 371
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Free and fair election is the 'basic structure' of our Constitution and it is the 'heartbeat' of democracy.\" But widespread corruption and increasing criminalisation in the election process have made our democracy weak. Discuss the various efforts undertaken by the Election Commission to ensure free and fair election.\n(b) \"Article 356 of the Constitution contains provisions relating to the justification of imposition of 'President's Rule' in the State.\" Explain the consequences of proclamation of Emergency in a State.\n(c) Explain the various principles of natural justice with the help of relevant decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 378,
+        "subtags": [
+          221,
+          222
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 378
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 379
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 380
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The provisions of the Directive Principles of State Policy are not enforceable by any court, but they are fundamental in the governance of the country.\" Critically examine the role of the Government to fulfil the desired objectives enshrined in Part IV of the Constitution.\n(b) Examine the role of State Legal Services Authority in promoting legal literacy and right of women and children in the State.\n(c) What is meant by the 'Doctrine of Separation of Powers' ? Is strict adherence of the doctrine possible under a parliamentary form of government ? Discuss with the help of relevant case laws.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 371,
+        "subtags": [
+          212,
+          56
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 371
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 157
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the various efforts made towards the codification of International Law during the 20th century.\n(b) Explain different theories on the relationship between International law and Municipal law.\n(c) Explain the principle of 'Double Criminality' and the 'Rule of Speciality' under the international law of extradition.\n(d) Define 'Double Nationality' and 'Statelessness'. Evaluate the efforts taken to eliminate or reduce them.\n(e) What is 'Intervention' and on what grounds do the States justify intervention ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          226,
+          233,
+          230,
+          238
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 384
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 391
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 388
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 396
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) Distinguish whether 'Recognition of States' is an act of policy or of law. Also distinguish between Constitutive and Declaratory theories on the recognition of States.\n(b) What do you understand by 'State Succession' ? Discuss various theories of State succession and explain the rights and obligations arising out of State succession.\n(c) Explain the main features of Law of the Sea. What is the difference between the jurisdiction over 'Territorial Sea' and 'Exclusive Economic Zone' ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 385,
+        "subtags": [
+          228,
+          229
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 386
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 387
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the powers of the Security Council for the maintenance of world peace and security. Has the 'Veto Power' proved a hindrance in discharge of its duties by the Security Council ? Explain.\n(b) Discuss the United Nations Declaration on the establishment of a New International Economic Order along with the Charter of Economic Rights and Duties of States.\n(c) \"Humanity is in peril in the present world due to terrorism.\" Suggest the ways to protect it in the context of human rights.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 157,
+        "subtags": [
+          236,
+          231
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 157
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 389
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) Is it a legal duty of States under international law to settle their disputes by peaceful means ? Can failure of peaceful means entitle States to use force to settle their disputes ? Discuss.\n(b) Is the threat or the use of 'Nuclear Weapons' in any circumstances permitted under International law ? Answer the question in the light of the advisory opinion given by the International Court of Justice (ICJ).\n(c) Discuss the role of United Nations in protection and improvement of human environment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 395,
+        "subtags": [
+          240,
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 395
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 398
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    }
+  ]
+}

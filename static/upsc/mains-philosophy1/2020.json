@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2020_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each :\n(a) How does Aristotle argue for the priority of Form over Matter and Actuality over Potentiality? Critically discuss.\n(b) How does Leibniz's conception of monads bear upon his views on determinism and freedom? Discuss with your own comments.\n(c) What, according to Husserl, is wrong with psychologism? How does Husserl address the problems with psychologism in his phenomenological method?\n(d) Examine the reality of the phenomenal world in the light of Hegel's Absolute Idealism.\n(e) \"The Soul of Superman is Good.\" Critically examine the above statement in the light of logical positivism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          319,
+          326,
+          322,
+          324
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 482
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"I never can catch myself at any time without perception, and never can observe anything but the perception.\" How does this statement by Hume problematize the philosophical notion of personal identity? How does Kant deal with this problem in his Critique of Pure Reason?\n(b) Critically discuss the following statement by Moore:\n\"If anyone tells us that to say 'Blue exists' is the same thing as to say that 'Both blue and consciousness exist', he makes a mistake and a self-contradictory mistake.\"\n(c) \"The reason that I call my doctrine logical atomism is because the atoms that I wish to arrive at as the sort of last residue in analysis are logical atoms and not physical atoms.\"\nWrite a note on the nature of atomic facts according to Russell in the light of the above statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          327,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) What does Kierkegaard mean by saying \"Subjectivity is the truth\" in the context of the problem of 'the single individual'?\n(b) Evaluate the role of spatio-temporal thinking in objective thinking with reference to Strawson's theory of basic particulars.\n(c) When does Pure Reason enter into the realm of Antinomies according to Kant? Is Kant's notion of Antinomies of Pure Reason a natural culmination of his distinction between Phenomena and Noumena? Give reasons in favour of your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 485,
+        "subtags": [
+          329,
+          321
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 487
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 479
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"You can always make something out of what you have been made into.\" Critically discuss this statement by Sartre with reference to his views on existentialism.\n(b) \"From the necessity of the divine nature there must follow infinitely many things in infinitely many ways.\" Explain this statement by Spinoza along with some possible criticisms.\n(c) \"But could we also imagine a language in which a person could write down or give vocal expression to his inner experiences—his feelings, moods and the rest—for his private use?\" Critically discuss the answer offered by Wittgenstein to this question.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 485,
+        "subtags": [
+          319,
+          325
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 483
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each :\n(a) Examine the concept of Karma according to Jainism. How does it bear upon their conception of Liberation?\n(b) Explain the difference between Samprajñāta Samādhi and Asamprajñāta Samādhi.\n(c) Why is memory not a valid knowledge according to Mīmāṁsā?\n(d) Point out the significance of the five-fold differences in the Dualistic School of Vedānta.\n(e) Discuss the nature and types of matter according to Nimbārka.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 489,
+        "subtags": [
+          334,
+          336,
+          337,
+          333
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) How is Kṣaṇikavāda a logical derivative of Pratītyasamutpāda in Buddhism? Explain.\n(b) Critically evaluate Cārvākas' rejection of Ākāśa as one of the elements of reality and examine their criticism of transmigration of Soul.\n(c) Explain the concepts of 'Anyathāsiddha' and 'Ananyathāsiddha' in the context of Asatkāryavāda.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 490,
+        "subtags": [
+          330
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 488
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"A mango tree is grown out of a mango seed.\" How will Sāmkhya system explain this process through their theory of causation by rejecting their rival perspectives?\n(b) How does Buddhism explain Self in terms of Pañcaskandhas? What is Liberation for Buddhism if there is no Soul?\n(c) Explain the differences of conception of Reality between Cārvāka and Jainism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 492,
+        "subtags": [
+          332,
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) What does Aurobindo mean by 'life divine' as a possibility and inevitability?\n(b) Critically evaluate the logical and metaphysical status of Viśeṣa in the context of Vaiśeṣika Philosophy.\n(c) Discuss the nature and relationship of Jīva and Jīva-sākṣī according to non-dualism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 496,
+        "subtags": [
+          333,
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 496
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,517 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2018_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) (i) Enumerate the causes of acute hepatitis.\n(ii) What are the natural history and clinical manifestations of chronic hepatitis-C infection?\n(iii) What are the direct acting antiviral agents for hepatitis-C infection?\n(b) A 10-month-old infant with \"Tetralogy of Fallot\" is brought to the paediatric emergency ward with history of excessive crying and then becoming dyspneic, drowsy and bluish.\n(i) What is the likely diagnosis in this infant? Mention the basis for diagnosis.\n(ii) Describe the management of this condition.\n(c) (i) Describe the aetio-pathogenesis, clinical features and management of \"Bipolar Disorder\".\n(ii) Enumerate the side effects of commonly used anti-psychotic drugs.\n(d) A 16-month-old child attending Paediatrics OPD with past history of diarrhoea and respiratory infections was found to have loss of subcutaneous fat and weight of 5.5 kilograms.\n(i) Which physical examination findings would help you to arrive at diagnosis in this child?\n(ii) Describe the two phases of treatment for this condition.\n(e) (i) How does Classical scabies differ from \"Crusted\" scabies infection?\n(ii) How do you treat \"Crusted\" scabies infection in an institution?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          306,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) A middle-aged hypothyroid woman on irregular medication became drowsy two days ago following an episode of fever.\n(i) What could be the causes of drowsiness in this patient?\n(ii) How will you diagnose and manage the patient?\n(iii) State cardio-vascular manifestations in hypothyroidism.\n(b) A 10-month-old infant having watery nasal discharge for the last 2 days developed rapid breathing, chest retraction and decreased feeding over the last one day.\n(i) What is the likely diagnosis in this patient?\n(ii) Enumerate the microbiological agents for this condition.\n(iii) Discuss the investigations and management of this condition.\n(c) (i) Describe various theories which have been proposed to explain the pathogenesis of vitiligo.\n(ii) How do you assess the severity of vitiligo?\n(iii) Describe the lines of treatment of various grades of the disease.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          306,
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) A young male patient came to the medical emergency department with fever, headache and recurrent vomiting. He was also having some skin lesions on both lower limbs and abdomen. On clinical examination, he was drowsy and having neck rigidity.\n(i) What is his differential diagnosis?\n(ii) Discuss in brief the clinical manifestations, diagnosis and management of acute meningitis.\n(iii) What are the causes of recurrent meningitis?\n(b) A 32-week preterm neonate born by a Caesarian section is found to have a respiratory rate of 70/minute, grunting and cyanosis within half an hour of birth.\n(i) What is the most likely diagnosis in this neonate?\n(ii) Describe the management of this condition.\n(iii) Write about its important complications.\n(c) A young woman presented to the emergency department with a history of pesticide intake. She has massive frothing from the mouth and nose.\n(i) Which is the pesticide she is likely to have consumed?\n(ii) State what would be the clinical features and management in this patient.\n(iii) Define the \"Intermediate Syndrome\" which may occur in this setting and its management.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          308,
+          306
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A 13-month-old boy was brought by his mother with six episodes of loose stools and persistent vomiting to the emergency ward. He was found to be lethargic and his pulse rate was 160 per minute.\n(i) What are the danger signs you would ask for and look for in this child to assess the severity of his illness?\n(ii) If you find severe dehydration, how will you treat the child?\n(iii) If the child is fit to be discharged, yet has 2 - 3 episodes of loose stools, what advice would you give to the mother?\n(b) (i) What are the current guidelines regarding the classification of hypertension?\n(ii) Enumerate the causes of secondary hypertension.\n(iii) Enumerate the various anti-hypertensive drugs based on their mechanism of action.\n(c) A 70-year-old male, bed-ridden for the last 2 weeks following a fracture of the femoral neck, presented to the medical emergency department with sudden breathlessness and hypotension.\n(i) What is the likely diagnosis?\n(ii) How would you diagnose this patient?\n(iii) What would be the management for this patient?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) A 40-year-old lady presents in the OPD with complaint of right breast lump for the last one year which is progressively increasing in size.\n(i) How will you evaluate this patient?\n(ii) Briefly outline the treatment of \"early breast cancer\".\n(b) A 25-year-old young patient is presented to the emergency department with severe pain in abdomen for the last 3 hours. On clinical examination, the patient is oriented, but is dehydrated, having tachycardia with a blood pressure of 90/60 mm Hg.\n(i) Discuss the differential diagnosis of this patient.\n(ii) How will you investigate the case?\n(iii) Briefly outline the management of peptic ulcer perforation peritonitis.\n(c) (i) How do combined oral contraceptives (COC) work?\n(ii) How long can a woman stay on COC?\n(iii) What effect do the COC have on the menstrual cycle?\n(iv) What is meant by \"breakthrough bleeding\"? What are its common causes?\n(d) What are the possible reasons for \"unexplained\" infertility?\n(e) (i) Discuss in brief the epidemiological factors which have led to the spread of dengue in different parts of the country.\n(ii) Discuss in brief the guidelines laid down by the Directorate of National Vector Borne Diseases Control Programme for the prevention and control of dengue.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          312,
+          311,
+          315
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 470,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) Write notes on issues you would raise in counselling a woman about to be delivered at 28 weeks gestation after placental abruption.\n(b) A 40-year-old male patient is presented with hematuria off and on for the last 4 months.\n(i) Enumerate the causes of hematuria.\n(ii) How will you investigate the patient to reach the diagnosis?\n(iii) Discuss the treatment of renal stones.\n(c) (i) As per the National Family Health Survey-4, how grave is the situation in India with regard to Nutritional Anaemia. Give statistics substantiating your statement.\n(ii) Under the \"National Iron+ Initiative\", which are the specific groups being specially targeted?\n(iii) What specific interventions are being employed for different target groups under the National Iron+ Initiative?\n(iv) What are the mechanisms of service delivery being employed to implement the National Iron+ Initiative?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          306,
+          314
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe the aetio-pathogenesis, clinical features, investigations and management of varicose veins of lower limbs.\n(b) (i) Briefly state the basis which led to setting up of the programme \"Mission Indradhanush\". What are its targets and eventual goals?\n(ii) More recently, the government has launched \"Intensified Mission Indradhanush\". Discuss the thoughtline, specific focus, and operative strategy which govern its implementation.\n(c) A 45-year-old multiparous woman presents with a 2-year history of heavy, irregular periods and increasing tiredness. On clinical examination, she appears pale. The uterus is enlarged to 12 weeks in size. The cervix and adnexae are unremarkable. Describe, giving reasons, how you would manage the case.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          314,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 466
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) A high maternal mortality rate continues to be a major public health challenge before the country. Keeping that in context, answer the following questions:\n(i) How is \"Maternal Mortality Rate\" (MMR) defined? State the major causes of maternal mortality in the country.\n(ii) The recent data indicates a major decline in MMR in the country. Briefly state, with due reasons, the various governmental initiatives which have led to this favourable decline in maternal mortality rate in India.\n(iii) The government has grouped the different states in the country in a specific manner to obtain a greater understanding of the ground situation and to map the changes following its initiatives. Briefly outline this strategy, and its benefits.\n(b) (i) How does the pattern of rise in human chorionic gonadotropin (HCG) differ between a normal and abnormal pregnancy?\n(ii) How accurate are most home pregnancy tests?\n(iii) What are the most common causes of false positive and false negative pregnancy tests?\n(c) (i) Enumerate the indications and complications of colonoscopy.\n(ii) Outline the principle of primary survey in trauma.\n(iii) Enumerate the advantages and disadvantages of \"laparoscopic surgery\".",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          311,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

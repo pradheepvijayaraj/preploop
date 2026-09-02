@@ -1,0 +1,402 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2023_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "(a) On the outline map of India provided to you, mark the location of all of the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry :\n(i) Nathula\n(ii) Hutti\n(iii) Ross Island\n(iv) Moreh\n(v) Ramappa\n(vi) Namdapha National Park\n(vii) Sela Tunnel\n(viii) Ennore Port\n(ix) Ramagundam\n(x) Betwa River\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Describe the origin, distribution and economic significance of Gondwana system of rocks in India.\n(c) Examine the role of Indian Earth Observation Satellite Technology in enhancing weather forecasting and disaster management.\n(d) Discuss the impact of the National Green Tribunal Act, 2010 on forest conservation in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 323,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 323,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            },
+            {
+              "label": "vi",
+              "marks": 2.0
+            },
+            {
+              "label": "vii",
+              "marks": 2.0
+            },
+            {
+              "label": "viii",
+              "marks": 2.0
+            },
+            {
+              "label": "ix",
+              "marks": 2.0
+            },
+            {
+              "label": "x",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 16
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine the environmental challenges caused by the solid waste in metropolitan regions of India and discuss the efforts to overcome it.\n(b) Why are millets considered as 'nutri-cereals' and climate-resilient? Discuss the constraints and opportunities of millet cultivation in India.\n(c) Examine the geostrategic significance of Indian islands.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          156,
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Indian Pharma Industry has to move from 'volume' to 'value' leadership to capture global market. Discuss.\n(b) Discuss the problems of floods and their management with special reference to Indo-Gangetic Plain.\n(c) Critically examine the role of petroleum energy resources on International Geopolitics with special reference to India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          165,
+          4
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) With falling fertility rate and rising median age, how can India translate demographic dividend to economic dividend?\n(b) Poor quality of urban planning in India is a huge constraint in realizing the true economic potentials of urbanization. Critically examine.\n(c) Highlight the salient features of India's trade policy. Discuss the status of India's balance of trade with China.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          162,
+          160
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0
+        },
+        {
+          "label": "b",
+          "marks": 15.0
+        },
+        {
+          "label": "c",
+          "marks": 15.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Identify the jute-producing areas and discuss the major causes of decline of jute mill industry in India.\n(b) Urban built environment in big cities of India creates key changes in biophysical character of the landscape. Discuss.\n(c) Explain the geological characteristics and ecological significance of the Eastern Ghats.\n(d) Explain the cultural regions of India based on their cultural attributes.\n(e) Why are critical minerals essential for the economic development and national security in India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 314,
+        "subtags": [
+          165,
+          155,
+          161,
+          4
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 16
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) A large number of Indian cities have a complex morphological characteristics due to their historical evolution. Elucidate.\n(b) Discuss the significance of organic farming for sustainable agricultural development in India.\n(c) Examine the geopolitical impact of bilateral relationship between India and Sri Lanka.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 319,
+        "subtags": [
+          156,
+          164
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 319
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 321
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the green energy initiatives of India as a signatory nation to the Paris Agreement.\n(b) India's poultry sector has become one of the fastest growing areas of the country's agricultural sector. Examine its opportunities and challenges.\n(c) Critically examine the ecological and economic impact of Indira Gandhi Canal Command Area development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          156,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) Why India lags behind many other countries in agricultural productivity? Suggest suitable measures to raise productivity across the regions in a sustainable manner.\n(b) Assess the ecotourism potential of Andaman and Nicobar, Lakshadweep islands and highlight the challenges associated with the sustainable development of island territories.\n(c) Describe the regional variations of health indicators among the Indian States.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          165,
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    }
+  ]
+}

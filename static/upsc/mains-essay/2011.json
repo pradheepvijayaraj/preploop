@@ -1,0 +1,127 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2011",
+    "exam": "UPSC CSE",
+    "totalQuestions": 4,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2011,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2011_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 250,
+    "durationSeconds": 10800,
+    "examRegime": "essay-single-era"
+  },
+  "questions": [
+    {
+      "id": "upsc_2011_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "Creation of smaller states and the consequent administrative, economic and developmental implications.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 250,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Does Indian cinema shape our popular culture or merely reflect it?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 250,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          449,
+          468
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Credit-based higher education system — status, opportunities and challenges.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 250,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 62,
+        "subtags": [
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 250
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "In the Indian context, both human intelligence and technical intelligence are crucial in combating terrorism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 250,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 609,
+        "subtags": [
+          457
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 250
+        }
+      ]
+    }
+  ]
+}

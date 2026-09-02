@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2019_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each:\n(a) The relationship between Linguistics and Social-Cultural Anthropology\n(b) Cultural Relativism\n(c) Pastoralism in India\n(d) Cultural Materialism\n(e) Relative Dating Methods",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          81,
+          90,
+          85
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 238
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 247
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the evolutionary significance of bipedalism and erect posture.\n(b) How did Radcliffe-Brown and Levi-Strauss study kinship in terms of social structure?\n(c) Elucidate Mesolithic culture and associated rock art with examples from India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 76,
+        "subtags": [
+          89,
+          86
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss social stratification according to any three major approaches.\n(b) \"Europeans are closer to Neanderthals.\" Critically discuss in view of the African origin of humankind.\n(c) Discuss briefly the major traditions in the Upper Palaeolithic culture of Europe.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 244,
+        "subtags": [
+          83,
+          86
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 240
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) With reference to the somatoscopic and morphometric characteristics commonly used for racial classification, make critical comments as to whether 'Race' is a valid concept.\n(b) Critically explain the anthropological approaches to religion.\n(c) Differentiate between transient and balanced genetic polymorphism. Illustrate your answer with suitable examples from human populations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 257,
+        "subtags": [
+          93,
+          98
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 255
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Adaptive primate radiation\n(b) Implications of mutation in evolution\n(c) Olduvai Gorge\n(d) Anthropological inputs in facial reconstruction\n(e) Genetico-environmental factors affecting human growth",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 239,
+        "subtags": [
+          98,
+          85,
+          77,
+          103
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 239
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 255
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 234
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Examine critically the contributions of Victor Turner and Clifford Geertz in anthropology.\n(b) \"Human adaptations are always bio-cultural in nature.\" Discuss with reference to human adaptation to high-altitude climate.\n(c) Discuss the methods of studying human growth with their merits and demerits.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 235,
+        "subtags": [
+          101,
+          103
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 235
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 258
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss how indigenous people encounter globalization.\n(b) \"Applied human genetics has come to touch every sphere of human life.\" Discuss in light of recent advances in molecular anthropology.\n(c) Evaluate participant observation in producing anthropological knowledge.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 247,
+        "subtags": [
+          96,
+          77
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 247
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 234
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss with examples the Megalithic culture of India in the archaeological context.\n(b) Discuss the bio-cultural factors influencing fertility in light of the relationship between fecundity and fertility.\n(c) Discuss phenomenology as a research method in anthropological studies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          104,
+          95
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 261
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 252
+        }
+      ]
+    }
+  ]
+}

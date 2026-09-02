@@ -1,0 +1,541 @@
+{
+  "metadata": {
+    "name": "Mains GS Paper II · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 20,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "GS2",
+    "section": "mains-gs2",
+    "sourceId": "upsc_2024_mains_gs2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_gs2_q1",
+      "type": "fill-blank",
+      "question": "Examine the need for electoral reforms as suggested by various committees with particular reference to “one nation – one election” principle.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 23,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 23,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q2",
+      "type": "fill-blank",
+      "question": "Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 21,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 21,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q3",
+      "type": "fill-blank",
+      "question": "“The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy.” Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 19,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 19,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q4",
+      "type": "fill-blank",
+      "question": "“The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.” Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 32,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 32,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q5",
+      "type": "fill-blank",
+      "question": "Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons merging the rural local bodies with the urban local bodies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 27,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 27,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q6",
+      "type": "fill-blank",
+      "question": "Public charitable trusts have the potential to make India’s development more inclusive as they relate to certain vital public issues. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 170,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 170,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q7",
+      "type": "fill-blank",
+      "question": "Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 57,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q8",
+      "type": "fill-blank",
+      "question": "The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 31,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q9",
+      "type": "fill-blank",
+      "question": "‘The West is fostering India as an alternative to reduce dependence on China’s supply chain and as a strategic ally to counter China’s political and economic dominance.’ Explain this statement with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 99,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 99,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q10",
+      "type": "fill-blank",
+      "question": "Critically analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 10.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 97,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 10.0,
+          "mainTag": 97,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q11",
+      "type": "fill-blank",
+      "question": "What are the aims and objects of recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024 ? Whether University/State Education Board examinations, too, are covered under the Act ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 168,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 168,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q12",
+      "type": "fill-blank",
+      "question": "Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to D.N.A. testing of child in the womb to establish its paternity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 18,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q13",
+      "type": "fill-blank",
+      "question": "What changes has the Union Government recently introduced in the domain of Centre-State relations ? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 22,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q14",
+      "type": "fill-blank",
+      "question": "Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world’s most powerful judiciary ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 21,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 21,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q15",
+      "type": "fill-blank",
+      "question": "Discuss India as a secular state and compare with the secular principles of the US constitution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 18,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q16",
+      "type": "fill-blank",
+      "question": "The Citizens’ charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 179,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 179,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q17",
+      "type": "fill-blank",
+      "question": "In a crucial domain like the public healthcare system the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 173,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 173,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q18",
+      "type": "fill-blank",
+      "question": "e-governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the ‘Interactive Service Model’ of e-governance.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 178,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 178,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q19",
+      "type": "fill-blank",
+      "question": "‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 96,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 96,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_gs2_q20",
+      "type": "fill-blank",
+      "question": "Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India’s maritime security and regional stability amidst international competition ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 15.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 96,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 15.0,
+          "mainTag": 96,
+          "subtags": []
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2018_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What do you understand by the terms 'cooperative federalism' and 'competitive federalism' ? Do you agree with the view that the Indian Constitution is based on the concept of 'competitive federalism' and not on the concept of 'cooperative federalism' ?\n(b) Administrative powers/actions are not always in conflict with the 'rule of law' principle. Discuss with illustration.\n(c) Critically evaluate the changing dimensions of the concept of 'State' under Article 12 of the Constitution of India.\n(d) \"Natural justice is not a made to order formula which has to be fitted to all situations with an iron-bound uniformity.\" Comment. Refer to case laws.\n(e) \"With the adoption of Parliamentary form of government, the vesting clause under Article 53(1) remains to a great extent meaningless, as real executive power lies in the Ministry.\" Critically examine the above statement in the context of the status and position of the President of India under the Indian Constitution. Also answer, if the President of India does not accept the advice of the Prime Minister, what consequences would follow.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": [
+          57,
+          227,
+          222,
+          215
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 161
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 380
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 373
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine the concept of social justice as envisaged in the Constitution, more particularly in Chapter IV of the Constitution and under Article 14 of the Constitution.\n(b) What are the constitutional safeguards available to a civil servant against dismissal, removal or reduction in rank of services ? Are these rights also available to an employee of a public corporation ? Discuss with reference to statutory provisions and case law.\n(c) What would be the best way or method for the appointment of judges in High Courts and the Supreme Court in India ? Give your views and support your views with reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 380,
+        "subtags": [
+          218,
+          6
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 380
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 376
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 21
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) What are the major challenges in the functioning of local bodies in India ? Does it talk about success story or something else ?\n(b) Is the Governor's post dependent on the pleasure of the President ? Discuss. What exactly constitutes the 'discretion' of the Governor while exercising numerous powers ? Explain with reference to statutory provisions and relevant case law.\n(c) Discuss the constitutionality of delegated legislation. What are the limits of delegated legislation ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 27,
+        "subtags": [
+          216,
+          223
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 27
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 374
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 381
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The liberty of the press implicit in the freedom of speech stands on no higher footing than the freedom of speech and expression of a citizen, and no privilege is attached to the press as such distinct from the ordinary citizen.\" Explain this statement and also distinguish the term 'freedom of speech and expression' and 'speech and expression'.\n(b) \"Imposition of Emergency in a State under Article 356 has always been a matter of controversy.\" In this backdrop, explain the consequences of proclamation of Emergency in a State.\n(c) Under what circumstances, does a third party, apart from concerned parties, have locus standi to move writ petitions before the High Court or the Supreme Court in India ? Also point out the limitations of such petitions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 375,
+        "subtags": [
+          221,
+          6
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 375
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 379
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 21
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the distinctions between traditional and modern definitions of international law. Critically examine the growing scope and importance of international law in the present context.\n(b) \"Where Extradition begins Asylum ends.\" Critically examine the above statement with special reference to extraditable persons and extradition crimes.\n(c) It is generally viewed that \"Rights and Duties are correlative\". However, the International Human Rights Movement has developed more as rights-oriented than duties-oriented. Why has this happened ? Explain with the help of various International Human Rights instruments. Can you think of a 'Human Duty Movement' instead of a 'Human Rights Movement' ?\n(d) Define 'International Treaty' and explain the growing importance of treaties in Modern International Law. Can a multilateral treaty be terminated ? If so, on what grounds ? Explain.\n(e) Do you agree with the statement that \"the Globalization is a necessary evil\" ? Critically examine the implications of the reform process undertaken by the IMF and IBRD by way of structural adjustment programmes and policies on developing countries, with special reference to India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          233,
+          231,
+          235,
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 391
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 389
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Continental Shelf was regarded as the natural prolongation of the land mass of the coastal state.\" Critically examine the Delimitation of the Continental Shelf with the help of relevant case law of the International Court of Justice (ICJ).\n(b) Define International Dispute. Explain the difference between peaceful settlement of disputes and compulsive settlement of disputes. Critically examine the growing importance of ADR methods in International Dispute settlement.\n(c) \"Membership of the Security Council is not democratic mainly because of its veto power. In view of that, the U.N. Security Council should be expanded and should give more membership to other countries reflecting the demographic composition of the community of nations.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          237,
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 395
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Certain provisions of the four Geneva Conventions (1949) and their additional protocols of 1977 have assumed the status of customary principles (jus cogens) of IHL today.\" Do you agree with the above statement ? Justify your arguments in the light of common Article 3 of the four Geneva Conventions.\n(b) Explain the concept of terrorism in the context of current technological developments. Do you justify counter-terrorism as an effective strategy to deal with terrorist activities ? Is the existing international legal regime effective in dealing with emerging new terrorist threats ? Explain.\n(c) Explain the differences between Paris and Bern regimes. Do you agree with the statement that \"The Trade Related Intellectual Property Rights (TRIPs) is nothing, but mere repetition of the Paris and Bern Conventions.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 397,
+        "subtags": [
+          241,
+          243
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 397
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 399
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 401
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"International law is primarily concerned with Rights, Duties and Interests of States.\" Critically examine the statement with reference to the place of Individuals and Non-State entities in International law.\n(b) Do you agree with the statement that \"Beginning with the Stockholm Declaration of 1972, there has been an increased reliance upon non-binding international instruments dealing with environment\" ? Why has this trend developed and have these instruments been more useful than treaties ? Explain.\n(c) It is generally viewed that \"What the U.N. did in the 20th century for maintenance of peace and security, the W.T.O. is going to play the same role on economic and trade relations in the 21st century\". Discuss the above statement in view of the changing notion of political sovereignty to economic sovereignty of States.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          244,
+          243
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 402
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 401
+        }
+      ]
+    }
+  ]
+}

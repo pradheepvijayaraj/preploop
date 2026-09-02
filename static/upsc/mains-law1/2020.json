@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2020_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) The goals specified in the Preamble contain the basic structure of the Constitution, which cannot be amended under Article 368 of the Constitution. Analyse this statement in the light of leading decided cases.\n(b) Make a distinction between judicial review and judicial power. Explain the scope of judicial review with reference to the cases arising under the Xth Schedule of the Constitution.\n(c) Analyse the relevance of doctrine of eminent domain under the Constitution of India. Explain the limitations of this doctrine with the help of case law.\n(d) Enumerate the list of Fundamental Duties as provided in the Constitution of India. What is the rationale of incorporation of Fundamental Duties under the Indian Constitution through the Constitutional (Forty-second Amendment) Act, 1976 ?\n(e) What are the various modes of judicial control of delegated legislation ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 156,
+        "subtags": [
+          57,
+          226,
+          214,
+          223
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 156
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 161
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 384
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 372
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 381
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Discuss the powers and functions of the Lokpal and the Lokayukta under the Lokpal and Lokayuktas Act, 2013. How do you think the office of Lokpal is better than other anti-corruption mechanisms ?\n(ii) Explain the Pardoning Powers of the President. Examine how far the Judicial Review can be exercised over such powers.\n(b) \"Distinction between quasi-judicial and administrative functions is no longer the exclusive criteria for deciding whether or not the rules of Natural justice apply.\"\nCritically examine this statement.\n(c) With the help of illustrations, discuss and differentiate, co-operative federalism and competitive federalism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 373,
+        "subtags": [
+          222,
+          7
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 380
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 22
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) Examine the scope of protective discrimination offered to persons belonging to Scheduled Castes, Scheduled Tribes and Other Backward Classes under Articles 15 and 16 of the Constitution of India.\nExplain with the help of decided cases.\n(b) \"An amendment of the Constitution of India for better Union and State relations is due.\" Comment on this statement and substantiate your recommendations for amendment of specific provisions of the Constitution, if any, on this matter.\n(c) \"Governor's office is sui generis. The Governor in our system does not function as constitutional head for the whole gamut of his responsibilities. There is an important area, though limited and subject to constitutional constraints, within which he acts in the exercise of his discretion.\" Examine this statement in the light of Sarkaria Commission Report.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 376,
+        "subtags": [
+          55,
+          216
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 376
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 156
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 374
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Do local bodies enjoy autonomy in performing their role in the field of economic development and social justice ? Explain in the light of relevant constitutional provisions.\n(ii) Describe the powers and functions of the Union Public Service Commission.\n(b) \"Parliamentary privilege is an essential incident to the high and multifarious functions which the legislature performs.\" Discuss.\nWhat reforms will you suggest, if any, in the existing position ?\n(c) \"While certainly law is important in India, it can't be at the cost of justice.\"\nCritically examine this statement in the context of \"Curative Writ Petition\" in India. Refer to relevant case law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 377,
+        "subtags": [
+          217,
+          225
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 377
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 375
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 383
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) What are the various steps involved for concluding an international treaty and bringing it into force ?\n(b) A WTO member country \"X\" agrees with a non-member country \"Y\" to reduce the tariff on product \"A\" to 7 percent. Can the WTO members claim the same tariff level on like product \"A\" from country \"X\" ? How have the dispute settlement bodies defined the \"like product\" in Article I.1 of GATT ?\n(c) Discuss the purposes and principles governing United Nations. What reforms, if any, do you suggest for the UN system ?\n(d) What are the parameters of contentious jurisdiction exercisable by the International Court of Justice ?\n(e) Discuss the status of individual in International Law especially with reference to human rights treaties.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 393,
+        "subtags": [
+          243,
+          236,
+          242,
+          225
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 401
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 400
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) In resolution 67/19, the United Nations General Assembly decides to accord to Palestine, a non-member observer state status in the United Nations.\nExplain the importance of the resolution while determining the Statehood of Palestine.\nAnalyse your arguments in the light of various theories of recognition.\n(b) \"Asylum ends where extradition begins.\" Comment. Distinguish between territorial asylum and extra-territorial asylum.\n(c) Do you agree with the view that International law is merely a positive morality ? Discuss the nature and scope of International law.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 385,
+        "subtags": [
+          234,
+          225
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 392
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 383
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Explain the State practices relating to observing International law within the Municipal law.\n(ii) Explain the role of arbitration for peaceful settlement of international disputes.\n(b) Discuss the rights and obligations of Coastal States and other States in the territorial waters and contiguous zone.\n(c) Explain in detail the anti-dumping provisions under GATT and WTO. What are the methods laid down for determination of \"anti-dumping\" and \"material injury\" ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 395,
+        "subtags": [
+          232,
+          243
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 395
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 390
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 401
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) What is the understanding and scope of legal regimes pertaining to International Armed Conflict (IAC) and Non-International Armed Conflict (NIAC) respectively, and what are the thresholds of application of these two regimes ?\nIllustrate the impact of International Humanitarian Law on the international refugee crisis.\n(b) Evaluate the main sources of International Environmental Law. Explain and discuss in particular the emergence of \"Soft Law\" and principles of International Environmental Law and how this has influenced the development of this area of International Law.\n(c) Write notes on the following :\n(i) International Terrorism\n(ii) Grounds of Intervention\n(iii) Nuclear Non-Proliferation Treaty",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 397,
+        "subtags": [
+          225,
+          241
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 397
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 399
+        }
+      ]
+    }
+  ]
+}

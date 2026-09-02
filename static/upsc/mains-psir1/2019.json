@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2019_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Comment on the following in about 150 words each :\n(a) Resurgence of political theory.\n(b) Pluralist theory of the State.\n(c) End of Ideology debate.\n(d) Deliberative democracy.\n(e) M. K. Gandhi's concept of Swaraj.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          362,
+          364,
+          363,
+          365
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 523
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain Aristotle's critique of Plato's Idealism.\n(b) Examine communitarian perspectives on justice.\n(c) Compare negative and positive concepts of liberty.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          340,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) According to Gramsci, 'hegemony is primarily based on the organisation of consent.' Comment.\n(b) Discuss Kautilya's views on the elements of the State.\n(c) Distinguish between liberal feminism and radical feminism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 522,
+        "subtags": [
+          362,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 522
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Critically examine Hannah Arendt's conceptual triad of labour, work and action.\n(b) Discuss the doctrine of 'rights as trumps'.\n(c) What is the contemporary relevance of Marxism ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          11,
+          33
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Unity and integrity of India was perhaps the single uppermost factor in the minds of the Constitution makers. Comment.\n(b) Dalit perspective on Indian national movement. Discuss.\n(c) Despite constitutional mandate the Inter-State Council has not come of age. Discuss.\n(d) Political decentralization has not been matched by administrative decentralization at the grass roots level. Explain\n(e) Write short note on the significance of Chipko Movement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          197,
+          361
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) National movement in India was anti-imperialist and increasingly radical in its socio-economic and political programmes. Discuss.\n(b) What has been the political fallout of the Green Revolution in India? Explain.\n(c) The changing socio-economic profile of our legislators does not augur well for the health of Indian democracy. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 355,
+        "subtags": [
+          361,
+          363
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Development has overshadowed the influence of caste in electoral behaviour in recent elections. Discuss.\n(b) The Comptroller and Auditor-General of India enhances the accountability of the Government and serves as the watchdog of the finances of the Government. Explain.\n(c) Discuss, in brief, the role of the National Commission for women. Do you think it is a toothless organization ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 530,
+        "subtags": [
+          369,
+          371
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 530
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 527
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 529
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The basic structure doctrine is implicit in the Indian Constitution; the Supreme Court has only given it an explicit form.\" Comment.\n(b) Prime Minister's Office (PMO) has emerged as the most powerful institution in India. Discuss.\n(c) Comment on the relevance of the Directive Principles of State Policy in an era of liberalization and globalization.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          13,
+          362
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        }
+      ]
+    }
+  ]
+}

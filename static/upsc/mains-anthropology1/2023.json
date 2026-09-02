@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2023_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each:\n(a) Scope and relevance of Social and Cultural Anthropology\n(b) Cultural impact of Iron Age\n(c) Race and Ethnicity\n(d) Customary laws and Environmental conservation\n(e) Gene expression",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 235,
+        "subtags": [
+          85,
+          100,
+          101,
+          84
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 235
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 258
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 241
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss major species of Australopithecus discovered from South and East Africa. Describe the discovery, physical features and significance of Taung baby.\n(b) Discuss the Paleolithic environment in light of available evidences with special reference to India.\n(c) Elucidate the different forms of malnutrition. Describe protein-calorie malnutrition with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 240,
+        "subtags": [
+          102
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 240
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 240
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 259
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) What is hominization process ? Discuss the major trends in human evolution with the help of suitable examples and illustrations.\n(b) How did Clifford Geertz look at religion ? Differentiate between anthropological and psychological approaches to the study of religion.\n(c) What is mixed-longitudinal method of studying human growth ? Discuss its merits and demerits.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 76,
+        "subtags": [
+          93,
+          103
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of marriage regulations in traditional societies in India for strengthening social solidarity.\n(b) Discuss various methods of personal identification based on skeletal remains.\n(c) Identify the major Mesolithic sites and describe the typo-technological features with special reference to India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 245,
+        "subtags": [
+          106,
+          85
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 245
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 263
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 242
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Polygenic Inheritance\n(b) Prehistoric significance of Rakhigarhi\n(c) Glottochronology\n(d) Menopausal symptoms\n(e) William Ogburn and Cultural lag",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 242,
+        "subtags": [
+          97,
+          104,
+          86
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 254
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 261
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Critically discuss the controversies related to fieldwork of Bronislaw Malinowski and Margaret Mead.\n(b) Discuss the impact of globalization on the economic systems of indigenous communities.\n(c) Describe the practical applications of DNA technology in the current scenario.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 252,
+        "subtags": [
+          90,
+          96
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 252
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 247
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 253
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe various methods of qualitative data analysis. Highlight some popular computer softwares used in qualitative analysis.\n(b) What assumptions must be met for a population to be in genetic equilibrium? Explain the importance of genetic equilibrium.\n(c) Discuss political and methodological aspects of national character studies. Elucidate the contemporary relevance of such studies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 252,
+        "subtags": [
+          98,
+          91
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 252
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 255
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 248
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Critically examine Arjun Appadurai's conceptualization of global cultural economy.\n(b) Describe the causes of structural abnormalities of chromosomes with suitable examples.\n(c) Critically discuss A.L. Kroeber's contribution to kinship studies.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          99,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 256
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    }
+  ]
+}

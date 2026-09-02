@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper 2 · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2022_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Pit-dwellers of Kashmir\n(b) Varna and Buddhism\n(c) Dharma versus Religion\n(d) Safeguards for linguistic minorities in India\n(e) Westernisation and Modernisation",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 281,
+        "subtags": [
+          120,
+          116,
+          117
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 277
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 281
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 281
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 274
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Illustrate the contribution of Irawati Karve to Indian Anthropology. Make a special mention of her literary contribution.\n(b) What are the arguments for excluding Narmada Man from Homo erectus category?\n(c) Critically describe Dr. B. R. Ambedkar's argument on the origin of Indian caste system.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 271,
+        "subtags": [
+          108,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 271
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Make a critical appraisal of Megalithic tradition in India with special reference to North-East India.\n(b) Assess the contributions of S. C. Dube in Indian village studies.\n(c) Describe the methods adopted by Sir Herbert Hope Risley in classifying Indian populations. What are the criticisms against Risley's classification?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 265,
+        "subtags": [
+          115,
+          118
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 275
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Globalisation, on one hand has provided opportunities and on the other hand thrown challenges to Indian villages.\" Elucidate.\n(b) Describe briefly the proto-history of Gujarat. Discuss the significance of Gujarat proto-history in international trade.\n(c) Critically examine 'Indigenisation of Christianity' in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 272,
+        "subtags": [
+          107,
+          113
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 270
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Regionalism as an opportunity and threat to national integration\n(b) Issues of tribal agricultural labourers\n(c) Major problems of nomadic and semi-nomadic groups\n(d) Role of the Governor in the Fifth Schedule areas\n(e) Austroasiatic languages",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 276,
+        "subtags": [
+          50,
+          121,
+          116
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 148
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 276
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 276
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 278
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 273
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the objectives of Integrated Tribal Development Projects (ITDPs). How far have these objectives been achieved?\n(b) Compare the functioning of traditional 'Tribal Council' with that of 'Gram Sabha' under PESA.\n(c) Explain how British policies impacted the major resources of the tribals.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          127
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the views of G. S. Ghurye and Verrier Elwin on the approach towards tribal populations. What are the policies of the Government of India towards Indian tribal populations?\n(b) Discuss the issues and solutions related to the Scheduled Caste and the Scheduled Tribe populations in India.\n(c) Explain the social and religious consequences of contact between tribal and non-tribal populations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 284,
+        "subtags": [
+          45,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Compare the nature of tribal movements between North-East and Central India. Briefly mention the current status of existing tribal movements in these areas.\n(b) Briefly describe the anthropological perspective on development. How have anthropologists contributed in India's rural development?\n(c) How can a balance be struck between livelihood concern and environmental degradation in the context of shifting cultivation?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          128,
+          119
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        }
+      ]
+    }
+  ]
+}

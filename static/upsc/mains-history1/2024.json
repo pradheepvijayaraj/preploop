@@ -1,0 +1,422 @@
+{
+  "metadata": {
+    "name": "Mains History Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2024_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer Booklet. Locational hints for each of the places marked on the map are given below seriatim :\n\n![Map supplied with UPSC HISTORY1 2024](/upsc/assets/history1/history1_2024_q1_map.jpg)\n(i) Prehistoric site\n(ii) Area of petroglyphs\n(iii) Neolithic site\n(iv) Harappan site\n(v) Buddhist monastery\n(vi) Chalcolithic site\n(vii) Neo-Chalcolithic site\n(viii) Megalithic site with rock art\n(ix) One of the Mahajanapadas’ capital and associated with Buddha’s miracle\n(x) Hominid fossil find site\n(xi) Major rock edict of Ashoka\n(xii) Ancient trade centre\n(xiii) Stone inscription recording land grants with tax exemptions\n(xiv) Shiva temples named after family relationships\n(xv) Place of art-related inscription\n(xvi) Place of inscription of three languages\n(xvii) Temple site where three styles of temple architecture are found\n(xviii) Jain pilgrimage site\n(xix) Shiva temple of Gupta period\n(xx) Megalithic monumental site",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 324,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "i",
+          "marks": 2.5
+        },
+        {
+          "label": "ii",
+          "marks": 2.5
+        },
+        {
+          "label": "iii",
+          "marks": 2.5
+        },
+        {
+          "label": "iv",
+          "marks": 2.5
+        },
+        {
+          "label": "v",
+          "marks": 2.5
+        },
+        {
+          "label": "vi",
+          "marks": 2.5
+        },
+        {
+          "label": "vii",
+          "marks": 2.5
+        },
+        {
+          "label": "viii",
+          "marks": 2.5
+        },
+        {
+          "label": "ix",
+          "marks": 2.5
+        },
+        {
+          "label": "x",
+          "marks": 2.5
+        },
+        {
+          "label": "xi",
+          "marks": 2.5
+        },
+        {
+          "label": "xii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiv",
+          "marks": 2.5
+        },
+        {
+          "label": "xv",
+          "marks": 2.5
+        },
+        {
+          "label": "xvi",
+          "marks": 2.5
+        },
+        {
+          "label": "xvii",
+          "marks": 2.5
+        },
+        {
+          "label": "xviii",
+          "marks": 2.5
+        },
+        {
+          "label": "xix",
+          "marks": 2.5
+        },
+        {
+          "label": "xx",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) Harappan art contributes to our understanding of their aesthetic sensibilities in addition to spiritual and ritualistic life. Comment.\n(b) Discuss different types of Megalithic burial practices in India. How far does the archaeological evidence from it help us to know the religious beliefs and cultural practices?\n(c) Western Kshatrapas are known for their socio-economic contribution, particularly in trade, agriculture and urbanization. Examine the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 335,
+        "subtags": [
+          171,
+          175
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 335
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 328
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 332
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history1_q3",
+      "type": "fill-blank",
+      "question": "(a) Symbiotic relationships between Buddhist establishments, traders, artisan guilds, and royal support led to a close proximity of religion, economy and polity in the Mauryan and post-Mauryan periods. Examine the statement.\n(b) Discuss the role of Buddhism in shaping the socio-religious landscape of the Mauryan Empire.\n(c) Discuss the evolution of State institution and taxation system from Rigvedic period to later Vedic period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 332,
+        "subtags": [
+          174,
+          172
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 332
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 331
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 329
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history1_q4",
+      "type": "fill-blank",
+      "question": "(a) Highlight the contributions of Aryabhatta, Varahamihira and Brahmagupta in the fields of Astronomy and Mathematics.\n(b) Examine the course of Pallava-Chalukya conflicts between sixth and eighth century CE.\n(c) Examine the role played by the Agraharas in the promotion of education in the early medieval India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 334,
+        "subtags": [
+          176,
+          179
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 334
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 333
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Illustrate the main features of Vesara style temple architecture.\n(b) Evaluate Firuz Shah Tughluq’s economic policies.\n(c) Evaluate the contribution of Qalandariyyah to medieval Indian culture.\n(d) Discuss the main features of Malwa school of painting with examples.\n(e) Highlight the features of Portuguese colonial enterprise.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 337,
+        "subtags": [
+          183,
+          179,
+          190,
+          176
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 337
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 340
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 347
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 333
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history1_q6",
+      "type": "fill-blank",
+      "question": "(a) Analyze the contributions of Acharya Triumvirate to Indian Vedanta.\n(b) Compare and contrast the position of Hindu and Muslim women in 13th and 14th century India.\n(c) Examine the causes and consequences of peasants uprising during the reign of Aurangzeb.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 329,
+        "subtags": [
+          179,
+          189
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 329
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 346
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history1_q7",
+      "type": "fill-blank",
+      "question": "(a) “Instead of bringing credit, the Ibadat Khana brought growing discredit to Akbar.” Comment.\n(b) How did the Maratha guerrilla warfare tactics contribute to their military successes against larger and more established armies?\n(c) Examine the role of Asaf Jahi Dynasty in the political transformation of the State of Hyderabad.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 344,
+        "subtags": [
+          191,
+          182
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 344
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 348
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 339
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_history1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the contributions of Bahmani Sultans to the development of Indo-Islamic architecture.\n(b) Evaluate the impact of the Third Battle of Panipat on the political economy of 18th century India.\n(c) Examine the process of urbanization caused by the establishment of European trading companies in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 347,
+        "subtags": [
+          191,
+          181
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 347
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 348
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 338
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2022_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, on the following questions in about 150 words each :\n(a) Elaborate on M.N. Srinivas's structural-functionalist approach to the study of Indian society.\n(b) Do you agree that the agrarian class structure in India is changing ? Justify your answer with illustrations.\n(c) Elucidate the challenges of integration for tribal communities in India.\n(d) In the context of the changing Indian society, how do you view Andre Beteille's conceptions of harmonic and disharmonic social structures ?\n(e) Explain Leela Dube's concept of \"Seed and Earth\".",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          429,
+          27,
+          438
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 596
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically examine G.S. Ghurye's Indological approach to the understanding of Indian society.\n(b) Elaborate on the changing nature of caste system with suitable illustrations.\n(c) Discuss the problems of religious minorities in India and suggest measures to solve them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 584,
+        "subtags": [
+          45,
+          431
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 589
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Critically examine Yogendra Singh's thesis on 'Modernisation of Indian Tradition'.\n(b) Discuss the material basis of patriarchy as an ideological system.\n(c) Explain different forms of untouchability in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 593,
+        "subtags": [
+          442,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 600
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Examine the social background of growth of Indian nationalism.\n(b) Explain how land reforms brought about desired agrarian transformation.\n(c) Discuss the challenges during village studies in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 585,
+        "subtags": [
+          433,
+          428
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 585
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 586
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, on the following questions in about 150 words each (50 marks, 150 words):\n(a) Discuss law as an important instrument for women's empowerment.\n(b) Examine different understandings of secularisation in India.\n(c) How do you view the growth of informal sector in India ?\n(d) Discuss the role of pressure groups in strengthening democracy.\n(e) What role do co-operatives play in poverty alleviation in rural India ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 593,
+        "subtags": [
+          436,
+          434,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 594
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Examine whether rural bondage still continues to be a social reality. Give your argument.\n(b) Define ethnicity. Discuss the factors responsible for the growth of ethnic movements in India.\n(c) Discuss the changing nature of structure of political elites.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 586,
+        "subtags": [
+          439,
+          435
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 597
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Instead of promoting equality in society, the present system of education itself has contributed to increased socio-economic disparities.\" Comment.\n(b) Discuss recent trends in the structure of migration.\n(c) Discuss different forms of deprivation associated with slums.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 603,
+        "subtags": [
+          440,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 598
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Bring out the various issues involved in Dalit movements in India.\n(b) Critically examine the dialectics between 'development and environment'.\n(c) Discuss the changing nature of Industrial working class.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 595,
+        "subtags": [
+          433,
+          429
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        }
+      ]
+    }
+  ]
+}

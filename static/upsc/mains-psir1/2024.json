@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper 1 · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "PSIR1",
+    "section": "mains-psir1",
+    "sourceId": "upsc_2024_mains_psir1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_psir1_q1",
+      "type": "fill-blank",
+      "question": "Write approximately 150 words on each one of the following :\n(a) Behavioural approach to Political Science\n(b) Pluralist theory of State\n(c) Locke's views on Revolution\n(d) Decline of Liberalism\n(e) Linkage between Power and Hegemony",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          362,
+          33,
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 522
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir1_q2",
+      "type": "fill-blank",
+      "question": "(a) Elucidate the meanings inherent in the term 'political' with appropriate illustrations.\n(b) Marxism is a political theory of action demanding strict compliance with its core principles. Comment.\n(c) The nature of relationship between equality of democratic citizenship and liberty of citizens is influenced by economic equality. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir1_q3",
+      "type": "fill-blank",
+      "question": "(a) The debate on human rights is caught between the limitations of both universalism and cultural relativism. Comment.\n(b) Deliberative democracy seeks to promote democratic decision making about public issues among the citizens. Discuss.\n(c) Dharmashastra presents a duty-centric worldview for individuals and communities. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          363,
+          364
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 521
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 522
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir1_q4",
+      "type": "fill-blank",
+      "question": "(a) Legitimаcy adds positive value to political authority and obligation. Discuss.\n(b) Critically examine Plato's theory of Forms.\n(c) Manabendra Nath Roy's political thought highlighted the humanistic aspects of Marxism. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 519,
+        "subtags": [
+          365
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 519
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 523
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir1_q5",
+      "type": "fill-blank",
+      "question": "Write approximately 150 words on each one of the following :\n(a) Constitutional morality in the Indian Constitution\n(b) Objective Resolution of the Constituent Assembly\n(c) Legal remedies in Part III of the Constitution of India\n(d) Relevance of the Legislative Council\n(e) Women's role in anti-arrack movement",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          371,
+          373
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 529
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 529
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 531
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir1_q6",
+      "type": "fill-blank",
+      "question": "(a) How far do you agree that the Directive Principles of State Policy are more fundamental than the Fundamental Rights in meeting socio-economic justice as mentioned in the Preamble of the Constitution?\n(b) Explain the structure and functions of the National Commission for Women.\n(c) The legacy of the Planning Commission still has a bearing on India's development policies. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 18,
+        "subtags": [
+          371,
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 18
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 529
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the contribution of the Dalit struggle to establish egalitarianism in Indian society during freedom movement.\n(b) The blueprint of Gram Swaraj is the key to understand the Gandhian perspective on planning. Discuss.\n(c) Critically assess the role of pressure groups in the decision-making process of the government.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 528,
+        "subtags": [
+          13,
+          9
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 528
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 28
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_psir1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of environmental movements in shaping the environmental governance in India.\n(b) \"Relative deprivation is a major source of ethnic conflict.\" Elaborate the statement with relevant examples.\n(c) Gram Sabha in the Panchayati Raj system is a forum which gives expression to the collective wisdom, aspirations and the will of the people. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 531,
+        "subtags": [
+          362,
+          370
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 531
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 520
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 528
+        }
+      ]
+    }
+  ]
+}

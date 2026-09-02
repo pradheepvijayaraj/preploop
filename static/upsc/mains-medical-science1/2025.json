@@ -1,0 +1,567 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE1",
+    "section": "mains-medical-science1",
+    "sourceId": "upsc_2025_mains_medical-science1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_medical-science1_q1",
+      "type": "fill-blank",
+      "question": "(a) Describe the formation, course and branches of ulnar nerve. Which muscles do each of the branches supply ? Why is ulnar nerve called the \"musician's nerve\" ?\n(b) Name the nerves and their branches that supply the sole of the foot stating the specific area of their distribution. Explain in brief what is Morton's metatarsalgia.\n(c) Classify jaundice according to its aetiology. Make a tabular representation of the blood, urinary and stool findings observed in different types of jaundice.\n(d) Describe the process of generation and conduction of nerve impulses in humans. Add a note on saltatory conduction.\n(e) With the help of a suitable diagram, explain the innervation and functions of muscle spindle.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          300,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 458
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 457
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science1_q2",
+      "type": "fill-blank",
+      "question": "(a) Using a well labelled diagram, trace the taste pathway from circumvallate papillae of tongue to the cerebral cortex.\n(b) (i) Enumerate any five tests for the assessment of renal tubular functions. Explain the underlying principle and their interpretation.\n(ii) Explain the role of biotin in intermediary metabolism with suitable examples. Add a note on the mechanism of action of any biotin-antagonist with its application in medicine.\n(c) (i) Define cardiac output and describe the regulation of cardiac output in normal adults. Add a note on Cardiac Index and Cardiac Reserve.\n(ii) Define Systemic Vascular Resistance and list its determinants. Briefly explain the role of its determinants.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          298,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 456
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science1_q3",
+      "type": "fill-blank",
+      "question": "(a) A 36-year-old cyclist suffered pelvic injury while riding into a pothole on the road. Following this incident, he has severe pelvic pain and is unable to pass urine. His retrograde urethrogram shows contrast limited to superficial perineal pouch.\n(i) What is the most likely structure and its site of involvement, which is responsible for his inability to pass urine ?\n(ii) What are the parts of the principal structure involved ?\n(iii) With the help of a labelled diagram, illustrate the difference in the contents of superficial perineal pouch in males and females.\n(b) (i) Describe Selenium under the headings of 'its dietary sources', 'its biochemical roles' and 'its deficiency diseases' with their clinical manifestations.\n(ii) Restriction Fragment Length Polymorphism has a number of applications in clinical medicine. Briefly state any three.\n(c) (i) With the help of suitable examples explain the second messenger mechanisms that mediate the downstream actions of hormones inside the cell.\n(ii) Give a brief account of synthesis, storage, secretion and functions of the posterior pituitary hormones.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 456,
+        "subtags": [
+          300,
+          299
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 456,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 457,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science1_q4",
+      "type": "fill-blank",
+      "question": "(a) (i) A 55-year-old lady visits surgery OPD with a three month old history of a painless hard swelling in her left breast.\nOn examination, it is found that the swelling is firm, immovable and is located in upper inner quadrant, along with retraction of nipple.\nShe is advised to undergo pre-operative sentinel lymph node biopsy and surgery. Explain the anatomical basis of pre-operative sentinel node biopsy in this case.\n(ii) A 45-year-old man presents at orthopaedic OPD with swollen and painful right knee. He gives a history of fall while playing cricket two weeks ago. On examination, his right knee has tenderness, swelling, decreased range of mobility and anterior joint instability. His MRI scan reveals damage to one of the major knee joint stabilizers.\n(I) Name all the ligaments and write their specific roles in stabilization of the knee joint.\n(II) Name the most likely structure involved in the given case and write two points to support your viewpoint.\n(b) (i) Explain the principle of radioimmunoassay (RIA) and outline its role in the diagnosis of thyroid disorders. Add a note on the advantages and disadvantages of this technique.\n(ii) Enumerate haematopoietic vitamins. Explain the biochemical basis of the deficiency manifestations of any 'two' of them which lead to anaemia.\n(c) (i) Briefly describe the development of Cell-Mediated Immunity. List the cell types involved, along with their actions.\n(ii) Briefly describe the process of Phagocytosis.\n(iii) Give an account of the formation and function of thrombocytes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 458,
+        "subtags": [
+          301,
+          302
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 458,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science1_q5",
+      "type": "fill-blank",
+      "question": "(a) (i) Enumerate the topical antifungal drugs along with their indication and side effects.\n(ii) Name antihelmintic drugs used in treatment of neurocysticercosis and also mention their side effects.\n(b) (i) Enumerate the cells of lymphoreticular system. Schematically represent the process of B-cell maturation.\n(ii) Make a schematic flowchart of pathogenesis of Salmonella causing enteric fever. Mention two important categories of drug resistance in Salmonella typhi.\n(c) What are the risk factors for lung carcinoma ? Describe the morphological features of three major histological types of lung carcinoma.\n(d) Describe the classification of cervical intraepithelial neoplasia/squamous intraepithelial lesion. Write a note on the role of Human papilloma virus in the pathogenesis of cervical carcinoma.\n(e) Classify poisons based on the chief symptoms. Describe the legal duties of a medical practitioner in a case of suspected poisoning.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          303,
+          302,
+          305
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 459
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 463
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science1_q6",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the approach to laboratory diagnosis of chronic myeloid leukemia – chronic phase.\n(ii) Describe the gross and light microscopic changes evolved over two weeks duration in myocardial infarction. Add a note on the role of serum cardiac biomarkers in the diagnosis of myocardial infarction.\n(b) (i) Explain why beta blockers should not be given to diabetes patients who are on oral hypoglycaemic agents.\n(ii) Explain why folic acid is given with methotrexate.\n(c) (i) A 12-year-old child developed fever with multiple crops of vesicular rash starting from the face spreading towards the trunk.\n(I) Mention the mode of transmission and spread of the probable viral agent. Prepare a flowchart of the course of the infection in humans. Mention three tests for laboratory diagnosis of the agent.\n(II) Discuss the post-exposure preventive strategies.\n(ii) Enumerate the malarial parasites prevalent in India. Of them, which species is notoriously associated with life-threatening complications ? What are the different characteristic peripheral blood smear findings in different species of parasites that cause malaria ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science1_q7",
+      "type": "fill-blank",
+      "question": "(a) (i) Define 'drowning'. Enumerate the different modes of death in a case of drowning. List the postmortem findings in a case of wet drowning.\n(ii) Describe Diatom Test and enumerate its limitations.\n(b) (i) Enumerate four major primary glomerulonephritides presenting with nephrotic syndrome. Describe pathogenesis, light microscopic, immunofluorescence microscopy and electron microscopic findings of post-infectious glomerulonephritis.\n(ii) Describe steps of wound healing by first intention. Enumerate factors that influence tissue repair.\n(c) (i) Describe the role of nitrates, their route of administration and their side effects while being used in the management of angina pectoris.\n(ii) Discuss in brief the mechanism of action and the therapeutic uses of Exenatide.\n(iii) Enumerate the advantages of artemisinin-based combination therapies in the treatment of malaria.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 459,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 462,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 459,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            },
+            {
+              "label": "iii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science1_q8",
+      "type": "fill-blank",
+      "question": "(a) (i) Describe the challenges of circulating Vaccine-Derived Poliovirus (VDPV). Add a note on the environmental surveillance and preventive strategies for effective maintenance of Polio elimination.\n(ii) Describe the mode of infection and clinical manifestation of cryptococcosis. Discuss the role of the rapid diagnostic test in comparison to conventional techniques for identifying the infection.\n(b) (i) Define 'Injury', 'Hurt' and 'Grievous Hurt'. Add a note on the medicolegal aspects of contusion.\n(ii) Describe the various tests prescribed for blood and seminal stains obtained during the examination of a victim of rape and their role in the investigation.\n(c) (i) Enumerate the drugs used in the management of hypertensive crisis. Also describe the route of administration and their side effects.\n(ii) Name the drugs, doses and duration of treatment after post-exposure prophylaxis of HIV.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 460,
+        "subtags": [
+          304,
+          303
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 460,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 462,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 461,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

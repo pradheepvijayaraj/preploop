@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2015_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Attempt a classification of geomorphic processes from the zonal point of view.\n(b) Discuss as to how frontogenesis contributes to weather instability.\n(c) Describe the characteristics of different types of pelagic deposits.\n(d) Explain the characteristics of ecological succession.\n(e) Comment on the impact of environmental education on quality of life.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          54,
+          3,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss the contributions of the American School of Subaerial Denudation in geomorphology.\n(b) What is Potential Evapotranspiration ? Explain how it is used in assessing the water balance in an area.\n(c) Discuss the methods of conserving biodiversity for sustainable development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the basis of Köppen's climatic classification. Bring out the salient characteristics of 'Cs' type of climate.\n(b) Explain with examples as to how channel dynamics has been responsible for the development of alluvial fans and cones.\n(c) Classify soils based on their zonal distribution and describe the characteristics of pedocals.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          52,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the different stages of ecological adaptation of man and bring out the changing balance between man and environment.\n(b) \"Present-day landforms bear more complexity than simplicity.\" Elucidate.\n(c) Explain the meridional circulation of the atmosphere and its importance in world climate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          52,
+          53
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) \"The welfare face of geography makes it an inter-disciplinary subject.\" Elaborate.\n(b) \"Energy mix is a step towards sustainability.\" Discuss.\n(c) Discuss Nelson's method of functional classification of towns.\n(d) \"Marx's view on population is more humanistic.\" Comment.\n(e) \"Development planning has a component of environmental cost.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          1,
+          152,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Regional synthesis is the crux of geographical studies.\" Elaborate.\n(b) \"Man-induced famines are becoming more common than nature-induced ones.\" Comment.\n(c) Critically examine the theories on population migration.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          150,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the relevance of Von Thunen's model on agricultural location in the contemporary context.\n(b) \"Cultural regions are the most suited units to study the diversity of an area.\" Comment.\n(c) Discuss the approaches to the study of behavioural geography.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          154
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 311
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"There is a rejuvenation of environmentalism as a paradigm in geographical studies.\" Comment.\n(b) \"Geographical traits lead to regional imbalances.\" Examine.\n(c) \"Vital statistics are necessary ingredients for development planning.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Political Science & International Relations Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "PSIR2",
+    "section": "mains-psir2",
+    "sourceId": "upsc_2022_mains_psir2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_psir2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Discuss the main limitations of the comparative method to the study of Political Science.\n(b) What are the main challenges faced by the developing countries in the era of globalisation ?\n(c) Discuss the commonalities between the Marxist and Realist approach to the study of International Politics.\n(d) Bipolar structure of the world is more stable than the multipolar one. Comment.\n(e) National Interest is an essentially contested concept. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 532,
+        "subtags": [
+          48,
+          377,
+          379,
+          378
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 532
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 537
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 536
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir2_q2",
+      "type": "fill-blank",
+      "question": "(a) How has the electoral democracy augmented the participation of people in the democratic process ?\n(b) Discuss the role of social movements in strengthening the democratic processes in developing societies.\n(c) Describe the composition of the International Court of Justice (ICJ). Discuss its voluntary jurisdiction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 534,
+        "subtags": [
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 534
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir2_q3",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the rise of People's Republic of China (PRC) as a great power and its implications on Asian Political order.\n(b) Discuss the conceptual dimensions of collective security.\n(c) Discuss the efficacy of global conventions to combat international terrorism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 537,
+        "subtags": [
+          378,
+          381
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 537
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 536
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 539
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir2_q4",
+      "type": "fill-blank",
+      "question": "(a) Identify and evaluate the reasons for deadlock in the WTO negotiations on fisheries between the developing and developed countries.\n(b) What is the realist prescription to the States to ensure their survival in an anarchical world ?\n(c) Russian-Ukraine crisis has cast a dark shadow on the energy needs of the member states of the European Union (EU). Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 538,
+        "subtags": [
+          377,
+          379
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 538
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 535
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 537
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Peaceful co-existence remains the cornerstone of India's foreign policy. Comment.\n(b) Discuss the ways and means to realise greater economic co-operation among the Member States of South Asia.\n(c) Discuss the steps required to realise 'hydro-co-operation' between India and Bangladesh.\n(d) Explain the significance of Basic Exchange and Co-operation Agreement (BECA) for Indo-US strategic relations.\n(e) Discuss the role of public diplomacy in the enhancement of India's global standing.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 542,
+        "subtags": [
+          382,
+          386
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 544
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the relevance of the demand for New International Economic Order (NIEO) in the present era of globalisation.\n(b) Critically examine the major factors responsible for a turnaround in the trajectory of India's foreign policy in the post-cold war period.\n(c) Discuss the reasons behind India's refusal to sign the nuclear non-proliferation treaty (NPT).",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 146,
+        "subtags": [
+          382,
+          388
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 146
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 546
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir2_q7",
+      "type": "fill-blank",
+      "question": "(a) What are the main drivers of India-Japan Strategic and Global Partnership?\n(b) What are the implications of 'Look-East' Policy on the north-eastern region of India?\n(c) Explain the factors which justify India's claim for a permanent seat at the UN security council.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 544,
+        "subtags": [
+          384,
+          387
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 544
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 545
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_psir2_q8",
+      "type": "fill-blank",
+      "question": "(a) How does India-Israel bilateral ties reflect the autonomy of India's foreign policy choices?\n(b) Discuss the consequences of illegal cross-border migration in India's north-eastern region.\n(c) Discuss India's vision of a New World order in the 21st century.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 540,
+        "subtags": [
+          384,
+          389
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 540
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 542
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 547
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,477 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2017_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) A young 23-year-old lady had attempted suicide thrice in last one year. What is the cause of her condition? How do you diagnose and manage Major Depressive Disorder?\n(b) A 40-year-old man gives history of gradual loss of weight and altered bowel habits for last two years. What differential diagnosis would you consider? How will you manage Idiopathic Tropical Malabsorption Syndrome?\n(c) What are the principles of Echocardiography? What is its diagnostic significance?\n(d) A baby is delivered at 34 weeks of gestation; develops respiratory distress soon after birth.\n(i) List the important causes of respiratory distress in this baby.\n(ii) Mention the pathogenesis of Respiratory Distress Syndrome.\n(iii) Outline the management of the baby.\n(e) (i) Mention the important causes of mortality in children under 5 years of age.\n(ii) Enlist the vaccines which can reduce the incidence of Acute Respiratory Infection in children.\n(iii) Mention the measures to reduce mother to child transmission of HIV (Human Immunodeficiency Virus) infection.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          314,
+          313,
+          310,
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 472
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 471
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) A 70-year-old man was found comatose on the road by a passerby. There were no external injuries. He was brought to the casualty. What are the common medical conditions in his case? How will you manage Diabetic Ketoacidosis?\n(b) A 2-month-old infant presents with Central Cyanosis. He had two episodes of cyanotic spells.\n(i) Enlist the differential diagnosis of Congenital Cyanotic Heart Diseases with reduced pulmonary blood flow.\n(ii) Mention the complications of Congenital Cyanotic Heart Diseases.\n(iii) Outline the management of a cyanotic spell.\n(c) A 45-year-old gentleman, agriculturist by occupation, presents with recurrent itchy scaly lesions over face and limbs of one year duration. Examination revealed hyperpigmented scaly lesions over face, neck and upper and lower limbs. There were involvement of skin creases, eyelids, retroauricular areas and nasolabial folds. He gave history of photosensitivity.\n(i) What is your likely diagnosis?\n(ii) What tests will you perform to establish the cause of his condition? Describe in brief.\n(iii) How will you treat this gentleman?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) A 30-year-old labourer, with high fever of three days duration, was brought to emergency in hospital in semiconscious state.\n(i) What are the likely causes for it?\n(ii) How will you diagnose and manage Japanese Encephalitis?\n(iii) What are the bad prognostic indicators for it?\n(b) A 4-year-old child presents with stunted growth and moderate pallor. The child had history of intermittent diarrhoea.\n(i) Mention the differential diagnosis.\n(ii) Mention the investigations required for diagnosis of celiac diseases.\n(iii) Outline the management of celiac diseases in children.\n(c) A 30-year-old female presents with itchy lesions over upper and lower limbs of one month duration. On examination, multiple discrete flat-topped skin-coloured and violaceous papules were present around ankles, wrist and forearms.\n(i) Which other areas will you examine to arrive at a clinical diagnosis?\n(ii) What are the tests will you perform to confirm the diagnosis?\n(iii) How will you treat this lady?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A 20-year-old young man was brought to the casualty with severe headache. His blood pressure was 220/130 mm of Hg. On previous two occasions also his BP was recorded very high. What is the differential diagnosis? How will you investigate and manage him?\n(b) A 3-year-old child presents with generalized oedema.\n(i) Enlist the differential diagnosis.\n(ii) Mention the investigations required for diagnosis of Idiopathic Nephrotic Syndrome.\n(iii) Outline the treatment of Steroid-Resistant Nephrotic Syndrome.\n(c) A 5-year-old male child presents with generalized itchy excoriated papules over trunk, limbs and genitals of two weeks duration. There were few papulovesicles on palms and soles. His other sibling had similar skin problem.\n(i) What is the likely diagnosis?\n(ii) What is the cause for his condition?\n(iii) Enumerate the various topical preparations available to treat this condition. Describe the method of application of one preparation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) A 40-year-old female fair in colour presented in casualty department with history of severe upper abdominal pain and vomiting after heavy fatty meal. On examination, tenderness is present in right hypochondrium.\n(i) What is the diagnosis of the above-mentioned clinical condition, its etiopathogenesis and differential diagnosis?\n(ii) Outline the management of chronic cholecystitis with cholelithiasis.\n(b) A 75-year-old male presented with acute retention of urine with haematuria. On per rectal examination, hard nodular prostatic enlargement is present.\n(i) Discuss the diagnosis and its investigation.\n(ii) Outline the management of the above-mentioned condition.\n(c) Enumerate commonly used methods of female sterilization. What are the advantages and disadvantages of each method?\n(d) Define Assisted Reproductive Technology. Mention briefly the commonly used reproductive technologies. What are the indications and contraindications of each method?\n(e) (i) What are trans-fatty acids?\n(ii) Which foods are major source of trans-fatty acids?\n(iii) What is the significance of trans-fatty acids from public health viewpoint?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          312,
+          311,
+          314
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 470
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a) Define Postpartum Haemorrhage (PPH). What are the causes of PPH? How would you manage the case of PPH just after delivery? Discuss the preventive measures for control of PPH.\n(b) Discuss the causes of Benign Breast Disease, its investigation and management of bilateral fibroadenosis with mastalgia.\n(c) (i) What are the primary objectives of 'Janani Suraksha Yojana'?\n(ii) What are the salient features of this scheme?\n(iii) What is the 'Vande Mataram Scheme'? How is it related to the Janani Suraksha Yojana?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          311,
+          315
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) A 25-year-old male presented with history of off and on central abdominal distension with evening rising temperature and weight loss. On abdominal examination, firm, non-tender lump is present in right iliac fossa.\n(i) Discuss the differential diagnosis of the above-mentioned case.\n(ii) Mention the investigations and its findings.\n(iii) Outline the management of ileocaecal tuberculosis.\n(b) (i) Under the National Rural Health Mission (NRHM), what are the changes being carried out in the rural healthcare infrastructure in order to strengthen it?\n(ii) Which of the existing programmes of Health and Family Welfare have been integrated into the National Rural Health Mission?\n(c) Enumerate the common causes of menorrhagia in a 40-year-old woman. What are the different types of fibroid uterus? How would you manage the case of a 40-year-old woman suffering from menorrhagia due to fibroid uterus?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          316,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 474,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) 'The End TB Strategy' is a logical evolution and a paradigm shift from the past global TB strategies.\n(i) What are its vision, goal, milestones and target indicators that are set to be achieved in specific future years?\n(ii) What are the major hurdles which stand in its success?\n(iii) What steps are required to overcome these hurdles?\n(b) Define prolapse of uterus. Enumerate different degrees of prolapse of uterus. Enumerate the factors leading to prolapse of uterus. How would you manage the case of 3rd degree uterovaginal prolapse in a 38-year-old woman who has completed her family?\n(c) A 35-year-old male sustains road traffic accident. On general examination, he is oriented and pale, pulse rate 120/minute, BP 90/60 mm of Hg, respiratory rate 32/minute. Chest contusion is present and right chest wall with decreased movement. On auscultation decreased breathing sound (Rt) with stony dullness (Rt) on percussion.\n(i) Discuss the differential diagnosis.\n(ii) How would you investigate?\n(iii) Give the treatment of the above-mentioned clinical scenario.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 474,
+        "subtags": [
+          311,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 474,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

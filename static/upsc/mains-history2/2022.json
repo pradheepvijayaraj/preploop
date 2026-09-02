@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2022_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each :\n(a) 'The Battle of Plassey (1757) was a skirmish while the Battle of Buxar (1764) was a real war'.\n(b) 'The Treaty of Amritsar (1809) was significant for its immediate as well as potential effects'.\n(c) 'Famines were not just because of foodgrain scarcity, but were a direct result of colonial economic policies'.\n(d) 'Penetration of outsiders – called dikus by the Santhals – completely destroyed their familiar world, and forced them into action to take possession of their lost territory'.\n(e) 'Within a limited scope the Indian Scientists could pursue original scientific research in colonial India'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 349,
+        "subtags": [
+          193,
+          143,
+          194
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 300
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 352
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain how the Permanent Settlement initiated a rule of property in Bengal and what were its consequences ?\n(b) Was the Western education a harbinger of cultural awakening or an instrument of colonial hegemony ? Discuss.\n(c) Can you explain how, after acquiring Diwani, the government of the East India Company functioned like 'an Indian ruler' ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 349,
+        "subtags": [
+          194,
+          193
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) Do you think that the Indian National Movement was a 'multi class movement' which represented the anti-imperialist interests of all classes and strata ? Give reasons in support of your answer.\n(b) The British rule had differential impact on the Indian Society. Describe in what ways, the Indians responded to the Revolt of 1857.\n(c) Analyse how the revolutionaries taught people self confidence and widened the social base of the freedom movement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          196,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 354
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the policies and programmes of the early nationalists (moderates). To what extent were they able to fulfil the aspirations of the people?\n(b) In the light of contentions over the McMahon Line, analyse the India-China relations in the 1950s and 1960s.\n(c) How did the popular movements help us to understand the nature of environmental crisis in post-colonial India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          207,
+          195
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each :\n(a) 'Rousseau kindled a hope which became the spirit of the Enlightenment'.\n(b) 'The codification of French Law was perhaps the most enduring of Napoleon's achievements'.\n(c) Engels did much more than Marx himself to popularise the ideas of Marxism.\n(d) 'Roaring Twenties' in Europe and America had many positive points. It helped women to uplift themselves in the region.\n(e) 'The first Reformation Act (1832) occupies a significant place in the constitutional development of Britain'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          40,
+          206,
+          200
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 133
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) Do you agree that the economic effects of the Industrial Revolution were to add enormously to wealth and capital on the one hand and to degrade the masses to permanent poverty as the other? Elucidate.\n(b) Discuss how Fascism was a response to the post-war situation arising out of political instability, thwarted nationalist hopes and fears of the spread of communism?\n(c) Do you feel that the Vietnamese fought the 20th century's longest and bloodiest war for their liberation and integration of their country? Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          207,
+          43
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) Do you understand that the lack of statesmanship in London during the 1760's and the 1770's was, an important contributory factor in precipitating the American Revolution. Analyse.\n(b) Discuss, how the policies adopted by Mikhail Gorbachev were responsible for the disintegration of the USSR ?\n(c) What happened to Malaya after it was liberated from Japanese occupation in 1945? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          210,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 368
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) Describe the launching of Non-Alignment Movement. Why the small nations wanted to remain aloof from the powerful nations ?\n(b) Why was the apartheid policy introduced in South Africa ? What were its main features ?\n(c) How far did Latin American countries overcome centuries of subjugation and foreign intervention ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 137,
+        "subtags": [
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 137
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    }
+  ]
+}

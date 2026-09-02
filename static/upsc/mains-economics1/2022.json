@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2022_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each (10x5=50):\n(a) Explain briefly Chamberlin's concept of excess capacity in monopolistic competition.\n(b) Discuss the concept of 'liquidity trap' in the liquidity preference model of interest.\n(c) In demand for money, what are the major differences between 'transaction approach' and 'cash balance approach' ?\n(d) Discuss the Factor Endowment theory of trade in terms of 'abundance in factor prices' and 'factor abundance'.\n(e) According to Hirschman, unbalanced growth can be through 'Social Overhead Capital (SOC)' or 'Direct Productive Activities (DPA)'. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138,
+          139,
+          23,
+          14
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) Consider a duopoly market,\nP = 100 - 2Q, MC = 10 and Q = q1 + q2\nwhere\nP : Market price\nQ : Total output or the sum total of both firms' output\nq1 & q2 : Firm 1 and Firm 2's output respectively\nMC : Marginal cost\nSuppose Firm 1 is the market leader and Firm 2 is the follower. Firm 1 decides its output first and then Firm 2 takes its output decision. Find equilibrium output, price and profit of both the firms.\n(b) Do you think Firm 1 would have had the first mover advantage if it had gone for the price adjustment ? Explain your answer.\n(c) A competitive equilibrium is both Pareto efficient and equitable. Do you agree ? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) IS curve is the locus of equilibrium points in the commodity market. What do the points above and below the IS curve signify ?\n(b) Compare the deposit multiplier with the money multiplier. Is there any impact on the money multiplier arising out of massive use of credit and debit cards ? Justify your answer.\n(c) Discuss the effectiveness of the monetary policy in an open economy with flexible exchange rate and perfect capital mobility. Will this policy remain effective with fixed exchange rate also, while other things remain the same ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 46,
+        "subtags": [
+          16,
+          20
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 41
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 46
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) State the canons of taxation. Do you think that direct taxes are less burdensome than indirect taxes in generating equal amount of tax revenue ? Justify your answer.\n(b) Give economic rationale for public expenditure on elementary education - a merit good.\n(c) What will be the shape of the aggregate supply curve in the Classical and Keynesian models ? Give detailed explanation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 297,
+        "subtags": [
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 297
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 297
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each (10x5=50):\n(a) Stating major assumptions in the Kaldor model of distribution, establish that share of profits in national income depends on the ratio of investment to total output.\n(b) Explain the quantitative methods of credit control adopted by the central bank.\n(c) Under Partial equilibrium analysis, discuss the consumption and revenue effects of tariffs.\n(d) Show that in Domar's growth model, in equilibrium, path of investment is exponential.\n(e) With appropriate examples, discuss the difference between the flow and the stock concept of renewable resources. Can the availability of one of these two resources be less for the consumption of future generations ? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          20,
+          14,
+          142
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 41
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) What do you mean by the warranted rate of growth ? Explain the knife edge instability problem in Harrod's growth model.\n(b) Following Arthur Lewis, briefly state the sources of unlimited supply of labour and explain the mechanism of development of a dual economy of a less developed country.\n(c) Distinguish between Gender Development Index (GDI) and Gender Empowerment Measure (GEM) in terms of their components and constructions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 33,
+        "subtags": [
+          14,
+          141
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 298
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine whether in Ricardian model, the theory of comparative advantage actually becomes a doctrine of comparative costs.\n(b) Distinguish between nominal and effective rates of protection in Standard Trade Model. Suppose:\n- nominal tariff on imported good j is 40%,\n- tariff rate on input i is 40%,\n- cost share of imported input i in the total cost of production of commodity j is 0.5%.\nDetermine the effective rate of protection and show that in this case nominal tariff rate is equal to the effective rate of protection.\n(c) Illustrate Jagdish Bhagwati's doctrine of 'Immiserising Growth'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          14
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) State the functions of United Nations Conference on Trade and Development (UNCTAD). Do you think that UNCTAD has been successful in extending economic cooperation among the developing countries ? Justify your answer.\n(b) Why do developing countries rely on specifying a permissible level of pollution and impose it uniformly across all polluting units of the same kind ? What are the problems associated with such a control method ?\n(c) What are the major achievements and failures of COP (Conference of Parties) 26 ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 33,
+        "subtags": [
+          142,
+          23
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 299
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    }
+  ]
+}

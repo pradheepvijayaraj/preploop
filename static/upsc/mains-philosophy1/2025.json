@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2025_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) “Ideas are timeless and spaceless.” Elucidate this statement with reference to Plato.\n(b) “In the empirical world, everything is a compound of Matter and Form.” Evaluate this statement with reference to Aristotle.\n(c) Explain the difference between being-for-itself and being-in-itself as presented by Sartre.\n(d) “The golden mountain is very high.” Discuss this statement in the context of Russell’s theory of descriptions.\n(e) How does Hegel challenge Kant’s distinction between Phenomena and Noumena ? Discuss",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          327,
+          329,
+          321
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 487
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 479
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) What are the basic tenets of Rationalism ? How does Descartes build a system of Philosophy in consonance with them ? Discuss.\n(b) “All determination is negation.” Comment with reference to Spinoza.\n(c) Examine Hume’s refutation of Causal relation and Kant’s response to it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 477,
+        "subtags": [
+          320
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 478
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) “We should look not to an ideal language which derives its meaning from facts and has a precise logical structure but empirically, to the ways in which languages are actually used.” Explain the transition from early views of Wittgenstein to his later views on language and meaning with reference to this statement.\n(b) Present an exposition of the verification theory of meaning as propounded by the logical positivists. In this context also differentiate between the “strong” and the “weak” sense of the word “verifiable”.\n(c) “Blue is one object of sensation and green is another, and consciousness, which both sensations have in common, is different from either.” Present an account of Moore’s refutation of idealism with reference to this statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 483,
+        "subtags": [
+          324,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 483
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) How is Husserl’s account of “I think” different from that of Descartes ? Critically discuss.\n(b) “We can affirm the truth of any sentence in our total system, in the face of whatever experience, just so long as we are prepared to make adjustments elsewhere.” Discuss this statement in the light of Quine’s ‘Two Dogmas of Empiricism’.\n(c) Explain Berkeley’s doctrine of nominalism and his refutation of Abstract ideas.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 477,
+        "subtags": [
+          328,
+          320
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 486
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 478
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Explain the ground on which Cārvāka rejects inference (anumāna) as a valid source of knowledge.\n(b) Present an exposition of the debate between Naiyāyikas and Buddhists with reference to the notion of Pramāṇa and Pramāṇaphala.\n(c) Delineate the main points of difference between the theory of intrinsic validation (svataḥ prāmāṇyavāda) and theory of extrinsic validation (parataḥ prāmāṇyavāda) in classical Indian philosophy.\n(d) Examine Rāmānuja’s seven objections against Māyāvāda of Advaita.\n(e) Present an exposition of Nyāya-Vaiśeṣika’s theory of causation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          332,
+          333
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) Present a detailed account of Gautama’s definition of Perception.\n(b) How is Brahman conceptualised in Advaita philosophy as both Nimitta and Upādāna Kāraṇa of the World ? Discuss with suitable examples.\n(c) Discuss the debate between the Bhatta and the Prabhākara mīmāmsakas with reference to the nature of Non-existence (Abhāva) and its knowledge.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          337
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 494
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) Why does Śamkara consider Sāmkhya Philosophy as his chief opponent (pradhāna malla) ? Examine his arguments against Sāmkhya Philosophy.\n(b) Explain the nature of God and its role in Kaivalya in yoga philosophy.\n(c) Is Jaina philosophy pluralistic and realistic ? Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 492,
+        "subtags": [
+          335,
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the idea of Bimba-pratibimbavāda as presented in Vedanta philosophy along with its soteriological significance.\n(b) ‘Both Ascetic and materialist are partial in their negation of each other’. Explain Sri Aurobindo’s integral philosophy in the light of the above statement.\n(c) Is Buddhist notion of Nirvāṇa in consonance with their conception of Kṣaṇikavāda (momentariness) and Nairātmyavāda (no-soul theory) ? Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 495,
+        "subtags": [
+          338,
+          332
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 495
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 496
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        }
+      ]
+    }
+  ]
+}

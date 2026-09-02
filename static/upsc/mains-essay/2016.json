@@ -1,0 +1,249 @@
+{
+  "metadata": {
+    "name": "Mains Essay · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "ESSAY",
+    "section": "mains-essay",
+    "sourceId": "upsc_2016_mains_essay",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "maxMarks": 250,
+    "durationSeconds": 10800,
+    "examRegime": "essay-modern"
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_essay_q1",
+      "type": "fill-blank",
+      "question": "If development is not engendered, it is endangered",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 59,
+        "subtags": [
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q2",
+      "type": "fill-blank",
+      "question": "Need brings greed, if greed increases it spoils breed",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 605,
+        "subtags": [
+          465,
+          452
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q3",
+      "type": "fill-blank",
+      "question": "Water disputes between States in federal India",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          457
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q4",
+      "type": "fill-blank",
+      "question": "Innovation is the key determinant of economic growth and social welfare",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 607,
+        "subtags": [
+          348,
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q5",
+      "type": "fill-blank",
+      "question": "Cooperative federalism : Myth or reality",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 606,
+        "subtags": [
+          460
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q6",
+      "type": "fill-blank",
+      "question": "Cyberspace and Internet : Blessing or curse to the human civilization in the long run",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 609,
+        "subtags": [
+          457
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q7",
+      "type": "fill-blank",
+      "question": "Near jobless growth in India : An anomaly or an outcome of economic reforms",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 607,
+        "subtags": [
+          459,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_essay_q8",
+      "type": "fill-blank",
+      "question": "Digital economy : A leveller or a source of economic inequality",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 125.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 609,
+        "subtags": [
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 125.0
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2025_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Corrupt practices reveal an inherent tension between particularistic and universalistic normative standards.\" Do you agree with this statement? Give reasons and justification for your answer.\n(b) How does gender as a social construct affect individuals' opportunities, rights, and access to resources? Critically discuss.\n(c) Is the idea of secularism necessarily related to the idea of religious pluralism? Discuss.\n(d) Comment on Plato's critique of Democracy.\n(e) Discuss the salient features of equality according to J.S. Mill.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          51,
+          344,
+          339
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 149
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 502
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 497
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) Present a detailed account of the debate between Gandhi and Ambedkar on the issue of caste discrimination.\n(b) Evaluate Marxism as a Political Ideology.\n(c) 'There is no permanent friend or permanent enemy.' Discuss this statement in the light of Kautilya's view on Sovereignty.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 508,
+        "subtags": [
+          33,
+          342
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 500
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Can one's right to life be absolute ? Answer with reference to the idea of Capital Punishment.\n(b) How does the reconciliation of opposites take place in the Humanism of Tagore ? Evaluate.\n(c) Is it possible to reconcile the concept of development with tribal values to bring social and economic progress ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 404,
+        "subtags": [
+          345,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 503
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 506
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) How are both equality and liberty inadequate as social and political ideals without justice? Discuss.\n(b) Can Theocracy be accepted as a valid form of Government? Give reasons and justification in support of your answer.\n(c) \"Duties are of the nature of obligation while Rights are of the nature of entitlement. Therefore there is no necessary connection between the two.\" Do you agree with this statement? Give reasons and justification for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 499,
+        "subtags": [
+          344,
+          11
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 502
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss Cārvāka's critique of the belief in the existence of suprasensible entities.\n(b) Is religious language symbolic ? Give reasons and justification in support of your answer.\n(c) Present an account of Nietzsche's criticism of religion and morality.\n(d) Discuss the nature of embodied liberation (jīvanmukti) with reference to Advaita Vedānta.\n(e) How does Aquinas' account of Faith as \"an intellectual assent\" reconcile the juxtaposition between Reason and Faith ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 510,
+        "subtags": [
+          360,
+          358,
+          354,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Present an account of Design argument to prove the existence of God along with its criticism by David Hume.\n(b) Explain the main tenets of the Process Theodicy as an explanation of the problem of evil.\n(c) Distinguish between Natural Theology and Revealed Theology in the context of the Propositional view of Revelation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 510,
+        "subtags": [
+          353,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 511
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) How does the Vedantic view of Religious Pluralism address the conflicting truth claims of different faiths? Answer with reference to Swami Vivekananda's view of Universal Religion.\n(b) What proofs do Nyāya philosophers offer for the existence of God? Discuss.\n(c) Is the concept of immortality of soul a necessary condition for Rebirth? Discuss with reference to the Bhagavad Gītā.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 517,
+        "subtags": [
+          352,
+          354
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the nature and object of Religious Experience as explained by Radhakrishnan in 'The Hindu View of Life'.\n(b) Is it necessary for the normative principles to bear reference to God in order to produce a feeling of obligation in a moral agent ? Critically discuss.\n(c) Discuss the Advaitic notion of indescribability (anirvachaniyatā) in the context of nature of religious language.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 514,
+        "subtags": [
+          351,
+          360
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 514
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 518
+        }
+      ]
+    }
+  ]
+}

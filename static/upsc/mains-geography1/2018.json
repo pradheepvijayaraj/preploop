@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2018_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"Landscape is a function of structure, process and stage.\" Critique the statement.\n(b) Explain the role of evaporation in the hydrologic cycle.\n(c) Describe the causes and consequences of sea level changes.\n(d) Distinguish between intrazonal and azonal soils. Describe in brief the characteristics and importance of azonal soils.\n(e) Explain the natural and anthropogenic causes and mitigation measures of frequent flooding in Mumbai.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          54,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) Evaluate how far Kober's geosynclinal theory explains the mountain building process.\n(b) Critically examine the basis and scheme of climatic classification proposed by G.T. Trewartha.\n(c) Discuss the objectives and principles of environmental education. Describe the basic concerns of formal and non-formal environmental education in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the origin, progress and retreat of the Indian monsoon and discuss its impact on the Indian economy.\n(b) \"Geomorphological changes are largely responsible for environmental hazards in the Himalayan region.\" Comment with relevant examples.\n(c) \"Controlling population growth is the sustainable solution to environmental problems.\" Express your views with suitable arguments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          53
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Describe the potential marine energy resources with reference to their benefits, harvestibility and environmental impacts.\n(b) Explain the ecosystem approach to environmental management and highlight its advantages and disadvantages.\n(c) Discuss the causes of degradation of tropical rainforests and suggest remedial measures for their prevention, conservation and development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": [
+          150,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each\n(a) \"Geography is a contested and multiparadigmic discipline with a strong eurocentricity that has only recently been challenged.\" Comment.\n(b) Discuss the degree of importance of transportation costs as a factor of industrial location with respect to \"footloose industries\".\n(c) Explain the concepts of \"megalopolis\" and \"exopolis\" with regard to the growth of cities indicating whether the two can and do overlap.\n(d) Write a note on \"forward and backward linkages\" in Perroux's thesis of economic growth and regional development.\n(e) Outline briefly the \"age of mass consumption\" as described by Rostow in his 'multi-stage theory of growth'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 12,
+        "subtags": [
+          1,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Areal differentiation has provided the theoretical justification for studying 'regions' and 'regional geography'.\" Comment.\n(b) Citing examples from Asia and Europe, comment upon the contexts within which pronatalist population policies are advanced. What could be the implications of these policies on women's workforce participation?\n(c) Comment upon the contributions of D.M. Smith in outlining 'welfare' as a key focus in the geographies of social well-being.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Famine is a social phenomena rooted in institutional and political economic arrangements, which determine access to food by different classes and strata.\" Comment.\n(b) Provide a brief outline of ideas related to \"sense of place\" as propounded by Yi-Fu Tuan and Relph in the humanistic geography that emerged in the 1970's.\n(c) Elaborate upon the influence of Marxist philosophy on geographical research, outlining key themes addressed by Marxist geographers since the 1970's.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Welfare geography emphasizes spatial inequality and territorial justice.\" Comment with reference to the main ideas and scope of the subfield.\n(b) Discuss critically the manner in which quantitative revolution provided the methodological foundation for models and modelling in geography.\n(c) Discuss in brief the main thesis in \"Limits to Growth\" (1972) and also provide a critique of the same.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          154,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 311
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    }
+  ]
+}

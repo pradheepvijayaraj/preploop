@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "ECONOMICS1",
+    "section": "mains-economics1",
+    "sourceId": "upsc_2021_mains_economics1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_economics1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Compare and contrast Marshallian and Walrasian approaches of the stability in equilibrium.\n(b) Using generalised Lorenz dominance show that lower inequality represents a higher social welfare state.\n(c) Examine the relationship between business cycle and changes in autonomous expenditure.\n(d) Does government borrowing always crowd out the private investment ? Illustrate.\n(e) The slope of the IS schedule will become steeper if the government reduces the rate of proportional tax but will not change at all if the government reduces the level of a lump sum tax. True or false ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          137,
+          14,
+          140,
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 294
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 297
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics1_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the differences between Cournot model of duopoly with similar product and differentiated product.\n(b) What type of conjecture is involved in the existence of kinked demand curve ? Do you think that kinked demand curve model is a price determination model in an oligopoly market ? Justify your answer.\n(c) Examine how profit, wage and rent in Ricardian system move differently with the movements in level of income.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 36,
+        "subtags": [
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 36
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 295
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics1_q3",
+      "type": "fill-blank",
+      "question": "(a) Show that differences in underlying expectation lead to differences in Keynesian and classical aggregate supply curve.\n(b) Apply the theory of liquidity preference to explain why an increase in money supply lowers the interest rate. What does this explanation assume about the price level ?\n(c) Explain how the weaknesses of Keynesian speculative demand for money have been identified in Regressive Expectations model.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 296,
+        "subtags": [
+          138
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 296
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics1_q4",
+      "type": "fill-blank",
+      "question": "(a) Derive short-run aggregate supply curve following Lucas, when expectations are not realised, assuming that labour market clears. What will be its shape when expectations are fulfilled ?\n(b) Describe high powered theory of money supply in brief. State the assumptions made in its construction.\n(c) Do you think that increase in Government spending through borrowing from public accompanied by fall in required reserve ratio generates recession in the economy ? Illustrate your answer :\n(i) in a closed economy with fixed exchange rate.\n(ii) in an open economy with fixed exchange rate and without any capital mobility.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 46,
+        "subtags": [
+          138,
+          139
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 296
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 46
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Explain Rosenstein-Rodan's view that economic underdevelopment is the outcome of a massive coordination failure.\n(b) Explain how gender sensitive human development index can be constructed.\n(c) Show that the economic integration is the pre-requisite to establish covered interest rate parity.\n(d) Under what condition Real Exchange Rate is synonymous to 'terms of trade' ? Discuss.\n(e) Do you agree whether sustainable use of energy ensures economic sustainability ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 33,
+        "subtags": [
+          141,
+          138,
+          23,
+          142
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 298
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 295
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 299
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics1_q6",
+      "type": "fill-blank",
+      "question": "(a) Evaluate Kuznets' inverted U shaped curve hypothesis of income distribution. Does it hold good for less developed countries as well ?\n(b) Does human capital cause economic growth ? Explain how human capital formation can be enhanced.\n(c) Explain how Harrod's warranted rate of growth is similar to Domar's required rate of growth. How has Solow improved upon Harrod-Domar's growth model ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 34,
+        "subtags": [
+          13
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 33
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 34
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the theory of acquired advantage in international trade using suitable examples.\n(b) Do you think that movement of the nominal exchange rate of Rupee represents a corresponding movement of Indian goods vis-á-vis foreign goods ? Explain your position.\n(c) What are the different categories of trade blocks ? Are trade blocks beneficial to less developed economies ? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": [
+          22
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 48
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 46
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 48
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_economics1_q8",
+      "type": "fill-blank",
+      "question": "(a) If the government raises taxes on labour income and interest income, explain how potential GDP and economic growth are affected.\n(b) Examine the effects of providing public service by a private agency at a lesser price than earlier one on\n(i) a closed economy with fixed wages.\n(ii) a closed economy with flexible wages.\n(c) What is Buchanan's criticism of Arrow's theorem ? Show how A. K. Sen proved Arrow's theorem without the overall consistency of social choice to avoid the criticism of Buchanan.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 294,
+        "subtags": [
+          14,
+          140
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 34
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 297
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 294
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper 2 · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2015_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Relevance of tribal Panchsheel today\n(b) Sacred complex as a dimension of Indian civilization\n(c) South Indian Paleoliths\n(d) Panchayati Raj Institutions and Social Change\n(e) Rights over resources and tribal unrest",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          112,
+          108,
+          111,
+          125
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 269
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 282
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Examine the social implications of media and communication technology.\n(b) Briefly describe the classical models of ethnic and linguistic classification of Indian population. Discuss its relevance today.\n(c) Discuss the problems faced by religious minorities in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 268,
+        "subtags": [
+          110,
+          116
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 267
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 273
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss how constitutional provisions in India have built-in mechanisms for dealing with the problem of land alienation in tribal areas.\n(b) Discuss the impact of Hinduism on the status of tribal women in Central India.\n(c) Describe the paleoanthropological fossil finds from Siwalik hills. Examine the contribution of Siwalik fossils to paleoanthropological knowledge.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 276,
+        "subtags": [
+          124,
+          108
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 276
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 281
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 265
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the concept of communalism and its relevance for multi-religious and multiethnic polity of India.\n(b) Examine in detail the role of anthropology in planning for tribal development.\n(c) Critically compare 'Affirmative Action' of USA and 'Protective Discrimination' for Scheduled Tribes in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 147,
+        "subtags": [
+          127,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 278
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Prehistoric Rock Art of Central India\n(b) Islam and Matriliny\n(c) Socioeconomic characteristics of shifting cultivators\n(d) Elwin-Ghurye Debate on Tribes\n(e) Role of Governor in Fifth Schedule Areas",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 264,
+        "subtags": [
+          124,
+          128,
+          125,
+          121
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 281
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "d",
+          "marks": 10.0
+        },
+        {
+          "label": "e",
+          "marks": 10.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Examine the contribution of village studies towards the understanding of Indian social system.\n(b) Discuss the impact of globalization on village economy in India.\n(c) Discuss the significance of Harappan Civilization sites from India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 272,
+        "subtags": [
+          108
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 272
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 265
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Recently non-government organizations have been critiqued for interfering with developmental process in tribal heartland! Critically comment.\n(b) Discuss the nature of social change in tribal India under the impact of developmental programmes.\n(c) Discuss the contribution of M. N. Srinivas to the study of Indian society. Examine the influence of British social anthropologists on his ideas.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 284,
+        "subtags": [
+          122,
+          111
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 284
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by dynamics of caste mobility? How did the concept of Sanskritization contribute to its functionality?\n(b) Critically examine the concept of tribe-caste continuum and its relevance in contemporary India.\n(c) Discuss the sociocultural, economic and psychological constraints responsible for low literacy in tribal areas.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          119
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        }
+      ]
+    }
+  ]
+}

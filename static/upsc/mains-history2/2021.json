@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2021_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) The introduction of Western education transformed India in unforeseen ways.\n(b) Tipu Sultan had little success in setting forth a course of change significantly different from the general experience of 18th century crisis of Indian politics and society where public life tended over and over to become a system of plundering.\n(c) The Vernacular Press Act of 1878 was designed for better control of the vernacular press and to empower the government with more effective means of punishing and repressing seditious writings.\n(d) The rise of the Communist Movement in India in the 1920s lent a militant and revolutionary content to the Trade Union Movement.\n(e) In the first decade of the 20th century, the atmosphere was ripe for the emergence of revolutionary groups to fill up the vacant space in the political map of the country.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 352,
+        "subtags": [
+          200,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) India had been the world leader in the field of hand spun and hand woven yarn and cloth for many centuries. Many nationalist and Marxist critiques considered that the British dominion deliberately shattered the traditional and world famous handicrafts of India. Comment.\n(b) What were the various ways in which nationalism manifested itself in India during colonial rule?\n(c) The East India Company had thought that they had found an ideal puppet in Mir Kasim. Mir Kasim, however, belied the expectation of the company. Examine critically.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          193
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) How did English utilitarian thinking impact India in the British era?\n(b) The same Gandhiji who withdrew the Non-Cooperation Movement on the issue of violence at Chauri-Chaura, refused to condemn people's violence during the Quit India Movement. Do you think that he was losing his faith in the efficacy of non-violence and was willing to deviate from this path? Elucidate.\n(c) While individually the Marathas were clever and brave, they lacked the corporate spirit so essential for national independence. Discuss with reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          199,
+          0
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 357
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the major constitutional developments in India after 1858 and their impact on society and polity.\n(b) Discuss the changing nature of Dalit assertion in India in the twentieth century.\n(c) How were the Princely States integrated in the Indian Union after the partition ? What role did Sardar Patel play in it ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 358,
+        "subtags": [
+          203,
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 361
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) There were many reasons why the industrial revolution first happened in England.\n(b) Napoleon's continental system may be reckoned as the greatest blunder and may be described as a \"monument of misdirected energy\".\n(c) The Chartist Movement failed to achieve its stated objectives, but succeeded in seeding the idea that a representative democracy should include all citizens.\n(d) During the Cold War, some important leaders of the Non-Aligned Movement wanted to keep the movement away from the military blocs.\n(e) The Arab countries looked up to Nasser as a leader who could withstand the pressure exerted by Western countries on Egypt to make peace with Israel.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 365,
+        "subtags": [
+          42,
+          206,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) What was \"enlightened\" about the Age of Enlightenment ?\n(b) What were the causes and consequences of the revolutionary upsurge of the 1840s in Europe ?\n(c) The white-minority government of South Africa treated the natives very badly by denying them fundamental rights and made Apartheid as official policy. How were the people able to end Apartheid policy and establish a transitional rule ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          206,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) The rise of nationalism across nations shattered the chains which held together the empires of modern Europe. Discuss.\n(b) In the American civil war, the victory of the North had many consequences. Some of them were direct and obvious. However, its indirect effects on American development were perhaps even more important. Comment.\n(c) Revolutions, whether in Russia (1917) or in China (1949), are a disastrous way of transforming a country. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          43,
+          206
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) Europe was at war with itself in the first half of the twentieth century with a long cease-fire. Comment.\n(b) The impact of the end of the Cold War and the emergence of the US as the lone superpower has been both, good and bad. Discuss.\n(c) Do you think that the United Nations Organisation has played a significant role in resolving international disputes and ensuring peace in the world?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    }
+  ]
+}

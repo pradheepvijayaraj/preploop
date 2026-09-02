@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY1",
+    "section": "mains-sociology1",
+    "sourceId": "upsc_2024_mains_sociology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_sociology1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the nature of Sociology. Highlight its relationship with Social Anthropology.\n(b) Analyse the changing nature of caste as a status group.\n(c) Marriage as an institution has undergone a radical transformation from 'ritual' to 'commercial' in its outlook. Explain the factors behind this change.\n(d) Democracy needs a vibrant culture of civil society in order to strengthen its foundation of citizenship. Comment.\n(e) What are the 'basic and irreducible' functions of the family as proposed by Talcott Parsons ? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 574,
+        "subtags": [
+          420,
+          425,
+          423,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_sociology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Sociology is the product of European enlightenment and renaissance. Critically examine this statement.\n(b) Do you think 'objectivity' is an over-hyped idea in sociological research? Discuss the merits and demerits of non-positivist methods.\n(c) What is social mobility? Critically examine the classification of 'closed' and 'open' models of social stratification.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 574,
+        "subtags": [
+          418,
+          421
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 574
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 579
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_sociology1_q3",
+      "type": "fill-blank",
+      "question": "(a) How do you view and assess the increasing trend of digital ethnography and use of visual culture in sociological research?\n(b) Describe the main idea of Max Weber's book, 'The Protestant Ethic and the Spirit of Capitalism' as a critique of Marxism.\n(c) Critically explain the salient features of 'alienation' as propounded by Karl Marx.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_sociology1_q4",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by 'mixed method'? Discuss its strengths and limitations in social research.\n(b) Define the concept of 'gig' economy and discuss its impact on labour market and workers' social security net.\n(c) Critically assess the impact of technological advancement and automation on the nature of work and employment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 580,
+        "subtags": [
+          418
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 576
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_sociology1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each : (50 marks total)\n(a) Describe various characteristics of a 'social fact'. How is rate of suicide a social fact according to Durkheim ?\n(b) Explain G.H. Mead's idea of development of 'self' through the 'generalised other'.\n(c) Describe the differing principles of work organization in feudal and capitalist societies.\n(d) How is 'power' different from 'authority' ? Discuss various types of authorities as theorized by Max Weber.\n(e) Critically examine the roles of science and technology in social change. What is your opinion on their increasing trend in 'online' education and teaching ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 577,
+        "subtags": [
+          422,
+          423,
+          425
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 580
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 581
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 583
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_sociology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Underline the role of social media in contemporary social movements and describe its challenges.\n(b) How does a multicultural society accommodate diversities of all kinds — ethnic, linguistic and religious? Discuss its major challenges.\n(c) Discuss the concept of animism and differentiate it from naturism.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 583,
+        "subtags": [
+          420,
+          89
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 578
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_sociology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Do modernization and secularization necessarily go together? Give your views.\n(b) How do you understand the phenomena of the mushrooming of sects and cults in contemporary society? Discuss the factors responsible for the trend.\n(c) Discuss the dimensions of power in the construction and maintenance of social hierarchies in a society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 582,
+        "subtags": [
+          420
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 582
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 578
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_sociology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Modern families have not just become nuclear and neo-local, but also filiocentric. How do you explain this trend ?\n(b) Discuss various theories of social change. Explain the limitations of unilinear theory of social change.\n(c) Critically examine the World-Systems theory of Immanuel Wallerstein in terms of development and dependency of various nations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 246,
+        "subtags": [
+          425,
+          419
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 583
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 577
+        }
+      ]
+    }
+  ]
+}

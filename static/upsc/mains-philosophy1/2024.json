@@ -1,0 +1,371 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2024_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Differentiate between Plato's and Aristotle's conceptions of form.\n(b) How does Kant respond to Hume's skepticism with regard to a priori judgments ? Discuss.\n(c) What arguments are offered by Moore to prove that there are certain truisms, knowledge of which is a matter of common sense ? Critically discuss.\n(d) Why does later Wittgenstein think that there cannot be a language that only one person can speak — a language that is essentially private ? Discuss.\n(e) How does Kierkegaard define truth in terms of subjectivity ? Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          320,
+          323,
+          325,
+          327
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 483
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 485
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) Is rejection of Locke's notion of primary qualities instrumental in Berkeley's leaning towards idealism? In this context, also discuss how Berkeley's subjective idealism is different from the absolute idealism proposed by Hegel.\n(b) How does Spinoza establish that statement – \"Whatever is, is in God\"? Critically discuss.\n(c) Critically examine Kant's objections against the ontological argument for the existence of God.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          319,
+          321
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 479
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain Russell's notion of incomplete symbols. Also explain how this notion leads to the doctrine of logical atomism.\n(b) Is the sentence \"All objects are either red or not red\" meaningful in the same way as \"This page is white\" is, according to the logical positivists? Discuss with arguments.\n(c) Among the rationalists, whose account of mind-body problem is compatible with the notion of human freedom and free will? Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 481,
+        "subtags": [
+          324,
+          319
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) What do the existentialist thinkers mean by the slogan \"existence precedes essence\"? How is human existence related to human freedom according to them? Discuss.\n(b) Why does Husserl think that essences exhibit a kind of continuity between consciousness and being? Discuss.\n(c) Explain the nature of the two dogmas that Quine refers to in his paper 'Two Dogmas of Empiricism'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 485,
+        "subtags": [
+          326,
+          328
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 486
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Do you think Cārvāka's philosophy is positivistic in nature ? Give reasons and justifications for your answer.\n(b) Explain the six reasons offered by the Naiyāyikas to prove the existence of the self.\n(c) Do these two sentences \"Air does not have heat\" and \"Air is not fire\" refer to the same type of absence or abhāva, according to the Vaiśeṣikas ? Discuss.\n(d) How does Bhaṭṭa's view of nature of word-meaning and sentential-meaning differ from Prābhākara's view ? Critically discuss.\n(e) \"In Viśiṣṭādvaita philosophy, the relationship between God and the world is parallel to that between an individual self and its body.\" Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          330
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 488
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) Differentiate between the Cārvākas' refutation of self as a transcendental category and the Buddhist rejection of ātmā.\n(b) How do the two schools of Buddhism arrive at two opposed conclusions, namely \"everything is void\" and \"everything is real\" from the same doctrine of Pratītyasamutpāda? Answer with arguments.\n(c) What is the distinction between Bhāvabandha and Dravvabandha, according to the Jainas? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 490,
+        "subtags": [
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) Present an account of evolution of Prakṛti as propounded in Sāṃkhyakārikā. In this context, also explain the difference between buddhi, mahat and ahaṃkāra.\n(b) \"So long as there are changes and modifications in citta, the self is reflected therein, and, in the absence of discriminative knowledge, identifies itself with them.\" Present an appraisal of Yoga Soteriology in the light of the above statement.\n(c) \"Our Yoga is a double movement of ascent and descent.\" Discuss the above statement in the context of Sri Aurobindo's conception of Integral Yoga.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 493,
+        "subtags": [
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 493
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) How do I know that I know? Answer this question with reference to the Naiyāyikas, the Bhāṭṭa Mīmāṁsakas and the Prābhākaras.\n(b) \"A candidate who is never seen to be studying during the day time secures a high position in a competitive exam.\" How would the Bhāṭṭa Mīmāṁsakas and the Naiyāyikas explain the success of this candidate? Discuss.\n(c) On what grounds do the Prābhākaras and the Naiyāyikas reject memory as a source of knowledge? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          332
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 494
+        }
+      ]
+    }
+  ]
+}

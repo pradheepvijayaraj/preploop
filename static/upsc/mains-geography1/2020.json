@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2020_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Write a geographical note on Halloween Storm.\n(b) Why is mapping important for analysing geo-hydrological investigations? Explain with relevant examples.\n(c) Marine resources are economically very significant. Discuss citing suitable examples.\n(d) Which factors influence the growth of wild plants in India? Discuss their economic significance.\n(e) Discuss the problems associated with the living environment in million plus cities in India. How can these be managed?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 308,
+        "subtags": [
+          52,
+          54,
+          2,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) Write an essay on the evolution of continents and oceans using various theories and models.\n(b) Discuss the concept of coral bleaching, its recovery and macroalgal regime shifts due to this process.\n(c) Explain the currents of the North Atlantic Ocean and their significant role in the climate of Western Europe.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 152,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain how various factors influence the origin and development of the Indian monsoon system.\n(b) Explain the effects and causes of deforestation, and its impact on the pattern of agriculture in India.\n(c) Explain the characteristic features of Frontogenesis and Frontolysis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          3,
+          52
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the problems of erosional surfaces and explain the different methods to identify them with suitable diagrams.\n(b) Land use/Land cover and soil types influence forage quantity and quality in semi-arid regions of the world. Discuss with relevant examples.\n(c) Discuss the human response to and management of hazards and disasters in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          3,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Analyse India's food security in the context of population growth.\n(b) Identify the causes and effects of energy crisis, and suggest suitable measures to solve the problem.\n(c) Distinguish between mobility and migration. What are the causes and consequences of rural to urban migration in India?\n(d) \"Where economic growth is sustained over long time periods, its incidence works towards a progressive integration of the space economy.\" Elucidate.\n(e) Write a note on the relevance of von Thünen's agricultural location theory in the present context.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 12,
+        "subtags": [
+          151,
+          152
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) Compare and contrast the Malthusian and Neo-Malthusian perspectives in the context of population growth, resource use and environmental impact.\n(b) \"Land degradation is a threat to productivity and sustainable resource management.\" Explain with suitable examples from India.\n(c) In the modern world, most of the frontiers have been replaced by boundaries. Explain the reasons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 308,
+        "subtags": [
+          150,
+          2
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the concept of urban resilience in the context of planning for sustainable development with reference to towns and cities of India.\n(b) Analyse the dynamics of industrial location in the metropolitan cities of India.\n(c) Write an essay on gender equity and equality in India in the context of balanced human development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          2,
+          1
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss how and why Mackinder modified his concept of Pivot Area after the World Wars.\n(b) Provide an account of world population transition in the context of fertility decline and socio-economic development.\n(c) \"Human ecology is the study of mutual relationship of people and their environment both natural and social.\" Discuss in detail using ecological concepts.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 310,
+        "subtags": [
+          151,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    }
+  ]
+}

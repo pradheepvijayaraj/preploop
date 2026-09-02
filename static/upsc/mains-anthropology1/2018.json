@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2018_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) The Relevance of Anthropology\n(b) Difference between Science and Magic\n(c) Town Planning of Harappan Culture\n(d) Kinship Terminology\n(e) Ways of Acquiring Mate in Tribal Society",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 234,
+        "subtags": [
+          92,
+          86,
+          89,
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 234
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 249
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 246
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 244
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the biological changes that made human beings capable of making culture.\n(b) How does customary law function in the tribal society? Discuss its different sources.\n(c) What do you understand by the National Character Study? Illustrate the concept.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Define ethnography and present a brief history of ethnographic studies.\n(b) Give an account of the consequences of food production of Neolithic culture.\n(c) Critically examine that the structure and content of language are influenced by culture.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          95
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 252
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) How is case study method helpful in understanding a social phenomena ? Explain with suitable example.\n(b) Describe the culture related to Homo erectus.\n(c) Write the characteristics of hunting and gathering economy.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 252,
+        "subtags": [
+          86,
+          90
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 252
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 247
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each:\n(a) Gordon Childe's Theory of Cultural Evolution\n(b) Advanced Molecular Anthropology Techniques\n(c) Categorize Genes that influence Human Survival.\n(d) Race is a Myth. Justify its Present Day Relevance.\n(e) Issues of Elderly and Senescence in Developing and Developed Countries",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 241,
+        "subtags": [
+          31,
+          100,
+          103
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 241
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 241
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the mechanisms of human variation in gene frequencies.\n(b) Do Allen's rule and Bergmann's rule hold for human populations ? Explain with examples.\n(c) Explain the impact of discovery of iron technology on contemporary society.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 255,
+        "subtags": [
+          105,
+          87
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 255
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 262
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 244
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Describe the mechanisms for structural anomalies of autosomes with diagrams.\n(b) Describe the principles of radiocarbon dating. Mention its limitations.\n(c) Narrate evolution of disease and major causes of ill health in human populations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 256,
+        "subtags": [
+          85,
+          31
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 256
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 242
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between adaptation, adaptability and acclimatization with examples.\n(b) Define fecundity and explain major factors affecting fecundity in Indian populations.\n(c) Give an account of the field methods used in the study of Archaeological Anthropology.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 258,
+        "subtags": [
+          104,
+          80
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 258
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 261
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 237
+        }
+      ]
+    }
+  ]
+}

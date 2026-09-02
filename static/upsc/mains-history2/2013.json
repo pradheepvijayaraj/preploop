@@ -1,0 +1,333 @@
+{
+  "metadata": {
+    "name": "Mains History Paper 2 · 2013",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2013,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2013_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2013_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each (10x5=50 marks, 150 words each).\n(a) Dupleix made a cardinal blunder in looking for the key of India in Madras : Clive sought and found it in Bengal.\n(b) Swami Vivekananda opined that \"We should give our ancient spirituality and culture and get in return Western science, technology, methods of raising the standard of life, business integrity and technique of collective effort.\"\n(c) \"Ryotwari falls into three stages—early, middle and late, and the only description common to all is that it is a mode of settlement with small farmers, so small, indeed, that their average holding is, on recent figures, only about 6½ acres.\"\n(d) \"Many of us who worked for the Congress programme lived in a kind of intoxication during the year 1921. We were full of excitement and optimism .... We had a sense of freedom and a pride in that freedom.\"\n(e) \"Gandhi's body is in jail but his soul is with you, India's prestige is in your hands, you must not use any violence under any circumstances. You will be beaten but you must not resist; you must not raise a hand to ward off blows.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 349,
+        "subtags": [
+          206,
+          199
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 357
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Weaving\", says R. C. Dutt, \"was the national industry of the people and spinning was the pursuit of millions of women.\" Indian textiles went to England and other parts of Europe, to China and Japan and Burma and Arabia and Persia and parts of Africa. Elucidate.\n(b) \"The first point to note is the continuing importance of religion and philosophy as vital ingredients in the modern Indian Renaissance. Indeed, there is as much reason for regarding it as a reformation as there is for treating it as a Renaissance.\" Critically examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          34
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 121
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"At the dawn of the twentieth century Lord Curzon, the Viceroy of India, was full of hostility towards the Indian National Congress and he confidentially reported to the Secretary of State in November 1900 : My own belief is that the Congress is tottering to its fall, and one of my greatest ambitions while in India is to assist it to a peaceful demise.\" Examine.\n(b) \"Though the Act of 1919 was superseded by that of 1935, the preamble to the former was not repealed—the preservation of the smile of the Cheshire cat after its disappearance, and the latter said nothing about Dominion Status.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Notwithstanding the quest for modernity and the antagonism that guided Nehru's attitude towards the inequalities inherent in the social structure in rural India, the Congress Party did not carry out a concerted campaign against discrimination based on caste. Nehru's own perception was that industrial growth was bound to break the stranglehold of this feudal remnant. This, however, did not happen in India.\" Examine.\n(b) \"The reorganization resulted in rationalizing the political map of India without seriously weakening its unity. If anything, its result has been functional, in as much as it removed what had been a major source of discord, and created homogeneous political units which could be administered through a medium that the vast majority of the population understood. Indeed, it can be said with the benefit of hindsight that language, rather than being a force for division, has proved a cementing and integrating influence.\" Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 147,
+        "subtags": [
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "b",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each : (10 marks each)\n(a) \"For Kant, Enlightenment is mankind's final coming of age, the emancipation of the human consciousness from an immature state of ignorance and error.\"\n(b) \"Six hundred thousand men had died. The Union was preserved, the slaves freed. A nation 'conceived in liberty and dedicated to the proposition that all men are created equal' had survived its most terrible ordeal.\"\n(c) \"Colonialism not only deprives a society of its freedom and its wealth, but of its very character, leaving its people intellectually and morally disoriented.\"\n(d) \"If the 1917 Bolshevik Revolution in Russia (that resulted in the creation of the Union of Soviet Socialist Republics or Soviet Union) inaugurated an international competition for the hearts and minds of people all over the globe, the Chinese Revolution raised the stakes of that struggle.\"\n(e) \"Decolonization has finished. It definitely belongs to the past. Yet somehow it has refused to become history.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          201,
+          205,
+          206,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"In spite of the careful framing of the Charter, the role of UNO as peacekeeper and international mediator has been somewhat lacklustre and muted and that continues to be so even after the end of Cold War.\" Elucidate.\n(b) \"Change in Britain came comparatively peacefully through democratic process in the first half of the nineteenth century and a model of a functioning democracy through ballot box was successfully put in place.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 365,
+        "subtags": [
+          40
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "b",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 133
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) \"New imperialism was a nationalistic, not an economic phenomena.\" Critically examine.\n(b) \"By the 1980s, the Communist system of the Soviet Union was incapable of maintaining the country's role as a Superpower.\" Elucidate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 363,
+        "subtags": [
+          210
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "b",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 368
+        }
+      ]
+    },
+    {
+      "id": "upsc_2013_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"The European Union is the new sick man of Europe.\" Critically evaluate.\n(b) \"There must be an end to white monopoly on political power, and a fundamental restructuring of our political and economic systems to ensure that the inequalities of apartheid are addressed and our society thoroughly democratized.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 367,
+        "subtags": [
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 367
+        },
+        {
+          "label": "b",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2023_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answers with relevant legal provisions and judicial pronouncements.\n(a) Discuss the doctrine of 'Transferred Malice' as applied to law relating to culpable homicide under the Indian Penal Code, 1860.\n(b) Discuss the nature and scope of right of Private defence of property along with limitations if any, on the exercise of such right.\n(c) Illustrate the doctrine of 'constructive-criminality' with reference to law on Abetment.\n(d) \"He who acts through another, does the act himself.\"\nDiscuss the tortious liability entailed in the above statement.\n(e) Explain the various kinds of damages that a plaintiff can claim after a tort has been committed against him.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 407,
+        "subtags": [
+          255,
+          250,
+          263,
+          261
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 407
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 408
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 419
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) A twenty year old girl 'G' was coming back to home after attending college. A man 'M' held her, shut her mouth and dragged her to a nearby bush, where he slit the girl's throat thereby killing her. Thereafter he raped her. Decide what offence(s), if any, 'M' has committed in the above case. Explain the relevant statutory provisions in detail.\n(b) \"In Negligence, the chain of causation must remain intact.\" Describe the essentials of 'negligence' by referring case-laws.\n(c) Define 'Atrocity'. Also discuss the acts that amount to 'atrocity' under the provisions of The Scheduled Castes and Scheduled Tribes (Prevention of Atrocities) Act, 1989.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 412,
+        "subtags": [
+          264,
+          258
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 412
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 422
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 416
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the law relating to 'Assault or Criminal force' to woman with intent to 'Outrage her Modesty' and 'Sexual Harassment' as defined under Indian Penal Code, 1860. Is there any difference between the two ? Explain.\n(b) Elaborate the reasons for including 'e-commerce' in Consumer Protection Act, 2019. Also discuss the consequences for not complying with the provisions of the Act by the e-commerce entities.\n(c) Elucidate the essentials of 'Private Nuisance'. Also discuss the remedies available to a plaintiff in a suit for 'private nuisance'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 414,
+        "subtags": [
+          266,
+          265
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 414
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 424
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 423
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Dishonest Intention is the gist of the offence of Theft.\"\nExamine the above statement with the help of relevant illustrations. Also discuss how 'theft' is different from 'dishonest misappropriation of property.'\n(b) Examine the term 'Undue-Advantage' as defined under the Prevention of Corruption Act, 1988. Also discuss the persons authorised and the procedure required to be followed while investigating cases that are registered under the Prevention of Corruption Act, 1988.\n(c) Critically analyse with the help of decided cases, the essentials to be proved by a plaintiff in a suit for damages for 'Malicious Prosecution.'",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 413,
+        "subtags": [
+          258,
+          260
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 416
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 418
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with relevant legal provisions and judicial pronouncements.\n(a) \"The law of contract is not the whole law of agreements, nor is it the whole law of obligations. It is the law of those agreements which create obligations, and those obligations which have their source in agreement\" — Salmond. Critically examine this statement.\n(b) \"At the suit of a partner, the court may dissolve a firm on certain grounds specified in the Indian Partnership Act, 1932. The right of a partner to ask for dissolution on any of the grounds mentioned in the Act cannot be excluded by any agreement to the contrary.\" Explain.\n(c) \"The parties cannot appeal against an arbitral award as to its merits. But, this does not mean that there is no check on the Arbitrator's conduct. Awards may also be challenged.\" Critically examine the above statement.\n(d) \"In India, there are different types of Intellectual Property rights, which are protected under different laws.\" Explain.\n(e) What kind of cases are heard by the 'National-Green Tribunal' ? How is it different from the Central Pollution Control Board (CPCB) ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          273,
+          275,
+          59,
+          30
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 431
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 433
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 200
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 71
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The Constitutional courts through their judicial activism have made substantial contribution in protecting women against exploitation, using Public Interest Litigation as a tool for securing their Constitutional rights.\" Explain with leading case laws.\n(b) \"A minor's contract being void, ordinarily it should be wholly devoid of all effects. If there is no contract, there should, indeed, be no contractual obligation on either side.\" Explain with case laws.\n(c) \"A 'bearer instrument' is transferable by simple delivery. An 'instrument payable to order' can be transferred by endorsement and delivery.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 435,
+        "subtags": [
+          267,
+          274
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 435
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 432
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) \" 'Standard-contracts' contain a large number of terms and conditions in 'fine print' which restrict or often exclude liability under the contracts. The individuals can hardly bargain with the massive organisation.\" Explain the modes of protection which have been evolved by the courts.\n(b) Describe the constitutional roots of 'Right to Information' in India. Refer to decided case laws.\n(c) \"The doctrine of 'Undisclosed Principal' comes into play when the agent neither disclosed the existence of his principal nor his representative character.\" In such cases discuss the rights and liabilities of the Principals, the agent and the third parties.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 434,
+        "subtags": [
+          71,
+          271
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 434
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 227
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 429
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) Under what circumstances, can an intermediary be held liable for third party-content hosted by them ? Explain the liability of intermediaries in the light of the relevant legal provisions in IT Act and other contemporary developments.\n(b) 'Media trials entail the possibility of subverting administration of justice.' In the light of this statement, analyse the report of Law Commission of India on Media Trial.\n(c) \"Though risk and property generally go together, the two are not inseparable. Sometimes risk may be in one party and property in another.\" Discuss the law relating to 'passing off risk' under the Sale of Goods Act, 1930.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 421,
+        "subtags": [
+          281,
+          272
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 439
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 430
+        }
+      ]
+    }
+  ]
+}

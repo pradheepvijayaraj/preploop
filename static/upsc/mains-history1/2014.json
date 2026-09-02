@@ -1,0 +1,420 @@
+{
+  "metadata": {
+    "name": "Mains History Paper 1 · 2014",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2014,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2014_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2014_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer booklet. Locational hints for each of the places marked on the map are given below seriatim : (2½ marks, 30 words)\n\n![Map supplied with UPSC HISTORY1 2014](/upsc/assets/history1/history1_2014_q1_map.jpg)\n(i) An ancient capital\n(ii) A Palaeolithic site\n(iii) A cultural centre\n(iv) An ancient capital\n(v) A Palaeolithic site\n(vi) A historical site\n(vii) A Harappan site\n(viii) An ancient capital\n(ix) A political and cultural centre\n(x) A Megalithic site\n(xi) A Mesolithic site\n(xii) A Chalcolithic site\n(xiii) A prehistoric site\n(xiv) A political and cultural centre\n(xv) An ancient capital\n(xvi) A lost port\n(xvii) Rock-cave art centre\n(xviii) An ancient capital\n(xix) A political and cultural centre\n(xx) An ancient town",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 324,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "i",
+          "marks": 2.5
+        },
+        {
+          "label": "ii",
+          "marks": 2.5
+        },
+        {
+          "label": "iii",
+          "marks": 2.5
+        },
+        {
+          "label": "iv",
+          "marks": 2.5
+        },
+        {
+          "label": "v",
+          "marks": 2.5
+        },
+        {
+          "label": "vi",
+          "marks": 2.5
+        },
+        {
+          "label": "vii",
+          "marks": 2.5
+        },
+        {
+          "label": "viii",
+          "marks": 2.5
+        },
+        {
+          "label": "ix",
+          "marks": 2.5
+        },
+        {
+          "label": "x",
+          "marks": 2.5
+        },
+        {
+          "label": "xi",
+          "marks": 2.5
+        },
+        {
+          "label": "xii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiii",
+          "marks": 2.5
+        },
+        {
+          "label": "xiv",
+          "marks": 2.5
+        },
+        {
+          "label": "xv",
+          "marks": 2.5
+        },
+        {
+          "label": "xvi",
+          "marks": 2.5
+        },
+        {
+          "label": "xvii",
+          "marks": 2.5
+        },
+        {
+          "label": "xviii",
+          "marks": 2.5
+        },
+        {
+          "label": "xix",
+          "marks": 2.5
+        },
+        {
+          "label": "xx",
+          "marks": 2.5
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"While using the accounts of foreign writers, historians must distinguish between statements based on hearsay and those grounded in perceptive observations.\" Elaborate with examples.\n(b) \"The Upanishadic principles embody the epitome of the Vedic thought.\" Discuss.\n(c) Review critically the evolution of different schools of art in the Indian subcontinent between the second century BCE and the third century CE, and evaluate the socio-religious factors responsible for it.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 335,
+        "subtags": [
+          168,
+          172
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 329
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 335
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history1_q3",
+      "type": "fill-blank",
+      "question": "(a) In what ways can the Megalithic culture be considered a foundational phase of the history of peninsular India?\n(b) Do you think the Harappan civilization had a diversity of subsistence base?\n(c) Discuss different interpretations of historians about the nature of Asoka's 'Dhamma'. Did his principle of 'Dhamma-vijaya' render the Mauryan Empire militaristically weak?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 331,
+        "subtags": [
+          171,
+          170
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 328
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 327
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 331
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history1_q4",
+      "type": "fill-blank",
+      "question": "(a) Buddha's teachings to a large extent could be helpful in understanding and resolving the problems of today's society. Analyse critically.\n(b) Discuss the provincial and district administrative units of the Gupta Empire with the designations and functions of the officers.\n(c) What were the privileges granted to the donees in land-grant charters of early India? How far were these charters responsible for integration or disintegration of socio-political milieu?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 334,
+        "subtags": [
+          179
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 334
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 334
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 336
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Critically analyse the agricultural economy from 750 to 1200 CE.\n(b) Evaluate the contribution of Vaishnava saints to the growth of medieval Bhakti literature.\n(c) Analyse the ordinances mentioned by Barani which Alauddin Khalji promulgated for market control.\n(d) Give a brief account of resistance offered by Ahom State against the Mughal rule.\n(e) How was Cartaz system used by the Portuguese to maintain their control over the oceanic trade?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 336,
+        "subtags": [
+          182,
+          188,
+          191
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 336
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 339
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 345
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 348
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history1_q6",
+      "type": "fill-blank",
+      "question": "(a) Evaluating various theories regarding the Chola State, throw light on its village assemblies.\n(b) Trace the technological and stylistic development in the architecture of the Sultanate period.\n(c) Analyse the Mughal monetary system and examine their policy of minting of coins.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 343,
+        "subtags": [
+          185,
+          184
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 342
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 341
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 343
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history1_q7",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the 'Kitab al-Hind' of Alberuni as a source of history of India.\n(b) Evaluating the theory of kingship of the Sultanate, discuss the deviations seen in the reigns of different Sultans.\n(c) \"The Battle of Plassey that decided the fate of Bengal was won by Clive through intrigues.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 341,
+        "subtags": [
+          168,
+          191
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 325
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 341
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 348
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_mains_history1_q8",
+      "type": "fill-blank",
+      "question": "(a) To what extent is 'Segmentary State' model relevant for defining the Vijayanagar State? Critically examine.\n(b) How was Iqta system of the Sultans different from the Jagir system under the Mughals?\n(c) \"India had been for hundreds of years the Lancashire of the Eastern world.\" Critically examine this view.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 342,
+        "subtags": [
+          187,
+          191
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 342
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 344
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 348
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2017",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2017,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2017_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2017_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Discuss the importance of 'Right to life and personal liberty' with reference to recent case laws.\n(b) Is 'Secularism' an essential feature of the Constitution of India ? Explain in the light of decided case laws.\n(c) Elucidate the scope of the appellate jurisdiction of the Supreme Court of India under the constitution with regard to Criminal matters.\n(d) Explain the phenomenon of tribunalisation of justice in India.\n(e) Briefly explain the grounds on which administrative actions can be subjected to judicial review.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 21,
+        "subtags": [
+          212,
+          211,
+          57
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 370
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 369
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 161
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) What is the position of the Governor in a State ? Examine the Pardoning Powers of the Governor under the Constitution. Is Pardoning Power, subject to judicial review ?\n(b) In view of the importance of Panchayat Raj institution in local governance, do you think the idea of prescribing educational qualification to contest local body election is undemocratic and incoherent ?\n(c) Explain the significance of the rule of 'AUDI ALTERAM PARTEM' in administrative decision making and state the circumstances under which 'post decisional hearing' can effectively satisfy the mandate of natural justice.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 374,
+        "subtags": [
+          8,
+          222
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 374
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 27
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 380
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) Evaluate the constitutional provisions relating to administrative relation between the Union and the State with special emphasis on inter-governmental delegation of administrative power.\n(b) Discuss the law relating to the powers of Parliament and State Legislatures to punish a person for breach of their privileges.\n(c) Discuss the circumstances under which 'Financial Emergency' can be proclaimed by the President of India and effects thereof.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 22,
+        "subtags": [
+          217,
+          215
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 22
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 375
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 373
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) Do you think the current trends in judicial activism in India are inconsistent with the Principles of Separation of Powers, which is considered to be one of the basic features of the Constitution ?\n(b) Examine the powers and role of Election Commission of India in conducting free and fair election.\n(c) Do you think the institution of Lokpal, as envisaged under the Lokpal and Lokayukta Act, 2013, is efficacious enough to curb corruption in India ? State the inadequacies in the legislative framework, if any.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 157,
+        "subtags": [
+          220,
+          224
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 157
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 378
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 382
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) What are the theories relating to relationship between International Law and Municipal Law ? Elaborate.\n(b) What are the factors that govern the recognition of insurgency and belligerancy ?\n(c) Does the International Court of Justice (ICJ) have the competence to determine its own jurisdiction ? Discuss with case law.\n(d) Define 'hijacking' and discuss the main provisions of the Hague Convention, 1970.\n(e) Comment on the provisions relating to prohibition of use of force and exceptions thereto under the U. N. Charter, 1945.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 384,
+        "subtags": [
+          227,
+          225,
+          241,
+          238
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 384
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 399
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 396
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) Define 'high seas'. Discuss in brief the provisions of the convention on high seas. Is freedom of fishing on high seas recognized ?\n(b) The Dispute Settlement Body (DSB) of the World Trade Organisation (WTO) is playing an important role in maintaining the stability of the global economy. Comment.\n(c) Enumerate the various methods of Peaceful Settlement of International disputes. Elaborate on judicial settlement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 395,
+        "subtags": [
+          229
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 387
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 395
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 395
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) What do you mean by 'human environment' ? Discuss the role of United Nations Organisation (UNO) in protecting and improving the human environment.\n(b) Define 'Nationality'. What are the modes of acquisition and loss of nationality ? What is the position of nationality of married women ?\n(c) Discuss the provisions relating to amendment and modification of treaties under the Vienna Convention on Law of Treaties, 1969.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 394,
+        "subtags": [
+          230,
+          235
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 394
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 388
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 393
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the main provisions of the Treaty on the Prohibition of Nuclear Weapons, 2017. Do you think it can lead to complete elimination of nuclear weapons ?\n(b) Discuss the scope of right of asylum under International Law and explain 'territorial' and 'extra-territorial' asylum.\n(c) Elucidate the fundamental principles of International Humanitarian Law as envisaged under International Conventions.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 398,
+        "subtags": [
+          234,
+          239
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 398
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 392
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 397
+        }
+      ]
+    }
+  ]
+}

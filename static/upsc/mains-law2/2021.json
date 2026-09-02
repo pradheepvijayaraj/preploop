@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper 2 · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "LAW2",
+    "section": "mains-law2",
+    "sourceId": "upsc_2021_mains_law2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_law2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answer with relevant provisions and judicial pronouncements.\n(a) What amounts to 'Legal Insanity' that would entitle an accused for exemption from Criminal Liability?\n(b) Discuss 'Grave and Sudden Provocation' as a defence to charge of murder under IPC, 1860?\n(c) Explain the concept of Plea-bargaining under the Cr.P.C. 1973. In what cases Plea-bargaining is not available?\n(d) Discuss the ambit & scope of 'consumer' as defined under the Consumer Protection Act, 2019.\n(e) What constitutes 'Malicious Prosecution'? How it is different from 'False Imprisonment'?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 403,
+        "subtags": [
+          254,
+          260,
+          266,
+          247
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 403
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 412
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 418
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 424
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 405
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law2_q2",
+      "type": "fill-blank",
+      "question": "(a) Has 'Attempt' been defined anywhere in the IPC, 1860? What are the various tests for determining, whether an act amounts to preparation or attempt to commit an offence? Explain with the help of relevant case laws.\n(b) Differentiate between the following:\n(i) 'Kidnapping' and 'Abduction'\n(ii) 'Riot' and 'Affray'\n(iii) 'Criminal Breach of Trust' and 'Dishonest Misappropriation of property'.\n(c) What are the various kinds of 'damages' that a plaintiff can avail as a remedy under the law of Torts? Under what circumstances can \"prospective damages\" be awarded?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 405,
+        "subtags": [
+          255,
+          261
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 405
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 413
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 419
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law2_q3",
+      "type": "fill-blank",
+      "question": "(a) From 'Mathura' to 'Nirbhaya' and beyond, discuss the development of Rape laws in India.\n(b) Explain the liability of 'Joint Tortfeasors' for a wrongful Act. How is it different from the liability of 'Independent Tortfeasors'?\n(c) In an action for 'Negligence', what does the plaintiff need to establish in order to affix civil liability of defendant? What does it take for the maxim 'res ipsa loquitor' to apply?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 414,
+        "subtags": [
+          249,
+          264
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 414
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 407
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 422
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the evolution and development of rule relating to 'No-fault liability' in India with help of decided cases.\n(b) What are the defences available to an accused in a civil suit for 'defamation'? Explain.\n(c) Recently there have been changes in Scheduled Castes & Scheduled Tribes (Prevention of Atrocities) Act, 1989. Enumerate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 420,
+        "subtags": [
+          257,
+          258
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 420
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 415
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 416
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each. Support your answers with relevant provisions and judicial pronouncements.\n(a) Minor's contract is 'void ab initio'. Comment.\n(b) Discuss the constitutionality of Right to Information Act, 2019 in the light of recent judgment by the Supreme Court of India.\n(c) In legal phraseology \"every person who acts for another is not an agent\". Comment.\n(d) India's 40 years old 'Air Act', 1981, languishes in the present circumstances of Air pollution emergency in Delhi — National Capital Region. Comment on the effectiveness of law in the light of judicial and administrative mechanism.\n(e) 'With the globalisation of trade, brand names, trade names and trade marks have attained an immense value and therefore it requires an effective trade mark law'. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 427,
+        "subtags": [
+          71,
+          263,
+          30,
+          59
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 427
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 227
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 421
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 71
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 200
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law2_q6",
+      "type": "fill-blank",
+      "question": "(a) What are the various modes in which a contract may be discharged? Explain in the light of decided cases.\n(b) Dwell on the legality and constitutionality of Section 66A, Information Technology Act, 2000.\n(c) Write short notes on the following:\n(i) Caveat Emptor\n(ii) Uberrima fides\n(iii) Nemo dat quod non habet",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          278,
+          269
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 436
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 427
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law2_q7",
+      "type": "fill-blank",
+      "question": "(a) Section 8 of the Arbitration and Conciliation Act, 1996 denotes a provision which limits judicial intervention in the process of arbitration? Elucidate the statement with support of case law development on the point.\n(b) 'No customer in a thousand ever read the conditions. If he had stopped to do so, he would have missed the boat'. Critically examine the contractuality of a standard form of contract in view of the above statement.\n(c) Discuss the symbiotic relationship between Media Trial and Fair Trial with reference to judicial approach.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 433,
+        "subtags": [
+          276,
+          281
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 433
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 434
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 439
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_law2_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the concept and classification of 'Quasi contracts' under Indian Contract Act, 1872.\n(b) \"Limited Liability Partnership is an alternative corporate form that gives the benefit of limited liability of a company and flexibility of a partnership\". In the light of the above discuss the chief characteristics of Limited Liability Partnership Act, 2008.\n(c) How does any factor vitiating 'free consent', affect a contract? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 425,
+        "subtags": [
+          273
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 425
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 431
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 425
+        }
+      ]
+    }
+  ]
+}

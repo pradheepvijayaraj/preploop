@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2022_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words.\n(a) \"Mughal administrative system was centralised despotism\". Comment.\n(b) \"The office of the District Collector admirably survived the changing times from colonialism to the present times\". Comment.\n(c) \"The smooth transaction of business in Ministries and Departments depends on the role played by Cabinet Secretariat\". Discuss.\n(d) \"The Government of India Act, 1935 is the most important source of Indian constitution\". Identify its features.\n(e) \"The Chief Secretary is the chief communication link between the state and central government\". Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 559,
+        "subtags": [
+          406,
+          404,
+          402,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The Indian federal structure is largely symmetric albeit with some asymmetric features\". Examine the status of States and Union Territories through the principle of weighted and differentiated equality in India.\n(b) The Atmanirbhar Bharat Abhiyaan is a progressive policy. Analyse.\n(c) 'Indicative Planning, is a middle path of planning and market mechanism to ensure coordination between public and private activities.' Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 563,
+        "subtags": [
+          128,
+          15
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"The New Economic Reforms during the past three decades have not only reduced the scope of industrial licensing and areas reserved exclusively for Public Sector but also infringed the autonomy of existing public sector undertakings\". Examine.\n(b) \"National Institution for Transforming India (NITI) Ayog has become super cabinet in formulating the development agenda of our country\". Examine the statement by giving suitable examples.\n(c) Despite the constitutional status, the District planning committees remained a non-entity in preparation and implementation of plans. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 561,
+        "subtags": [
+          128,
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"The Indian judicial system has failed to deliver justice expeditiously\". Examine the challenges faced by the judiciary and suggest measures to overcome them.\n(b) Analyse the specific areas of controversies with regard to Union-State financial relations, particularly in the context of one nation – one tax policy.\n(c) Examine the role of central government in adjudication of disputes relating to water of interstate rivers.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 562,
+        "subtags": [
+          405,
+          412
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words.\n(a) Examine the lateral entry recruitment in government in the context of Part XIV of the Indian Constitution.\n(b) Examine the role of Securities and Exchange Board of India (SEBI) in protecting the interests of the investors in securities.\n(c) Citizens charters in India have not succeeded in their objectives in making administrative system citizen centric. Do you agree? Give reasons.\n(d) Following the onset of globalisation, the traditional bureaucratic model appears to have lost its significance. Comment.\n(e) \"The financial suitability of the Urban local bodies can become a reality only when they receive their due share of public finances.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          412,
+          411,
+          408,
+          409
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 567
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) The recommendations of National Finance Commissions are more norms based than the need based. In the light of this statement analyse the terms of references of 15th National Finance Commission.\n(b) \"The objective of Mission Karmyogi is to enhance capacity building of Indian Civil Servants and improve governance.\" Discuss.\n(c) Parliamentary control over administration is no substitute for judicial control. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 570,
+        "subtags": [
+          12,
+          404
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) In India, for the upliftment of majority of people, governmental intervention remains a central fact of life. Nevertheless, the effective implementation of policies depends on the ethical values of Public Servants. Discuss.\n(b) Comptroller and Auditor General (CAG) is today a primary cause of widespread and paralysing unwillingness on the part of government institutions to decide and act. Discuss.\n(c) Do you think that the new localism relegate the spirit of 74th Constitutional Amendment Act, 1992?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 569,
+        "subtags": [
+          407,
+          402
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) The main objective of Panchayats (Extension to Scheduled Areas) Act, 1996 is to enable tribal society to assume control over their livelihoods and traditional rights. Critically examine the implementation of the Act.\n(b) The effectiveness of law and order administration depends on cooperative attitudes of people towards police, than bringing reforms in the structure and procedures of law and order machinery. Do you agree? Give reasons.\n(c) Examine the role of Lokpal in ensuring transparency and accountability in Indian administration.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 285,
+        "subtags": [
+          410,
+          411
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2019_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "SECTION - II\n1. Write short answers to the following in about 150 words each :\n(a) What does Plato want to prove by his 'Allegory of Cave'?\n(b) Can hallucination be regarded as an intentional act by Husserl? Explain.\n(c) What is the role of dialectics in realizing the truth in Hegel's philosophy?\n(d) How does Descartes prove the existence of things other than himself and God? Discuss.\n(e) Explain Quine's arguments against synthetic-analytic distinction.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 476,
+        "subtags": [
+          326,
+          322,
+          319,
+          328
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 477
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 486
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) How do the logical positivists account for the meaning of general statements? Can the same account be applied to metaphysical statements? Discuss.\n(b) What are the reasons for developmental changes in substance according to Aristotle? Discuss.\n(c) What do you understand by Spinoza's statement that what is, cannot be other than what it is? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 482,
+        "subtags": [
+          318,
+          319
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 477
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) Is Dasein authentic existence for Heidegger? How does he relate temporality with Dasein? Discuss.\n(b) Show how Wittgenstein's critique of solipsism culminates in the critique of private language.\n(c) Why is Moore's philosophy called common-sense realism?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 485,
+        "subtags": [
+          325,
+          323
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 483
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 481
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) How does Kant argue for the transcendence of Space and Time? Discuss.\n(b) Is there any element of necessity in causal relations according to Hume? Discuss.\n(c) How does Sartre look at the problem of freedom of choice and determinism? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 479,
+        "subtags": [
+          320,
+          327
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 479
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each :\n(a) Justify the status of Abhāva as a category in Vaiśeṣika philosophy.\n(b) How do the Yogācāra Buddhists deny the existence of the external world? Discuss.\n(c) Are the Cārvākas consistent when they hold that inference is not a source of knowledge? Discuss.\n(d) Critically discuss the metaphysical status of a Jīva and a Puruṣa according to Sāṅkhya philosophy.\n(e) How does Mīmāṃsā establish the authority of Vedic knowledge?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 494,
+        "subtags": [
+          333,
+          335,
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 494
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 494
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) How is reality defined by the Jainas? How is this theory of reality reflected in their view on judgements? Discuss.\n(b) What is the role of Jñānalakṣaṇa-pratyakṣa in explaining Anyathākhyāti?\n(c) What is wrong according to the Cārvākas with the following argument?\nAll men are mortal.\nSocrates is a man.\nTherefore, Socrates is mortal.\nJustify your answer with arguments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 489,
+        "subtags": [
+          332,
+          330
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 489
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 488
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) How does Udayana prove the existence of God through Kāryāt, Āyojanāt, Dhṛtyādeḥ and Śruteḥ? Discuss.\n(b) How would Yoga philosophy comprehend the Citta-levels of a Scientist, a God-realized Devotee and a Self-realized Yogi? Justify your answer.\n(c) What is Pratītyasamutpāda? How do the Buddhists apply this concept to prove that everything is momentary?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          335,
+          332
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) Explain the logical consequences of the metaphysical absolutism of Advaitism.\n(b) Explain the unique position of the Supermind in the metaphysical scheme of Aurobindo's philosophy.\n(c) Which Sānkhya proof for the existence of Prakṛti actually shows that there can be only one Prakṛti? Justify your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 482,
+        "subtags": [
+          338,
+          334
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 496
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        }
+      ]
+    }
+  ]
+}

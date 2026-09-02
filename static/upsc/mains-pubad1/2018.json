@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper I · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "PUBAD1",
+    "section": "mains-pubad1",
+    "sourceId": "upsc_2018_mains_pubad1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_pubad1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"The scope of the discipline of Public Administration is determined by what an administrative system does.\" Does it mean that the scope of this discipline is boundaryless? Explain.\n(b) \"The concepts of rationality and efficiency are intertwined in the bureaucratic analysis of Max Weber.\" Comment.\n(c) \"New Public Service approach is an improvement over its predecessor, New Public Management.\" Discuss.\n(d) \"A leader is a people's developer\" (Napoleon). Which aspects of subordinates' development can be positively influenced by a leader? Discuss.\n(e) \"Herbert Simon's book Administrative Behavior presents a synthesis of the classical and behavioural approaches to the study of Public Administration.\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 548,
+        "subtags": [
+          392,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 548
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad1_q2",
+      "type": "fill-blank",
+      "question": "(a) Dwight Waldo in his book, The Administrative State emphatically mentions that the roots of administrative theory lie in political theory. Critically examine Waldo's contention.\n(b) \"The Phenomenological Approach advocated by the New Public Administration has obstructed the path of theory building in Public Administration.\" Comment.\n(c) Discuss the essential characteristics of public sector-centred and market-centred perspectives in Public Private Partnerships and also compare the two.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 549,
+        "subtags": [
+          390,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad1_q3",
+      "type": "fill-blank",
+      "question": "(a) \"Communication represents the \"Nerves of Government\" (Karl Deutsch). How can the communication system in the government be made more effective, responsive and motivational?\n(b) \"Political and administrative systems have reciprocal relationship.\" Discuss.\n(c) \"An effective Management Information System (MIS) is the key to successful headquarter-field relationships.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 550,
+        "subtags": [
+          393,
+          399
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad1_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Form of an organisation influences the success of a public enterprise, but the choice of a form has always remained problematic.\" Discuss the statement in the context of the comparative merits and limitations of departments, corporations, companies and boards. Give illustrations.\n(b) \"Chester Barnard's model of 'Contribution-Satisfaction Equilibrium' is still considered a logical model of organisational motivation.\" Do you agree? Give arguments.\n(c) \"The political approach to Public Administration stresses on the values of representativeness political responsiveness and accountability through elected officials to the citizenry\" (David H. Rosenbloom). Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 29,
+        "subtags": [
+          393,
+          390
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 29
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 551
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 548
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) \"The Journey of Administrative Law has moved much beyond A. V. Dicey.\" Comment.\n(b) Edward Gibbon, the author of Decline and Fall of the Roman Empire remarked: \"Corruption, the most infallible symptom of Constitutional liberty.\" Critically examine this statement.\n(c) To what extent has e-governance made the administrative system more citizen-oriented? Can it (e-governance) be made more participatory?\n(d) \"The issue of development of women is closely related to the issue of women in development.\" How can women become equal partners in the process of socio-economic development?\n(e) \"The process of administrative development is generally slower than the process of socio-economic development.\" How can the speed of administrative development be made faster?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 557,
+        "subtags": [
+          395,
+          394,
+          397
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 553
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 552
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 557
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 557
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad1_q6",
+      "type": "fill-blank",
+      "question": "(a) In order to be development-oriented, bureaucracies need to be innovative, flexible, citizen-centric and result-oriented, but they are slow in imbibing these virtues in a democratic system. Do we need to go beyond the traditional models of bureaucracy and create alternative structures? Elaborate.\n(b) \"Administrative values have no value unless they are valued by all stakeholders of the governance system.\" Comment.\n(c) \"Lateral entry is an antidote to the complacency in civil service.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          391,
+          398
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 556
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad1_q7",
+      "type": "fill-blank",
+      "question": "(a) How does ethnocentrism impact development administration in achieving sustainable goals? Argue with examples.\n(b) \"Monetary policy of a country can help or hinder its development process.\" Discuss.\n(c) \"Sound Performance Auditing is impossible without systematic Performance or Outcome Budgeting.\" Explain the relationship between the two.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 555,
+        "subtags": [
+          400
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 555
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 558
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_pubad1_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Administrative systems across the world can be understood only in their respective historical and social contexts.\" Explain the statement giving examples.\n(b) Currently, administrative training focusses more on improving efficiency than on transforming the attitudes and behaviour of civil servants. What type of training will you suggest to fill this gap? Elaborate.\n(c) \"A public policy without the active involvement of people in its formulation, implementation and evaluation is only a facade.\" How can this anomaly be corrected?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 549,
+        "subtags": [
+          392,
+          10
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 549
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 550
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 29
+        }
+      ]
+    }
+  ]
+}

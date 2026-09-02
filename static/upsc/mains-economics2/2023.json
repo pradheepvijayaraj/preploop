@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Economics Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "ECONOMICS2",
+    "section": "mains-economics2",
+    "sourceId": "upsc_2023_mains_economics2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_economics2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Land system during the British rule was responsible for sustained poverty and stagnant growth in India. Comment.\n(b) How did V. K. R. V. Rao improve upon the earlier national income estimates of India?\n(c) Examine the impacts of Green Revolution on production and productivity in the agriculture sector.\n(d) Deceleration and structural retrogression have been the key features of industrial sector in India during 1965–80. Give reasons.\n(e) Examine the factors responsible for acceleration in the growth of national income in the decade of 1980s as against 1960s and 1970s.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 303,
+        "subtags": [
+          26,
+          144,
+          58
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 301
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 303
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics2_q2",
+      "type": "fill-blank",
+      "question": "(a) Explain the main features of money and credit policies in India during the pre-Independence era.\n(b) What are the factors contributing towards shift in sectoral composition in Gross National Product (GNP) in India during the pre-economic reform period? Discuss.\n(c) Explain the main reasons for deceleration in agricultural growth in India during the post-economic reform period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 40,
+        "subtags": [
+          146,
+          147
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of D. R. Gadgil in economic planning and development in India.\n(b) Explain the role of public sector in the Indian economy. Also point out its main problems faced during the period between 1970 to 1980.\n(c) Explain the concept of ceiling on agricultural landholding in India. Examine its rationality with respect to equity and efficiency.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 35,
+        "subtags": [
+          145,
+          147
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 304
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics2_q4",
+      "type": "fill-blank",
+      "question": "(a) Explain the main causes of inequality in income distribution in India and examine how it affects welfare of the society.\n(b) Describe the pattern and trends in national income in India during the pre-economic reform period.\n(c) Explain the development of cotton industry in India during pre-Independence era. Also point out its growth constraints.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 57,
+        "subtags": [
+          146,
+          143
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 57
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 303
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 300
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Distinguish between explicit and implicit subsidies. Explain the trends in explicit subsidies on irrigation and fertilizer in India during post-economic reform period.\n(b) Examine the salient features of the Action Plan for Disinvestment, 2009.\n(c) What do you mean by horizontal fiscal disequilibrium in a federal setup and how did the XIIth Finance Commission correct such imbalance in India?\n(d) Show how Liquidity Adjustment Facility (LAF) in India emerged as an effective monetary policy instrument to control market fluctuations in the short run.\n(e) Examine the effectiveness of universal basic income as an approach to poverty alleviation in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          58,
+          17,
+          19,
+          26
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 196
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 40
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 57
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the characteristic features of Agreement on Agriculture (AOA) under Uruguay Round of GATT and examine its impact on Indian agriculture.\n(b) State the key features of the Targeted Public Distribution System (TPDS) in India. Do you believe that TPDS has been successful in achieving its objectives? Justify your answer.\n(c) State the salient features of the Foreign Exchange Management Act (FEMA), 1999 in India. To what extent it deviates from the Foreign Exchange Regulation Act (FERA), 1979?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 304,
+        "subtags": [
+          145,
+          149
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 304
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 302
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 306
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics2_q7",
+      "type": "fill-blank",
+      "question": "(a) Briefly explain the growth and structure of India's foreign trade in the post-liberalization period.\n(b) Critically examine the contribution of Special Economic Zones (SEZs) in promoting foreign trade in India.\n(c) Discuss the salient features of India's New Foreign Trade Policy, 2023.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 305,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 305
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_economics2_q8",
+      "type": "fill-blank",
+      "question": "(a) State the main provisions of the 73rd and 74th Constitutional Amendment Act, 1992. Do you agree that this Act has been successful in promoting the democratic decentralization in India? Justify your answer.\n(b) Explain the reasons for sluggish growth in employment in India during the post-economic reform period.\n(c) Explain the changes in wage structure in India in the post-economic reform period.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 53,
+        "subtags": [
+          17
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 38
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 53
+        }
+      ]
+    }
+  ]
+}

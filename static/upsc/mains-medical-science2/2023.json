@@ -1,0 +1,482 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2023_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Enlist the clinical features of dengue fever.\n(ii) Outline the management of a patient with dengue haemorrhagic fever.\n(b) Write the symptoms of schizophrenia.\n(c)\n(i) What is the full form of IMNCI and what are its objectives?\n(ii) What are the components of integrated care provided under IMNCI?\n(d) State the immunization schedule under the National Immunization Programme for infants and children.\n(e) A 40-year-old male presented with multiple itchy, violaceous, flat-topped papules over skin for last one year. He also complained of burning sensation in mouth.\n(i) Diagnose this condition.\n(ii) What are the oral findings which can be associated with this condition?\n(iii) Outline its management.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          313,
+          316,
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 471
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 474,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) A 30-year-old female has been brought to medical emergency with a history of low-grade fever, headache, anorexia and weight loss for the last one month. She has also developed diplopia and altered sensorium for the last two days.\n(i) What is the most likely diagnosis?\n(ii) Enumerate the investigations required to confirm the diagnosis.\n(iii) Differentiate between the CSF findings in pyogenic, tubercular and viral meningitis.\n(iv) Outline the treatment plan in this patient.\n(b) A 2-year-old boy was brought to the emergency with the complaints of sudden onset of respiratory distress with irritability. On examination, the child is disoriented and he has both peripheral and central cyanosis. He has deep sighing respiration with SpO2 < 65% at room air. On oxygen therapy, his SpO2 is increased to 80%. He has no organomegaly or neurological deficit.\n(i) Write the complete diagnosis of this boy.\n(ii) How will you manage this case in emergency?\n(iii) Classify the congenital cyanotic heart diseases.\n(c) A 48-year-old male presented with yellowish, greasy scales and redness over the scalp.\n(i) What is the most likely diagnosis?\n(ii) Mention the sites of involvement in this disease.\n(iii) Name the organism responsible for the pathogenesis of this disease.\n(iv) Outline its treatment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss in short the aetiology, clinical features, investigations and management of chronic renal failure.\n(b)\n(i) Write the causes of unconjugated hyperbilirubinemia in a newborn.\n(ii) What is the mechanism of action of phototherapy in the treatment of hyperbilirubinemia?\n(iii) What are the potential complications of the phototherapy?\n(c)\n(i) Mention the nail findings in psoriasis.\n(ii) Discuss the topical and systemic therapies in psoriasis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 466,
+        "subtags": [
+          310
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 466
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a) A 20-year-old male has presented to the medicine OPD. He has complaints of episodes of breathlessness associated with tightness of chest and wheezing since the childhood. These episodes occurred commonly during the change of season.\n(i) What is the most probable diagnosis?\n(ii) How will you confirm the diagnosis?\n(iii) Discuss in short the clinical features of the disease.\n(iv) Outline the stepwise approach to the management of the disease.\n(b)\n(i) What are the criteria for the identification of severe acute malnutrition (SAM) in children 6 months to 59 months of age?\n(ii) Enumerate the criteria for admission in the facility-based care for severe acute malnutrition.\n(iii) Write ten steps in the management of SAM.\n(c) Discuss in short the role of X-ray imaging in diagnosing a case of acute abdomen.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          314,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a) A 65-year-old lady has progressively increasing dysphagia for last 6 months. She also has significant weight loss. How will you investigate her?\n(b) A 42-year-old male, known case of alcoholic liver disease with portal hypertension, is brought to casualty with severe haematemesis. Describe the management of this case.\n(c)\n(i) Name any five risk factors associated with pelvic organ prolapse.\n(ii) Enlist the management options for a 60-year-old postmenopausal lady with procidentia with cystocoele with enterocoele with rectocoele.\n(d) Define chronic pelvic pain. What are the various causes of chronic pelvic pain in women?\n(e) The Janani-Shishu Suraksha Karyakram is a unique national initiative of the Government of India. State in brief the entitlements to pregnant women and neonates under this scheme.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 469,
+        "subtags": [
+          306,
+          309,
+          310
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Enumerate the causes for postpartum haemorrhage (PPH).\n(ii) Discuss the management of PPH.\n(b)\n(i) Enumerate the signs of lower limb arterial ischaemia.\n(ii) Briefly outline the diagnostic workup in a 62-year-old male with atherosclerotic lower limb peripheral arterial disease.\n(iii) State the management of this case.\n(c) The National Rural Health Mission is committed towards improving rural healthcare delivery system in the country. State the major initiatives that have been undertaken under this Mission to strengthen the healthcare infrastructure in rural areas.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          306,
+          316
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 474
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a) (i) Enumerate the causes of radio-opacities on a plain abdominal radiograph.\n(ii) Enlist the causes of hydronephrosis in adults.\n(iii) How would you investigate an adult patient with unilateral right-sided hydronephrosis?\n(iv) State in brief the management of PUJ obstruction.\n(b) (i) What are essential amino acids? List any six.\n(ii) When is a protein said to be 'biologically complete'? What does the term 'supplementary action of proteins' mean? Explain this concept by citing an example from daily life.\n(c) (i) What are the methods for screening of cancer cervix?\n(ii) What are the risk factors for cervical cancer?\n(iii) Enlist the preventive strategies for cancer cervix.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          314,
+          313
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 471,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) State the vision, goals and objectives of the National Framework for Malaria Elimination in India, 2016-2030. What are the milestones and targets to be met under this framework by the years 2024, 2027 and 2030? Outline the broad strategies of this national framework.\n(b)\n(i) How do you grade anaemia in pregnancy based on the haemoglobin levels as per the World Health Organization?\n(ii) List the complications of anaemia in pregnancy.\n(iii) Briefly outline the management of a pregnant woman with severe anaemia in labour.\n(c)\n(i) Enumerate the therapeutic indications of splenectomy.\n(ii) Briefly mention the aetiopathogenesis and prophylaxis of 'overwhelming postsplenectomy infection (OPSI)' syndrome.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 473,
+        "subtags": [
+          310,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 473
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

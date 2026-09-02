@@ -1,0 +1,383 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY2",
+    "section": "mains-geography2",
+    "sourceId": "upsc_2015_mains_geography2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_geography2_q1",
+      "type": "fill-blank",
+      "question": "Answer all the following. The word limit for (b), (c), (d), (e) has been indicated in the parenthesis:\n(a) On the outline map of India provided to you, mark the locations of all the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry : (10 marks, not more than 30 words for each entry)\n(i) Tharangambadi\n(ii) Namcha Barwa\n(iii) Narcondam\n(iv) Khajjiar\n(v) Chunchanakatte\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) Why does the pharmaceutical industry concentrate largely in the western region of the country?\n(c) Explain the pattern of winter rainfall in India.\n(d) Discuss the relationship of watershed approach to village level planning.\n(e) How does natural vegetation affect the formation of in situ soils?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 312,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 318
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 312
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography2_q2",
+      "type": "fill-blank",
+      "question": "(a) Account for the geographical distribution of groundwater resources of India. How serious is its depletion in recent decades?\n(b) Why is the traditional crafts industry in India on the decline?\n(c) Explain how modernization of Indian agriculture is affected by unfavourable institutional factors with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          157,
+          156
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography2_q3",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between 'agricultural productivity' and 'agricultural efficiency', and bring out the disparity in regional distribution of agricultural efficiency.\n(b) With the help of a map, indicate the principal areas of dryland farming in the country and account for farmers' suicides mainly in those areas.\n(c) Evaluate the contribution of Communication and Information Technology to the development of economy and society, and examine the relevance of the recently launched 'Digital India' programme.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 313,
+        "subtags": [
+          159
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 313
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 316
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography2_q4",
+      "type": "fill-blank",
+      "question": "(a) Account for the growing frequency and intensity of floods in India, and suggest short- and long-term remedial measures indicating the chronically flood-prone areas.\n(b) How does climate change affect the process of desertification of India?\n(c) Discuss the scope of replication of 'White Revolution' in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": [
+          157
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 314
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography2_q5",
+      "type": "fill-blank",
+      "question": "Answer all the following. The word limit for (b), (c), (d), (e) has been indicated in the parenthesis:\n(a) On the outline map of India provided to you, mark the locations of all the following. Write in your QCA Booklet the significance of these locations, whether physical/commercial/economic/ecological/environmental/cultural, in not more than 30 words for each entry :\n(i) Nokrek\n(ii) Gorakhnath Peak\n(iii) Indrakiladri Peak\n(iv) Polavaram\n(v) Anaimudi\n\n![Blank outline map of India with neighbouring countries](/upsc/assets/maps/india_neighbours_blank.png)\n(b) \"Age-sex pyramid is representative of the history of a region.\" Explain. (In about 150 words)\n(c) \"Mono-functional towns are economically vulnerable.\" Discuss. (In about 150 words)\n(d) Explain how change in land use can promote eco-development at different levels in the country. (In about 150 words)\n(e) Discuss the social and spatial ramifications of increasing longevity. (In about 150 words)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 322,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 323,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 2.0
+            },
+            {
+              "label": "ii",
+              "marks": 2.0
+            },
+            {
+              "label": "iii",
+              "marks": 2.0
+            },
+            {
+              "label": "iv",
+              "marks": 2.0
+            },
+            {
+              "label": "v",
+              "marks": 2.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 321
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 322
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 316
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography2_q6",
+      "type": "fill-blank",
+      "question": "(a) Decentralized planning through the strengthening of the Panchayat system is the focus of planning in India in recent times. Suggest a blueprint for an integrated regional development plan.\n(b) In population planning, the thrust of the Government has been 'planning the population' not 'plan for the population'. Elaborate.\n(c) Is planning for a cluster of villages a viable option, when planning for backward areas of the country? Discuss with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 320
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography2_q7",
+      "type": "fill-blank",
+      "question": "(a) Reduction in regional disparities has been one of the priority goals of national planning in India. How the proposed new Smart urban centres may contribute to the process?\n(b) How has India's 'Look East' policy taken shape in the past two decades and how it may affect India's external trade?\n(c) Indian island territories are vulnerable to the sea level rise. Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 320,
+        "subtags": [
+          160,
+          165
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 317
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 322
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_geography2_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the concept of multi-level planning as practised in India, and explain the implications of 73rd and 74th Constitutional Amendments in this respect.\n(b) Give a reasoned account of river water disputes related to the River Krishna.\n(c) Outline the Government of India's strategies of conservation of the Western Ghats.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 16,
+        "subtags": [
+          163
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 320
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 16
+        }
+      ]
+    }
+  ]
+}

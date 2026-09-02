@@ -1,0 +1,377 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2023_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each\n(a) \"Kautilya's Arthashastra is a theoretical work on the State and Statecraft.\" Comment.\n(b) Critics, sometimes, argue that bureaucracy is an impediment to a nation's development. Analyse.\n(c) The Ninety-First Constitutional Amendment Act successfully right-sized the Council of Ministers both at Union and State levels. Comment.\n(d) Is it true that the Finance Commission has been lending financial strength to the local bodies in India? Argue in favour of your response.\n(e) \"Parliamentary democracy in India envisages elected head as the real executive of a State.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 559,
+        "subtags": [
+          402,
+          405,
+          412,
+          404
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Indian Prime Minister is more empowered than his British counterpart in the Westminster model of democracy.\" Elucidate.\n(b) Post-amendment period Panchayats have become a platform of competitive politics, but could not emerge as an agency of planning and service delivery. Examine.\n(c) Former Chief Justice of India, Dipak Misra observed: \"An efficient judiciary is the hallmark of a great nation.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          128,
+          404
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) India has significantly advanced in its development goals, increased efficiency in the public sector and unlocked innovation in private sector by adopting the approach of building Digital Public Infrastructure. Elucidate.\n(b) \"Attempts to prepare unified and holistic plans for the country are complex and full of challenges.\" Discuss.\n(c) \"Excessive political interference in development process has become a cause of concern in achieving national goals.\" Examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 561,
+        "subtags": [
+          15,
+          128
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"There shall be Council of Ministers with the Chief Minister at the head to aid and advise the Governor in the exercise of his functions, except .... \" This constitutional provision is being intensively debated nowadays. Elucidate.\n(b) There is a need to redefine and realign the functions of the Deputy Commissioner/District Collector. Elaborate.\n(c) Examine Project Bharatmala – Road to Prosperity – launched in 2017.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 562,
+        "subtags": [
+          406,
+          128
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) The district training component of Induction Training of IAS officers requires to be revisited. Examine.\n(b) \"Mission Antyodaya strives to realize the vision of poverty-free India.\" Examine.\n(c) The dynamics of coalitions vary with the nature of leadership, political parties and contemporary political conditions. Analyze.\n(d) Computerization of treasuries has revolutionized the accounting and budget planning process. Comment.\n(e) Do you agree that code of ethics and code of conduct for ministers would help in upholding higher standards of their constitutional and ethical conduct? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 564,
+        "subtags": [
+          128,
+          414,
+          407,
+          411
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Civil Service Reforms along with a transparent transfer policy will go a long way in insulating civil servants from undesired political pulls and pressures.\" Discuss.\n(b) \"The withdrawal of AFSPA from Tripura has sent a positive signal across the State and North-Eastern Region.\" Do you think that now it is an appropriate time to take a more rational policy decision in this matter.\n(c) The Swachh Bharat Abhiyan is by far the most significant cleanliness campaign by the Government of India. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          128,
+          411
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) Accountability of the Executive to the Parliament in the domain of financial administration is secured through CAG reports. Discuss.\n(b) The government response to the Supreme Court's judgement on Police Reforms has been lackadaisical. The reasons are multiple and multidimensional. Discuss.\n(c) Disasters can push the world's poorest deeper into poverty. Do you think that a comprehensive strategy to deal with such vulnerabilities is required?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 565,
+        "subtags": [
+          410,
+          415
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 573
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) In the context of the Second Administrative Reforms Commission recommendations, evaluate Public-Private Partnership (PPP) as a preferred mode of implementing infrastructural projects.\n(b) In 2011, India ratified the United Nations Convention Against Corruption (UNCAC). Evaluate the existing legal framework for fulfilling this commitment.\n(c) Shyama Prasad Mukherji Rurban Mission is a cluster-based approach of converging rural development efforts of different departments of the government. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 566,
+        "subtags": [
+          411,
+          128
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        }
+      ]
+    }
+  ]
+}

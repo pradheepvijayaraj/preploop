@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper 2 · 2016",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2016,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2016_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2016_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer all of the following questions in about 150 words each:\n(a) \"Sovereignty is the supreme power over citizens and subjects, unrestrained by law.\" Discuss.\n(b) A well-ordered society, according to Rawls, is effectively regulated by a public conception of justice. Do you agree? Give reasons.\n(c) \"Socialism itself is the fulfilment of democracy.\" Analyse.\n(d) Evaluate the statement that all human beings have certain unalienable rights.\n(e) \"The goal in punishing should be to reform the individual.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 500,
+        "subtags": [
+          340,
+          33,
+          11,
+          246
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 404
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) Is liberty a positive and equal opportunity of self-realization ? Discuss.\n(b) On what grounds does Laski criticize Austin's concept of sovereignty?\n(c) \"The right of free speech implies the genuine independence of the judiciary and its complete separation from the executive.\" Evaluate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          341,
+          342
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 499
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 30
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Is the State an agency for expressing the will of the ruling classes ? Examine.\n(b) Can we consider \"freedom from domination\" as one of the justifications for multiculturalism ? Give reasons for your answer.\n(c) Is it possible to measure social progress independent of economic development ? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 30,
+        "subtags": [
+          346,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 504
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 506
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"To me the female sex is not the weaker sex. It is the nobler of the two.\" Evaluate this statement of Gandhi.\n(b) Do you agree that women become empowered through collective reflection and decision-making? Discuss.\n(c) How did Ambedkar analyse the caste system from the historical and social perspectives? Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 507,
+        "subtags": [
+          350
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 508
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) Critically discuss the view that 'modern sensibility and total obedience to a despotic God' do not go hand in hand.\n(b) \"World-religion is a spiritualistic and humanistic composite.\" Evaluate.\n(c) Is Religious absolutism a threat to Religious pluralism? Discuss.\n(d) Buddhism disbelieves in the immortality of soul, but accepts the phenomenon of rebirth. Examine.\n(e) Faith means human awareness of God; but it cannot be irrational. Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          358,
+          359,
+          354,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) The content of revelation is a body of truths expressed in statements or propositions. But it cannot be against reason. Discuss.\n(b) Compare and contrast the relation of man to the world in the oriental religions.\n(c) Show how the attributes of immanence and transcendence of God go with omnipresence and infinitude.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 516,
+        "subtags": [
+          355,
+          351
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 513
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) State and evaluate the nature and validity of mystic experience.\n(b) \"Moral principles function better when they remain independent and unconnected with religion.\" Discuss.\n(c) \"It would be self-contradictory to say that the most perfect conceivable being lacks the attribute of existence.\" Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 514,
+        "subtags": [
+          358,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 514
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    },
+    {
+      "id": "upsc_2016_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"If God is all-powerful, God must wish to abolish all evils; but moral and natural evils are rampant in the world.\" How would a theist react to this?\n(b) Among the different views of religious language, which one is more satisfactory and why?\n(c) \"The natural world is as complexly and manifestly designed as a watch.\" Evaluate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          360,
+          352
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 510
+        }
+      ]
+    }
+  ]
+}

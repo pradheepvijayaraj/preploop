@@ -1,0 +1,373 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2015",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2015,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2015_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2015_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Attempt all of the following in about 150 words each :\n(a) \"Democracy within bureaucracy is likely to reduce its effectiveness.\" Do you agree with this view? Argue your case.\n(b) \"District Collector's role in the development process has been overemphasised.\" Comment on the statement.\n(c) Why has District Planning been marginalised in many States and remained prominent in a few States? Explain.\n(d) \"Ordinance-making power of the Executive needs to be suitably restrained.\" Examine it critically.\n(e) \"'Minimum government, maximum governance' is not just a slogan but a philosophy of administration with enormous potentialities.\" Do you agree? Give reasons for your answer.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 564,
+        "subtags": [
+          402,
+          404,
+          414
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 562
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 572
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) To what extent has political culture influenced the administrative culture of India? Explain.\n(b) Briefly discuss the main recommendations of the Punchhhi Commission (2010) on Centre-State relations for transforming Indian Federal System.\n(c) As Dr. B. R. Ambedkar observed, \"the text of the Constitution can provide the organs of the State, but the final outcome of the governance process depends on how it has operationalised by the political parties and people\". Elucidate the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 560,
+        "subtags": [
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 560
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) The objectives, approaches and organisational arrangements for decision-making of the NITI Aayog aim at restoring the federal character of the Indian polity. Explain.\n(b) Explain fully how a balance can be struck between autonomy and accountability of India's public enterprises.\n(c) \"Decentralised governance must serve as an instrument of realising social change and social justice.\" Comment on the statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 569,
+        "subtags": [
+          403,
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the arguments for and against the National Judicial Appointments Commission Act, 2014.\n(b) \"In very recent time, the role of the State Governor is found to be more of diplomatic than administrative nature.\" Comment on the statement with suitable examples.\n(c) Comment on the recent changes in the approach and methodology of devolution of responsibilities and transfer of funds from the Union to the States.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 563,
+        "subtags": [
+          413
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 571
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Attempt all of the following in about 150 words each :\n(a) Critically examine the concept of community policing as a tool for improving public-police relations.\n(b) Explain how budget can be used as a political instrument.\n(c) \"Most Civil Servants in India are competent administrators, but they pay little attention to encourage people's participation in decision-making.\" Comment on the statement.\n(d) Do you think that the functioning of Panchayati Raj Institutions (PRIs), in practice, reflects genuine devolution of powers and resources? Give reasons for your answer.\n(e) \"Information Communication Technology (ICT) improves the quality of public service delivery, but fails to check bribery.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 568,
+        "subtags": [
+          407,
+          12,
+          128,
+          411
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Excellent ideas but poor implementation have characterised the administrative reforms in India since Independence.\" Critically examine the statement giving examples from the Union and State Governments.\n(b) Do you agree that there has been a serious governance-deficit in development administration in India? Give reasons for your answer and add your suggestions.\n(c) What are the major concerns of the Second Administrative Reforms Commission on Civil Service reforms? Indicate the current status of their implementation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 566,
+        "subtags": [
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) How do the Union Government policies on Smart and AMRUT Cities address the problems of management of urban development? Explain.\n(b) Discuss the significance and role of the Central Paramilitary Forces in maintaining law and order and countering insurgency as well as terrorism.\n(c) Discuss the major highlights of the reforms introduced from time-to-time in Central Civil Services Conduct Rules and add your own comments.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 567,
+        "subtags": [
+          410,
+          12
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        }
+      ]
+    },
+    {
+      "id": "upsc_2015_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"Municipal governance in India is not sufficiently prepared to meet the challenges of frequent natural disasters.\" Elucidate the statement and add your own suggestions.\n(b) Discuss critically the salient features of the National Investigation Agency (NIA) regarding its purposes and jurisdiction.\n(c) Argue the case for and against creating Indian Public Enterprises and Industrial Service for boosting the moribund public sector in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 573,
+        "subtags": [
+          410,
+          403
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 573
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 561
+        }
+      ]
+    }
+  ]
+}

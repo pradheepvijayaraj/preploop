@@ -1,0 +1,375 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2020_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each:\n(a) Natufian culture\n(b) Sapir-Whorf hypothesis\n(c) Human rights and Cultural relativism\n(d) Victor Turner and Liminality\n(e) Jane Goodall's contributions in studying primate behaviour",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          93,
+          82
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 239
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically evaluate the contesting theories of the emergence and dispersal of modern Homo Sapiens.\n(b) Discuss Erving Goffman's concept of total institutions and its relevance in contemporary society.\n(c) Differentiate between Lower Palaeolithic culture and Middle Palaeolithic culture with suitable examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 76,
+        "subtags": [
+          87,
+          86
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 243
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the impact of feminist movement on universality of marriage and family structure.\n(b) Critically examine the demographic and epidemiological consequences with rise in food production and sedentism.\n(c) Elucidate how Darwin and Post-Darwin theories of evolution resulted in the development of Synthetic theory of evolution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 140,
+        "subtags": [
+          105,
+          31
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 140
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 262
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss various anthropological approaches to the study of personality and culture.\n(b) Illustrate with examples the various types of locomotion patterns among the non-human primates.\n(c) How is the construct of power linked to the notion of conspicuous consumption and its impact on distributive justice?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 243,
+        "subtags": [
+          82,
+          91
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 243
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 239
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 248
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Racism and Eugenics\n(b) Genetic drift\n(c) Experiential Ethnography\n(d) Ethics and Genetic engineering\n(e) Senescence",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 257,
+        "subtags": [
+          98,
+          95,
+          96,
+          103
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 255
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 252
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Secular trend in human growth can be positive, negative or neutral. Illustrate with examples.\n(b) Describe the impact of infectious diseases on indigenous populations.\n(c) How may numerical aberrations in sex chromosomes lead to genetic disorders?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 260,
+        "subtags": [
+          102,
+          99
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 260
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 259
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 256
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain how variations in language usage is related to social inequality.\n(b) Describe the biocultural responses to extreme climatic events.\n(c) How do marriage rules impact the gene pool of populations?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 251,
+        "subtags": [
+          101,
+          88
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 251
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 258
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 245
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) How can synergising the core branches of anthropology reinvigorate the holistic spirit of the discipline ?\n(b) What are the applications of human genomic research in human welfare ?\n(c) How have interpretation and presentation of data changed from classical to contemporary writings in anthropological texts ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 234,
+        "subtags": [
+          96,
+          93
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 234
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    }
+  ]
+}

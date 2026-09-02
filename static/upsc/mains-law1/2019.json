@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Law Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "LAW1",
+    "section": "mains-law1",
+    "sourceId": "upsc_2019_mains_law1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_law1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Discuss the doctrine of 'Pith and Substance' relating to the distribution of legislative powers between the Centre and the States with the help of the landmark judicial decisions.\n(b) \"The purpose of the office of the 'Lokpal' is not to adjudicate, but to provide regular machinery for investigating grievances against the administration in a discrete and informal manner.\" Critically examine this statement by providing proper justification of the office of the 'Lokpal' in India.\n(c) \" 'Audi alteram partem', rule is a very flexible, malleable and adaptable concept of natural justice to adjust the need for speed and obligation to act fairly.\" Examine the statement with the help of decided case-law.\n(d) \"The issue of Parliamentary-privileges has been a bone of contention and conflict between the Parliament and the Judiciary.\" Analyse this statement in the backdrop of decided cases.\n(e) \"Right to Privacy is protected as an intrinsic part of life and personal liberty enshrined under Article 21 of the Constitution of India.\" Elucidate this statement in the light of the decision of Justice K.S. Puttaswamy (Retd.) v. Union of India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 157,
+        "subtags": [
+          224,
+          222,
+          6,
+          212
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 157
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 382
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 380
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 370
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law1_q2",
+      "type": "fill-blank",
+      "question": "(a) (i) Give an overview of the growth of the Tribunals in India with special reference to Administrative Tribunals established under the Administrative Tribunal Act.\n(ii) \"Revival of the Panchayati Raj system in India is an aid to reduce the workload on the Judiciary.\" Comment.\n(b) \"Power of the Parliament to amend the Constitution is wide, but not unlimited.\" Do you agree with this statement ? Discuss whether the doctrine of basic structure has reinforced the power of judicial review under the Constitution.\n(c) Examine the nature of the powers of the High Courts under Article 226 of the Constitution of India and distinguish it from the powers of the Supreme Court under Article 32.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 21,
+        "subtags": [
+          55
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 21
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 156
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 21
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law1_q3",
+      "type": "fill-blank",
+      "question": "(a) While conferring the power of delegated legislation on the administration, the enabling Act may specify the procedural safeguards to be followed in the exercise of the power. What are the consequences of non-compliance with the requirements as laid down in the Act ? Discuss with the help of decided cases.\n(b) \"The Election Commission of India is an autonomous constitutional authority responsible for administering the election process in India.\" Comment by explaining the powers and functions of the Election Commission of India.\n(c) \"India that is 'Bharat', shall be a Union of States.\" Explain. Do you think that the Indian Constitution is a Federal Constitution ? Discuss with the help of decided cases.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 381,
+        "subtags": [
+          220,
+          7
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 381
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 378
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 22
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law1_q4",
+      "type": "fill-blank",
+      "question": "(a) What do you mean by the term 'Rule of Law' ? The basic element of Dicey's doctrine of the rule of law is, 'be you ever so high, the law is above you'. Discuss with the help of decided cases.\n(b) Discuss the Ordinance making power of the President. Can the validity of an Ordinance be challenged in the Court of Law ? Cite relevant case-law.\n(c) Examine and explain the following statements :\n(i) Public Interest Litigation is a tool to promote politics of the Judiciary.\n(ii) Judicial Activism has both positive and negative impact on the Judiciary.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          215,
+          6
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 373
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 21
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) \"International Law is the vanishing point of Jurisprudence.\" Explain.\n(b) What do you mean by State-Recognition ? What are the legal effects of recognition ? Differentiate between de-facto and de-jure recognition.\n(c) What are the rules of International Law governing the lawful use of force by the States in the exercise of their inherent right of self-defence ?\n(d) What is the difference between International Humanitarian Law and International Human Rights Law ?\n(e) Discuss in brief, the various modes of peaceful settlement of international disputes. Do you think that these modes of settlement are effective or is any other mode required in the present scenario ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          227,
+          238,
+          239,
+          237
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 385
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 396
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 397
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 395
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law1_q6",
+      "type": "fill-blank",
+      "question": "(a) What are the various theories prevalent for deciding the relationship between International Law and Domestic Law ? How do the National Courts in India apply the International Law ?\n(b) Briefly explain the following :\n(i) Doctrine of Innocent Passage\n(ii) Exclusive Economic Zone and the rights of other States thereto\n(c) \"The effectiveness of the International Criminal Court depends on the degree of co-operation provided by the States. This co-operation concerns not only the State-party to the International Criminal Court but also the non-party State.\" Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 383,
+        "subtags": [
+          232,
+          242
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 383
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 390
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 400
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law1_q7",
+      "type": "fill-blank",
+      "question": "(a) What do you understand by territorial jurisdiction of States ? Do you agree with the view that Right to Seek Asylum is firmly established under International Human Rights Law ? If so, substantiate your answer with reasons.\n(b) Examine the extent and limits to which a treaty can confer rights and impose obligations on the third State which is not party to the treaty.\n(c) \"United Nations is designated as the foremost forum to address the issues that transcend the national boundaries, which cannot be resolved by a country alone.\" In the light of this statement, discuss the functions of the General Assembly.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 390,
+        "subtags": [
+          235,
+          236
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 390
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 393
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 394
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_law1_q8",
+      "type": "fill-blank",
+      "question": "(a) Write critical notes on the following :\n(i) International efforts towards protection and improvement of human environment\n(ii) State-sponsored terrorism\n(b) Discuss the main provisions of the Comprehensive Nuclear Test Ban Treaty (CTBT). Also explain the reasons why India has not signed this treaty.\n(c) Explain the historical evolution, objectives and main principles of the General Agreement on Tariffs and Trade (GATT).",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 399,
+        "subtags": [
+          240,
+          243
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 399
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 398
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 401
+        }
+      ]
+    }
+  ]
+}

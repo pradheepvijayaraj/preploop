@@ -1,0 +1,457 @@
+{
+  "metadata": {
+    "name": "Mains Medical Science Paper II · 2025",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2025,
+    "stage": "Mains",
+    "paper": "MEDICALSCIENCE2",
+    "section": "mains-medical-science2",
+    "sourceId": "upsc_2025_mains_medical-science2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2025_mains_medical-science2_q1",
+      "type": "fill-blank",
+      "question": "(a) Briefly describe the role of lifestyle interventions in prevention of coronary artery disease.\n(b) Discuss the role of various imaging modalities in the diagnostic evaluation of pyelonephritis.\n(c) Write the criteria for diagnosing pneumonia in children according to the 'Acute Respiratory Infection (ARI) Control Programme' (WHO). Write the treatment strategies of different types of pneumonia according to the ARI Control Programme.\n(d) How will you treat hypothermia in a 3-year-old child with severe acute malnutrition (SAM)? How will you prevent hypothermia in an SAM child?\n(e) A joint family comprising of senior citizens, antenatal women and one-month-old infant is suffering from scabies.\n(i) Name the organism that causes scabies in humans.\n(ii) What factors are involved in the transmission of scabies in a family?\n(iii) How do you plan to treat scabies in this family?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 465,
+        "subtags": [
+          306,
+          309,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 465
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science2_q2",
+      "type": "fill-blank",
+      "question": "(a) A 23-year-old woman with type I diabetes mellitus presents with nausea, vomiting and altered sensorium. On examination, she is tachypneic and hypotensive. Her random blood sugar is 460 mg/dL, and routine examination of urine is positive (++) for ketone. Outline the stepwise approach to the diagnosis and management of this patient.\n(b)\n(i) Define acute diarrhoea in children. List its causes. How would you assess for dehydration in such a child?\n(ii) Write the nutritional management of acute diarrhoea and the steps to be taken for prevention of acute diarrhoea.\n(c)\n(i) Define eczema.\n(ii) How do you classify eczema?\n(iii) Enumerate the differences between allergic contact dermatitis and irritant contact dermatitis.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          314,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 464
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 472,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science2_q3",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Elaborate the indications for initiating antiviral therapy in a patient with chronic hepatitis B.\n(ii) Write the first-line antivirus treatment regimen for the management of chronic hepatitis B along with the recommended monitoring strategy during therapy.\n(b) Write the risk factors for respiratory distress syndrome (RDS)s in newborn. What is the differential diagnosis of RDS? How will you manage respiratory distress syndrome in newborn?\n(c) A 28-year-old female with a long history of psoriasis develops symmetrical, flexural and grouped pustules with high grade fever and severe constitutional symptoms in the third trimester.\n(i) What is your diagnosis?\n(ii) How do you manage the condition?\n(iii) What are the complications?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          310,
+          308
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 25.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science2_q4",
+      "type": "fill-blank",
+      "question": "(a)\n(i) How do you differentiate between acute lymphoblastic leukaemia (ALL) and acute myeloid leukaemia (AML) based on peripheral smear and bone marrow findings?\n(ii) Describe the current standard of care for acute lymphoblastic leukaemia (ALL) in adults and children.\n(b) Enumerate the various types of vaccines available in National Immunization Schedule (NIS) in children. Define adverse events following immunization. State the adverse events of any three vaccines.\n(c) Discuss the diagnostic approach to and curative management of renovascular hypertension.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 464,
+        "subtags": [
+          307,
+          309
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 25.0,
+          "subtags": [],
+          "mainTag": 464,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 25.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science2_q5",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Enumerate the advantages as well as the limitations of laparoscopic surgery.\n(ii) Describe the different techniques of creating pneumoperitoneum during laparoscopic surgery.\n(b) Describe the aetiology, clinical features and management of anal fissure.\n(c)\n(i) Define maternal mortality rate (MMR) and enumerate the causes of maternal mortality in India.\n(ii) What are the steps to be taken to reduce maternal mortality in India?\n(d) Discuss the clinical features, diagnosis and treatment of pelvic endometriosis.\n(e) Explain the significance of the 'Kilkari' initiative with reference to National Rural Health Mission. Who is it aimed at and how is it being implemented?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          310,
+          311,
+          315
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 467
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            }
+          ]
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 469
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 473
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science2_q6",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Classify hypertensive disorders in pregnancy.\n(ii) Enumerate the types and complications of eclampsia.\n(iii) Discuss the management of antepartum eclampsia in a 25-year-old primigravida with 32 weeks of pregnancy.\n(b)\n(i) Describe the clinical features and management of ulcerative colitis.\n(ii) Enlist the differences between ulcerative colitis and Crohn's disease.\n(c) What are the major objectives of 'Home-based Newborn Care'? State the responsibilities that 'ASHA' is entrusted with to make the programme a success.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 468,
+        "subtags": [
+          308,
+          307
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 468,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 466,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 465
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science2_q7",
+      "type": "fill-blank",
+      "question": "(a)\n(i) Describe the clinical features and diagnostic workup of a suspected case of peritonitis.\n(ii) Enumerate the principles of management of peritonitis.\n(iii) Enlist the important complications of peritonitis.\n(b) 'Anaemia Mukt Bharat Programme' employs a multipronged approach. What are the interventions it focuses on to achieve its goals? What are the specific measures being undertaken under this programme? Which are the specific population groups that this programme targets?\n(c)\n(i) Define infertility. How will you investigate the tubal factors of female infertility?\n(ii) Enumerate the assisted reproductive technology (ART) procedures.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 467,
+        "subtags": [
+          315,
+          311
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 467,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 20.0
+            }
+          ]
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 473
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 469,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2025_mains_medical-science2_q8",
+      "type": "fill-blank",
+      "question": "(a) Under the National Framework for Malaria Elimination in India, what are the targets set for the years 2027 and 2030 respectively? What are the key interventions recommended for States and UTs which require intensified control and fall under Category 3? Which are the parameters employed for maintaining epidemiological surveillance over malaria?\n(b)\n(i) Describe the WHO medical eligibility criteria for contraceptive use for women with medical conditions.\n(ii) Discuss the complications of intrauterine contraceptive device (IUCD).\n(iii) How will you manage a case of misplaced copper-T (Cu-T)?\n(c) Describe the embryogenesis, clinical features and principles of management of cleft palate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 473,
+        "subtags": [
+          312,
+          310
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 473
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 470,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 15.0
+            }
+          ]
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 468
+        }
+      ]
+    }
+  ]
+}

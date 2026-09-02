@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper II · 2023",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2023,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY2",
+    "section": "mains-philosophy2",
+    "sourceId": "upsc_2023_mains_philosophy2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2023_mains_philosophy2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each:\n(a) What is meant by justice as fairness ? Explain Rawls' theory of justice.\n(b) Critically examine the anarchist's view that \"all States always and everywhere are illegitimate and unjust.\"\n(c) Do you agree that the rights concerning land and property have empowered women? Discuss.\n(d) Critically examine the challenges faced by a multicultural society with reference to India.\n(e) If monarchs are above politics, can monarchy be a systematic form of government? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 498,
+        "subtags": [
+          33,
+          11,
+          346,
+          344
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 498
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 117
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 504
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 502
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy2_q2",
+      "type": "fill-blank",
+      "question": "(a) Elucidate why the absolute nature of sovereignty was rejected by Laski.\n(b) Do you agree that duty and accountability must be given priority over rights for the better functioning of a State? Justify your answer.\n(c) In the present scenario, will the emphasis on skill education enhance development? Evaluate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 500,
+        "subtags": [
+          343,
+          348
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 500
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 501
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 506
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy2_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain Historical Materialism and discuss its relevance in the context of social development and change.\n(b) Critically analyse the social and political significance of Ambedkar's notion of annihilation of caste.\n(c) How does gender discrimination lead to female foeticide and social imbalance? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 506,
+        "subtags": [
+          350,
+          349
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 506
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 508
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 507
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Severity of punishment should be proportionate to the seriousness of the crime.\" — Do you agree that while punishing a juvenile, the nature of the crime should be considered? Justify your answer.\n(b) Explain the challenges faced by a democratic state and the ways to overcome them.\n(c) Secularism is not a rejection of religion but acceptance of all religions. Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 404,
+        "subtags": [
+          11,
+          51
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 30
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 149
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following questions in about 150 words each :\n(a) Elucidate the personalistic and impersonalistic aspects of God.\n(b) Can religious beliefs be justified? Discuss.\n(c) Does religion influence the moral behaviour? Explain the interactive relation between religion and morality.\n(d) Discuss Wittgenstein's view about the non-cognitive nature of religious language.\n(e) What is Agnosticism? How do agnostics conceptualize the relation between religion and God? Discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 509,
+        "subtags": [
+          359,
+          358,
+          360
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 516
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 518
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 509
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy2_q6",
+      "type": "fill-blank",
+      "question": "(a) Critically examine Plato's apriori proofs for the immortality of the soul.\n(b) In what sense is God both immanent and transcendent in theism? Discuss.\n(c) Explain the rational and irrational aspects of faith in the discourse of religion.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 512,
+        "subtags": [
+          351,
+          355
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 509
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 513
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy2_q7",
+      "type": "fill-blank",
+      "question": "(a) Critically examine the arguments of Nyaya for the existence of God.\n(b) Examine the significance of the concept of rebirth in the theory of Karma.\n(c) Explain the symbolic nature of religious language according to Tillich.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 510,
+        "subtags": [
+          354,
+          360
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 510
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 512
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 518
+        }
+      ]
+    },
+    {
+      "id": "upsc_2023_mains_philosophy2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"All evil is either sin or punishment for sin.\" - St. Augustine. Critically discuss.\n(b) Does religious pluralism invite inter-religious conflicts and destroy the truth of religion? Discuss.\n(c) Examine the relation between mystical experience and revelation and expound their significance in the religious life.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 404,
+        "subtags": [
+          359,
+          356
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 404
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 517
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 514
+        }
+      ]
+    }
+  ]
+}

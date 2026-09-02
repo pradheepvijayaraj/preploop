@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2018",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2018,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2018_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2018_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"The Battle of Plassey (1757) thus marked the beginning of political supremacy of the English East India Company in India.\"\n(b) \"The passing of the land from the hands of the peasant proprietors into the hands of non-cultivating landlords brought about increasing polarization of classes in agrarian areas.\"\n(c) \"Faced with the challenge of the intrusion of colonial culture and ideology, an attempt to reinvigorate traditional institutions and to realize the potential of traditional culture developed during the nineteenth century.\"\n(d) \"An ideology of paternalistic benevolence, occasionally combined with talk of trusteeship and training towards self-government, thinly veiled the realities of a Raj uncompromisingly white and despotic.\"\n(e) \"States' reorganization did not, of course, resolve all the problems relating to linguistic conflicts.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 350,
+        "subtags": [
+          195,
+          208,
+          49,
+          39
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 350
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 366
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 132
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) Was the Moplah Rebellion in Malabar an expression of anti-landlord and anti-foreign discontent ? Discuss.\n(b) Analyse various trends in Dalit Movements in various parts of post-independent India.\n(c) Could Dyarchy (1919) satisfy the national sentiments of the Indians ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 354,
+        "subtags": [
+          203,
+          0
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 354
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 361
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) Underline the growth of various forms of Socialist ideologies in the Indian National Movement between World Wars I and II.\n(b) Trace the development of land reforms in India between 1947 and early 1960's.\n(c) What was the significance of Orientalist-Anglicist controversy in nineteenth century India ? Analyse.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          204,
+          197
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 362
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 355
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) Do you consider the suspension of Non-Cooperation Movement a \"national calamity\"?\n(b) Critically examine the turns and twists in the politics of partition in 1930's and 1940's.\n(c) Can methods and policies of the moderates be referred to as 'political mendicancy'?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 360,
+        "subtags": [
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"With the writings of Karl Marx, Socialism assumed the form of Scientific Socialism.\"\n(b) \"The American War of Independence transformed Europe as well as America.\"\n(c) \"The Industrial Revolution put mobility in the place of stability.\"\n(d) At the end of the Battle of Sedan (1870), \"Europe lost a mistress and gained a master\".\n(e) \"Until December 1941, the battlefield of the Second World War was exclusively European and Atlantic; thereafter it became also Asiatic and Pacific.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 359,
+        "subtags": [
+          40,
+          42,
+          192,
+          43
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 133
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 349
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the major ideas of Enlightenment. Discuss the contribution of Rousseau in Enlightenment.\n(b) Discuss how Japan industrialized after the Meiji Restoration. What were the consequences for its neighbours?\n(c) Explain the features of Apartheid in South Africa.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          42,
+          44
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 137
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) Examine the role of Bismarck in state building in Germany.\n(b) Discuss the factors constraining development of Africa after decolonization.\n(c) Outline the circumstances leading to adoption of Marshall Plan.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 365,
+        "subtags": [
+          208,
+          202
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 366
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 360
+        }
+      ]
+    },
+    {
+      "id": "upsc_2018_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) In the Chinese Revolution of 1949, the elements of communism and nationalism were discernible. Explain the statement in the light of Mao's strategy which was different from that of Lenin.\n(b) Discuss how far the United Nations has been successful in resolving global disputes from year 1946 to 1991.\n(c) Review the policy of Glasnost adopted by Gorbachev.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 364,
+        "subtags": [
+          43,
+          210
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 368
+        }
+      ]
+    }
+  ]
+}

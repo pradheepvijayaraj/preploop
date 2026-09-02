@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY1",
+    "section": "mains-anthropology1",
+    "sourceId": "upsc_2022_mains_anthropology1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_anthropology1_q1",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Debate between formalist and substantivist approaches\n(b) Mesolithic rock art in Indian subcontinent\n(c) Radcliffe-Brown's ideas on status, role and institution\n(d) Pedigree analysis in genetic counselling\n(e) Participatory Rural Appraisal (PRA) and Participatory Learning and Action (PLA)",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 250,
+        "subtags": [
+          85,
+          87,
+          96,
+          95
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 250
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 242
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 252
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology1_q2",
+      "type": "fill-blank",
+      "question": "(a) \"Anthropology is the systematic, objective and holistic study of human kind in all times and places\". Elaborate the argument.\n(b) Discuss different forms of primate social organisation.\n(c) Discuss with suitable examples the typo-technological problems in Indian palaeolithic industry with reference to environmental hypotheses.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 234,
+        "subtags": [
+          82,
+          83
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 234
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 239
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 240
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss how the rules of descent contradict the principles of residence in matrilineal society, mentioning suitable examples ?\n(b) Enumerate the evidence of animal domestication in Indian microlithic industry.\n(c) Should we still distinguish between 'classic' and 'progressive' Neanderthals? Discuss the controversy surrounding Neanderthal's position in human evolution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 244,
+        "subtags": [
+          83,
+          31
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 244
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 240
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology1_q4",
+      "type": "fill-blank",
+      "question": "(a) Why Heath and Carter used anthropometric measurements instead of photographs of an individual to assess the somatotype ? Elaborate their method.\n(b) Discuss the historical and cultural contexts that led to superseding ethnocentrism with cultural relativism in anthropology.\n(c) Critically examine various anthropological interpretations about the Kula Ring.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 260,
+        "subtags": [
+          78,
+          90
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 260
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 235
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 247
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology1_q5",
+      "type": "fill-blank",
+      "question": "Write notes on the following in about 150 words each :\n(a) Balanced and transient genetic polymorphism.\n(b) Genetic imprinting in human diseases.\n(c) Stages of human pre-natal development.\n(d) Shaman, sorcerer and medicine man.\n(e) Household and domestic group.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 255,
+        "subtags": [
+          96,
+          79,
+          92,
+          46
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 255
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 253
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 236
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 249
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 140
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology1_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the mechanism of social control in different kinds of political systems.\n(b) What is meant by health? Is the burden of life style diseases on the rise? Justify your answer with suitable examples.\n(c) Critically evaluate the reasons of reduction in age at menarche in human females over the successive generations.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 248,
+        "subtags": [
+          102,
+          103
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 248
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 259
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 260
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology1_q7",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of evolutionary forces in creating human diversity.\n(b) Write the historical development of field work tradition in anthropology till recent times.\n(c) Discuss the approaches of Leslie White, Julian Steward and Marshall Sahlins in the light of cultural evolution.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 76,
+        "subtags": [
+          95
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 76
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 252
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 76
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_anthropology1_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the contemporary population problems in the light of various socio-cultural demographic theories.\n(b) What do you understand by blood group systems? How is HLA system different from those based on red cell antigens?\n(c) Discuss how anthropological knowledge of the human body may be used in designing equipments and articles of human use.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 262,
+        "subtags": [
+          100,
+          93
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 262
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 257
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 250
+        }
+      ]
+    }
+  ]
+}

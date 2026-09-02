@@ -1,0 +1,319 @@
+{
+  "metadata": {
+    "name": "Mains History Paper 2 · 2011",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2011,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2011_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 300
+  },
+  "questions": [
+    {
+      "id": "upsc_2011_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically evaluate the following statements in about 200 words each: (a) \"The need for a unilateral transfer of funds to Britain was a constant factor and; in fact, progressively increased over time.\" (b) \"Young Bengal left little distinctive or permanent impression on the plane of religion and philosophy.\" (c) \"The emergence of left-wing group in the Congress radicalized its social and economic agendas.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 360,
+        "subtags": [
+          197,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 360
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 355
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) \"The Charter Act of 1833 rung down the curtain on the Company's trade and introduced a new concept of government in India,\" Substantiate. (b) \"Orientalism produced a knowledge of the past to service the needs of the Colonial State.\" Elucidate. (c) \"The vernacular press in nineteenth century India served not just as newspapers but more importantly as views-papers.\" Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 352,
+        "subtags": [
+          200
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 352
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) \"In 1857, the rebel sepoys showed a remarkable centripetal tendency to congregate at Delhi.\" Do you agree? Substantiate. (b) \"Tribals revolted more often and far more violently than any other community including peasants in India.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 147,
+        "subtags": [
+          196
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 147
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 354
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) \"Nehru's \"Temple of Modern India\" consisted not only of steel and power plants, irrigation dams, but included institutions of higher learning, particularly in the scientific fields,\" Elaborate. (b) Would you agree that India's effort to pursue an independent foreign policy was a highlight of post-1947 politics?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 352,
+        "subtags": [
+          203
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 361
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically evaluate the following statements in about 200 words each: (a) \"The promptings of the heart are more to be trusted than the logic of the mind.\" — Rousseau. (b) \"The peace of Versailles lacked moral validity from the start.\" (c) \"The collapse of Berlin Wall in 1989 brought new ideas of co-operation in Europe.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 134,
+        "subtags": [
+          207,
+          209
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 134
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 367
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) \"The roots of Chartism are partly political and partly economic.\" Elaborate. (b) \"Whoever says Industrial Revolution, says cotton.\" Comment. (c) \"By 1914, the sick man of Europe was no longer just Turkey: it was Europe itself,\" Explain.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          209
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 367
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain how American imperialism in Philippines differed with European imperialism in Indonesia and Indo-China. (b) How did the policy of appeasement escalate the problem of Nazi aggrandizement?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 363,
+        "subtags": [
+          210
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 368
+        }
+      ]
+    },
+    {
+      "id": "upsc_2011_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) Would you argue that Non-Aligned Movement played a crucial role in promoting a climate of peace? (b) Examine the challenges confronted by the proponents of European unity after the collapse of Soviet Empire in Eastern Europe.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 60.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 365,
+        "subtags": [
+          209
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "b",
+          "marks": 30.0,
+          "subtags": [],
+          "mainTag": 367
+        }
+      ]
+    }
+  ]
+}

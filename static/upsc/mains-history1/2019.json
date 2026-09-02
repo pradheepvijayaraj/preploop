@@ -1,0 +1,78 @@
+{
+  "metadata": {
+    "name": "Mains History Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "HISTORY1",
+    "section": "mains-history1",
+    "sourceId": "upsc_2019_mains_history1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_history1_q1",
+      "type": "fill-blank",
+      "question": "Identify the following places marked on the map supplied to you and write a short note of about 30 words on each of them in your Question-cum-Answer Booklet. Locational hints for each of the places marked on the map are given below seriatim.\n\n![Map supplied with UPSC HISTORY1 2019](/upsc/assets/history1/history1_2019_q1_map.jpg)\n(i) Brick temple site\n(ii) Early Harappan site\n(iii) Ancient seaport and trade centre\n(iv) Stone age site\n(v) Neolithic site\n(vi) Archaeological site\n(vii) Ancient capital city\n(viii) Ancient capital\n(ix) Harappan site\n(x) Ancient inscriptions site\n(xi) A Rock-cut cave site\n(xii) Ancient capital city\n(xiii) Famous temple site\n(xiv) Centre of School of art\n(xv) Ancient inscriptional site\n(xvi) Ancient education centre\n(xvii) Pre-Harappan site\n(xviii) Chalcolithic period site\n(xix) Early inscriptional site\n(xx) Ancient petroglyphs site",
+      "correctAnswers": ["__open__"],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {"mainTag": 324, "subtags": []},
+      "markBreakdown": [
+        {"label":"i","marks":2.5},{"label":"ii","marks":2.5},{"label":"iii","marks":2.5},{"label":"iv","marks":2.5},{"label":"v","marks":2.5},{"label":"vi","marks":2.5},{"label":"vii","marks":2.5},{"label":"viii","marks":2.5},{"label":"ix","marks":2.5},{"label":"x","marks":2.5},{"label":"xi","marks":2.5},{"label":"xii","marks":2.5},{"label":"xiii","marks":2.5},{"label":"xiv","marks":2.5},{"label":"xv","marks":2.5},{"label":"xvi","marks":2.5},{"label":"xvii","marks":2.5},{"label":"xviii","marks":2.5},{"label":"xix","marks":2.5},{"label":"xx","marks":2.5}
+      ]
+    },
+    {
+      "id":"upsc_2019_mains_history1_q2","type":"fill-blank","question":"(a) Do you agree that archaeological evidence often helps in the better understanding of literary sources ? Comment.\n(b) The development of art and architecture during the Sunga period belies the belief that they were anti-Buddhist. Discuss.\n(c) Did the mastery over agriculture act as a leverage for the rise of Harappan towns and cities ? Discuss.","correctAnswers":["__open__"],"explanation":"","marks":50.0,"negativeMarks":0,"negativeMarksUnanswered":0,"difficulty":"hard","tags":[],"taxonomy":{"mainTag":346,"subtags":[
+        168,
+        178
+      ]},"markBreakdown":[{"label":"a","marks":15.0,"subtags":[],"mainTag":325},{"label":"b","marks":15.0,"subtags":[],"mainTag":335},{"label":"c","marks":20.0,"subtags":[],"mainTag":346}]
+    },
+    {
+      "id":"upsc_2019_mains_history1_q3","type":"fill-blank","question":"(a) The flourishing international trade during the Kushana period gave tremendous impetus to the development of art. Discuss.\n(b) Examine how the transformation of the Varna system from the Rigvedic to the Later-Vedic period affected the position of women.\n(c) There are no literary sources for the Harappan culture and no archaeological evidence for the Vedic period. Explain the phenomenon.","correctAnswers":["__open__"],"explanation":"","marks":50.0,"negativeMarks":0,"negativeMarksUnanswered":0,"difficulty":"hard","tags":[],"taxonomy":{"mainTag":329,"subtags":[
+        175
+      ]},"markBreakdown":[{"label":"a","marks":15.0,"subtags":[],"mainTag":332},{"label":"b","marks":15.0,"subtags":[],"mainTag":329},{"label":"c","marks":20.0,"subtags":[],"mainTag":329}]
+    },
+    {
+      "id":"upsc_2019_mains_history1_q4","type":"fill-blank","question":"(a) Explain how Ashoka used religion as a tool of political aggrandizement ?\n(b) Do you agree that the system of land grants from the Gupta-Vakataka period was connected with the decentralisation of state in any way ?\n(c) The discovery of monsoons by Hippalus gave a new direction to Indo-Roman trade during the Satavahana period. Comment.","correctAnswers":["__open__"],"explanation":"","marks":50.0,"negativeMarks":0,"negativeMarksUnanswered":0,"difficulty":"hard","tags":[],"taxonomy":{"mainTag":334,"subtags":[
+        174,
+        172
+      ]},"markBreakdown":[{"label":"a","marks":15.0,"subtags":[],"mainTag":331},{"label":"b","marks":20.0,"subtags":[],"mainTag":334},{"label":"c","marks":15.0,"subtags":[],"mainTag":329}]
+    },
+    {
+      "id":"upsc_2019_mains_history1_q5","type":"fill-blank","question":"Answer the following questions in about 150 words each :\n(a) Discuss how Vijayanagar empire became the cultural capital of the south?\n(b) Examine the status of Sanskrit in Mughal India.\n(c) Assess the rule of Zainul Abedin in Kashmir.\n(d) The economic measures of Alauddin Khalji were aimed at greater political control. Discuss.\n(e) Examine the European impact on Mughal paintings.","correctAnswers":["__open__"],"explanation":"","marks":50.0,"negativeMarks":0,"negativeMarksUnanswered":0,"difficulty":"hard","tags":[],"taxonomy":{"mainTag":347,"subtags":[
+        185,
+        186,
+        182
+      ]},"markBreakdown":[{"label":"a","marks":10.0,"subtags":[],"mainTag":342},{"label":"b","marks":10.0,"subtags":[],"mainTag":347},{"label":"c","marks":10.0,"subtags":[],"mainTag":343},{"label":"d","marks":10.0,"subtags":[],"mainTag":339},{"label":"e","marks":10.0,"subtags":[],"mainTag":347}]
+    },
+    {
+      "id":"upsc_2019_mains_history1_q6","type":"fill-blank","question":"(a) Assess the statement that ‘the philosophy of Shankaracharya revolutionised religious thoughts in India’.\n(b) Delineate the state of agriculture during the Sultanate period.\n(c) Sufi and Bhakti thoughts ennobled Indian psyche amidst the vagaries of time. Elucidate.","correctAnswers":["__open__"],"explanation":"","marks":50.0,"negativeMarks":0,"negativeMarksUnanswered":0,"difficulty":"hard","tags":[],"taxonomy":{"mainTag":335,"subtags":[
+        184
+      ]},"markBreakdown":[{"label":"a","marks":20.0,"subtags":[],"mainTag":335},{"label":"b","marks":15.0,"subtags":[],"mainTag":341},{"label":"c","marks":15.0,"subtags":[],"mainTag":335}]
+    },
+    {
+      "id":"upsc_2019_mains_history1_q7","type":"fill-blank","question":"(a) The emergence of early capitalism in the Mughal period was primarily due to urbanisation and commercialisation. Comment.\n(b) Internal strife and conflict beset with personal ambitions was enough of an invitation for the Ghurids to invade India. Discuss.\n(c) The Mughals built like Titans and embellished like jewellers. Comment.","correctAnswers":["__open__"],"explanation":"","marks":50.0,"negativeMarks":0,"negativeMarksUnanswered":0,"difficulty":"hard","tags":[],"taxonomy":{"mainTag":346,"subtags":[
+        175,
+        190
+      ]},"markBreakdown":[{"label":"a","marks":20.0,"subtags":[],"mainTag":346},{"label":"b","marks":15.0,"subtags":[],"mainTag":332},{"label":"c","marks":15.0,"subtags":[],"mainTag":347}]
+    },
+    {
+      "id":"upsc_2019_mains_history1_q8","type":"fill-blank","question":"(a) Critically analyse whether the success of the Mughals is to be credited to their robust Jagirdari and Mansabdari system.\n(b) It was as much the court intrigues as also the defiance of the provincial powers that hastened the decline of the Mughals in the 18th century. Comment.\n(c) Shivaji was not merely a military conqueror but also was an enlightened ruler. Discuss.","correctAnswers":["__open__"],"explanation":"","marks":50.0,"negativeMarks":0,"negativeMarksUnanswered":0,"difficulty":"hard","tags":[],"taxonomy":{"mainTag":345,"subtags":[
+        186,
+        191
+      ]},"markBreakdown":[{"label":"a","marks":15.0,"subtags":[],"mainTag":343},{"label":"b","marks":20.0,"subtags":[],"mainTag":345},{"label":"c","marks":15.0,"subtags":[],"mainTag":348}]
+    }
+  ]
+}

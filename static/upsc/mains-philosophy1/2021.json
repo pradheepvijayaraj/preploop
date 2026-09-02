@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Philosophy Paper I · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "PHILOSOPHY1",
+    "section": "mains-philosophy1",
+    "sourceId": "upsc_2021_mains_philosophy1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_philosophy1_q1",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each:\n(a) \"There is a red chair.\" How would Plato explain this statement with the use of his theory of forms? Examine.\n(b) \"Potentiality is indefinable\" according to Aristotle. Explain the relationship between potentiality and actuality with reference to the above philosophical position by taking the example of a \"wooden table\".\n(c) \"Sensible things are those only which are immediately perceived by sense.\" Explain Berkeley's theory of knowledge with reference to the above statement.\n(d) Examine the concept of personal identity by Locke.\n(e) \"The relation between cause and effect is one of constant conjunction\". Examine Hume's criticism of causation in the light of the above statement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 478,
+        "subtags": [
+          318
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 476
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 478
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy1_q2",
+      "type": "fill-blank",
+      "question": "(a) Discuss Hegel's Dialectical method. Explain how his dialectical method leads him to the Absolute Idealism.\n(b) What according to Logical Positivists are \"pseudostatements\"? How does one identify \"pseudostatements\"? Critically discuss with examples.\n(c) Explain how Cartesian formulation of ontological argument is criticised by Kant.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 480,
+        "subtags": [
+          324,
+          321
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 480
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 482
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 479
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy1_q3",
+      "type": "fill-blank",
+      "question": "(a) What are the main arguments put forward by Moore in his paper \"A Defence of Common Sense\" to prove that there are possible propositions about the world that are known to be true with certainty? Do you think Moore's arguments provide a sufficient response to objections presented by the sceptic against the possibility of knowledge? Give reasons in support of your answer.\n(b) What according to Strawson are basic particulars? What reasons does Strawson offer to believe that 'material bodies' and 'persons' are basic particulars? Critically discuss.\n(c) Critically examine Quine's postulate of empiricism without the dogmas with reference to his 'Two Dogmas of Empiricism'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 481,
+        "subtags": [
+          329,
+          328
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 481
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 487
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 486
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy1_q4",
+      "type": "fill-blank",
+      "question": "(a) Present a critical exposition of Husserl's criticism of 'natural attitude'. How does Husserl propose to address the problems involved in natural attitude through his phenomenological method ?\n(b) \"I can always choose, but I ought to know that if I do not choose, I am still choosing\". Critically discuss Sartre's conception of choice and responsibility in the light of above statement.\n(c) What does Wittgenstein mean by the statement – \"Whereof one cannot speak, thereof one must be silent?\" Critically discuss.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 484,
+        "subtags": [
+          327,
+          325
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 484
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 485
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 483
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy1_q5",
+      "type": "fill-blank",
+      "question": "Write short answers to the following in about 150 words each:\n(a) Does the seed contain the tree ? Discuss with reference to Nyāya-Vaiśeṣika Philosophy.\n(b) Explain with reference to Nyāya Philosophy, the nature of śabda as the advice of āpta (a reliable person).\n(c) Is 'inseparability' (ayuta-siddhatva) a necessary condition or a sufficient condition for defining characteristics (lakṣaṇa) of samavāya (inherence)? Explain with reference to Vaiśeṣika Philosophy.\n(d) Distinguish between pudgala-nairātmyavāda and dharma-nairātmyavāda with reference to Buddhist Philosophy.\n(e) Comment on the bearing of Cārvāka epistemology on the rejection of transcendental entities by them.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          332,
+          330
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 488
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy1_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain with reference to Yoga Philosophy, the nature of kleśas. How does the removal of these lead to kaivalya?\n(b) Explain the Sāṅkhya view on three guṇas (guṇa-traya) and their modifications.\n(c) What, according to Mīmāṁsakas, is the ontological status of abhāva (absence) and how does one know it? Explain and examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 493,
+        "subtags": [
+          334,
+          333
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 493
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 492
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy1_q7",
+      "type": "fill-blank",
+      "question": "(a) How do the advocates of anirvacaniya-khyāti refute the position of the Naiyāyikas and establish the position of Advaitins regarding the problem of error? Critically discuss.\n(b) If everything is momentary then how do the Buddhists explain the problem of memory and personal identity? Critically discuss.\n(c) Explain the Jain view of seven-fold (sapta-bhangi) 'Naya'.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 491,
+        "subtags": [
+          332,
+          331
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 490
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 489
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_philosophy1_q8",
+      "type": "fill-blank",
+      "question": "(a) According to Sri Aurobindo, 'the awakening of the psychic being and its gradual prominence over all other parts of the being is the first step in the conscious evolution of man'. Explain and examine.\n(b) Compare and contrast the views of Śaṅkara and Rāmānuja regarding the status of the world.\n(c) Explain the status of jīva and jagat in the philosophy of Mādhavācārya.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 496,
+        "subtags": [
+          333,
+          336
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 496
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 491
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 494
+        }
+      ]
+    }
+  ]
+}

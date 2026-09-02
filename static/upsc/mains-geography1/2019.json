@@ -1,0 +1,372 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2019_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Describe phreatic eruptions and their consequences.\n(b) Explain the techniques to calculate potential evapotranspiration suggested by Thornthwaite.\n(c) How are sandspits and tombolos formed?\n(d) Amensalism is a biotic factor that determines the geographic limits of species. Explain.\n(e) How do mountaineers constitute a threat to Mount Everest?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          53,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) Why is it necessary to conserve genetic diversity of species? Do protected areas serve any useful purpose in this context?\n(b) Compare and contrast different types of plate boundaries.\n(c) Explain the nature of urban climates and their impact on global environmental change.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 15,
+        "subtags": [
+          52,
+          150
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss in detail the tri-cellular model of atmospheric circulation.\n(b) How are soil acidity and alkalinity related to soil fertility?\n(c) \"The web of life is seamless and the consequences of disruption to one part of the ecosystem ripple throughout the whole.\" Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 15,
+        "subtags": [
+          53
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the methods of measuring the intensity and magnitude of earthquakes. How are seismic zones demarcated?\n(b) The impact of floods on life and property can be most effectively reduced by hazard mapping. Comment.\n(c) How are ocean waves formed? Distinguish between a wave of oscillation and a wave of translation.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          150,
+          54
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) \"A language originates at a particular place and diffuses to other locations through the migration of its speakers.\" Examine this statement in the context of language hot spots and endangered language hot spots.\n(b) Define stunting and wasting. Why are these more prevalent among children in developing countries?\n(c) Explain the relationship between net reproductive rate (NRR) and true replacement level of population.\n(d) What are natural regions? How are they different from planning regions?\n(e) Discuss the genetic classification of boundaries suggested by Hartshorne.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 308,
+        "subtags": [
+          153,
+          3
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 15
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) HDI has brought about a paradigm shift in the way people think about the development process. Critically examine the inherent limitations of HDI.\n(b) \"A large-scale global shift in manufacturing is the outcome of deindustrialization in the developed world matched by industrialization in the developing world.\" Analyze this statement.\n(c) What do you mean by 'climate migrants'? Suggest appropriate policies and programmes for their resettlement.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          2,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) What changes in the current planning, management and governance of human settlements are needed to face the changing environment including climate change and disaster vulnerabilities in cities?\n(b) Globalization can often subsume folk culture. What are its positive and negative effects?\n(c) \"Growth is not uniform in different places.\" Critically examine this statement in the context of the growth pole theory.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          1,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) Distinguish between 'isodapanes' and 'isotims'. Critically examine the least cost theory of industrial location given by Alfred Weber.\n(b) Assess the challenges for countries with the largest shares of aged populations.\n(c) Examine the relevance of the 'rimland theory' in the contemporary world.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 12,
+        "subtags": [
+          151,
+          154
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 311
+        }
+      ]
+    }
+  ]
+}

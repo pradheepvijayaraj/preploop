@@ -1,0 +1,376 @@
+{
+  "metadata": {
+    "name": "Mains Public Administration Paper II · 2020",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2020,
+    "stage": "Mains",
+    "paper": "PUBAD2",
+    "section": "mains-pubad2",
+    "sourceId": "upsc_2020_mains_pubad2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2020_mains_pubad2_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each:\n(a) Mughal administration incorporated a combination of Indian and extra-Indian elements. Discuss.\n(b) There is a constant and continuous collision between bureaucratic values and democratic values which adversely affects development. Do you agree? Elaborate.\n(c) Parliamentary committees are at the deliberative core of parliamentary work which is crucial for refining legislations. Elucidate.\n(d) Considering India's diversity, the planning pattern of 'one-size-fits-all' was discarded in favour of indicative planning. To what extent has it been useful to India?\n(e) Even if all the States combine together, they cannot have their way in the decision-making in the GST Council, unless the Union agrees to it. Analyze this in the perspective of federalism in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 559,
+        "subtags": [
+          411,
+          408,
+          15,
+          405
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 35
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 563
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad2_q2",
+      "type": "fill-blank",
+      "question": "(a) District administration is the most important unit in governance. Most of the Central and State Government schemes and programmes are directed towards the district administration. In this context, discuss the challenges and problems posed to the district administration.\n(b) The structural part of the Constitution of India is to a large extent derived from the Government of India Act, 1935, whereas its philosophical part has many other sources. Discuss the sources of the philosophical part.\n(c) The public services in India are an evolution of the British Raj. Trace the Indianization of the services.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 564,
+        "subtags": [
+          402,
+          401
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 564
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 560
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 559
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad2_q3",
+      "type": "fill-blank",
+      "question": "(a) Does the privatization of key public sector bodies augur well for welfarism in India? Discuss with suitable illustrations.\n(b) The spirit of democratic values requires that the independence of judiciary remains absolute. It is high time that the All India Judicial Service (AIJS) was created. Elaborate.\n(c) To strengthen the Election Commission of India and its commissioners is the need of the hour. Suggest measures to make it more independent and impartial.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 561,
+        "subtags": [
+          411,
+          412
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 569
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 570
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad2_q4",
+      "type": "fill-blank",
+      "question": "(a) Examine the National Health Policy in the context of the current pandemic situation. Identify the problems and suggest improvements.\n(b) The Speaker of the State Assembly has assumed a significant role in formations and dissolutions of governments. Examine under the circumstances of coalition governments with examples.\n(c) At the district level, police functions under the overall supervision and control of the District Magistrate. Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 572,
+        "subtags": [
+          406
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 572
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 564
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad2_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Political neutrality of civil servants has been regarded as one of the cardinal principles in democratic governments. Is its sanctity being maintained in practice in India? Elucidate.\n(b) Budget is an indicator of financial health of a polity which is reflected in the statement of income and expenditure. Discuss.\n(c) Panchayati Raj Institutions are still plagued by State control and domination of bureaucracy. Argue your case.\n(d) Urban local governance is perpetually afflicted with lack of financial autonomy and starvation of funds. Elaborate.\n(e) There has been a long-standing demand for separation of police investigation from prosecution. Analyze its merits and demerits.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 31,
+        "subtags": [
+          407,
+          128,
+          409,
+          410
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 565
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 568
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad2_q6",
+      "type": "fill-blank",
+      "question": "(a) The office of the Comptroller and Auditor General of India stands on the pillar of autonomy. Discuss the major lacunae in the functioning of this constitutional body and also suggest measures for its strengthening.\n(b) Implementation of administrative reforms is humongous and arduous. What lacks the push to realize the changes?\n(c) Immediate post-retirement appointments of high officers of government have become a new trend. Discuss its pros and cons.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 561,
+        "subtags": [
+          408,
+          12
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 561
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 566
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad2_q7",
+      "type": "fill-blank",
+      "question": "(a) Ward committees in urban local governance have remained mere paper tigers. The ideal of realizing effective people's participation in collaboration with local functionaries is still in the pipeline. Evaluate the gap in theory and practice.\n(b) Police needs to be made accountable and freed from the grip of politics. It is a big challenge not only for law and order but also for the development of the country. Critically examine.\n(c) Civil servants are trained to follow rules and procedures so much that they become bureaucracy. Do you agree? Justify.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 567,
+        "subtags": [
+          410,
+          12
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 567
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 568
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 31
+        }
+      ]
+    },
+    {
+      "id": "upsc_2020_mains_pubad2_q8",
+      "type": "fill-blank",
+      "question": "(a) \"There are adequate legal mechanisms to address corruption and malpractices in administration, but they have failed to curb the menace to any noticeable degree.\" In the light of this statement, discuss the efficacy of the institution of Lokayukta in Indian States.\n(b) Despite the constitutional provisions for representation, the voice of weaker sections is not having the desired impact in the realms of Panchayati Raj Institutions. Critically examine.\n(c) Ideally citizen-administration interface is supposed to be based on trustworthiness and purposefulness, in reality it is observed to be plagued by suspicion, conflicts, stresses and strains. Do you agree? Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 563,
+        "subtags": [
+          128,
+          411
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 563
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 285
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 569
+        }
+      ]
+    }
+  ]
+}

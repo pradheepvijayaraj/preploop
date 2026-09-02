@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Sociology Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "SOCIOLOGY2",
+    "section": "mains-sociology2",
+    "sourceId": "upsc_2021_mains_sociology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_sociology2_q1",
+      "type": "fill-blank",
+      "question": "Write short answers, with a sociological perspective, of the following questions in about 150 words each:\n(a) Caste system studies in India have been dominated by the \"book-view\" initially. How did the entry of \"field-view\" bring about a balance in the study of Indian caste system? Discuss.\n(b) What does Dr. B. R. Ambedkar mean by the concept of \"Annihilation of caste\"?\n(c) Discuss different forms of kinship system in India.\n(d) Critically examine briefly the phrase \"Little Republics\" as used to denote India's villages.\n(e) Caste-like formations are present in Non-Hindu religious communities as well. Discuss with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          430,
+          428
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 588
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 586
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology2_q2",
+      "type": "fill-blank",
+      "question": "(a) What is identity politics? Discuss the main trends in Dalit movements in India.\n(b) Is Indian society moving from \"Hierarchy\" towards \"differentiation\"? Illustrate your answer with suitable examples.\n(c) Discuss the salient features of 'new middle class' in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 595,
+        "subtags": [
+          426,
+          429
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 584
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 587
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Discuss in detail the major contribution of Prof. Yogendra Singh in theorizing India's modernization.\n(b) Examine the factors responsible for the rural unrest in contemporary India.\n(c) Discuss the changing dimensions of family structure in urban India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 592,
+        "subtags": [
+          195,
+          430
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 592
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 353
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 588
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology2_q4",
+      "type": "fill-blank",
+      "question": "(a) What are the sociological reasons and implication of \"reverse migration\" during the recent pandemic in India ?\n(b) Discuss the main features of the debate between G. S. Ghurye and V. Elwin on tribal development.\n(c) What are the various forms of untouchability in India ? Critically examine.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 595,
+        "subtags": [
+          27,
+          45
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 595
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 60
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology2_q5",
+      "type": "fill-blank",
+      "question": "Write short answers, with sociological perspective, of the following questions in about 150 words each :\n(a) Analyze the idea of developmental planning in India.\n(b) Comment on the role of co-operatives in rural development.\n(c) Urban slums are sites of social exclusion - explain.\n(d) Does regionalism essentially lead to decentralization of power? Substantiate your answer with relevant examples.\n(e) Discuss the role of technology in agrarian change in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 591,
+        "subtags": [
+          432,
+          47,
+          435
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 590
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 591
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 145
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 591
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Explain the sociological significance of the New Education Policy and its thrust on vocationalization and skill development.\n(b) Is 'ageing' an emerging issue in Indian society? Discuss the major problems of the old age people in India.\n(c) Underline the socio-cultural factors responsible for India's skewed sex-ratio.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 603,
+        "subtags": [
+          431,
+          440
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 603
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 589
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 598
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology2_q7",
+      "type": "fill-blank",
+      "question": "(a) The problem of displacement is inherent in the idea of development. Analyze the statement critically.\n(b) Rising 'ethnocentricism' is leading to conflict in our society. Assess this statement with appropriate reasons.\n(c) Is social democracy a precondition for political democracy? Comment.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 599,
+        "subtags": [
+          444,
+          435
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 599
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 602
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 593
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_sociology2_q8",
+      "type": "fill-blank",
+      "question": "(a) Discuss the role of social media in communal polarisation. Suggest ways to combat it.\n(b) Urban settlements in India tend to replicate its rural caste-kinship imprints. Discuss the main reasons.\n(c) Does \"economic empowerment\" automatically bring about \"substantive empowerment\" for women? Briefly describe the main issues in women empowerment in India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 602,
+        "subtags": [
+          45,
+          436
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 602
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 594
+        }
+      ]
+    }
+  ]
+}

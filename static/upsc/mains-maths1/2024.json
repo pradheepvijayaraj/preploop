@@ -1,0 +1,410 @@
+{
+  "metadata": {
+    "name": "Mathematics Optional Paper I · 2024",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2024,
+    "stage": "Mains",
+    "paper": "MATHS1",
+    "section": "mains-maths1",
+    "sourceId": "upsc_2024_mains_maths1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2024_mains_maths1_q1",
+      "type": "fill-blank",
+      "question": "(a) Let $H$ be a subspace of $\\mathbb{R}^4$ spanned by the vectors $v_1 = (1, -2, 5, -3)$, $v_2 = (2, 3, 1, -4)$, $v_3 = (3, 8, -3, -5)$. Then find a basis and dimension of $H$, and extend the basis of $H$ to a basis of $\\mathbb{R}^4$.\n(b) Let $T : \\mathbb{R}^3 \\to \\mathbb{R}^3$ be a linear operator and $B = \\{v_1, v_2, v_3\\}$ be a basis of $\\mathbb{R}^3$ over $\\mathbb{R}$. Suppose that $T v_1 = (1, 1, 0)$, $T v_2 = (1, 0, -1)$, $T v_3 = (2, 1, -1)$. Find a basis for the range space and null space of $T$.\n(c) Discuss the continuity of the function\n$$ f(x) = \\begin{cases} \\frac{1}{1 - e^{-1/x}}, & x \\neq 0 \\\\ 0, & x = 0 \\end{cases} $$\nfor all values of $x$.\n(d) Expand $\\ln(x)$ in powers of $(x - 1)$ by Taylor's theorem and hence find the value of $\\ln(1.1)$ correct up to four decimal places.\n(e) Find the equation of the right circular cylinder which passes through the circle $x^2 + y^2 + z^2 = 9$, $x - y + z = 3$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 440,
+        "subtags": [
+          283,
+          284
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 442
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q2",
+      "type": "fill-blank",
+      "question": "(a) Consider a linear operator $T$ on $\\mathbb{R}^3$ over $\\mathbb{R}$ defined by $T(x, y, z) = (2x, 4x - y, 2x + 3y - z)$. Is $T$ invertible? If yes, justify your answer and find $T^{-1}$.\n(b) If $u = (x + y)/(1 - xy)$ and $v = \\tan^{-1} x + \\tan^{-1} y$, then find $\\partial(u, v) / \\partial(x, y)$. Are $u$ and $v$ functionally related? If yes, find the relationship.\n(c) Find the image of the line $x = 3 - 6t$, $y = 2t$, $z = 3 + 2t$ in the plane $3x + 4y - 5z + 26 = 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 442,
+        "subtags": [
+          282,
+          283
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 442
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q3",
+      "type": "fill-blank",
+      "question": "(a) Let $V = M_{2 \\times 2}(\\mathbb{R})$ denote a vector space over the field of real numbers. Find the matrix of the linear mapping $\\phi : V \\to V$ given by $\\phi(v) = \\begin{pmatrix} 1 & 2 \\\\ 3 & -1 \\end{pmatrix} v$ with respect to standard basis of $M_{2 \\times 2}(\\mathbb{R})$, and hence find the rank of $\\phi$. Is $\\phi$ invertible? Justify your answer.\n(b) Find the volume of the greatest cylinder which can be inscribed in a cone of height $h$ and semi-vertical angle $\\alpha$.\n(c) Find the vertex of the cone $4x^2 - y^2 + 2z^2 + 2xy - 3yz + 12x - 11y + 6z + 4 = 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 441,
+        "subtags": [
+          282,
+          284
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 442
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q4",
+      "type": "fill-blank",
+      "question": "(a) Let $A = \\begin{pmatrix} 3 & 2 & 4 \\\\ 2 & 0 & 2 \\\\ 4 & 2 & 3 \\end{pmatrix}$ be a $3 \\times 3$ matrix. Find the eigenvalues and the corresponding eigenvectors of $A$. Hence find the eigenvalues and the corresponding eigenvectors of $A^{-15}$, where $A^{-15} = (A^{-1})^{15}$.\n(b) Using double integration, find the area lying inside the cardioid $r = a(1 + \\cos \\theta)$ and outside the circle $r = a$.\n(c) Find the equation of the sphere which touches the plane $3x + 2y - z + 2 = 0$ at the point $(1, -2, 1)$ and cuts orthogonally the sphere $x^2 + y^2 + z^2 - 4x + 6y + 4 = 0$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section A"
+      ],
+      "taxonomy": {
+        "mainTag": 440,
+        "subtags": [
+          283,
+          284
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 440
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 442
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q5",
+      "type": "fill-blank",
+      "question": "(a) Find the orthogonal trajectories of the family of curves $r = c(\\sec \\theta + \\tan \\theta)$, where $c$ is a parameter.\n(b) Solve the integral equation $y(t) = \\cos t + \\int_0^t y(x) \\cos(t - x) dx$ using Laplace transform.\n(c) At any time $t$ (in seconds), the coterminous edges of a variable parallelepiped are represented by the vectors\n$$ \\bar{\\alpha} = t \\hat{i} + (t + 1)\\hat{j} + (2t + 1)\\hat{k} $$\n$$ \\bar{\\beta} = 2t \\hat{i} + (3t - 1)\\hat{j} + t\\hat{k} $$\n$$ \\bar{\\gamma} = \\hat{i} + 3t \\hat{j} + \\hat{k} $$\nWhat is the rate of change of the vectorial area of the parallelogram, whose coterminous edges are $\\bar{\\alpha}$ and $\\bar{\\gamma}$? Also find the rate of change of the volume of the parallelepiped at $t = 1$ second.\n(d) A solid hemisphere rests in equilibrium on a solid sphere of equal radius. Determine the stability of the equilibrium in the two situations—(i) when the curved surface and (ii) when the flat surface of the hemisphere rests on the sphere.\n(e) (i) Let $C$ be a plane curve $\\bar{r}(t) = f(t)\\hat{i} + g(t)\\hat{j}$, where $f$ and $g$ have second-order derivatives. Show that the curvature at a point is given by\n$$ \\kappa = \\frac{|f'(t)g''(t) - g'(t)f''(t)|}{\\left([f'(t)]^2 + [g'(t)]^2\\right)^{3/2}} $$\nWhat is the value of torsion $\\tau$ at any point of this curve?\n(ii) Show that the principal normals at two consecutive points of a curve do not intersect unless torsion $\\tau$ is zero.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 442,
+        "subtags": [
+          285,
+          288,
+          287
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 442
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 443
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 446
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 445
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 442,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 5.0
+            },
+            {
+              "label": "ii",
+              "marks": 5.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q6",
+      "type": "fill-blank",
+      "question": "(a) A regular tetrahedron, formed of six light rods, each of length $l$, rests on a smooth horizontal plane. A ring of weight $W$ and radius $r$ is supported by the slant sides. Using the principle of virtual work, find the stress in any of the horizontal sides.\n(b) A particle executes simple harmonic motion such that in two of its positions, velocities are $u$ and $v$, and the two corresponding accelerations are $f_1$ and $f_2$. For what value(s) of $k$, the distance between the two positions is $k(v^2 - u^2)$? Show also that the amplitude of the motion is\n$$ \\frac{1}{f_2^2 - f_1^2} [(u^2 - v^2)(u^2 f_2^2 - v^2 f_1^2)]^{1/2} $$\n(c) (i) Find the second solution of the differential equation $xy'' + (x - 1)y' - y = 0$ using $u(x) = -e^{-x}$ as one of the solutions.\n(ii) Find the general solution of the differential equation $x^2 y'' - 2xy' + 2y = x^3 \\sin x$ by the method of variation of parameters.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 443,
+        "subtags": [
+          287,
+          286
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 445
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 444
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 443,
+          "subparts": [
+            {
+              "label": "i",
+              "marks": 10.0
+            },
+            {
+              "label": "ii",
+              "marks": 10.0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q7",
+      "type": "fill-blank",
+      "question": "(a) State uniqueness theorem for the existence of unique solution of the initial value problem $\\frac{dy}{dx} = f(x, y)$, $y(x_0) = y_0$ in the rectangular region $R: |x - x_0| \\leq a$, $|y - y_0| \\leq b$. Test the existence and uniqueness of the solution of the initial value problem $\\frac{dy}{dx} = 2\\sqrt{y}$, $y(1) = 0$, in a suitable rectangle $R$. If more than one solution exist, then find all the solutions.\n(b) A heavy particle hanging vertically from a fixed point by a light inextensible string of length $l$ starts to move with initial velocity $u$ in a circle so as to make a complete revolution in a vertical plane. Show that the sum of tensions at the ends of any diameter is constant.\n(c) State Stokes' theorem and verify it for the vector field $\\vec{F} = xy\\hat{i} + yz\\hat{j} + zx\\hat{k}$ over the surface $S$, which is the upwardly oriented part of the cylinder $z = 1 - x^2$, for $0 \\leq x \\leq 1$, $-2 \\leq y \\leq 2$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 446,
+        "subtags": [
+          283,
+          286
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 441
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 444
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 446
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_mains_maths1_q8",
+      "type": "fill-blank",
+      "question": "(a) Using Laplace transform, solve the initial value problem\n$$ y'' + 2y' + 5y = \\delta(t - 2), \\quad y(0) = 0, \\quad y'(0) = 0 $$\nwhere $\\delta(t - 2)$ denotes the Dirac delta function.\n(b) Using Gauss divergence theorem, evaluate the integral\n$$ \\iint_S (y^2 \\hat{i} + xz^3 \\hat{j} + (z - 1)^2 \\hat{k}) \\cdot \\hat{n} \\, dS $$\nover the region bounded by the cylinder $x^2 + y^2 = 16$ and the planes $z = 1$ and $z = 5$.\n(c) A particle moves with a central acceleration $\\mu \\left( \\frac{3}{r^3} + \\frac{d^2}{r^5} \\right)$ being projected from a distance $d$ at an angle $45^\\circ$ with a velocity equal to that in a circle at the same distance. Prove that the time it takes to reach the centre of force is $\\frac{d^2}{\\sqrt{2\\mu}} \\left( 2 - \\frac{\\pi}{2} \\right)$.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [
+        "Section B"
+      ],
+      "taxonomy": {
+        "mainTag": 444,
+        "subtags": [
+          285,
+          288
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 443
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 446
+        },
+        {
+          "label": "c",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 444
+        }
+      ]
+    }
+  ]
+}

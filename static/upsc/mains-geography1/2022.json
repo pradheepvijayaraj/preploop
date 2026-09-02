@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Geography Paper I · 2022",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2022,
+    "stage": "Mains",
+    "paper": "GEOGRAPHY1",
+    "section": "mains-geography1",
+    "sourceId": "upsc_2022_mains_geography1",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2022_mains_geography1_q1",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Define 'speleothem'. Discuss the various forms and features of speleothems.\n(b) What are the high altitude environmental hazards ? Explain with suitable examples.\n(c) What is pollution dome ? Discuss its formation and impacts.\n(d) When corals are affected by stress it causes them to turn completely white. Explain the reasons of such an occurrence.\n(e) Well developed soils typically exhibit distinct layers in their soil profile. Elaborate.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 150,
+        "subtags": [
+          150,
+          54
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 152
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography1_q2",
+      "type": "fill-blank",
+      "question": "(a) Sequential changes in land use and land cover have brought global and regional ecological changes and imbalances. Elucidate.\n(b) Explain how various aspects of channel morphology are used in transportation, settlement and land use planning, flood control and flood management?\n(c) What is the relationship between ocean currents and global surface wind systems? Explain with examples how does the gyre in the Northern Hemisphere differ from the one in the Southern Hemisphere.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          152,
+          54
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 152
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography1_q3",
+      "type": "fill-blank",
+      "question": "(a) Plants and animals that exist in a particular ecosystem are those that have been successful in adjusting to their habitat and environmental conditions. Elucidate with examples.\n(b) With suitable examples describe the impacts of movement of airmasses on weather and winds in different parts of the continents.\n(c) Discuss the role of Slope, Altitude and Relief (SAR) in landscape development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          53,
+          52
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography1_q4",
+      "type": "fill-blank",
+      "question": "(a) Rise of surface temperature brings severe consequences. Elaborate the potential changes and threats associated with it in the world.\n(b) Describe how short term variations in temperature are related to the processes of receiving energy from the sun to the Earth's surface and dissipating it to the atmosphere.\n(c) With the help of suitable sketches describe the mountain genesis and mountain types. Give suitable examples from various mountain systems of the world.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 151,
+        "subtags": [
+          52
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 151
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 150
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography1_q5",
+      "type": "fill-blank",
+      "question": "Answer the following in about 150 words each :\n(a) Analyse the effects of Globalisation on languages.\n(b) \"Shifting global trade patterns create new opportunities\". Examine this statement.\n(c) Examine the morphological factors that influence the origin and growth of towns.\n(d) Discuss the role of transportation accessibility in regional development.\n(e) Explain the geometrical boundaries with examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 308,
+        "subtags": [
+          2,
+          152,
+          153,
+          154
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 308
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 310
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 311
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography1_q6",
+      "type": "fill-blank",
+      "question": "(a) \"Culture is a dynamic concept\". Elucidate with examples.\n(b) \"Automation is rapidly changing the economies of labour and will affect trade patterns in significant ways\". Clarify.\n(c) \"Over crowding leads to chronic problem of shortage of housing in Indian cities\". Explain citing relevant examples.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 11,
+        "subtags": [
+          2,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography1_q7",
+      "type": "fill-blank",
+      "question": "(a) \"Climate change is a serious problem to global food security and poverty eradication\". Critically examine.\n(b) Critically examine the significance of the Quantitative Revolution and its influence in the development of Geography.\n(c) Explain in detail the impact of regional disparities on economic development.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 307,
+        "subtags": [
+          1,
+          153
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 307
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 11
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 310
+        }
+      ]
+    },
+    {
+      "id": "upsc_2022_mains_geography1_q8",
+      "type": "fill-blank",
+      "question": "(a) How migration is affected by push and pull factors ? Explain how these factors play a role in understanding new settlement patterns.\n(b) Explain the relevance and applicability of Von Thunen theory of Agriculture-location in today's world.\n(c) Discuss the concept of 'Rank-Size-Rule' given by G. K. Zipf. Is this rule relevant in Indian context ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 309,
+        "subtags": [
+          2,
+          151
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 309
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 12
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 308
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains History Paper II · 2019",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2019,
+    "stage": "Mains",
+    "paper": "HISTORY2",
+    "section": "mains-history2",
+    "sourceId": "upsc_2019_mains_history2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2019_mains_history2_q1",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements/Answer the following in about 150 words each :\n(a) \"Tipu Sultan was trying to build in Mysore a strong centralised and militarised state, with ambitious territorial designs.\"\n(b) \"Not until independence, when economic development became a conscious and pursued policy, did the Railways begin to realize their potential for assisting in the transformation of the Indian economy.\"\n(c) \"Two important intellectual criteria which informed the reform movements were rationalism and religious universalism.\"\n(d) \"... the Kol Insurrection was mainly a war of the tribal inhabitants of Chotanagpur against the non-tribal settlers and service-holders.\"\n(e) \"The Cripps Mission was plagued throughout, and ultimately torpedoed.\"",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 7,
+        "subtags": [
+          204,
+          34,
+          196,
+          210
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 362
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 121
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 354
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 368
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_history2_q2",
+      "type": "fill-blank",
+      "question": "(a) How far was the drain theory a focal point of nationalist critique of colonialism?\n(b) Examine the forces at work for the introduction of western education in India. Analyse the thrust given to it by the Christian Missionaries.\n(c) Do you subscribe to the view that the Anglo-French tussle in Carnatic demonstrated the internal decay of the provincial chieftains of South India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 363,
+        "subtags": [
+          194,
+          49
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 352
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_history2_q3",
+      "type": "fill-blank",
+      "question": "(a) How would you explain the major trends of the Swadeshi Movement in Bengal ?\n(b) Is it justified to say that the Government of India Act of 1935 had all brakes, but no engine ?\n(c) How far was the widow remarriage movement effective in arousing social concern for Indian women ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 356,
+        "subtags": [
+          200,
+          49
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 356
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 358
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 147
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_history2_q4",
+      "type": "fill-blank",
+      "question": "(a) Why is the Quit India Movement characterised as a 'Spontaneous Revolution'? Did it accelerate the process of Indian independence?\n(b) Assess the role of Subhas Chandra Bose in India's struggle for independence.\n(c) How did the introduction of Community Development Programme and Panchayati Raj promote welfare of rural India?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 361,
+        "subtags": [
+          206
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 364
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 361
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 361
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_history2_q5",
+      "type": "fill-blank",
+      "question": "Critically examine the following statements in about 150 words each:\n(a) \"The arguments of the free traders were a curious mixture of economic hard-headedness, social benevolence, cosmopolitan idealism and class prejudice.\"\n(b) \"There are many ways in which the war of 1914 – 18 was unprecedented, and in human history, entirely novel.\"\n(c) \"The ineffectiveness of the League of Nations to prevent or to check Japanese aggression against China was the first serious blow to its prestige as an agency for providing security.\"\n(d) \"Non-alignment came to symbolize the struggle of India and other newly independent nations to retain and strengthen their independence from colonialism and imperialism.\"\n(e) How would you explain the nature of pre-Marxian Socialism?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 363,
+        "subtags": [
+          43,
+          207,
+          201
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 363
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 359
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_history2_q6",
+      "type": "fill-blank",
+      "question": "(a) How did the policies of governments facilitate the process of industrialisation in Europe?\n(b) How was Italy transformed from 'a geographical expression' to a nation-state?\n(c) How far did the Napoleonic preferential stance to help out the French economy result in embroiling France in continental conflicts?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 135,
+        "subtags": [
+          0,
+          40
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 135
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 7
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 133
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_history2_q7",
+      "type": "fill-blank",
+      "question": "(a) Which factors would you attribute to the British colonial intervention in Malaya in the 19th century ? How did Malays react to British colonial rule ?\n(b) Explain why Latin America was beset with chronic political instability and endemic military conflicts throughout most of the 19th century.\n(c) Do you agree with the view that the formation of NATO marked a revolution in American attitude to the world problems ?",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 351,
+        "subtags": [
+          44,
+          206
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 351
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 137
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 364
+        }
+      ]
+    },
+    {
+      "id": "upsc_2019_mains_history2_q8",
+      "type": "fill-blank",
+      "question": "(a) Do you subscribe to the view that the Greek War of Independence was mired in contrasts of the best and the worst episodes ? How did it affect the Concert of Europe ?\n(b) Was Czechoslovakia served on a dish to Hitler at Munich ? What were its implications ?\n(c) Analyse the role of Egypt after the Second World War in bringing about Arab unity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 136,
+        "subtags": [
+          207
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 136
+        },
+        {
+          "label": "b",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 365
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 136
+        }
+      ]
+    }
+  ]
+}

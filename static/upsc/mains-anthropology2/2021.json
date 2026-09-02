@@ -1,0 +1,374 @@
+{
+  "metadata": {
+    "name": "Mains Anthropology Paper II · 2021",
+    "exam": "UPSC CSE",
+    "totalQuestions": 8,
+    "difficulty": "hard",
+    "defaultDuration": 10800,
+    "year": 2021,
+    "stage": "Mains",
+    "paper": "ANTHROPOLOGY2",
+    "section": "mains-anthropology2",
+    "sourceId": "upsc_2021_mains_anthropology2",
+    "practiceMode": "descriptive",
+    "contentVersion": 47,
+    "taxonomyVersion": 4,
+    "durationSeconds": 10800,
+    "maxMarks": 250
+  },
+  "questions": [
+    {
+      "id": "upsc_2021_mains_anthropology2_q1",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each:\n(a) Purushartha and righteous living today\n(b) Relevance of tribe-caste continuum\n(c) Harappan seals\n(d) Caste and social capital\n(e) Factionalism and politics in rural India",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 139,
+        "subtags": [
+          112,
+          108,
+          115
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 269
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 265
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 139
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 272
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology2_q2",
+      "type": "fill-blank",
+      "question": "(a) Critically discuss the origin of Indus Valley Civilization. Mention the evidences of its endogenous origin from the pre-Harappan sites.\n(b) Give the distribution and characteristic features of Upper Paleolithic culture in India.\n(c) Discuss the morphological features and phylogenetic position of Ramapithecus.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 264,
+        "subtags": [
+          108
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 264
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 265
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology2_q3",
+      "type": "fill-blank",
+      "question": "(a) Explain the impact of the concept of nature-man-spirit complex on sustainable use of natural resources with suitable examples.\n(b) Examine the contributions of S. C. Roy in highlighting the role of customary laws in tribal life.\n(c) Critically assess the impact of Christianity on tribal culture and identity.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 269,
+        "subtags": [
+          122,
+          124
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 269
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 281
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology2_q4",
+      "type": "fill-blank",
+      "question": "(a) Discuss the contributions of N. K. Bose in understanding tribal communities and their place in Indian civilization.\n(b) Discuss the role of Panchayati Raj Institutions in transforming traditional power hierarchy in rural India.\n(c) Elucidate the problems and challenges in educational attainment of the Scheduled Tribes.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 282,
+        "subtags": [
+          111,
+          119
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 282
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology2_q5",
+      "type": "fill-blank",
+      "question": "Write short notes on the following in about 150 words each :\n(a) Urbanization and tribal institutions\n(b) Ethnic media and social awareness\n(c) Cultural diversity and multiculturalism\n(d) Concept of tribe and Indian census\n(e) Politics of recognition and deprivation",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 280,
+        "subtags": [
+          122,
+          111,
+          118
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "c",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 280
+        },
+        {
+          "label": "d",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 275
+        },
+        {
+          "label": "e",
+          "marks": 10.0,
+          "subtags": [],
+          "mainTag": 280
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology2_q6",
+      "type": "fill-blank",
+      "question": "(a) Discuss the impact of the Forest Rights Act (2006) on the livelihood and culture of tribal people in India.\n(b) Examine the factors responsible for malnutrition in tribal India and suggest interventions required to overcome the problem.\n(c) Delineate the factors influencing fertility in Indian population.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 279,
+        "subtags": [
+          119,
+          110
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 279
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 276
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 267
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology2_q7",
+      "type": "fill-blank",
+      "question": "(a) Explain the impact of successive Land Acquisition Acts on tribal social organization.\n(b) Discuss the problems involved in rehabilitation and resettlement of tribals displaced due to development projects in India.\n(c) Discuss the interventions made by the Non-Governmental Organizations for empowering tribal women.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 268,
+        "subtags": [
+          120,
+          122
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 277
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 279
+        }
+      ]
+    },
+    {
+      "id": "upsc_2021_mains_anthropology2_q8",
+      "type": "fill-blank",
+      "question": "1.\n(a) Examine how structural transformation in economy is affecting traditional social relationships in agrarian society.\n(b) Delineate the constitutional safeguard for religious minorities in India.\n(c) Identify the causes of tribal unrest with special reference to North-East India.",
+      "correctAnswers": [
+        "__open__"
+      ],
+      "explanation": "",
+      "marks": 50.0,
+      "negativeMarks": 0,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 268,
+        "subtags": [
+          116,
+          125
+        ]
+      },
+      "markBreakdown": [
+        {
+          "label": "a",
+          "marks": 20.0,
+          "subtags": [],
+          "mainTag": 268
+        },
+        {
+          "label": "b",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 273
+        },
+        {
+          "label": "c",
+          "marks": 15.0,
+          "subtags": [],
+          "mainTag": 282
+        }
+      ]
+    }
+  ]
+}
