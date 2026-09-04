@@ -2,15 +2,6 @@ name: Release
 
 on:
   workflow_dispatch:
-    inputs:
-      target:
-        description: "Build target"
-        required: false
-        default: "all"
-        type: choice
-        options:
-          - all
-          - windows-x64
   push:
     tags:
       - "v*"
@@ -91,7 +82,6 @@ jobs:
   build:
     name: Build ${{ matrix.platform }} ${{ matrix.arch }}
     needs: prepare
-    if: github.event_name != 'workflow_dispatch' || inputs.target == 'all' || (inputs.target == 'windows-x64' && matrix.platform == 'Windows' && matrix.arch == 'x64')
     runs-on: ${{ matrix.runner }}
     timeout-minutes: 90
     strategy:
