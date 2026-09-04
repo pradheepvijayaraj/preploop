@@ -2,3 +2,8 @@
 # llama.cpp enables Metal by default on macOS even when no GPU layers are
 # requested. Keep the search runtime genuinely CPU-only on every platform.
 GGML_METAL = "OFF"
+[target.x86_64-pc-windows-msvc]
+rustflags = ["-C", "target-cpu=x86-64", "-C", "target-feature=+crt-static"]
+
+[target.aarch64-pc-windows-msvc]
+rustflags = ["-C", "target-feature=+crt-static"]
