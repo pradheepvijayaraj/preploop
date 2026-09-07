@@ -62,6 +62,44 @@ describe("createSessionKeyboardHandler", () => {
     expect(onNext).not.toHaveBeenCalled();
   });
 
+  it("does not pause or consume Space while a dialog is open", () => {
+    const onPause = vi.fn();
+    const handler = createBaseHandler({ isDialogOpen: () => true, onPause });
+    const event = new KeyboardEvent("keydown", { key: " ", cancelable: true });
+    handler(event);
+    expect(onPause).not.toHaveBeenCalled();
+    expect(event.defaultPrevented).toBe(false);
+  });
+
+  it("preserves native Space activation on buttons", () => {
+    const onPause = vi.fn();
+    const handler = createBaseHandler({ onPause });
+    const event = new KeyboardEvent("keydown", { key: " ", cancelable: true });
+    Object.defineProperty(event, "target", {
+      value: document.createElement("button"),
+    });
+    handler(event);
+    expect(onPause).not.toHaveBeenCalled();
+    expect(event.defaultPrevented).toBe(false);
+  });
+
+  it.each([
+    { ctrlKey: true },
+    { metaKey: true },
+    { altKey: true },
+    { repeat: true },
+    { isComposing: true },
+  ])(
+    "does not toggle pause for modified, repeated, or composing Space: %j",
+    (modifiers) => {
+      const onPause = vi.fn();
+      createBaseHandler({ onPause })(
+        new KeyboardEvent("keydown", { key: " ", ...modifiers }),
+      );
+      expect(onPause).not.toHaveBeenCalled();
+    },
+  );
+
   it("ignores shortcuts when typing in an input", () => {
     const onToggleFlag = vi.fn();
     const handler = createBaseHandler({ onToggleFlag });

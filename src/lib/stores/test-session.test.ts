@@ -120,6 +120,93 @@ describe("test session store", () => {
     expect(getAnswer("q1")).toBeNull();
   });
 
+  it("restores the saved answer when clearing it fails", async () => {
+    initTestSession(
+      "attempt-id",
+      "bank-id",
+      "practice",
+      questions,
+      600,
+      0,
+      new Map([["q1", "a"]]),
+    );
+    serviceMocks.saveAnswer.mockRejectedValueOnce(new Error("clear failed"));
+
+    await expect(saveAnswer(null)).rejects.toThrow("clear failed");
+
+    expect(getAnswer("q1")).toBe("a");
+  });
+
+  it("rolls consecutive failed edits back to the last persisted answer", async () => {
+    initTestSession(
+      "attempt-id",
+      "bank-id",
+      "practice",
+      questions,
+      600,
+      0,
+      new Map([["q1", "original"]]),
+    );
+    const firstWrite = deferred<void>();
+    serviceMocks.saveAnswer
+      .mockImplementationOnce(() => firstWrite.promise)
+      .mockRejectedValueOnce(new Error("second failed"));
+    const first = saveAnswer("a");
+    const second = saveAnswer("b");
+    const settled = Promise.allSettled([first, second]);
+
+    firstWrite.reject(new Error("first failed"));
+    await settled;
+
+    expect(getAnswer("q1")).toBe("original");
+  });
+
+  it("does not roll back a newer write with the same answer value", async () => {
+    initTestSession("attempt-id", "bank-id", "practice", questions, 600, 0);
+    const firstWrite = deferred<void>();
+    serviceMocks.saveAnswer
+      .mockImplementationOnce(() => firstWrite.promise)
+      .mockResolvedValueOnce(undefined);
+    const first = saveAnswer("a");
+    const second = saveAnswer("a");
+    const settled = Promise.allSettled([first, second]);
+
+    firstWrite.reject(new Error("first failed"));
+    await settled;
+
+    expect(getAnswer("q1")).toBe("a");
+  });
+
+  it.each([{ answer: "   " }, { answer: [] }, { answer: [" ", ""] }])(
+    "treats a cleared renderer answer as unanswered: %j",
+    async ({ answer }) => {
+      initTestSession("attempt-id", "bank-id", "practice", questions, 600, 0);
+      await saveAnswer(answer);
+      expect(getAnswer("q1")).toBeNull();
+      expect(serviceMocks.saveAnswer).toHaveBeenCalledWith(
+        "attempt-id",
+        "q1",
+        null,
+      );
+    },
+  );
+
+  it("finishes pending answers before pausing and rejects edits while paused", async () => {
+    initTestSession("attempt-id", "bank-id", "test", questions, 600, 300);
+    const write = deferred<void>();
+    serviceMocks.saveAnswer.mockImplementationOnce(() => write.promise);
+    const saving = saveAnswer("a");
+    const pausing = pause();
+
+    expect(serviceMocks.pauseTest).not.toHaveBeenCalled();
+    await saveAnswer("b");
+    expect(serviceMocks.saveAnswer).toHaveBeenCalledTimes(1);
+    write.resolve();
+    await Promise.all([saving, pausing]);
+    expect(serviceMocks.pauseTest).toHaveBeenCalledOnce();
+    expect(getAnswer("q1")).toBe("a");
+  });
+
   it("serializes same-question saves without clobbering a newer answer", async () => {
     const firstWrite = deferred<void>();
     serviceMocks.saveAnswer

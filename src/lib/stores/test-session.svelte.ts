@@ -33,6 +33,9 @@ let state = $state<TestSessionState>({ ...INITIAL_TEST_SESSION_STATE });
 
 /** Invalidates every async continuation when the active session changes. */
 let sessionEpoch = 0;
+/** Last confirmed answers, separate from optimistic edits. Replaced per session. */
+let persistedAnswers = new Map<string, string | string[]>();
+let lifecycleTransition: Promise<void> | null = null;
 
 /**
  * Promises for in-flight answer saves, drained before submission.
@@ -76,17 +79,12 @@ function isCurrentSession(epoch: number, attemptId: string): boolean {
   return sessionEpoch === epoch && state.attemptId === attemptId;
 }
 
-function answersEqual(
-  left: string | string[] | null | undefined,
-  right: string | string[] | null | undefined,
-): boolean {
-  if (Array.isArray(left) && Array.isArray(right)) {
-    return (
-      left.length === right.length &&
-      left.every((item, index) => item === right[index])
-    );
-  }
-  return left === right;
+function normalizeAnswer(
+  answer: string | string[] | null,
+): string | string[] | null {
+  if (answer === null) return null;
+  if (typeof answer === "string") return answer.trim() ? answer : null;
+  return answer.some((value) => value.trim()) ? [...answer] : null;
 }
 
 // ---------------------------------------------------------------------------
@@ -134,6 +132,13 @@ export function initTestSession(
   // Clear any existing timer
   stopTimer(true);
   sessionEpoch += 1;
+  lifecycleTransition = null;
+  persistedAnswers = new Map(
+    [...(existingAnswers ?? [])].map(([id, answer]) => [
+      id,
+      Array.isArray(answer) ? [...answer] : answer,
+    ]),
+  );
 
   // Full-object replacement is intentional here: initTestSession is a
   // lifecycle boundary where every field changes, so there's no benefit
@@ -146,8 +151,8 @@ export function initTestSession(
     questions,
     duration,
     currentIndex: 0,
-    answers: existingAnswers || new Map(),
-    flags: existingFlags || new Set(),
+    answers: new Map(persistedAnswers),
+    flags: new Set(existingFlags),
     timeRemaining,
     isPaused: status === "paused",
     isSubmitting: false,
@@ -227,19 +232,17 @@ export async function saveAnswer(
   answer: string | string[] | null,
 ): Promise<void> {
   const question = getCurrentQuestion();
-  if (!question || !state.attemptId || state.isSubmitting) return;
+  if (!question || !state.attemptId || state.isSubmitting || state.isPaused)
+    return;
+  answer = normalizeAnswer(answer);
 
   const questionId = question.id;
   const attemptId = state.attemptId;
   const epoch = sessionEpoch;
+  const confirmedAnswers = persistedAnswers;
 
   // Lock key includes attemptId to prevent cross-session races
   const lockKey = `${attemptId}:${questionId}`;
-
-  // ── Snapshot for rollback (#2) ──────────────────────────────────────
-  const previousAnswer = state.answers.has(questionId)
-    ? state.answers.get(questionId)!
-    : undefined; // undefined = key was absent
 
   // Update local state immediately for responsive UI (optimistic).
   // IMPORTANT: We create a *new* Map each time because Svelte 5 only
@@ -269,13 +272,16 @@ export async function saveAnswer(
 
     // Save to database
     await dbSaveAnswer(attemptId, questionId, answer);
+    if (answer === null) confirmedAnswers.delete(questionId);
+    else confirmedAnswers.set(questionId, answer);
   })().catch((error) => {
     // ── Rollback on failure (#2) ────────────────────────────────────
     if (
       isCurrentSession(epoch, attemptId) &&
-      answersEqual(state.answers.get(questionId), answer)
+      questionSaveLocks.get(lockKey) === saveOperation
     ) {
       const rollbackAnswers = new Map(state.answers);
+      const previousAnswer = confirmedAnswers.get(questionId);
       if (previousAnswer === undefined) {
         rollbackAnswers.delete(questionId);
       } else {
@@ -327,7 +333,8 @@ export function getAnswer(questionId: string): string | string[] | null {
  */
 export async function toggleCurrentFlag(): Promise<void> {
   const question = getCurrentQuestion();
-  if (!question || !state.attemptId || state.isSubmitting) return;
+  if (!question || !state.attemptId || state.isSubmitting || state.isPaused)
+    return;
   const attemptId = state.attemptId;
   const questionId = question.id;
   const epoch = sessionEpoch;
@@ -388,9 +395,18 @@ export async function pause(): Promise<void> {
   const attemptId = state.attemptId;
   const epoch = sessionEpoch;
   state.isPaused = true;
+  const timeRemaining = state.timeRemaining;
+  const operation = (async () => {
+    // Stop accepting edits, then drain writes before the backend makes the
+    // attempt immutable. Never pause a replacement session.
+    await flushPendingSaves();
+    if (!isCurrentSession(epoch, attemptId)) return;
+    await pauseTest(attemptId, timeRemaining);
+  })();
+  lifecycleTransition = operation;
 
   try {
-    await pauseTest(attemptId, state.timeRemaining);
+    await operation;
   } catch (error) {
     if (isCurrentSession(epoch, attemptId)) {
       state.isPaused = false;
@@ -398,14 +414,16 @@ export async function pause(): Promise<void> {
     }
     void logError("Failed to pause test", error);
     throw error;
+  } finally {
+    if (lifecycleTransition === operation) lifecycleTransition = null;
   }
 }
 
 /**
  * Resume a paused test.
  *
- * Sets `isPaused` to `false` optimistically. On backend failure the flag
- * is rolled back to `true` and the error is re-thrown.
+ * Waits for any pause in progress and resumes the countdown only once the
+ * backend accepts the transition. Answers remain locked until then.
  *
  * @throws Re-throws backend errors after rollback and logging.
  */
@@ -419,18 +437,27 @@ export async function resume(): Promise<void> {
     return;
   const attemptId = state.attemptId;
   const epoch = sessionEpoch;
-  state.isPaused = false;
-  countdown.resume(state.timeRemaining);
+  if (lifecycleTransition) await lifecycleTransition.catch(() => {});
+  if (
+    !isCurrentSession(epoch, attemptId) ||
+    !state.isPaused ||
+    state.isSubmitting
+  )
+    return;
+  const operation = resumeTest(attemptId);
+  lifecycleTransition = operation;
 
   try {
-    await resumeTest(attemptId);
-  } catch (error) {
+    await operation;
     if (isCurrentSession(epoch, attemptId)) {
-      state.isPaused = true;
-      countdown.pause();
+      state.isPaused = false;
+      countdown.resume(state.timeRemaining);
     }
+  } catch (error) {
     void logError("Failed to resume test", error);
     throw error;
+  } finally {
+    if (lifecycleTransition === operation) lifecycleTransition = null;
   }
 }
 
@@ -493,7 +520,7 @@ export function getProgress(): {
 /**
  * Tear down the current test session.
  *
- * Stops the timer, drains in-flight saves, clears locks, and resets
+ * Stops the timer, lets captured in-flight writes finish, and resets
  * every field of the session state individually (avoids a full-object
  * replacement so Svelte's granular reactivity can short-circuit
  * unchanged subscribers).
@@ -501,6 +528,8 @@ export function getProgress(): {
 export function clearTestSession(persistTimer = true): void {
   stopTimer(persistTimer);
   sessionEpoch += 1;
+  persistedAnswers = new Map();
+  lifecycleTransition = null;
 
   // Reset fields individually (#1) — avoids an unnecessary full-proxy
   // re-wrap while keeping the code explicit about what gets cleared.

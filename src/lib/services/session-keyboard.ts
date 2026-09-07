@@ -21,6 +21,7 @@ export function isTypingTarget(target: EventTarget | null): boolean {
   return (
     target instanceof HTMLInputElement ||
     target instanceof HTMLTextAreaElement ||
+    target instanceof HTMLSelectElement ||
     (target instanceof HTMLElement && target.isContentEditable)
   );
 }
@@ -63,12 +64,25 @@ interface SessionKeyboardOptions {
 
 export function createSessionKeyboardHandler(options: SessionKeyboardOptions) {
   return (event: KeyboardEvent) => {
+    if (event.defaultPrevented || event.isComposing || event.repeat) return;
     const key = event.key.toLowerCase();
     const isSpace = event.code === "Space" || key === " " || key === "spacebar";
 
-    if (isTypingTarget(event.target)) {
+    if (isTypingTarget(event.target) || options.isDialogOpen()) {
       return;
     }
+    if (event.altKey || ((event.ctrlKey || event.metaKey) && key !== "enter"))
+      return;
+    // A focused control owns Space (button activation, checkbox toggle, etc.).
+    // Do not cancel its native behavior or pause the exam behind it.
+    if (
+      isSpace &&
+      event.target instanceof Element &&
+      event.target.closest(
+        "button, a[href], summary, [role='button'], [role='checkbox'], [role='switch']",
+      )
+    )
+      return;
 
     if (key === "backspace" || isSpace) {
       event.preventDefault();
@@ -86,10 +100,6 @@ export function createSessionKeyboardHandler(options: SessionKeyboardOptions) {
           void options.onPause?.();
         }
       }
-      return;
-    }
-
-    if (options.isDialogOpen()) {
       return;
     }
 
