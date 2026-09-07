@@ -245,6 +245,189 @@ function splitParts(raw: string): string[] {
   return moveLeadingFigureAfterRomanList(peeled);
 }
 
+function normalizeMatchingLists(input: string): string {
+  const lines = input.replace(/\r\n/g, "\n").split("\n");
+  const firstHeader = lines.findIndex((line) =>
+    /^List(?:-|\s+)I\b/i.test(line.trim()),
+  );
+  if (firstHeader < 0) return input;
+
+  const secondHeader = lines.findIndex(
+    (line, index) =>
+      index > firstHeader && /^List(?:-|\s+)II\b/i.test(line.trim()),
+  );
+  if (secondHeader < 0) return input;
+
+  const explicitCodesIndex = lines.findIndex(
+    (line, index) => index > secondHeader && /^Codes?\b/i.test(line.trim()),
+  );
+  const codesIndex = explicitCodesIndex < 0 ? lines.length : explicitCodesIndex;
+
+  const left = lines
+    .slice(firstHeader + 1, secondHeader)
+    .map((line) => line.trim())
+    .filter((line) => /^[A-H]\.\s+/.test(line));
+  const right = lines
+    .slice(secondHeader + 1, codesIndex)
+    .map((line) => line.trim())
+    .filter((line) => /^\d+\.\s+/.test(line));
+  if (left.length === 0 || left.length !== right.length) return input;
+
+  const table = [
+    `| ${lines[firstHeader]!.trim()} | ${lines[secondHeader]!.trim()} |`,
+    "| --- | --- |",
+    ...left.map((item, index) => `| ${item} | ${right[index]} |`),
+  ];
+  return [
+    ...lines.slice(0, firstHeader),
+    ...table,
+    ...lines.slice(explicitCodesIndex < 0 ? codesIndex : codesIndex + 1),
+  ].join("\n");
+}
+
+function normalizeLabelledDetailRows(input: string): string {
+  if (input.includes("|")) return input;
+  const lines = input.replace(/\r\n/g, "\n").split("\n");
+  const rows = lines
+    .map((line, index) => ({ line: line.trim(), index }))
+    .filter(({ line }) => /^\d+\.\s+[^:]+:\s+.+;\s+[^:]+:\s+/.test(line));
+  if (rows.length < 2) return input;
+
+  const parsed = rows.map(({ line }) => {
+    const number = line.match(/^(\d+)\./)?.[1] ?? "";
+    const fields = line
+      .replace(/^\d+\.\s*/, "")
+      .split(/;\s+(?=[^:]+:\s*)/)
+      .map((field) => {
+        const separator = field.indexOf(":");
+        return [
+          field.slice(0, separator).trim(),
+          field.slice(separator + 1).trim(),
+        ];
+      });
+    return { number, fields };
+  });
+  const labels = parsed[0]!.fields.map(([label]) => label);
+  if (
+    labels.length < 2 ||
+    parsed.some(
+      ({ fields }) =>
+        fields.length !== labels.length ||
+        fields.some(([label], index) => label !== labels[index]),
+    )
+  ) {
+    return input;
+  }
+
+  const table = [
+    `| Sl. No. | ${labels.join(" | ")} |`,
+    `| ${["---", ...labels.map(() => "---")].join(" | ")} |`,
+    ...parsed.map(
+      ({ number, fields }) =>
+        `| ${number}. | ${fields.map(([, value]) => value).join(" | ")} |`,
+    ),
+  ];
+  const rowIndexes = new Set(rows.map(({ index }) => index));
+  return lines
+    .flatMap((line, index) =>
+      index === rows[0]!.index ? table : rowIndexes.has(index) ? [] : [line],
+    )
+    .join("\n");
+}
+
+function normalizeDelimitedPairRows(input: string): string {
+  if (input.includes("|") || !/\b(?:pair|pairs|matched)\b/i.test(input)) {
+    return input;
+  }
+  // Some legacy OCR records append the closing question to the final numbered
+  // pair. Restore that prose boundary before detecting table rows.
+  const separated = input.replace(
+    /(^\s*\d+\.\s+[^\n]+?)\s+((?:which|how many|in how many|how much|what number|select)\b[^?\n]*\?)\s*$/gim,
+    "$1\n$2",
+  );
+  const lines = separated.replace(/\r\n/g, "\n").split("\n");
+  const rows = lines
+    .map((line, index) => ({ line: line.trim(), index }))
+    .filter(({ line }) => /^\d+\.\s+.+?(?:\s+[—–:]\s+|:\s*).+/.test(line));
+  if (rows.length < 2) return input;
+
+  const parsed = rows.map(({ line }) => {
+    const match = line.match(/^(\d+\.\s+.+?)(?:\s+[—–:]\s+|:\s*)(.+)$/);
+    return match ? [match[1]!, match[2]!] : [];
+  });
+  if (parsed.some((row) => row.length !== 2)) return input;
+
+  const firstRowIndex = rows[0]!.index;
+  const preceding = lines
+    .map((line, index) => ({ line: line.trim(), index }))
+    .filter(({ line, index }) => index < firstRowIndex && line.length > 0);
+  const delimitedHeader = [...preceding]
+    .reverse()
+    .find(
+      ({ line }) =>
+        !/^(?:consider|which|with reference|select)\b/i.test(line) &&
+        /^.+?(?:\s+[—–:]\s+|:\s+).+$/.test(line),
+    );
+  let header: string[] | null = null;
+  const headerIndexes = new Set<number>();
+  let inlineHeaderPrefix: { index: number; text: string } | null = null;
+
+  if (delimitedHeader) {
+    const match = delimitedHeader.line.match(/^(.+?)(?:\s+[—–:]\s+|:\s+)(.+)$/);
+    if (match) {
+      header = [match[1]!.trim(), match[2]!.trim()];
+      headerIndexes.add(delimitedHeader.index);
+    }
+  } else {
+    const candidates = preceding.slice(-2);
+    if (
+      candidates.length === 2 &&
+      candidates.every(({ line }) => line.length <= 60) &&
+      !/^(?:consider|which|with reference|select)\b/i.test(candidates[0]!.line)
+    ) {
+      header = candidates.map(({ line }) => line);
+      candidates.forEach(({ index }) => headerIndexes.add(index));
+    }
+  }
+
+  if (!header) {
+    const intro = preceding.at(-1);
+    const inline = intro?.line.match(/^(.*?\bpairs?)\s*:?[ \t]+(.+)$/i);
+    if (intro && inline) {
+      const tail = inline[2]!.trim();
+      const descriptiveSecond = tail.match(
+        /^(.+?)\s+([A-Z][\w/-]*(?:\s+[a-z][\w/-]*)+.*)$/,
+      );
+      const finalHeading = tail.match(/^(.+?)\s+([A-Z][\w/-]*)$/);
+      const split = descriptiveSecond ?? finalHeading;
+      if (split) {
+        header = [
+          split[1]!.replace(/\s+[—–:-]\s*$/, "").trim(),
+          split[2]!.replace(/^\s*[—–:-]\s+/, "").trim(),
+        ];
+        inlineHeaderPrefix = { index: intro.index, text: inline[1]!.trim() };
+      }
+    }
+  }
+
+  const table = [
+    ...(header ? [`| ${header[0]} | ${header[1]} |`, "| --- | --- |"] : []),
+    ...parsed.map(([left, right]) => `| ${left} | ${right} |`),
+  ];
+  const rowIndexes = new Set([
+    ...rows.map(({ index }) => index),
+    ...headerIndexes,
+  ]);
+  return lines
+    .flatMap((line, index) => {
+      if (index === firstRowIndex) return table;
+      if (rowIndexes.has(index)) return [];
+      if (inlineHeaderPrefix?.index === index) return [inlineHeaderPrefix.text];
+      return [line];
+    })
+    .join("\n");
+}
+
 function isRomanToken(token: string): boolean {
   return ROMAN_TOKEN.test(token);
 }
@@ -349,8 +532,49 @@ function renderTable(blockLines: string[]): string {
 
   const head = hasSep ? normalized[0] : null;
   const body = hasSep ? normalized.slice(1) : normalized;
+  const serialClass = /^Sl\.?\s*No\.?$/i.test(head?.[0]?.trim() ?? "")
+    ? " math-text__table--serial"
+    : "";
+  const columnLengths = Array.from({ length: colCount }, (_, column) =>
+    Math.max(...normalized.map((row) => row[column]?.length ?? 0), 1),
+  );
+  // Size every table from its actual content. Long cells are capped because
+  // they should wrap rather than force an oversized table.
+  const hasVeryLongColumn = columnLengths.some((length) => length > 72);
+  const contentWidth =
+    columnLengths.reduce((total, length) => total + Math.min(length, 44), 0) +
+    colCount * 4;
+  // Proportional UI text is substantially narrower than one CSS `ch` per
+  // character. Convert the content count to a visual-width estimate, except
+  // when a truly long cell should deliberately use the whole pane.
+  const estimatedWidth = hasVeryLongColumn
+    ? 72
+    : Math.max(30, Math.round(contentWidth * 0.78));
+  const densityClass =
+    estimatedWidth <= 50
+      ? " math-text__table--compact"
+      : estimatedWidth <= 68
+        ? " math-text__table--regular"
+        : " math-text__table--wide";
+  const adaptiveClass = colCount === 2 ? " math-text__table--adaptive" : "";
+  const minimumColumnShare = hasVeryLongColumn ? 28 : 40;
+  const maximumColumnShare = hasVeryLongColumn ? 72 : 60;
+  const firstColumnStyle =
+    colCount === 2
+      ? `; --math-table-first-column: ${Math.min(
+          maximumColumnShare,
+          Math.max(
+            minimumColumnShare,
+            Math.round(
+              (columnLengths[0]! / (columnLengths[0]! + columnLengths[1]!)) *
+                100,
+            ),
+          ),
+        )}%`
+      : "";
+  const tableStyle = ` style="--math-table-width: ${estimatedWidth}ch${firstColumnStyle}"`;
 
-  let html = `<div class="math-text__table-wrap"><table class="math-text__table">`;
+  let html = `<div class="math-text__table-wrap"><table class="math-text__table math-text__table--${colCount}-column${serialClass}${densityClass}${adaptiveClass}"${tableStyle}>`;
   if (head) {
     html += "<thead><tr>";
     for (const cell of head) {
@@ -380,6 +604,9 @@ function renderLine(line: string): string {
 export function renderMathText(text: string): string {
   try {
     let raw = unwrapSimpleMath(text ?? "");
+    raw = normalizeMatchingLists(raw);
+    raw = normalizeLabelledDetailRows(raw);
+    raw = normalizeDelimitedPairRows(raw);
     raw = stripFigureListMarkers(raw);
     const lines = splitParts(raw);
     if (lines.length === 0) return "";

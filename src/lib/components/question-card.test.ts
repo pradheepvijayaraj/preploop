@@ -94,4 +94,48 @@ describe("QuestionCard", () => {
 
     expect(screen.getByRole("group", { name: "Answer choices" })).toBeTruthy();
   });
+
+  it("renders official option-table headers and cells in the answer pane", () => {
+    const { container } = render(QuestionCard, {
+      props: {
+        question: {
+          ...baseQuestion,
+          type: "single-choice",
+          question: "Which pair is correctly matched?",
+          options: [
+            {
+              id: "a",
+              text: "Abyssinian Plateau: Arabia",
+              cells: [
+                { label: "Geographical Feature", text: "Abyssinian Plateau" },
+                { label: "Region", text: "Arabia" },
+              ],
+            },
+          ],
+          correctAnswers: ["a"],
+        },
+        index: 0,
+        total: 1,
+        answer: null,
+        isFlagged: false,
+        onAnswer: vi.fn(),
+        onToggleFlag: vi.fn(),
+      },
+    });
+
+    const answerPane = container.querySelector(".question-card__pane--answer");
+    expect(answerPane?.textContent).toContain("Geographical Feature");
+    expect(answerPane?.textContent).toContain("Region");
+    expect(answerPane?.textContent).toContain("Abyssinian Plateau");
+    expect(answerPane?.textContent).toContain("Arabia");
+    expect(
+      container.querySelectorAll(".answer-option-table__separator"),
+    ).toHaveLength(2);
+    expect(
+      container.querySelector(".answer-option-table__header")?.textContent,
+    ).not.toContain(":");
+    expect(
+      container.querySelector(".question-card__pane--prompt")?.textContent,
+    ).not.toContain("Geographical Feature");
+  });
 });

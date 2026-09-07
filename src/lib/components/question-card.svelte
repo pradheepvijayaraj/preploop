@@ -140,6 +140,78 @@
     if (isSelected && !isCorrect) return "border-destructive bg-destructive/5";
     return "";
   }
+
+  const legacyCodeLabels = $derived.by(() => {
+    const match = question.question.match(/Codes?\s*\(([^)]+)\)\s*:/i);
+    if (match) return match[1]?.trim().split(/\s+/).filter(Boolean) ?? [];
+
+    const firstOption = question.options?.[0]?.text ?? "";
+    const labelledCodes = [
+      ...firstOption.matchAll(/(?:^|,)\s*([A-Z])\s*[-–]\s*/g),
+    ].map((entry) => entry[1]!);
+    return labelledCodes.length > 1 ? labelledCodes : [];
+  });
+
+  const legacyPairLabels = $derived.by(() => {
+    if (!/\b(?:pair|pairs|matched)\b/i.test(question.question)) return [];
+    const pairs = (question.options ?? []).map((option) =>
+      option.text.split(/\s+:\s+/),
+    );
+    if (pairs.length === 0 || pairs.some((pair) => pair.length !== 2))
+      return [];
+    return ["List-I", "List-II"];
+  });
+
+  const displayOptions = $derived(
+    (question.options ?? []).map((option) => {
+      if (option.cells?.length) return option;
+      const labels =
+        legacyCodeLabels.length > 1 ? legacyCodeLabels : legacyPairLabels;
+      if (labels.length < 2) return option;
+      const values =
+        legacyCodeLabels.length > 1
+          ? option.text.includes(",")
+            ? [
+                ...option.text.matchAll(/(?:^|,)\s*[A-Z]\s*[-–]\s*([^,]+)/g),
+              ].map((entry) => entry[1]!.trim())
+            : option.text.trim().split(/\s+/)
+          : option.text.split(/\s+:\s+/).map((value) => value.trim());
+      if (values.length !== labels.length) return option;
+      return {
+        ...option,
+        cells: values.map((text, index) => ({
+          label: labels[index]!,
+          text,
+        })),
+      };
+    }),
+  );
+
+  const optionCellLabels = $derived(
+    displayOptions
+      ?.find((option) => option.cells?.length)
+      ?.cells?.map((cell) => cell.label) ?? [],
+  );
+  const isCodeTable = $derived(optionCellLabels.length > 2);
+  const pairColumnLengths = $derived.by(() =>
+    optionCellLabels.map((label, index) =>
+      Math.max(
+        label.length,
+        ...displayOptions.map(
+          (option) => option.cells?.[index]?.text.length ?? 0,
+        ),
+      ),
+    ),
+  );
+  const isCompactPairTable = $derived(
+    optionCellLabels.length === 2 &&
+      pairColumnLengths.every((length) => length <= 28),
+  );
+  const optionTableStyle = $derived(
+    isCompactPairTable
+      ? `--option-table-left-width: ${(pairColumnLengths[0]! * 0.62 + 0.5).toFixed(2)}rem; --option-table-right-width: ${(pairColumnLengths[1]! * 0.62 + 0.5).toFixed(2)}rem;`
+      : undefined,
+  );
 </script>
 
 <div
@@ -221,14 +293,42 @@
                 {#if question.type === "single-choice" || question.type === "true-false"}
                   <div
                     class="space-y-2.5"
+                    style={optionTableStyle}
                     role="group"
                     aria-label="Answer choices"
                   >
-                    {#each question.options || [] as option}
+                    {#if optionCellLabels.length > 0}
+                      <div
+                        class="answer-option-table__header {isCodeTable
+                          ? 'answer-option-table__header--codes'
+                          : isCompactPairTable
+                            ? 'answer-option-table__header--compact'
+                            : ''}"
+                        aria-hidden="true"
+                      >
+                        {#if isCodeTable}
+                          <span class="answer-option-table__title">Codes:</span>
+                        {/if}
+                        {#each optionCellLabels as label, labelIndex}
+                          <span class="answer-option-table__heading"
+                            >{label}</span
+                          >
+                          {#if !isCodeTable && labelIndex < optionCellLabels.length - 1}
+                            <span
+                              class="answer-option-table__separator answer-option-table__separator--header"
+                            ></span>
+                          {/if}
+                        {/each}
+                      </div>
+                    {/if}
+                    {#each displayOptions as option}
                       {@const isSelected = selectedOptions.includes(option.id)}
                       <button
                         type="button"
-                        class="group answer-option w-full text-left {showFeedback
+                        class="group answer-option w-full text-left {option
+                          .cells?.length
+                          ? 'answer-option--table'
+                          : ''} {showFeedback
                           ? getOptionClass(option.id)
                           : isSelected
                             ? 'answer-option--selected'
@@ -253,7 +353,29 @@
                         <div
                           class={`answer-option__text ${allowTextSelection ? "select-text" : ""}`}
                         >
-                          <MathText text={option.text} />
+                          {#if option.cells?.length}
+                            <div
+                              class="answer-option-table__cells {isCodeTable
+                                ? 'answer-option-table__cells--codes'
+                                : isCompactPairTable
+                                  ? 'answer-option-table__cells--compact'
+                                  : ''}"
+                            >
+                              {#each option.cells as cell, cellIndex}
+                                <div class="answer-option-table__cell">
+                                  <MathText text={cell.text} />
+                                </div>
+                                {#if !isCodeTable && cellIndex < option.cells.length - 1}
+                                  <span
+                                    class="answer-option-table__separator"
+                                    aria-hidden="true">:</span
+                                  >
+                                {/if}
+                              {/each}
+                            </div>
+                          {:else}
+                            <MathText text={option.text} />
+                          {/if}
                         </div>
                         {#if showFeedback && isCorrectAnswer(option.id)}
                           <div class="answer-option__feedback-dot"></div>
@@ -425,12 +547,50 @@
   }
 
   .question-card__question {
-    max-width: min(52ch, 100%);
+    max-width: min(66ch, 100%);
     font-size: clamp(0.98rem, 0.94rem + 0.18vw, 1.12rem);
     font-weight: 500;
     line-height: 1.55;
     letter-spacing: -0.02em;
+    text-wrap: pretty;
     color: color-mix(in oklab, var(--foreground) 92%, transparent);
+  }
+
+  .question-card__question :global(.math-text__table) {
+    width: min(100%, var(--math-table-width, 100%));
+    min-width: min(100%, 28rem);
+    table-layout: fixed;
+  }
+
+  .question-card__question :global(.math-text__table th),
+  .question-card__question :global(.math-text__table td) {
+    white-space: normal;
+    vertical-align: top;
+  }
+
+  .question-card__question :global(.math-text__table--2-column th:first-child),
+  .question-card__question :global(.math-text__table--2-column td:first-child) {
+    width: 34%;
+  }
+
+  .question-card__question :global(.math-text__table--adaptive th:first-child),
+  .question-card__question :global(.math-text__table--adaptive td:first-child) {
+    width: var(--math-table-first-column, 34%);
+  }
+
+  .question-card__question :global(.math-text__table--compact th),
+  .question-card__question :global(.math-text__table--compact td) {
+    padding: 0.52em 0.78em;
+  }
+
+  .question-card__question :global(.math-text__table--regular th),
+  .question-card__question :global(.math-text__table--regular td) {
+    padding: 0.48em 0.72em;
+  }
+
+  .question-card__question :global(.math-text__table--serial th:first-child),
+  .question-card__question :global(.math-text__table--serial td:first-child) {
+    width: 3.5rem;
   }
 
   .question-card__content-enter {
@@ -536,6 +696,115 @@
     line-height: 1.42;
     letter-spacing: -0.015em;
     color: color-mix(in oklab, var(--foreground) 95%, transparent);
+  }
+
+  .answer-option-table__header {
+    position: relative;
+    display: grid;
+    grid-template-columns: minmax(0, 4fr) auto minmax(7rem, 1fr);
+    align-items: baseline;
+    gap: 0;
+    padding: 0 1.9rem 0.15rem 2.9rem;
+    color: color-mix(in srgb, var(--muted-foreground) 76%, transparent);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.055em;
+    text-transform: uppercase;
+  }
+
+  .answer-option-table__title {
+    position: absolute;
+    left: 1rem;
+    top: 0;
+    color: color-mix(in srgb, var(--muted-foreground) 76%, transparent);
+    font-size: 0.78rem;
+    font-weight: 600;
+    letter-spacing: 0.055em;
+    text-transform: uppercase;
+  }
+
+  .answer-option-table__header.answer-option-table__header--codes,
+  .answer-option-table__cells.answer-option-table__cells--codes {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+    gap: 0;
+  }
+
+  .answer-option-table__header--codes {
+    padding-right: 1.9rem;
+    padding-left: 2.9rem;
+  }
+
+  .answer-option-table__header--codes .answer-option-table__heading,
+  .answer-option-table__cells--codes .answer-option-table__cell {
+    text-align: center;
+  }
+
+  .answer-option-table__heading,
+  .answer-option-table__cell {
+    min-width: 0;
+    justify-self: stretch;
+    text-align: left;
+  }
+
+  .answer-option-table__cell :global(.math-text),
+  .answer-option-table__cell :global(.math-text__line) {
+    text-align: left;
+  }
+
+  .answer-option-table__cells--codes
+    .answer-option-table__cell
+    :global(.math-text),
+  .answer-option-table__cells--codes
+    .answer-option-table__cell
+    :global(.math-text__line) {
+    text-align: center;
+  }
+
+  .answer-option-table__cells {
+    display: grid;
+    grid-template-columns: minmax(0, 4fr) auto minmax(7rem, 1fr);
+    align-items: baseline;
+    gap: 0;
+  }
+
+  .answer-option-table__header--compact,
+  .answer-option-table__cells--compact {
+    grid-template-columns:
+      minmax(0, var(--option-table-left-width)) auto
+      minmax(0, var(--option-table-right-width));
+    justify-content: start;
+  }
+
+  .answer-option-table__separator {
+    margin-left: 0.35rem;
+    margin-right: 0.8rem;
+    color: color-mix(in oklab, var(--muted-foreground) 72%, transparent);
+    letter-spacing: normal;
+    text-align: center;
+  }
+
+  .answer-option-table__separator--header {
+    color: transparent;
+  }
+
+  .answer-option-table__separator--header::before {
+    content: ":";
+  }
+
+  .answer-option--table {
+    align-items: start;
+    border-radius: 0;
+    padding-block: 0.78rem;
+  }
+
+  .answer-option--table .answer-option__leading {
+    padding-top: 0.2rem;
+  }
+
+  .answer-option--table .answer-option__text {
+    width: 100%;
+    padding-block: 0;
   }
 
   .answer-option__feedback-dot {

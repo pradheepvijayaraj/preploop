@@ -135,4 +135,126 @@ $y < \sqrt{x} < 1$`;
     expect(lines[0]?.textContent).toBe("Statements:");
     expect(lines[1]?.textContent).toBe("1. Some men are great.");
   });
+
+  it("keeps short two-column tables compact without changing long tables", () => {
+    const shortTable = `| Place | Hills |
+| --- | --- |
+| 1. Nokrek Bio-sphere Reserve | Garo Hills |
+| 2. Loktak Lake | Barail Range |`;
+    const longTable = `| Organisation | Description |
+| --- | --- |
+| Directorate General of Systems and Data Management | Carrying out big data analytics to assist tax officers for better policy and nabbing tax evaders |`;
+
+    const compact = render(MathText, { props: { text: shortTable } });
+    const wrapped = render(MathText, { props: { text: longTable } });
+
+    expect(
+      compact.container.querySelector(".math-text__table--compact"),
+    ).not.toBeNull();
+    expect(
+      wrapped.container.querySelector(".math-text__table--compact"),
+    ).toBeNull();
+    const adaptive = wrapped.container.querySelector<HTMLTableElement>(
+      ".math-text__table--adaptive",
+    );
+    expect(adaptive).not.toBeNull();
+    expect(adaptive?.style.getPropertyValue("--math-table-first-column")).toBe(
+      "34%",
+    );
+    expect(
+      compact.container
+        .querySelector<HTMLTableElement>("table")
+        ?.style.getPropertyValue("--math-table-width"),
+    ).toBe("37ch");
+    expect(
+      wrapped.container.querySelector(".math-text__table--wide"),
+    ).not.toBeNull();
+  });
+
+  it("extracts inline pair headings from legacy imported questions", () => {
+    const source = `Consider the following pairs National Park River flowing through the Park
+1. Corbett National Park: Ganga
+2. Kaziranga National Park: Manas
+3. Silent Valley National Park: Kaveri`;
+    const { container } = render(MathText, { props: { text: source } });
+    const headings = Array.from(container.querySelectorAll("th"), (heading) =>
+      heading.textContent?.trim(),
+    );
+
+    expect(headings).toEqual([
+      "National Park",
+      "River flowing through the Park",
+    ]);
+    expect(container.querySelector(".math-text__line")?.textContent).toBe(
+      "Consider the following pairs",
+    );
+
+    const shortHeadings = render(MathText, {
+      props: {
+        text: `Consider the following pairs: Tribe State
+1. Limboo (Limbu): Sikkim
+2. Karbi: Himachal Pradesh`,
+      },
+    });
+    expect(
+      Array.from(shortHeadings.container.querySelectorAll("th"), (heading) =>
+        heading.textContent?.trim(),
+      ),
+    ).toEqual(["Tribe", "State"]);
+  });
+
+  it("keeps a closing question appended to the final pair outside the table", () => {
+    const source = `With reference to Buddhist history, consider the following pairs: Famous shrine Location
+1. Tabo monastery and temple complex: Spiti Valley
+2. Lhotsava Lhakhang temple, Nako: Zanskar Valley
+3. Alchi temple complex: Ladakh Which of the pairs given above is/are correctly matched?`;
+    const { container } = render(MathText, { props: { text: source } });
+    const rows = container.querySelectorAll("tbody tr");
+    const closingQuestion = Array.from(
+      container.querySelectorAll<HTMLElement>(".math-text__line"),
+    ).at(-1);
+
+    expect(rows).toHaveLength(3);
+    expect(rows[2]?.querySelectorAll("td")[1]?.textContent).toBe("Ladakh");
+    expect(closingQuestion?.textContent).toBe(
+      "Which of the pairs given above is/are correctly matched?",
+    );
+  });
+
+  it("removes legacy separator punctuation from inferred pair headings", () => {
+    const source = `Consider the following pairs: Traditions - Communities
+1. Chaliha Sahib Festival — Sindhis
+2. Nanda Raj Jaat Yatra — Gonds
+3. Wari-Warkari — Santhals`;
+    const { container } = render(MathText, { props: { text: source } });
+
+    expect(
+      Array.from(container.querySelectorAll("th"), (heading) =>
+        heading.textContent?.trim(),
+      ),
+    ).toEqual(["Traditions", "Communities"]);
+  });
+
+  it("keeps ordinary two-column headers balanced while allowing long content to dominate", () => {
+    const ordinary = `| Commonly used/consumed materials | Unwanted or controversial chemicals likely to be found in them |
+| --- | --- |
+| 1. Lipstick | Lead |
+| 2. Soft drinks | Brominated vegetable oils |`;
+    const long = `| Famous work of sculpture | Site |
+| --- | --- |
+| 1. A grand image of Buddha's Mahaparinirvana with numerous celestial musicians above and the sorrowful figures of his followers below | Ajanta |`;
+    const ordinaryTable = render(MathText, { props: { text: ordinary } });
+    const longTable = render(MathText, { props: { text: long } });
+
+    expect(
+      ordinaryTable.container
+        .querySelector<HTMLTableElement>("table")
+        ?.style.getPropertyValue("--math-table-first-column"),
+    ).toBe("40%");
+    expect(
+      longTable.container
+        .querySelector<HTMLTableElement>("table")
+        ?.style.getPropertyValue("--math-table-first-column"),
+    ).toBe("72%");
+  });
 });

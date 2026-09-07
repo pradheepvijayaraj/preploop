@@ -30,6 +30,11 @@ export type Difficulty = "easy" | "medium" | "hard";
 export interface QuestionOption {
   id: string;
   text: string;
+  /** Optional labelled cells for answers whose official layout is tabular. */
+  cells?: Array<{
+    label: string;
+    text: string;
+  }>;
 }
 
 /** Marks assigned to a paper subquestion, kept out of question prose. */
