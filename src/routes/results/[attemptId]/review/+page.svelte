@@ -75,7 +75,7 @@
     correct: reviewItems.filter((i) => i.isCorrect).length,
     wrong: reviewItems.filter((i) => !i.isCorrect && i.userAnswer !== null)
       .length,
-    unanswered: reviewItems.filter((i) => i.userAnswer === null).length,
+    unanswered: filterReviewItems(reviewItems, "unanswered").length,
   });
 
   onMount(() => {

@@ -51,7 +51,9 @@ export function filterReviewItems(
     case "flagged":
       return items.filter((item) => item.isFlagged);
     case "unanswered":
-      return items.filter((item) => item.userAnswer === null);
+      return items.filter(
+        (item) => !item.isCorrect && item.userAnswer === null,
+      );
     default:
       return items;
   }
