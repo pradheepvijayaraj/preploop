@@ -4,7 +4,7 @@
   "dimensions": 384,
   "pooling": "CLS",
   "quantization": "Q8_0 model / int8 vectors",
-  "contentVersion": 55,
+  "contentVersion": 56,
   "questionCount": 6200,
   "questionIds": [
     "upsc_2025_mains_anthropology1_q1",

@@ -1,5 +1,5 @@
 {
-  "contentVersion": 55,
+  "contentVersion": 56,
   "taxonomyVersion": 4,
   "papers": [
     {
@@ -5180,7 +5180,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 56
     },
     {
       "path": "prelims-csat/2020.json",
@@ -5208,7 +5208,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 56
     },
     {
       "path": "prelims-csat/2022.json",

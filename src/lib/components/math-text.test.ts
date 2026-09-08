@@ -5,6 +5,24 @@ import { describe, expect, it } from "vitest";
 import MathText from "$lib/components/math-text.svelte";
 
 describe("MathText", () => {
+  it("renders escaped dollar operators as text instead of math delimiters", () => {
+    const source = String.raw`If \$ means divided by, then 10#5@1\$5 is`;
+    const { container } = render(MathText, { props: { text: source } });
+
+    expect(container.textContent).toBe(
+      "If $ means divided by, then 10#5@1$5 is",
+    );
+    expect(container.querySelector(".katex-error")).toBeNull();
+  });
+
+  it("renders literal blank underscores in a series without a KaTeX error", () => {
+    const source = String.raw`In the series $\_b\_a\_ba\_b\_abab\_aab$`;
+    const { container } = render(MathText, { props: { text: source } });
+
+    expect(container.textContent).toContain("_b_a_ba_b_abab_aab");
+    expect(container.querySelector(".katex-error")).toBeNull();
+  });
+
   it("renders mixed prose and matrix LaTeX instead of falling back to raw text", () => {
     const source = String.raw`(a) Find the inverse of the matrix:
 $$ A = \begin{bmatrix} 1 & 3 & 1 \\ 2 & -1 & 7 \\ 3 & 2 & -1 \end{bmatrix} $$

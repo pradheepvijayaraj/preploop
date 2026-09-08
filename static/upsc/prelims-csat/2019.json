@@ -62,7 +62,7 @@
     {
       "id": "upsc_2019_csat_q2",
       "type": "single-choice",
-      "question": "If \\$ means ‘divided by’; @ means ‘multiplied by’; # means ‘minus’, then the value of \\$10\\#5@1\\5 is",
+      "question": "If \\$ means ‘divided by’; @ means ‘multiplied by’; # means ‘minus’, then the value of 10#5@1\\$5 is",
       "options": [
         {
           "id": "a",

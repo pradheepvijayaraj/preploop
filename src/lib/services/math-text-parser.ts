@@ -1,6 +1,7 @@
 import katex from "katex";
 
-const MATH_CHUNK = /(\$\$[\s\S]+?\$\$|\$[^$]+\$)/;
+const MATH_CHUNK =
+  /((?<!\\)\$\$[\s\S]+?(?<!\\)\$\$|(?<!\\)\$(?:\\.|[^$])+?(?<!\\)\$)/;
 const ROMAN_TOKEN =
   /^(?=[ivxlcdm]+$)m{0,3}(?:cm|cd|d?c{0,3})(?:xc|xl|l?x{0,3})(?:ix|iv|v?i{0,3})$/i;
 const ROMAN_MARKER = /\(([ivxlcdm]+)\)/i;
@@ -163,13 +164,16 @@ function renderSegment(input: string): string {
   let work = stripFigureListMarkers(withoutImgs);
 
   const parts: string[] = [];
-  const re = /\$\$([\s\S]+?)\$\$|\$((?:\\.|[^$])+?)\$/g;
+  const re =
+    /(?<!\\)\$\$([\s\S]+?)(?<!\\)\$\$|(?<!\\)\$((?:\\.|[^$])+?)(?<!\\)\$/g;
+  const renderPlain = (plain: string) =>
+    escapeHtml(plain.replace(/\\\$/g, "$"));
   let last = 0;
   let match: RegExpExecArray | null;
 
   while ((match = re.exec(work)) !== null) {
     if (match.index > last) {
-      parts.push(escapeHtml(work.slice(last, match.index)));
+      parts.push(renderPlain(work.slice(last, match.index)));
     }
     const explicitDisplay = match[1] != null;
     const tex = (explicitDisplay ? match[1] : match[2]) ?? "";
@@ -180,7 +184,7 @@ function renderSegment(input: string): string {
   }
 
   if (last < work.length) {
-    parts.push(escapeHtml(work.slice(last)));
+    parts.push(renderPlain(work.slice(last)));
   }
 
   let html = restoreImagePlaceholders(parts.join(""), images);
