@@ -7,7 +7,7 @@
 -->
 <script lang="ts">
   import { goto, preloadCode } from "$app/navigation";
-  import { onMount } from "svelte";
+  import { onMount, untrack } from "svelte";
   import CatalogPageView from "$lib/components/catalog-page-view.svelte";
   import TheoryPaperModal from "$lib/components/theory-paper-modal.svelte";
   import SessionDialogPanel from "$lib/components/session-dialog-panel.svelte";
@@ -75,6 +75,11 @@
   let theoryLoading = $state(false);
   let theoryLoadingComplete = $state(false);
   let theoryError = $state<string | null>(null);
+  let theoryLoadGen = 0;
+
+  $effect(() => {
+    if (!theoryOpen) theoryLoadGen = untrack(() => theoryLoadGen) + 1;
+  });
 
   onMount(() => {
     const handleCatalogBackKey = (event: KeyboardEvent) => {
@@ -344,6 +349,7 @@
   }
 
   async function openTheoryPaper(item: PaperListItem) {
+    const gen = ++theoryLoadGen;
     theoryTitle = item.bank.name;
     theorySubtitle = "";
     theoryPaperCode = paperCodeFromBank(item.bank);
@@ -358,6 +364,7 @@
       const payload = await withLoadingTimeout(
         getQuestionBankWithQuestions(item.bank.id),
       );
+      if (gen !== theoryLoadGen || !theoryOpen) return;
       if (!payload) {
         theoryError = "Could not load this paper.";
         return;
@@ -373,10 +380,13 @@
       theorySubtitle = "";
       loaded = true;
     } catch (error) {
+      if (gen !== theoryLoadGen || !theoryOpen) return;
       await logError("Failed to load theory paper", error);
+      if (gen !== theoryLoadGen || !theoryOpen) return;
       theoryError =
         error instanceof Error ? error.message : "Failed to load paper";
     } finally {
+      if (gen !== theoryLoadGen || !theoryOpen) return;
       if (loaded) theoryLoadingComplete = true;
       else theoryLoading = false;
     }
