@@ -877,7 +877,10 @@ fn tiered_relevance_score(hit: &SearchHit) -> f32 {
 }
 
 fn source_question_number(question_id: &str) -> Option<i64> {
-    let (_, suffix) = question_id.rsplit_once("_q")?;
+    let canonical_id = question_id
+        .split_once("::revision:")
+        .map_or(question_id, |(canonical, _)| canonical);
+    let (_, suffix) = canonical_id.rsplit_once("_q")?;
     (!suffix.is_empty() && suffix.chars().all(|character| character.is_ascii_digit()))
         .then(|| suffix.parse().ok())
         .flatten()
@@ -1207,8 +1210,16 @@ mod tests {
     fn source_question_number_is_not_confused_with_result_rank() {
         assert_eq!(source_question_number("upsc_2013_csat_q13"), Some(13));
         assert_eq!(source_question_number("upsc_2026_gs1_q100"), Some(100));
+        assert_eq!(
+            source_question_number("upsc_2025_mains_gs1_q17::revision:abcdef01-bank1234"),
+            Some(17)
+        );
         assert_eq!(source_question_number("custom-question-id"), None);
         assert_eq!(source_question_number("custom_qabc"), None);
+        assert_eq!(
+            source_question_number("custom_qabc::revision:abcdef01-bank1234"),
+            None
+        );
     }
 
     #[test]
