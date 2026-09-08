@@ -20,7 +20,7 @@
     {
       "id": "upsc_2015_gs1_q1",
       "type": "single-choice",
-      "question": "“Pradhan Mantri Jan-Dhan Yojna’ has been launched for",
+      "question": "“Pradhan Mantri Jan-Dhan Yojana’ has been launched for",
       "options": [
         {
           "id": "a",
@@ -49,7 +49,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 57,
+        "mainTag": 58,
         "subtags": []
       },
       "markBreakdown": [
@@ -62,7 +62,7 @@
     {
       "id": "upsc_2015_gs1_q2",
       "type": "single-choice",
-      "question": "With reference to the Fourteenth Finance Commission, which of the following statements is/are correct?\n1. It has increased the share of States in the central divisible pool from 32 percent to 42 percent.\n2. It has made recommendations concerning sector-specific grants.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to the Fourteenth Finance Commission, which of the following statements is/are correct?\n1. It has increased the share of States in the central divisible pool from 32 percent to 42 percent.\n2. It has made recommendations concerning sector-specific grants.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -91,7 +91,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 46,
+        "mainTag": 24,
         "subtags": []
       },
       "markBreakdown": [
@@ -133,7 +133,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 98,
         "subtags": []
       },
       "markBreakdown": [
@@ -146,7 +146,7 @@
     {
       "id": "upsc_2015_gs1_q4",
       "type": "single-choice",
-      "question": "A decrease in tax to GDP ratio of a country indicates which of the following?\n\n1. Slowing economic growth rate.\n2. Less equitable distribution of national income.\n\nSelect the correct answer using the code given below",
+      "question": "A decrease in tax to GDP ratio of a country indicates which of the following?\n\n1. Slowing economic growth rate.\n2. Less equitable distribution of national income.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -175,7 +175,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 34,
+        "mainTag": 39,
         "subtags": []
       },
       "markBreakdown": [
@@ -217,7 +217,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -301,7 +301,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 371,
         "subtags": []
       },
       "markBreakdown": [
@@ -398,7 +398,7 @@
     {
       "id": "upsc_2015_gs1_q10",
       "type": "single-choice",
-      "question": "Which of the following statements is/are correct regarding National Innovation Foundation-India (NIF)?\n1. NIF is an autonomous body of the Department of Science and Technology under the Central Government.\n2. NIF is an initiative to strengthen the highly advanced scientific research in India’s premier scientific institutions in collaboration with highly advanced foreign scientific institutions.\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following statements is/are correct regarding National Innovation Foundation-India (NIF)?\n1. NIF is an autonomous body of the Department of Science and Technology under the Central Government.\n2. NIF is an initiative to strengthen the highly advanced scientific research in India’s premier scientific institutions in collaboration with highly advanced foreign scientific institutions.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -440,7 +440,7 @@
     {
       "id": "upsc_2015_gs1_q11",
       "type": "single-choice",
-      "question": "What can be the impact of excessive/inappropriate use of nitrogenous fertilizers in agriculture?\n1. Proliferation of nitrogen-fixing microorganisms in soil can occur.\n2. Increase in the acidity of soil can take place.\n3. Leaching of nitrate to the ground-water can occur.\n\nSelect the correct answer using the code given below",
+      "question": "What can be the impact of excessive/inappropriate use of nitrogenous fertilizers in agriculture?\n1. Proliferation of nitrogen-fixing microorganisms in soil can occur.\n2. Increase in the acidity of soil can take place.\n3. Leaching of nitrate to the ground-water can occur.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -469,7 +469,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 86,
+        "mainTag": 69,
         "subtags": []
       },
       "markBreakdown": [
@@ -511,7 +511,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 182,
         "subtags": []
       },
       "markBreakdown": [
@@ -595,7 +595,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 152,
         "subtags": []
       },
       "markBreakdown": [
@@ -679,7 +679,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -805,7 +805,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 15,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -818,7 +818,7 @@
     {
       "id": "upsc_2015_gs1_q20",
       "type": "single-choice",
-      "question": "Who of the following was/were economic critic/critics of colonialism in India?\n1. Dadabhai Naoroji\n2. G. Subramania Iyer\n3. R. C. Dutt\n\nSelect the correct answer using the code given below",
+      "question": "Who of the following was/were economic critic/critics of colonialism in India?\n1. Dadabhai Naoroji\n2. G. Subramania Iyer\n3. R. C. Dutt\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -918,7 +918,7 @@
         },
         {
           "id": "d",
-          "text": "It may drastically reduce the liquidity to the banking, system"
+          "text": "It may drastically reduce the liquidity to the banking system"
         }
       ],
       "correctAnswers": [
@@ -931,7 +931,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -944,7 +944,7 @@
     {
       "id": "upsc_2015_gs1_q23",
       "type": "single-choice",
-      "question": "With reference to the use of nano-technology in health sector, which of the following statements is/are correct?\n1. Targeted drug delivery is made possible by nanotechnology.\n2. Nanotechnology can largely contribute to gene therapy.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to the use of nano-technology in health sector, which of the following statements is/are correct?\n1. Targeted drug delivery is made possible by nanotechnology.\n2. Nanotechnology can largely contribute to gene therapy.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -973,7 +973,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 199,
         "subtags": []
       },
       "markBreakdown": [
@@ -986,7 +986,7 @@
     {
       "id": "upsc_2015_gs1_q24",
       "type": "single-choice",
-      "question": "In, India, markets in agricultural products are regulated under the",
+      "question": "In India, markets in agricultural products are regulated under the",
       "options": [
         {
           "id": "a",
@@ -1070,7 +1070,7 @@
     {
       "id": "upsc_2015_gs1_q26",
       "type": "single-choice",
-      "question": "With reference to Congress Socialist Party, consider the following statements\n1. It advocated the boycott of British goods and evasion of taxes.\n2. It wanted to establish the dictatorship of proletariat.\n3. It advocated separate electorate for minorities and oppressed classes.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Congress Socialist Party, consider the following statements:\n1. It advocated the boycott of British goods and evasion of taxes.\n2. It wanted to establish the dictatorship of proletariat.\n3. It advocated separate electorate for minorities and oppressed classes.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1112,7 +1112,7 @@
     {
       "id": "upsc_2015_gs1_q27",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The Rajya Sabha has no power either to reject or to amend a Money Bill.\n2. The Rajya Sabha cannot vote on the Demands for Grants.\n3. The Rajya Sabha cannot discuss the Annual Financial Statement.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Rajya Sabha has no power either to reject or to amend a Money Bill.\n2. The Rajya Sabha cannot vote on the Demands for Grants.\n3. The Rajya Sabha cannot discuss the Annual Financial Statement.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1166,7 +1166,7 @@
         },
         {
           "id": "c",
-          "text": "The powers of the Secretary of State for India and Viceroy"
+          "text": "The powers of the Secretary of State for India and the Viceroy"
         },
         {
           "id": "d",
@@ -1183,7 +1183,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 358,
         "subtags": []
       },
       "markBreakdown": [
@@ -1238,7 +1238,7 @@
     {
       "id": "upsc_2015_gs1_q30",
       "type": "single-choice",
-      "question": "In the context of modem scientific research, consider the following statements about:\n\n1. ‘IceCube’, a particle detector located at South Pole, which was recently in the news: It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice\n2. It is a powerful telescope to search for dark matter\n3. It is buried deep in the ice.\n\nWhich of the statements given above is/are correct?",
+      "question": "In the context of modern scientific research, consider the following statements about ‘IceCube’, a particle detector located at South Pole, which was recently in the news:\n1. It is the world’s largest neutrino detector, encompassing a cubic kilometre of ice\n2. It is a powerful telescope to search for dark matter\n3. It is buried deep in the ice.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1309,7 +1309,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 86,
+        "mainTag": 48,
         "subtags": []
       },
       "markBreakdown": [
@@ -1322,7 +1322,7 @@
     {
       "id": "upsc_2015_gs1_q32",
       "type": "single-choice",
-      "question": "With reference to ‘Near Field Communication (NFC) Technology’, which of the following statements is/are correct?\n1. It is a contactless communication technology that uses electromagnetic radio fields.\n2. NFC is designed for use by devices which can be at a distance of even a metre from each other.\n3. NFC can use encryption when sending sensitive information.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to ‘Near Field Communication (NFC) Technology’, which of the following statements is/are correct?\n1. It is a contactless communication technology that uses electromagnetic radio fields.\n2. NFC is designed for use by devices which can be at a distance of even a metre from each other.\n3. NFC can use encryption when sending sensitive information.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1448,7 +1448,7 @@
     {
       "id": "upsc_2015_gs1_q35",
       "type": "single-choice",
-      "question": "Consider the following pairs: Medieval Indian State Present Region\n1. Champaka: Central India\n2. Durgara: Jammu\n3. Kuluta: Malabar\n\nWhich of the above pairs is/are correctly matched?",
+      "question": "Consider the following pairs: Medieval Indian State — Present Region\n1. Champaka: Central India\n2. Durgara: Jammu\n3. Kuluta: Malabar\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -1519,7 +1519,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -1574,7 +1574,7 @@
     {
       "id": "upsc_2015_gs1_q38",
       "type": "single-choice",
-      "question": "Which one of the following regions of Indian has a combination of mangrove forest, evergreen forest and deciduous forest?",
+      "question": "Which one of the following regions of India has a combination of mangrove forest, evergreen forest and deciduous forest?",
       "options": [
         {
           "id": "a",
@@ -1590,7 +1590,7 @@
         },
         {
           "id": "d",
-          "text": "Andaman and Nicober Islands"
+          "text": "Andaman and Nicobar Islands"
         }
       ],
       "correctAnswers": [
@@ -1616,7 +1616,7 @@
     {
       "id": "upsc_2015_gs1_q39",
       "type": "single-choice",
-      "question": "Which of the following kingdoms were associated with the life of the Buddha?\n1. Avanti\n2. Gandhara\n3. Kosala\n4. Magadha\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following kingdoms were associated with the life of the Buddha?\n1. Avanti\n2. Gandhara\n3. Kosala\n4. Magadha\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1645,7 +1645,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 330,
         "subtags": []
       },
       "markBreakdown": [
@@ -1658,7 +1658,7 @@
     {
       "id": "upsc_2015_gs1_q40",
       "type": "single-choice",
-      "question": "Which one the following is associated with the issue of control and phasing out of the use of ozone-depleting substances?",
+      "question": "Which one of the following is associated with the issue of control and phasing out of the use of ozone-depleting substances?",
       "options": [
         {
           "id": "a",
@@ -1687,7 +1687,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 182,
         "subtags": []
       },
       "markBreakdown": [
@@ -1729,7 +1729,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 119,
+        "mainTag": 343,
         "subtags": []
       },
       "markBreakdown": [
@@ -1826,7 +1826,7 @@
     {
       "id": "upsc_2015_gs1_q44",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The Executive Power of the Union of India is vested in the Prime Minister.\n2. The Prime Minister is the ex officio Chairman of the Civil Services Board.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Executive Power of the Union of India is vested in the Prime Minister.\n2. The Prime Minister is the ex officio Chairman of the Civil Services Board.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1876,7 +1876,7 @@
         },
         {
           "id": "b",
-          "text": "region inside the Earth where shale gas is available"
+          "text": "regions inside the Earth where shale gas is available"
         },
         {
           "id": "c",
@@ -1910,7 +1910,7 @@
     {
       "id": "upsc_2015_gs1_q46",
       "type": "single-choice",
-      "question": "Who of the following organized a March on the Tanjore coast to break the Salt Law in April 1930?",
+      "question": "Who of the following organized a march on the Tanjore coast to break the Salt Law in April 1930?",
       "options": [
         {
           "id": "a",
@@ -1918,11 +1918,11 @@
         },
         {
           "id": "b",
-          "text": "Rajagopalachari"
+          "text": "C. Rajagopalachari"
         },
         {
           "id": "c",
-          "text": "K. Kamarajar"
+          "text": "K. Kamaraj"
         },
         {
           "id": "d",
@@ -1939,7 +1939,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -1981,7 +1981,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 342,
         "subtags": []
       },
       "markBreakdown": [
@@ -1994,7 +1994,7 @@
     {
       "id": "upsc_2015_gs1_q48",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The first woman President of the Indian National Congress was Sarojini Naidu.\n2. The first Muslim President of the Indian National Congress was Badruddin Tyabji.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The first woman President of the Indian National Congress was Sarojini Naidu.\n2. The first Muslim President of the Indian National Congress was Badruddin Tyabji.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2036,7 +2036,7 @@
     {
       "id": "upsc_2015_gs1_q49",
       "type": "single-choice",
-      "question": "Which of the statements regarding ‘Green Climate Fund’ is/are correct?\n1. It is intended to assist the developing countries in adaption and mitigation practices to counter climate change. It is founded under the aegis of UNEP\n2. OECD\n3. Asian Development Bank and World Bank\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following statements regarding ‘Green Climate Fund’ is/are correct?\n\n1. It is intended to assist the developing countries in adaptation and mitigation practices to counter climate change.\n2. It is founded under the aegis of UNEP, OECD, Asian Development Bank and World Bank.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2120,7 +2120,7 @@
     {
       "id": "upsc_2015_gs1_q51",
       "type": "single-choice",
-      "question": "With reference to the Cabinet Mission, which of the following statements is/are correct?\n1. It recommended a federal government.\n2. It enlarged the powers of the Indian courts.\n3. It provided for more Indians in the ICS.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to the Cabinet Mission, which of the following statements is/are correct?\n1. It recommended a federal government.\n2. It enlarged the powers of the Indian courts.\n3. It provided for more Indians in the ICS.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2149,7 +2149,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 358,
         "subtags": []
       },
       "markBreakdown": [
@@ -2191,7 +2191,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 15,
         "subtags": []
       },
       "markBreakdown": [
@@ -2233,7 +2233,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 170,
         "subtags": []
       },
       "markBreakdown": [
@@ -2275,7 +2275,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 114,
+        "mainTag": 115,
         "subtags": []
       },
       "markBreakdown": [
@@ -2288,7 +2288,7 @@
     {
       "id": "upsc_2015_gs1_q55",
       "type": "single-choice",
-      "question": "With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?\n\n1. A very strong centralized political authority and a very weak provincial or local political authority.\n2. Emergence of administrative structure based on control and possession of land.\n3. Creation of lord-vassal relationship between the feudal lord and his overlord.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to Indian history, which of the following is/are the essential element/elements of the feudal system?\n\n1. A very strong centralized political authority and a very weak provincial or local political authority.\n2. Emergence of administrative structure based on control and possession of land.\n3. Creation of lord-vassal relationship between the feudal lord and his overlord.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2485,7 +2485,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 60,
         "subtags": []
       },
       "markBreakdown": [
@@ -2498,7 +2498,7 @@
     {
       "id": "upsc_2015_gs1_q60",
       "type": "single-choice",
-      "question": "With reference to the Union Government, consider the following statements\n1. The Department of Revenue is responsible for the preparation of Union Budget that is presented to the Parliament.\n2. No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.\n3. All the disbursements made from Public Account also need the authorization from the Parliament of India.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Union Government, consider the following statements:\n1. The Department of Revenue is responsible for the preparation of Union Budget that is presented to the Parliament.\n2. No amount can be withdrawn from the Consolidated Fund of India without the authorization from the Parliament of India.\n3. All the disbursements made from Public Account also need the authorization from the Parliament of India.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2527,7 +2527,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 19,
+        "mainTag": 20,
         "subtags": []
       },
       "markBreakdown": [
@@ -2569,7 +2569,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 21,
         "subtags": []
       },
       "markBreakdown": [
@@ -2582,7 +2582,7 @@
     {
       "id": "upsc_2015_gs1_q62",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The Accelerated Irrigation Benefits Programme was launched during 1996-97 to provide loan assistance to poor farmers.\n2. The Command Area Development Programme was launched in 1974-75 for the development of water-use efficiency.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Accelerated Irrigation Benefits Programme was launched during 1996-97 to provide loan assistance to poor farmers.\n2. The Command Area Development Programme was launched in 1974-75 for the development of water-use efficiency.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2779,7 +2779,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -2863,7 +2863,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 356,
         "subtags": []
       },
       "markBreakdown": [
@@ -2918,7 +2918,7 @@
     {
       "id": "upsc_2015_gs1_q70",
       "type": "single-choice",
-      "question": "Tides occur in the oceans and seas due to which among the following?\n1. Gravitational force of the Sun\n2. Gravitational force of the Moon\n3. Centrifugal force of the Earth\n\nSelect the correct answer using the code given below",
+      "question": "Tides occur in the oceans and seas due to which among the following?\n1. Gravitational force of the Sun\n2. Gravitational force of the Moon\n3. Centrifugal force of the Earth\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2947,7 +2947,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 152,
         "subtags": []
       },
       "markBreakdown": [
@@ -2989,7 +2989,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 80,
         "subtags": []
       },
       "markBreakdown": [
@@ -3073,7 +3073,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 84,
         "subtags": []
       },
       "markBreakdown": [
@@ -3086,7 +3086,7 @@
     {
       "id": "upsc_2015_gs1_q74",
       "type": "single-choice",
-      "question": "With reference to ‘Forest Carbon Partnership Facility’, which of the following statements is/are correct?\n1. It is a global partnership of governments\n2. businesses\n3. civil society and indigenous peoples. It provides financial aid to universities\n4. individual scientists and institutions involved in scientific forestry research to develop eco-friendly and climate adaptation technologies for sustainable forest management. It assists the countries in their ‘REDD+ (Reducing Emissions from Deforestation and Forest Degradation+)’ efforts by providing them with financial and technical assistance\n\nSelect the correct answer using the code given below",
+      "question": "With reference to ‘Forest Carbon Partnership Facility’, which of the following statements is/are correct?\n1. It is a global partnership of governments, businesses, civil society and indigenous peoples.\n2. It provides financial aid to universities, individual scientists and institutions involved in scientific forestry research to develop eco-friendly and climate adaptation technologies for sustainable forest management.\n3. It assists the countries in their ‘REDD+ (Reducing Emissions from Deforestation and Forest Degradation+)’ efforts by providing them with financial and technical assistance.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3367,7 +3367,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -3380,7 +3380,7 @@
     {
       "id": "upsc_2015_gs1_q81",
       "type": "single-choice",
-      "question": "With reference to Indian economy, consider the following statements\n1. The rate of growth of Real Gross Domestic Product has steadily increased in the last decade.\n2. The Gross Domestic Product at market prices (in rupees) has steadily increased in the last decade.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Indian economy, consider the following statements:\n1. The rate of growth of Real Gross Domestic Product has steadily increased in the last decade.\n2. The Gross Domestic Product at market prices (in rupees) has steadily increased in the last decade.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3422,7 +3422,7 @@
     {
       "id": "upsc_2015_gs1_q82",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The Legislative Council of a State in India can be larger in size than half of the Legislative Assembly of that particular State.\n2. The Governor of a State nominates the Chairman of Legislative Council of that particular State.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Legislative Council of a State in India can be larger in size than half of the Legislative Assembly of that particular State.\n2. The Governor of a State nominates the Chairman of Legislative Council of that particular State.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3451,7 +3451,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 160,
         "subtags": []
       },
       "markBreakdown": [
@@ -3493,7 +3493,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 372,
         "subtags": []
       },
       "markBreakdown": [
@@ -3703,7 +3703,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 398,
         "subtags": []
       },
       "markBreakdown": [
@@ -3745,7 +3745,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 371,
         "subtags": []
       },
       "markBreakdown": [
@@ -3758,7 +3758,7 @@
     {
       "id": "upsc_2015_gs1_q90",
       "type": "single-choice",
-      "question": "The Substitution of steel for wooden ploughs in agricultural production is an example of",
+      "question": "The substitution of steel for wooden ploughs in agricultural production is an example of",
       "options": [
         {
           "id": "a",
@@ -3787,7 +3787,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 188,
         "subtags": []
       },
       "markBreakdown": [
@@ -3842,7 +3842,7 @@
     {
       "id": "upsc_2015_gs1_q92",
       "type": "single-choice",
-      "question": "HINI virus is sometimes mentioned in the news with reference to which one of the following diseases?",
+      "question": "H1N1 virus is sometimes mentioned in the news with reference to which one of the following diseases?",
       "options": [
         {
           "id": "a",
@@ -3884,7 +3884,7 @@
     {
       "id": "upsc_2015_gs1_q93",
       "type": "single-choice",
-      "question": "With reference to bio-toilets used by the Indian Railways, consider the following statements\n1. The decomposition of human waste in the bio-toilets is initiated by a fungal inoculums.\n2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to bio-toilets used by the Indian Railways, consider the following statements:\n1. The decomposition of human waste in the bio-toilets is initiated by a fungal inoculum.\n2. Ammonia and water vapour are the only end products in this decomposition which are released into the atmosphere.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3913,7 +3913,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 475,
         "subtags": []
       },
       "markBreakdown": [
@@ -3955,7 +3955,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 43,
         "subtags": []
       },
       "markBreakdown": [
@@ -3968,7 +3968,7 @@
     {
       "id": "upsc_2015_gs1_q95",
       "type": "single-choice",
-      "question": "With reference to 'fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity, consider the following statements:\n\n1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products.\n2. Fuel cells can be used for powering buildings and not for small devices like lap computers.\n3. Fuel cells produce electricity in the form of Alternating Current (AC).\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to 'fuel cells' in which hydrogen-rich fuel and oxygen are used to generate electricity, consider the following statements:\n\n1. If pure hydrogen is used as a fuel, the fuel cell emits heat and water as by-products.\n2. Fuel cells can be used for powering buildings and not for small devices like laptop computers.\n3. Fuel cells produce electricity in the form of Alternating Current (AC).\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4094,7 +4094,7 @@
     {
       "id": "upsc_2015_gs1_q98",
       "type": "single-choice",
-      "question": "There has been a persistent deficit budget year after year. Which of the following actions can be taken by the government to reduce the deficit?\n\n1. Reducing revenue expenditure\n2. Introducing new welfare schemes\n3. Rationalizing subsidies\n4. Reducing import duty\n\nSelect the correct answer using the code given below:",
+      "question": "There has been a persistent deficit budget year after year. Which of the following actions can be taken by the government to reduce the deficit?\n\n1. Reducing revenue expenditure\n2. Introducing new welfare schemes\n3. Rationalizing subsidies\n4. Expanding industries\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -4123,7 +4123,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 65,
+        "mainTag": 38,
         "subtags": []
       },
       "markBreakdown": [
@@ -4165,7 +4165,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 200,
         "subtags": []
       },
       "markBreakdown": [
@@ -4178,7 +4178,7 @@
     {
       "id": "upsc_2015_gs1_q100",
       "type": "single-choice",
-      "question": "With reference to the Indian Renewable Energy Development Agency Limited (IREDA), which of the following statements is/are correct?\n1. It is a Public Limited Government Company.\n2. It is a Non-Banking Financial Company.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to the Indian Renewable Energy Development Agency Limited (IREDA), which of the following statements is/are correct?\n1. It is a Public Limited Government Company.\n2. It is a Non-Banking Financial Company.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -4207,7 +4207,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 85,
         "subtags": []
       },
       "markBreakdown": [

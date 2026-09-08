@@ -540,7 +540,7 @@ mod tests {
             ("river", "upsc_2016_gs1_q23"),
             ("ocean", "upsc_2021_gs1_q58"),
             ("groundwater depletion", "upsc_2025_mains_gs3_q13"),
-            ("forest conservation", "upsc_2016_gs1_q69"),
+            ("forest conservation", "upsc_2016_gs1_q54"),
             ("inflation", "upsc_2015_gs1_q87"),
             ("parliament accountability", "upsc_2021_mains_gs2_q4"),
             ("cross-border cyber attacks", "upsc_2021_mains_gs3_q10"),

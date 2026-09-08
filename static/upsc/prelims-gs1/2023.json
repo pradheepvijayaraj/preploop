@@ -11,7 +11,7 @@
     "section": "prelims-gs1",
     "sourceId": "upsc_2023_gs1",
     "practiceMode": "mcq",
-    "contentVersion": 47,
+    "contentVersion": 48,
     "taxonomyVersion": 4,
     "durationSeconds": 7200,
     "maxMarks": 200
@@ -40,7 +40,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -62,7 +62,7 @@
     {
       "id": "upsc_2023_gs1_q2",
       "type": "single-choice",
-      "question": "Consider the following pairs with regard to sports awards:\n1. Major Dhyan Chand Khel Ratna Award For the most spectacular and outstanding performance by a sportsperson over period of last four years\n2. Arjuna Award For the lifetime achievement by a sportsperson\n3. Dronacharya Award To honour eminent coaches who have successfully trained sportspersons or teams\n4. Rashtriya Khel Protsahan Puraskar To recognize the contribution made by sportspersons even after their retirement\n\nHow many of the above pairs are correctly matched?",
+      "question": "Consider the following pairs with regard to sports awards:\n\n| Award | Purpose |\n| --- | --- |\n| 1. Major Dhyan Chand Khel Ratna Award | For the most spectacular and outstanding performance by a sportsperson over a period of last four years |\n| 2. Arjuna Award | For the lifetime achievement by a sportsperson |\n| 3. Dronacharya Award | To honour eminent coaches who have successfully trained sportspersons or teams |\n| 4. Rashtriya Khel Protsahan Puraskar | To recognize the contribution made by sportspersons even after their retirement |\n\nHow many of the above pairs are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -91,7 +91,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 0,
+        "mainTag": 1,
         "subtags": []
       },
       "markBreakdown": [
@@ -124,7 +124,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -146,7 +146,7 @@
     {
       "id": "upsc_2023_gs1_q4",
       "type": "single-choice",
-      "question": "Consider the following countries Bulgaria Czech Republic Hungary Latvia Lithuania Romania\n\nHow many of the above countries share a land border with Ukraine?",
+      "question": "Consider the following countries:\n\n1. Bulgaria\n2. Czech Republic\n3. Hungary\n4. Latvia\n5. Lithuania\n6. Romania\n\nHow many of the above-mentioned countries share a land border with Ukraine?",
       "options": [
         {
           "id": "a",
@@ -188,23 +188,23 @@
     {
       "id": "upsc_2023_gs1_q5",
       "type": "single-choice",
-      "question": "With reference to India’s projects on connectivity, consider the following statements:\n1. East-West Corridor under Golden Quadrilateral Project connects: Dibrugarh and Surat.\n2. - Trilateral Highway connects Moreh in Manipur and Chiang Mai in\n3. Bangladesh-China-India-Myanmar Economic Corridor connects Varanasi. in Uttar Pradesh with Kunming in China. -\n\nHow many of the above statements are correct?",
+      "question": "With reference to India’s projects on connectivity, consider the following statements:\n\n1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.\n2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand via Myanmar.\n3. Bangladesh-China-India-Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.\n\nHow many of the above statements are correct?",
       "options": [
         {
           "id": "a",
-          "text": "Bhitarkanika Mangroves"
+          "text": "Only one"
         },
         {
           "id": "b",
-          "text": "Marakkanam Salt Pans"
+          "text": "Only two"
         },
         {
           "id": "c",
-          "text": "Naupada Swamp"
+          "text": "All three"
         },
         {
           "id": "d",
-          "text": "Rann of Kutch"
+          "text": "None"
         }
       ],
       "correctAnswers": [
@@ -230,11 +230,11 @@
     {
       "id": "upsc_2023_gs1_q6",
       "type": "single-choice",
-      "question": "Consider the following statements Statement-I 7th August is declared as the National Handloom Day. Statement-II It was in 1905 that the Swadeshi Movement was launched on the same day. Which one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: 7th August is declared as the National Handloom Day.\n\nStatement-II: It was in 1905 that the Swadeshi Movement was launched on the same day.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
-          "text": "Both Statement-1 and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
         },
         {
           "id": "b",
@@ -242,7 +242,7 @@
         },
         {
           "id": "c",
-          "text": "Statement-I correct but Statement-II is incorrect"
+          "text": "Statement-I is correct but Statement-II is incorrect"
         },
         {
           "id": "d",
@@ -250,7 +250,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -259,7 +259,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 8,
         "subtags": []
       },
       "markBreakdown": [
@@ -301,7 +301,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 48,
         "subtags": []
       },
       "markBreakdown": [
@@ -334,7 +334,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -376,7 +376,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -427,7 +427,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 20,
+        "mainTag": 358,
         "subtags": []
       },
       "markBreakdown": [
@@ -460,7 +460,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -469,7 +469,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 21,
+        "mainTag": 370,
         "subtags": []
       },
       "markBreakdown": [
@@ -482,23 +482,23 @@
     {
       "id": "upsc_2023_gs1_q12",
       "type": "single-choice",
-      "question": "With reference to India's projects on connectivity, consider the following statements:\n\n1. East-West Corridor under Golden Quadrilateral Project connects Dibrugarh and Surat.\n2. Trilateral Highway connects Moreh in Manipur and Chiang Mai in Thailand.\n3. Bangladesh-China-India-Myanmar Economic Corridor connects Varanasi in Uttar Pradesh with Kunming in China.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following heavy industries:\n\n1. Fertilizer plants\n2. Oil refineries\n3. Steel plants\n\nGreen hydrogen is expected to play a significant role in decarbonizing how many of the above industries?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "Only one"
         },
         {
           "id": "b",
-          "text": "2 and 3 only"
+          "text": "Only two"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "All three"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "None"
         }
       ],
       "correctAnswers": [
@@ -511,7 +511,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 85,
         "subtags": []
       },
       "markBreakdown": [
@@ -544,7 +544,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -553,7 +553,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 369,
         "subtags": []
       },
       "markBreakdown": [
@@ -586,7 +586,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -595,7 +595,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 51,
+        "mainTag": 42,
         "subtags": []
       },
       "markBreakdown": [
@@ -608,7 +608,7 @@
     {
       "id": "upsc_2023_gs1_q15",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: The atmosphere is heated more by incoming solar radiation than by terrestrial radiation.\nStatement-II: Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long wave radiation.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: Marsupials are not naturally found in India.\nStatement-II: Marsupials can thrive only in montane grasslands with no predators.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
@@ -637,7 +637,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -670,7 +670,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -692,7 +692,7 @@
     {
       "id": "upsc_2023_gs1_q17",
       "type": "single-choice",
-      "question": "Consider the following statements in relation to Janani Suraksha Yojana:\n\n1. It is a safe motherhood intervention of the State Health Departments.\n2. Its objective is to reduce maternal and neonatal mortality among poor pregnant women.\n3. It aims to promote institutional delivery among poor pregnant women.\n4. Its objective includes providing public health facilities to sick infants u.",
+      "question": "Consider the following statements in relation to Janani Suraksha Yojana:\n\n1. It is a safe motherhood intervention of the State Health Departments.\n2. Its objective is to reduce maternal and neonatal mortality among poor pregnant women.\n3. It aims to promote institutional delivery among poor pregnant women.\n4. Its objective includes providing public health facilities to sick infants up to one year of age.\n\nHow many of the statements given above are correct?",
       "options": [
         {
           "id": "a",
@@ -721,7 +721,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 65,
         "subtags": []
       },
       "markBreakdown": [
@@ -754,7 +754,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -805,7 +805,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 103,
+        "mainTag": 101,
         "subtags": []
       },
       "markBreakdown": [
@@ -838,7 +838,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -847,7 +847,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -860,7 +860,7 @@
     {
       "id": "upsc_2023_gs1_q21",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. Some mushrooms have medicinal properties.\n2. Some mushrooms have psycho- active properties.\n3. Some mushrooms have insecticidal properties.\n4. Some mushrooms have bioluminescent properties.\n\nHow many of the above statements are correct?",
+      "question": "Consider the following statements:\n\n1. Some mushrooms have medicinal properties.\n2. Some mushrooms have psycho-active properties.\n3. Some mushrooms have insecticidal properties.\n4. Some mushrooms have bioluminescent properties.\n\nHow many of the above statements are correct?",
       "options": [
         {
           "id": "a",
@@ -922,7 +922,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1006,7 +1006,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1015,7 +1015,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 278,
         "subtags": []
       },
       "markBreakdown": [
@@ -1048,7 +1048,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1070,7 +1070,7 @@
     {
       "id": "upsc_2023_gs1_q26",
       "type": "single-choice",
-      "question": "Consider the following infrastructure sectors:\n1. Affordable\n2. Mass\n3. Health\n4. Renewable\n5. UNOPS Sustainable Investments in Infrastructure and Innovation",
+      "question": "Consider the following infrastructure sectors:\n\n1. Affordable housing\n2. Mass rapid transport\n3. Health care\n4. Renewable energy\n\nOn how many of the above does UNOPS Sustainable Investments in Infrastructure and Innovation (S3i) initiative focus for its investments?",
       "options": [
         {
           "id": "a",
@@ -1090,7 +1090,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1132,7 +1132,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1141,7 +1141,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -1174,7 +1174,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1225,7 +1225,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -1267,7 +1267,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 68,
         "subtags": []
       },
       "markBreakdown": [
@@ -1300,7 +1300,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1309,7 +1309,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 17,
         "subtags": []
       },
       "markBreakdown": [
@@ -1342,7 +1342,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1351,7 +1351,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -1384,16 +1384,15 @@
         }
       ],
       "correctAnswers": [
-        "c"
       ],
-      "explanation": "",
+      "explanation": "Withdrawn by UPSC; the official answer key does not assign a correct option.",
       "marks": 2.0,
       "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
-      "tags": [],
+      "tags": ["withdrawn"],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 156,
         "subtags": []
       },
       "markBreakdown": [
@@ -1405,24 +1404,24 @@
     },
     {
       "id": "upsc_2023_gs1_q34",
-      "type": "multiple-choice",
+      "type": "single-choice",
       "question": "Which one of the following activities of the Reserve Bank of India is considered to be part of ‘sterilization’?",
       "options": [
         {
           "id": "a",
-          "text": "Conducting ‘Open Market Operations’."
+          "text": "Conducting ‘Open Market Operations’"
         },
         {
           "id": "b",
-          "text": "Monitoring the balance of payments."
+          "text": "Oversight of settlement and payment systems"
         },
         {
           "id": "c",
-          "text": "Advising the Government on fiscal policy."
+          "text": "Debt and cash management for the Central and State Governments"
         },
         {
           "id": "d",
-          "text": "Collecting and publishing economic data."
+          "text": "Regulating the functions of Non-banking Financial Institutions"
         }
       ],
       "correctAnswers": [
@@ -1430,12 +1429,12 @@
       ],
       "explanation": "",
       "marks": 2.0,
-      "negativeMarks": 0,
+      "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -1510,7 +1509,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1519,7 +1518,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 94,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -1552,7 +1551,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1561,7 +1560,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 17,
         "subtags": []
       },
       "markBreakdown": [
@@ -1582,7 +1581,7 @@
         },
         {
           "id": "b",
-          "text": "Both Statement-1 and Statement-II are correct and Statement- II is not the correct explanation for Statement-I"
+          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
         },
         {
           "id": "c",
@@ -1594,7 +1593,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1636,7 +1635,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1658,7 +1657,7 @@
     {
       "id": "upsc_2023_gs1_q40",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. In Biodiversity the India, Management Committees are key to the realization of the objectives of the Nagoya Protocol.\n2. The Biodiversity Management Committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n\n1. In India, the Biodiversity Management Committees are key to the realization of the objectives of the Nagoya Protocol.\n2. The Biodiversity Management Committees have important functions in determining access and benefit sharing, including the power to levy collection fees on the access of biological resources within its jurisdiction.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1762,7 +1761,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1771,7 +1770,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 18,
         "subtags": []
       },
       "markBreakdown": [
@@ -1800,11 +1799,11 @@
         },
         {
           "id": "d",
-          "text": "None UPSC IAS Prelims 2023 GS Paper 1 pdf"
+          "text": "None"
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1826,7 +1825,7 @@
     {
       "id": "upsc_2023_gs1_q44",
       "type": "single-choice",
-      "question": "With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements:\n\n1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill\n2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting becomes necessary for Finance bill.\n\nHow many of the above, statements are correct?",
+      "question": "With reference to Finance Bill and Money Bill in the Indian Parliament, consider the following statements:\n\n1. When the Lok Sabha transmits Finance Bill to the Rajya Sabha, it can amend or reject the Bill.\n2. When the Lok Sabha transmits Money Bill to the Rajya Sabha, it cannot amend or reject the Bill, it can only make recommendations.\n3. In the case of disagreement between the Lok Sabha and the Rajya Sabha, there is no joint sitting for Money Bill, but a joint sitting becomes necessary for Finance Bill.\n\nHow many of the above statements are correct?",
       "options": [
         {
           "id": "a",
@@ -1846,7 +1845,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1888,7 +1887,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1910,7 +1909,7 @@
     {
       "id": "upsc_2023_gs1_q46",
       "type": "single-choice",
-      "question": "Consider the following pairs: Area of conflict mentioned in news Country where it is located\n1. Donbas Syria\n2. Kachin Ethiopia\n3. Tigray North Yemen\n\nHow many of the above pairs are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Area of conflict mentioned in news | Country where it is located |\n| --- | --- |\n| 1. Donbas | Syria |\n| 2. Kachin | Ethiopia |\n| 3. Tigray | North Yemen |\n\nHow many of the above pairs are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -1930,7 +1929,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1939,7 +1938,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -1972,7 +1971,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1981,7 +1980,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -2014,7 +2013,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2056,7 +2055,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2078,7 +2077,7 @@
     {
       "id": "upsc_2023_gs1_q50",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. Once the Central Government notifies an area as a \"Community Reserve\" the Chief Wildlife Warden of the State becomes the governing authority of such forest hunting is not allowed in such area People of such area are allowed to collect non-timber forest produce.\n2. People of such area are allowed traditional agricultural practices.\n\nHow many of the above statements are correct?",
+      "question": "Consider the following statements:\n\nOnce the Central Government notifies an area as a ‘Community Reserve’\n\n1. The Chief Wildlife Warden of the State becomes the governing authority of such forest.\n2. Hunting is not allowed in such area.\n3. People of such area are allowed to collect non-timber forest produce.\n4. People of such area are allowed traditional agricultural practices.\n\nHow many of the above statements are correct?",
       "options": [
         {
           "id": "a",
@@ -2098,7 +2097,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2107,7 +2106,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 72,
+        "mainTag": 70,
         "subtags": []
       },
       "markBreakdown": [
@@ -2162,7 +2161,7 @@
     {
       "id": "upsc_2023_gs1_q52",
       "type": "single-choice",
-      "question": "Consider the following statements with reference to India:\n\n1. According to the Micro, small and Medium Enterprises Development (MSMED) Act, 2006, the 'medium enterprises are those with and machinery between is crore and 25 crore\n2. All bank loans to the Micro, small and Medium Enterprises quality under the priority sector.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements with reference to India:\n\n1. According to the 'Micro, Small and Medium Enterprises Development (MSMED) Act, 2006', the 'medium enterprises' are those investments in plant and machinery between 15 crore and 25 crore.\n2. All bank loans to the Micro, Small and Medium Enterprises qualify under the priority sector.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2182,7 +2181,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2191,7 +2190,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 49,
         "subtags": []
       },
       "markBreakdown": [
@@ -2224,7 +2223,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2233,7 +2232,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 525,
         "subtags": []
       },
       "markBreakdown": [
@@ -2250,23 +2249,23 @@
       "options": [
         {
           "id": "a",
-          "text": "Kings employing women bodyguards"
+          "text": "Andhra"
         },
         {
           "id": "b",
-          "text": "Learned persons assembling in royal courts to · discuss religious and philosophical matters"
+          "text": "Gandhara"
         },
         {
           "id": "c",
-          "text": "Young girls keeping watch over agricultural fields and driving away birds and animals"
+          "text": "Kalinga"
         },
         {
           "id": "d",
-          "text": "A king defeated in a battle committing ritual suicide by starving himself to death"
+          "text": "Magadha"
         }
       ],
       "correctAnswers": [
-        "c"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2317,7 +2316,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -2330,7 +2329,7 @@
     {
       "id": "upsc_2023_gs1_q56",
       "type": "single-choice",
-      "question": "Consider the following statements in respect of the 44th Chess Olympiad:\n\n1., 2022: It was the first time that Chess Olympiad was held in India\n2. The official mascot was named Thambi\n3. The trophy for the winning team in the open section is the Vera Menchik Cup\n4. 4, The trophy for the winning team in the women's section is the Hamilton-Russell Cup.\n\nHow many of the statements given above are correct?",
+      "question": "Consider the following statements in respect of the 44th Chess Olympiad, 2022:\n\n1. It was the first time that Chess Olympiad was held in India.\n2. The official mascot was named ‘Thambi’.\n3. The trophy for the winning team in the open section is the Vera Menchik Cup.\n4. The trophy for the winning team in the women’s section is the Hamilton-Russell Cup.\n\nHow many of the statements given above are correct?",
       "options": [
         {
           "id": "a",
@@ -2350,7 +2349,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2392,7 +2391,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2434,7 +2433,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2443,7 +2442,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 119,
+        "mainTag": 342,
         "subtags": []
       },
       "markBreakdown": [
@@ -2476,7 +2475,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2518,7 +2517,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2527,7 +2526,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 5,
         "subtags": []
       },
       "markBreakdown": [
@@ -2540,7 +2539,7 @@
     {
       "id": "upsc_2023_gs1_q61",
       "type": "single-choice",
-      "question": "With reference to ancient Indian History, consider the following pairs: Literary work Author\n1. Devichandragupta Bilhana\n2. Hammira-Mahakavya Nayachandra Suri\n3. Milinda-panha Nagarjuna\n4. Nitivakyamrita Somadeva Suri\n\nHow many of the above pairs are correctly matched?",
+      "question": "With reference to ancient Indian History, consider the following pairs:\n\n| Literary work | Author |\n| --- | --- |\n| 1. Devichandragupta | Bilhana |\n| 2. Hammira-Mahakavya | Nayachandra Suri |\n| 3. Milinda-panha | Nagarjuna |\n| 4. Nitivakyamrita | Somadeva Suri |\n\nHow many of the above pairs are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -2560,7 +2559,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2569,7 +2568,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 118,
         "subtags": []
       },
       "markBreakdown": [
@@ -2602,7 +2601,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2611,7 +2610,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -2644,7 +2643,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2666,7 +2665,7 @@
     {
       "id": "upsc_2023_gs1_q64",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of the Gandak River formed Kanwar Lake.\n\nHow many of the statements given above are correct?",
+      "question": "Consider the following statements:\n\n1. Jhelum River passes through Wular Lake.\n2. Krishna River directly feeds Kolleru Lake.\n3. Meandering of Gandak River formed Kanwar Lake.\n\nHow many of the statements given above are correct?",
       "options": [
         {
           "id": "a",
@@ -2686,7 +2685,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2708,23 +2707,23 @@
     {
       "id": "upsc_2023_gs1_q65",
       "type": "single-choice",
-      "question": "Consider the following statements in the context of interventions being undertaken under Anaemia Mukt Bharat Strategy:\n1. It provides prophylactic calcium supplementation for pre-school children, adolescents and pregnant women.\n2. It runs a campaign for delayed cord clamping at the time of childbirth.\n3. It provides for periodic deworming. to children and adolescents.\n4. It addresses non-nutritional causes of anaemia in endemic pockets with special focus on malaria, hemoglobinopathies and fluorosis.\n\nHow many of the statements given above are correct?",
+      "question": "Consider the following statements in the context of interventions being undertaken under Anaemia Mukt Bharat Strategy:\n\n1. It provides prophylactic calcium supplementation for pre-school children, adolescents and pregnant women.\n2. It runs a campaign for delayed cord clamping at the time of childbirth.\n3. It provides for periodic deworming to children and adolescents.\n4. It addresses non-nutritional causes of anaemia in endemic pockets with special focus on malaria, hemoglobinopathies and fluorosis.\n\nHow many of the statements given above are correct?",
       "options": [
         {
           "id": "a",
-          "text": "The Regulating Act"
+          "text": "Only one"
         },
         {
           "id": "b",
-          "text": "The Pitt's India Act"
+          "text": "Only two"
         },
         {
           "id": "c",
-          "text": "The Charter Act of 1793"
+          "text": "Only three"
         },
         {
           "id": "d",
-          "text": "The Charter Act of 1833 ("
+          "text": "All four"
         }
       ],
       "correctAnswers": [
@@ -2750,7 +2749,7 @@
     {
       "id": "upsc_2023_gs1_q66",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. Carbon fibres are used in the manufacture of components used in automobiles and aircraft.\n2. Carbon fibres once used cannot be recycled.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n\n1. Carbon fibres are used in the manufacture of components used in automobiles and aircrafts.\n2. Carbon fibres once used cannot be recycled.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2770,7 +2769,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2779,7 +2778,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 85,
+        "mainTag": 74,
         "subtags": []
       },
       "markBreakdown": [
@@ -2821,7 +2820,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -2834,7 +2833,7 @@
     {
       "id": "upsc_2023_gs1_q68",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: India accounts for 3.2% of global export of goods.\nStatement-II: Many local companies and some foreign companies operating in India have taken advantage of India's Production-linked Incentive scheme.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: India accounts for 3.2% of global export of goods.\nStatement-II: Many local companies and some foreign companies operating in India have taken advantage of India's 'Production-linked Incentive' scheme.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
@@ -2854,7 +2853,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2905,7 +2904,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 51,
+        "mainTag": 98,
         "subtags": []
       },
       "markBreakdown": [
@@ -2918,7 +2917,7 @@
     {
       "id": "upsc_2023_gs1_q70",
       "type": "single-choice",
-      "question": "Consider the following statements in the context of interventions being undertaken:\n\n1. under Anaemia Mukt Bharat Strategy: It provides prophylactic calcium supplementation for pre-school children, adolescents and pregnant women\n2. It runs a campaign for delayed cord clamping at the time of child- birth\n3. It provides for periodic deworming to children and adolescents\n4. It addresses non-nutritional causes of anaemia in endemic pockets with special focus on malaria, hemoglobinopathies and fluorosis.\n\nHow many of the statements given above are correct?",
+      "question": "Consider the following statements:\n\n1. India has more arable area than China.\n2. The proportion of irrigated area is more in India as compared to China.\n3. The average productivity per hectare in Indian agriculture is higher than that in China.\n\nHow many of the above statements are correct?",
       "options": [
         {
           "id": "a",
@@ -2930,11 +2929,11 @@
         },
         {
           "id": "c",
-          "text": "Only three"
+          "text": "All three"
         },
         {
           "id": "d",
-          "text": "All four"
+          "text": "None"
         }
       ],
       "correctAnswers": [
@@ -2947,7 +2946,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -2980,7 +2979,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3002,7 +3001,7 @@
     {
       "id": "upsc_2023_gs1_q72",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. Some mushrooms have medicinal properties.\n2. Some mushrooms have psychoactive properties.\n3. Some mushrooms have insecticidal properties.\n4. Some mushrooms have bioluminescent properties.\n\nHow many of the above statements are correct?",
+      "question": "Consider the following statements:\n\n1. Amarkantak Hills are at the confluence of Vindhya and Sahyadri Ranges.\n2. Biligirirangan Hills constitute the easternmost part of Satpura Range.\n3. Seshachalam Hills constitute the southernmost part of Western Ghats.\n\nHow many of the statements given above are correct?",
       "options": [
         {
           "id": "a",
@@ -3014,15 +3013,15 @@
         },
         {
           "id": "c",
-          "text": "Only three"
+          "text": "All three"
         },
         {
           "id": "d",
-          "text": "All four"
+          "text": "None"
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3031,7 +3030,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 75,
+        "mainTag": 10,
         "subtags": []
       },
       "markBreakdown": [
@@ -3064,7 +3063,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3073,7 +3072,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 66,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -3115,7 +3114,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 88,
+        "mainTag": 93,
         "subtags": []
       },
       "markBreakdown": [
@@ -3148,7 +3147,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3232,7 +3231,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3241,7 +3240,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 80,
+        "mainTag": 82,
         "subtags": []
       },
       "markBreakdown": [
@@ -3274,7 +3273,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3296,7 +3295,7 @@
     {
       "id": "upsc_2023_gs1_q79",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: The residual of the 2011 Census population was used as the base for the 15th Finance Commission population criterion.\nStatement-II: The 15th Finance Commission used 2011 population data for horizontal devolution among States.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: The Supreme Court of India has held in some judgements that the reservation policies made under Article 16(4) of the Constitution of India would be limited by Article 335 for maintenance of efficiency of administration.\nStatement-II: Article 335 of the Constitution of India defines the term ‘efficiency of administration’.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
@@ -3325,7 +3324,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 61,
+        "mainTag": 30,
         "subtags": []
       },
       "markBreakdown": [
@@ -3358,7 +3357,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3367,7 +3366,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 81,
         "subtags": []
       },
       "markBreakdown": [
@@ -3380,7 +3379,7 @@
     {
       "id": "upsc_2023_gs1_q81",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. In a seismograph, P waves are recorded earlier than S waves.\n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. In a seismograph, P waves are recorded earlier than S waves.\n2. In P waves, the individual particles vibrate to and fro in the direction of wave propagation whereas in S waves, the particles vibrate up and down at right angles to the direction of wave propagation.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3400,7 +3399,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3409,7 +3408,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 10,
         "subtags": []
       },
       "markBreakdown": [
@@ -3422,7 +3421,7 @@
     {
       "id": "upsc_2023_gs1_q82",
       "type": "single-choice",
-      "question": "With reference to coal-based thermal power plants in India, following statements:\n\n1. None of them uses seawater.\n2. None of them is set up in water-stressed district.\n3. None of them is privately owned.\n\nHow many of the above statements are correct?",
+      "question": "With reference to coal-based thermal power plants in India, consider the following statements:\n\n1. None of them uses seawater.\n2. None of them is set up in water-stressed district.\n3. None of them is privately owned.\n\nHow many of the above statements are correct?",
       "options": [
         {
           "id": "a",
@@ -3442,7 +3441,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3451,7 +3450,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 85,
         "subtags": []
       },
       "markBreakdown": [
@@ -3484,7 +3483,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3493,7 +3492,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -3526,7 +3525,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3535,7 +3534,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 68,
         "subtags": []
       },
       "markBreakdown": [
@@ -3568,7 +3567,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3590,23 +3589,23 @@
     {
       "id": "upsc_2023_gs1_q86",
       "type": "single-choice",
-      "question": "Consider the following statements with reference to India:\n\n1. According to the Micro, small and Medium Enterprises Development (MSMED) Act, 2006, the ‘\n2. medium enterprises are those with and machinery between is crore and 25 crore. All bank loans to the Micro, small and Medium Enterprises quality under the priority sector.\n\nWhich of the statements given above is/are correct?",
+      "question": "Which of the following organisms perform waggle dance for others of their kin to indicate the direction and the distance to a source of their food?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "Butterflies"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Dragonflies"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "Honeybees"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "Wasps"
         }
       ],
       "correctAnswers": [
@@ -3619,7 +3618,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -3632,7 +3631,7 @@
     {
       "id": "upsc_2023_gs1_q87",
       "type": "single-choice",
-      "question": "With reference to Central Bank digital currencies, consider the following statements\n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.\n2. A digital currency can be distributed with condition programmed into it such as a time- frame for spending it.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Central Bank digital currencies, consider the following statements:\n1. It is possible to make payments in a digital currency without using US dollar or SWIFT system.\n2. A digital currency can be distributed with a condition programmed into it such as a time-frame for spending it.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3661,7 +3660,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 43,
         "subtags": []
       },
       "markBreakdown": [
@@ -3682,7 +3681,7 @@
         },
         {
           "id": "b",
-          "text": "an investment strategy of portfolio manager to balance risk versus reward"
+          "text": "an investment strategy of a portfolio manager to balance risk versus reward"
         },
         {
           "id": "c",
@@ -3690,7 +3689,7 @@
         },
         {
           "id": "d",
-          "text": "a numeric value that measures the fluctuations of a stock to change in the overall stock market UPSC IAS Prelims 2023 GS Paper 1 pdf"
+          "text": "a numeric value that measures the fluctuations of a stock to changes in the overall stock market"
         }
       ],
       "correctAnswers": [
@@ -3736,7 +3735,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3758,27 +3757,27 @@
     {
       "id": "upsc_2023_gs1_q90",
       "type": "single-choice",
-      "question": "Microsatellite DNA is used in the case of which one of the following?",
+      "question": "'Microsatellite DNA' is used in the case of which one of the following?",
       "options": [
         {
           "id": "a",
-          "text": "Studying evolutionary relationships among various species of fauna"
+          "text": "Studying the evolutionary relationships among various species of fauna"
         },
         {
           "id": "b",
-          "text": "Stimulating stem cells transform into diverse functional tissues"
+          "text": "Stimulating 'stem cells' to transform into diverse functional tissues"
         },
         {
           "id": "c",
-          "text": "Promoting clonal propagation of horticultural plant"
+          "text": "Promoting clonal propagation of horticultural plants"
         },
         {
           "id": "d",
-          "text": "Assessing the efficacy of drugs by conducting series of drug trials in a population"
+          "text": "Assessing the efficacy of drugs by conducting a series of drug trials in a population"
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3800,7 +3799,7 @@
     {
       "id": "upsc_2023_gs1_q91",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived\n2. In an SHG, all members of a group take responsibility for a loan that an individual member takes\n3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs.\n\nHow many of the above statements are correct?",
+      "question": "Consider the following statements:\n\n1. The Self-Help Group (SHG) programme was originally initiated by the State Bank of India by providing microcredit to the financially deprived.\n2. In an SHG, all members of a group take responsibility for a loan that an individual member takes\n3. The Regional Rural Banks and Scheduled Commercial Banks support SHGs.\n\nHow many of the above statements are correct?",
       "options": [
         {
           "id": "a",
@@ -3862,7 +3861,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3871,7 +3870,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 73,
+        "mainTag": 97,
         "subtags": []
       },
       "markBreakdown": [
@@ -3913,7 +3912,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 98,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -3946,7 +3945,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3955,7 +3954,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 101,
         "subtags": []
       },
       "markBreakdown": [
@@ -3968,7 +3967,7 @@
     {
       "id": "upsc_2023_gs1_q95",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: The atmospheric rivers transport water vapour from the tropics to higher latitudes.\nStatement-II: Atmospheric rivers are a primary cause of coastal flooding in many mid-latitude regions.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: Israel has established diplomatic relations with some Arab States.\nStatement-II: The ‘Arab Peace Initiative’ mediated by Saudi Arabia was signed by Israel and Arab League.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
@@ -3988,7 +3987,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3997,7 +3996,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 97,
         "subtags": []
       },
       "markBreakdown": [
@@ -4010,7 +4009,7 @@
     {
       "id": "upsc_2023_gs1_q96",
       "type": "single-choice",
-      "question": "Consider the following statements in respect of the 44th Chess Olympiad, 2022:\n1. It was the first time that the Chess Olympiad was held in India.\n2. The official mascot was named 'Thambi'.\n3. The trophy for the winning team in the open section is the Vera Menchik Cup.\n4. The trophy for the winning team in the women's section is the Hamilton-Russell Cup.\n\nHow many of the statements given above are correct?",
+      "question": "With reference to India, consider the following pairs:\n\nAction : The Act under which it is covered\n\n1. Unauthorized wearing of police or military uniforms : The Official Secrets Act, 1923\n2. Knowingly misleading or otherwise interfering with a police officer or military officer when engaged in their duties : The Indian Evidence Act, 1872\n3. Celebratory gunfire which can endanger the personal safety of others : The Arms (Amendment) Act, 2019\n\nHow many of the above pairs are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -4022,11 +4021,11 @@
         },
         {
           "id": "c",
-          "text": "Only three"
+          "text": "All three"
         },
         {
           "id": "d",
-          "text": "All four"
+          "text": "None"
         }
       ],
       "correctAnswers": [
@@ -4039,7 +4038,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 0,
+        "mainTag": 106,
         "subtags": []
       },
       "markBreakdown": [
@@ -4072,7 +4071,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -4094,7 +4093,7 @@
     {
       "id": "upsc_2023_gs1_q98",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. India accounts for 3.2% of global export of goods.\n2. Many local companies in India use various preferential trade agreements for exporting their goods abroad.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements about G-20:\n\n1. The G-20 group was originally established as a platform for the Finance Ministers and Central Bank Governors to discuss the international economic and financial issues.\n2. Digital public infrastructure is one of India's G-20 priorities.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4114,7 +4113,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -4123,7 +4122,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 48,
+        "mainTag": 98,
         "subtags": []
       },
       "markBreakdown": [
@@ -4156,7 +4155,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -4165,7 +4164,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 115,
         "subtags": []
       },
       "markBreakdown": [
@@ -4198,7 +4197,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -4207,7 +4206,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 111,
+        "mainTag": 119,
         "subtags": []
       },
       "markBreakdown": [

@@ -11,7 +11,7 @@
     "section": "prelims-gs1",
     "sourceId": "upsc_2017_gs1",
     "practiceMode": "mcq",
-    "contentVersion": 47,
+    "contentVersion": 48,
     "taxonomyVersion": 4,
     "durationSeconds": 7200,
     "maxMarks": 200
@@ -20,7 +20,7 @@
     {
       "id": "upsc_2017_gs1_q1",
       "type": "single-choice",
-      "question": "With reference to the Parliament of India, consider the following statements\n1. A private member’s bill is a bill presented by a Member of Parliament who is not elected but only nominated by the President of India.\n2. Recently, a private member’s bill has been passed in the Parliament of India for the first time in its history.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Parliament of India, consider the following statements:\n1. A private member’s bill is a bill presented by a Member of Parliament who is not elected but only nominated by the President of India.\n2. Recently, a private member’s bill has been passed in the Parliament of India for the first time in its history.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -62,7 +62,7 @@
     {
       "id": "upsc_2017_gs1_q2",
       "type": "single-choice",
-      "question": "With reference to the difference between the culture of Rigvedic Aryan and Indus Valley people, which of the following statements is/are correct?\n1. Rigvedic Aryan used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them\n2. Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron\n3. Rigvedic Aryans have domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal\n\nSelect the correct answer using the codes given below",
+      "question": "With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?\n1. Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.\n2. Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.\n3. Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -104,27 +104,27 @@
     {
       "id": "upsc_2017_gs1_q3",
       "type": "single-choice",
-      "question": "With reference to the difference between the culture of Rigvedic Aryans and Indus Valley people, which of the following statements is/are correct?\n\n1. Rigvedic Aryans used the coat of mail and helmet in warfare whereas the people of Indus Valley Civilization did not leave any evidence of using them.\n2. Rigvedic Aryans knew gold, silver and copper whereas Indus Valley people knew only copper and iron.\n3. Rigvedic Aryans had domesticated the horse whereas there is no evidence of Indus Valley people having been aware of this animal.\n\nSelect the correct answer using the code given below:",
+      "question": "‘Recognition of Prior Learning Scheme’ is sometimes mentioned in the news with reference to",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "Certifying the skills acquired by construction workers through traditional channels."
         },
         {
           "id": "b",
-          "text": "2 and 3 only"
+          "text": "Enrolling the persons in Universities for distance learning programmes."
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "Reserving some skilled jobs to rural and urban poor in some public sector undertakings."
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "Certifying the skills acquired by trainees under the National Skill Development Programme."
         }
       ],
       "correctAnswers": [
-        "c"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -133,7 +133,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 175,
         "subtags": []
       },
       "markBreakdown": [
@@ -146,7 +146,49 @@
     {
       "id": "upsc_2017_gs1_q4",
       "type": "single-choice",
-      "question": "One of the implications of equality in society is the absence of:",
+      "question": "From the ecological point of view, which one of the following assumes importance in being a good link between the Eastern Ghats and the Western Ghats?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sathyamangalam Tiger Reserve"
+        },
+        {
+          "id": "b",
+          "text": "Nallamala Forest"
+        },
+        {
+          "id": "c",
+          "text": "Nagarhole National Park"
+        },
+        {
+          "id": "d",
+          "text": "Seshachalam Biosphere Reserve"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 15,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q5",
+      "type": "single-choice",
+      "question": "One of the implications of equality in society is the absence of",
       "options": [
         {
           "id": "a",
@@ -176,48 +218,6 @@
       "tags": [],
       "taxonomy": {
         "mainTag": 30,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q5",
-      "type": "single-choice",
-      "question": "‘Recognition of Prior Learning Scheme’ is sometimes mentioned in the news with reference to",
-      "options": [
-        {
-          "id": "a",
-          "text": "Certifying the skills acquired by construction workers through traditional channels"
-        },
-        {
-          "id": "b",
-          "text": "Enrolling the persons in Universities for distance learning programmes"
-        },
-        {
-          "id": "c",
-          "text": "Reserving some skilled jobs to rural and urban poor is some public sector undertakings"
-        },
-        {
-          "id": "d",
-          "text": "Certifying the skills acquired by trainees under the National Skill Development programme"
-        }
-      ],
-      "correctAnswers": [
-        "a"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 62,
         "subtags": []
       },
       "markBreakdown": [
@@ -301,7 +301,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 371,
         "subtags": []
       },
       "markBreakdown": [
@@ -314,27 +314,27 @@
     {
       "id": "upsc_2017_gs1_q8",
       "type": "single-choice",
-      "question": "With reference to 'National Investment and Infrastructure Fund', which of the following statements is/are correct?\n\n1. It is an organ of NITI Aayog.\n2. It has a corpus of Rs. 4, 00,000 crore at present.\n\nSelect the correct answer using the code given below:",
+      "question": "Which one of the following statements is correct?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "Rights are claims of the State against the citizens."
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Rights are privileges which are incorporated in the Constitution of a State."
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "Rights are claims of the citizens against the State."
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "Rights are privileges of a few citizens against the many."
         }
       ],
       "correctAnswers": [
-        "d"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -343,7 +343,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 35,
+        "mainTag": 30,
         "subtags": []
       },
       "markBreakdown": [
@@ -385,7 +385,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 59,
         "subtags": []
       },
       "markBreakdown": [
@@ -398,7 +398,7 @@
     {
       "id": "upsc_2017_gs1_q10",
       "type": "single-choice",
-      "question": "Which of the following statements is/are correct regarding Smart India Hackathon 2017?\n1. It is a centrally sponsored scheme for developing every city of our country into Smart Cities in a decade.\n2. It is an initiative to identify new digital technology innovations for solving the many problems faced by our country.\n3. It is a programme aimed at making all the financial transactions in our country completely digital in a decade.\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following statements is/are correct regarding Smart India Hackathon 2017?\n1. It is a centrally sponsored scheme for developing every city of our country into Smart Cities in a decade.\n2. It is an initiative to identify new digital technology innovations for solving the many problems faced by our country.\n3. It is a programme aimed at making all the financial transactions in our country completely digital in a decade.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -440,7 +440,7 @@
     {
       "id": "upsc_2017_gs1_q11",
       "type": "single-choice",
-      "question": "Which of the following statements is/are correct regarding the Monetary Policy Committee (MPC)?\n1. It decides the RBI’s benchmark interest rates.\n2. It is a 12-member body including the Governor of RBI and is reconstituted every year.\n3. It functions under the chairmanship of the Union Finance Minister.\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following statements is/are correct regarding the Monetary Policy Committee (MPC)?\n1. It decides the RBI’s benchmark interest rates.\n2. It is a 12-member body including the Governor of RBI and is reconstituted every year.\n3. It functions under the chairmanship of the Union Finance Minister.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -482,7 +482,7 @@
     {
       "id": "upsc_2017_gs1_q12",
       "type": "single-choice",
-      "question": "With reference to Manipuri Sankirtana, consider the following statements\n1. It is a song and dance performance.\n2. Cymbals are the only musical instruments used in the performance.\n3. It is performed to narrate the life and deeds of Lord Krishna.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Manipuri Sankirtana, consider the following statements:\n1. It is a song and dance performance.\n2. Cymbals are the only musical instruments used in the performance.\n3. It is performed to narrate the life and deeds of Lord Krishna.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -524,23 +524,23 @@
     {
       "id": "upsc_2017_gs1_q13",
       "type": "single-choice",
-      "question": "Which of the following statements is/are correct regarding Smart India Hackathon 2017?\n1. It is centrally sponsored scheme for developing every city of our country into Smart Cities in a decade\n2. It is an initiative to identify new digital technology innovation for solving the many problems faced by our country\n3. It is a programme aimed at making all the financial transactions in our country complete digital in a decade\n\nSelect the correct answer using the codes given below",
+      "question": "Who among the following was/were associated with the introduction of Ryotwari Settlement in India during the British rule?\n1. Lord Cornwallis\n2. Alexander Read\n3. Thomas Munro\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1 and 3 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "1 and 3 only"
         },
         {
           "id": "c",
-          "text": "3 only"
+          "text": "2 and 3 only"
         },
         {
           "id": "d",
-          "text": "2 and 3 only"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -553,7 +553,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 78,
+        "mainTag": 94,
         "subtags": []
       },
       "markBreakdown": [
@@ -566,7 +566,7 @@
     {
       "id": "upsc_2017_gs1_q14",
       "type": "single-choice",
-      "question": "In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique?\n1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.\n2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.\n3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.\n\nSelect the correct answer using the code given below",
+      "question": "In the context of solving pollution problems, what is/are the advantage/advantages of bioremediation technique?\n1. It is a technique for cleaning up pollution by enhancing the same biodegradation process that occurs in nature.\n2. Any contaminant with heavy metals such as cadmium and lead can be readily and completely treated by bioremediation using microorganisms.\n3. Genetic engineering can be used to create microorganisms specifically designed for bioremediation.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -608,27 +608,27 @@
     {
       "id": "upsc_2017_gs1_q15",
       "type": "single-choice",
-      "question": "Which among the following was/were associated with the introduction of Ryotwari Settlement in India during the British Rule?\n1. Lord Cornwallis\n2. Alexander Read\n3. Thomas Munro\n\nSelect the correct answer using the codes given below",
+      "question": "The Trade Disputes Act of 1929 provided for",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "the participation of workers in the management of industries."
         },
         {
           "id": "b",
-          "text": "1 and 3 only"
+          "text": "arbitrary powers to the management to quell industrial disputes."
         },
         {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "an intervention by the British Court in the event of a trade dispute."
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "a system of tribunals and a ban on strikes."
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -637,7 +637,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 52,
         "subtags": []
       },
       "markBreakdown": [
@@ -650,7 +650,7 @@
     {
       "id": "upsc_2017_gs1_q16",
       "type": "single-choice",
-      "question": "Local self government can be best explained as an exercise in",
+      "question": "Local self-government can be best explained as an exercise in",
       "options": [
         {
           "id": "a",
@@ -692,23 +692,23 @@
     {
       "id": "upsc_2017_gs1_q17",
       "type": "single-choice",
-      "question": "Which of the following statements is/are correct?\n\nViruses can infect\n\n1. bacteria\n2. fungi\n3. plants\n\nSelect the correct answer using the code given below:",
+      "question": "Consider the following statements:\nWith reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon\n1. legislative function.\n2. executive function.\n\nWhich of the above statements is/are correct?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "3 only"
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -721,7 +721,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 75,
+        "mainTag": 371,
         "subtags": []
       },
       "markBreakdown": [
@@ -763,7 +763,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 98,
+        "mainTag": 55,
         "subtags": []
       },
       "markBreakdown": [
@@ -776,23 +776,23 @@
     {
       "id": "upsc_2017_gs1_q19",
       "type": "single-choice",
-      "question": "Which of the following statements is/are correct regarding the Monetary Policy Committee?\n1. It decides the RBI’s benchmark interest rates\n2. It is a 12 member body including the Governor of RBI and is reconstituted every year\n3. It function under the Chairmanship of the Union Finance Minister\n\nSelect the correct answer using the codes given below",
+      "question": "At one of the places in India, if you stand on the seashore and watch the sea, you will find that the sea water recedes from the shoreline a few kilometres and comes back to the shore, twice a day, and you can actually walk on the sea floor when the water recedes. This unique phenomenon is seen at",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "Bhavnagar"
         },
         {
           "id": "b",
-          "text": "1 and 2 only"
+          "text": "Bheemunipatnam"
         },
         {
           "id": "c",
-          "text": "3 only"
+          "text": "Chandipur"
         },
         {
           "id": "d",
-          "text": "2 and 3 only"
+          "text": "Nagapattinam"
         }
       ],
       "correctAnswers": [
@@ -805,7 +805,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 40,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -818,7 +818,7 @@
     {
       "id": "upsc_2017_gs1_q20",
       "type": "single-choice",
-      "question": "With reference to the ‘Prohibition of Benami Property Transactions Act, 1988 (PBPT Act)’, consider the following statements\n1. A property transaction is not treated as a benami transaction if the owner of the property is not aware of the transaction.\n2. Properties held benami are liable for confiscation by the Government.\n3. The Act provides for three authorities for investigations but does not provide for any appellate mechanism.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the ‘Prohibition of Benami Property Transactions Act, 1988 (PBPT Act)’, consider the following statements:\n1. A property transaction is not treated as a benami transaction if the owner of the property is not aware of the transaction.\n2. Properties held benami are liable for confiscation by the Government.\n3. The Act provides for three authorities for investigations but does not provide for any appellate mechanism.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -889,7 +889,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -902,7 +902,7 @@
     {
       "id": "upsc_2017_gs1_q22",
       "type": "single-choice",
-      "question": "It is possible to produce algae based biofuels, but what is/are the likely limitation(s) of developing countries in promoting this industry?\n1. Production of algae based biofuels is possible in seas only and not on continents.\n2. Setting up and engineering the algae based biofuel production requires high level of expertise/technology until the construction is completed.\n3. Economically viable production necessitates the setting up of large scale facilities which may raise ecological and social concerns.\n\nSelect the correct answer using the code given below",
+      "question": "It is possible to produce algae based biofuels, but what is/are the likely limitation(s) of developing countries in promoting this industry?\n1. Production of algae based biofuels is possible in seas only and not on continents.\n2. Setting up and engineering the algae based biofuel production requires high level of expertise/technology until the construction is completed.\n3. Economically viable production necessitates the setting up of large scale facilities which may raise ecological and social concerns.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -931,7 +931,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 85,
         "subtags": []
       },
       "markBreakdown": [
@@ -944,23 +944,23 @@
     {
       "id": "upsc_2017_gs1_q23",
       "type": "single-choice",
-      "question": "With reference to the ‘Prohibition of Benami Property Transaction Act, 1988 (PBPT Act)’, consider the following statements:\n1. A property transaction is no treated as a benami transaction if the owner of the property is not aware of the transaction\n2. Properties held benami are liable for confiscation by the Government\n3. The act provides for three authorities for investigations but does not provide for any appellate mechanism\n\nWhich of the statements given above is/are correct?",
+      "question": "Which of the following are the objectives of 'National Nutrition Mission'?\n1. To create awareness relating to malnutrition among pregnant women and lactating mothers.\n2. To reduce the incidence of anaemia among young children, adolescent girls and women.\n3. To promote the consumption of millets, coarse cereals and unpolished rice.\n4. To promote the consumption of poultry eggs.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "1, 2 and 3 only"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "1, 2 and 4 only"
         },
         {
           "id": "d",
-          "text": "2 and 3 only"
+          "text": "3 and 4 only"
         }
       ],
       "correctAnswers": [
@@ -973,7 +973,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 37,
+        "mainTag": 176,
         "subtags": []
       },
       "markBreakdown": [
@@ -1028,133 +1028,7 @@
     {
       "id": "upsc_2017_gs1_q25",
       "type": "single-choice",
-      "question": "Organic Light Emitting Diodes (OLEDs) are used to create digital display in many devices. What are the advantages of OLED displays over Liquid Crystal displays?\n\n1. OLED displays can be fabricated on flexible plastic substrates.\n2. Roll-up displays embedded in clothing can be made using OLEDs.\n3. Transparent displays are possible using OLEDs.\n\nSelect the correct answer using the code given below:",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 and 3 only"
-        },
-        {
-          "id": "b",
-          "text": "2 only"
-        },
-        {
-          "id": "c",
-          "text": "1, 2 and 3"
-        },
-        {
-          "id": "d",
-          "text": "None of the above statements is correct"
-        }
-      ],
-      "correctAnswers": [
-        "c"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 78,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q26",
-      "type": "single-choice",
-      "question": "Which of the following is/are famous for Sun temples?\n\n1. Arasavalli\n2. Amarakantak\n3. Omkareshwar\n\nSelect the correct answer using the code given below:",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
-          "text": "2 and 3 only"
-        },
-        {
-          "id": "c",
-          "text": "1 and 3 only"
-        },
-        {
-          "id": "d",
-          "text": "1, 2 and 3"
-        }
-      ],
-      "correctAnswers": [
-        "a"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 119,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q27",
-      "type": "single-choice",
-      "question": "Which of the following are the objectives of ‘National Nutrition Mission’?\n1. To create awareness relating to malnutrition among pregnant women and lactating mothers\n2. To reduce the incidence of anaemia among young children, adolescent girls and women\n3. To promote the consumption of millets coarse cereals and unpolished rice\n4. To promote the consumption of poultry eggs\n\nSelect the correct answer using the codes given below",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 and 2 only"
-        },
-        {
-          "id": "b",
-          "text": "2 and 3 only"
-        },
-        {
-          "id": "c",
-          "text": "1, 2 and 4 only"
-        },
-        {
-          "id": "d",
-          "text": "3 and 4 only"
-        }
-      ],
-      "correctAnswers": [
-        "a"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 63,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q28",
-      "type": "single-choice",
-      "question": "In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be the potential sites for carbon sequestration\n1. Abandoned and uneconomic coal seams\n2. Depleted oil and gas reservoirs\n3. Subterranean deep saline formations\n\nSelect the correct answer using the codes given below",
+      "question": "In the context of mitigating the impending global warming due to anthropogenic emissions of carbon dioxide, which of the following can be the potential sites for carbon sequestration?\n1. Abandoned and uneconomic coal seams\n2. Depleted oil and gas reservoirs\n3. Subterranean deep saline formations\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1194,6 +1068,132 @@
       ]
     },
     {
+      "id": "upsc_2017_gs1_q26",
+      "type": "single-choice",
+      "question": "The object of the Butler Committee of 1927 was to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Define the jurisdiction of the Central and Provincial Governments."
+        },
+        {
+          "id": "b",
+          "text": "Define the powers of the Secretary of State for India."
+        },
+        {
+          "id": "c",
+          "text": "Impose censorship on national press."
+        },
+        {
+          "id": "d",
+          "text": "Improve the relationship between the Government of India and the Indian States."
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 120,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q27",
+      "type": "single-choice",
+      "question": "The term 'Domestic Content Requirement' is sometimes seen in the news with reference to",
+      "options": [
+        {
+          "id": "a",
+          "text": "Developing solar power production in our country"
+        },
+        {
+          "id": "b",
+          "text": "Granting licences to foreign T.V. channels in our country"
+        },
+        {
+          "id": "c",
+          "text": "Exporting our food products to other countries"
+        },
+        {
+          "id": "d",
+          "text": "Permitting foreign educational institutions to set up their campuses in our country"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 48,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q28",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. The Nuclear Security Summits are periodically held under the aegis of the United Nations.\n2. The International Panel on Fissile Materials is an organ of International Atomic Energy Agency.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "d"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 81,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
       "id": "upsc_2017_gs1_q29",
       "type": "single-choice",
       "question": "Who among the following can join the National Pension System (NPS)?",
@@ -1212,7 +1212,7 @@
         },
         {
           "id": "d",
-          "text": "All Central Government employees including those of Armed Forces joining the services on or after 1St April, 2004"
+          "text": "All Central Government employees including those of Armed Forces joining the services on or after 1st April, 2004"
         }
       ],
       "correctAnswers": [
@@ -1238,7 +1238,7 @@
     {
       "id": "upsc_2017_gs1_q30",
       "type": "single-choice",
-      "question": "With reference to river Teesta, consider the following statements\n1. The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim.\n2. River Rangeet originates in Sikkim and it is a tributary of river Teesta.\n3. River Teesta flows into Bay of Bengal on the border of India and Bangladesh.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to river Teesta, consider the following statements:\n1. The source of river Teesta is the same as that of Brahmaputra but it flows through Sikkim.\n2. River Rangeet originates in Sikkim and it is a tributary of river Teesta.\n3. River Teesta flows into Bay of Bengal on the border of India and Bangladesh.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1267,7 +1267,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -1280,7 +1280,7 @@
     {
       "id": "upsc_2017_gs1_q31",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue.\n2. Sexual transmission of Zika virus disease is possible.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. In tropical regions, Zika virus disease is transmitted by the same mosquito that transmits dengue.\n2. Sexual transmission of Zika virus disease is possible.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1322,7 +1322,7 @@
     {
       "id": "upsc_2017_gs1_q32",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. The Nuclear Security Summits are periodically held under the aegis of United Nations\n2. The International Panel on Fissile Materials is an organ of International Atomic Energy Agency\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Standard Mark of Bureau of Indian Standards (BIS) is mandatory for automotive tyres and tubes.\n2. AGMARK is a quality Certification Mark issued by the Food and Agriculture Organisation (FAO).\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1342,7 +1342,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1351,7 +1351,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 26,
         "subtags": []
       },
       "markBreakdown": [
@@ -1364,7 +1364,7 @@
     {
       "id": "upsc_2017_gs1_q33",
       "type": "single-choice",
-      "question": "What is/are the advantage/advantages of implementing the ‘National Agriculture Market’ scheme?\n1. It is a pan-India electronic trading portal for agricultural commodities. It provides the farmers access to nationwide market\n2. with prices commensurate with the quality of their produce\n\nSelect the correct answer using the code given below",
+      "question": "What is/are the advantage/advantages of implementing the ‘National Agriculture Market’ scheme?\n1. It is a pan-India electronic trading portal for agricultural commodities.\n2. It provides the farmers access to nationwide market, with prices commensurate with the quality of their produce\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1406,11 +1406,11 @@
     {
       "id": "upsc_2017_gs1_q34",
       "type": "single-choice",
-      "question": "With reference to river Teesta, consider the following statements:\n1. The source of river Teesta is the same as that of Brahmaputra but it flows through the Sikkim\n2. River Rangeet originates in Sikkim and it is a tributary of river Teesta\n3. River Teesta flows into Bay of Bengal on the border of India and Bangladesh\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the National Intellectual Property Rights Policy, consider the following statements:\n1. It reiterates India's commitment to the Doha Development Agenda and the TRIPS Agreement.\n2. Department of Industrial Policy and Promotion is the nodal agency for regulating intellectual property rights in India.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 3 only"
+          "text": "1 only"
         },
         {
           "id": "b",
@@ -1418,11 +1418,11 @@
         },
         {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -1435,7 +1435,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 200,
         "subtags": []
       },
       "markBreakdown": [
@@ -1448,27 +1448,27 @@
     {
       "id": "upsc_2017_gs1_q35",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. In India, the Himalayas are spread over five States only.\n2. Western Ghats are spread over five States only.\n3. Pulicat Lake is spread over two States only.\n\nWhich of the statements given above is/are correct?",
+      "question": "According to the Wildlife (Protection) Act, 1972, which of the following animals cannot be hunted by any person except under some provisions provided by law?\n1. Chital\n2. Indian wild ass\n3. Wild buffalo\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "3 only"
-        },
-        {
-          "id": "c",
           "text": "2 and 3 only"
         },
         {
-          "id": "d",
+          "id": "c",
           "text": "1 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1477,7 +1477,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 71,
         "subtags": []
       },
       "markBreakdown": [
@@ -1490,27 +1490,27 @@
     {
       "id": "upsc_2017_gs1_q36",
       "type": "single-choice",
-      "question": "What is the application of Somatic Cell Nuclear Transfer Technology?",
+      "question": "Which of the following statements is/are true of the Fundamental Duties of an Indian citizen?\n1. A legislative process has been provided to enforce these duties.\n2. They are correlative to legal duties.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "Production of biolarvicides"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "Manufacture of biodegradable plastics"
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "Reproductive cloning of animals"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "Production of organisms free of diseases"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1519,7 +1519,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 77,
+        "mainTag": 372,
         "subtags": []
       },
       "markBreakdown": [
@@ -1532,15 +1532,15 @@
     {
       "id": "upsc_2017_gs1_q37",
       "type": "single-choice",
-      "question": "With reference to 'Global Climate Change Alliance', which of the following statements is/are correct?\n\n1. It is an initiative of the European Union.\n2. It provides technical and financial support to targeted developing countries to integrate climate change into their development policies and budgets.\n3. It is coordinated by World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD).\n\nSelect the correct answer using the code given below:",
+      "question": "Consider the following pairs:\n\n| Person | Association |\n| --- | --- |\n| 1. Radhakanta Deb | First President of the British Indian Association |\n| 2. Gazulu Lakshminarasu Chetty | Founder of the Madras Mahajana Sabha |\n| 3. Surendranath Banerjee | Founder of the Indian Association |\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "3 only"
+          "text": "1 and 3 only"
         },
         {
           "id": "c",
@@ -1552,7 +1552,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1561,7 +1561,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 68,
+        "mainTag": 6,
         "subtags": []
       },
       "markBreakdown": [
@@ -1574,27 +1574,27 @@
     {
       "id": "upsc_2017_gs1_q38",
       "type": "single-choice",
-      "question": "With reference to the ‘National Intellectual Property Rights Policy’, consider the following statements:\n1. It reiterates India’s commitment to the Doha Development Agenda and the TRIPS Agreement\n2. Department of Industrial Policy and Promotion is the nodal agency for regulating intellectual property rights in India.\n\nWhich of the above statements is/are correct?",
+      "question": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "Liberty of thought"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Economic liberty"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "Liberty of expression"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "Liberty of belief"
         }
       ],
       "correctAnswers": [
-        "c"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1603,7 +1603,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 369,
         "subtags": []
       },
       "markBreakdown": [
@@ -1616,7 +1616,7 @@
     {
       "id": "upsc_2017_gs1_q39",
       "type": "single-choice",
-      "question": "With reference to ‘Quality Council of India (QCI)’, consider the following statements\n1. QCI was set up jointly by the Government of India and the Indian Industry.\n2. Chairman of QCI is appointed by the Prime Minister on the recommendations of the industry to the Government.\n\nWhich of the above statements is/are correct?",
+      "question": "With reference to ‘Quality Council of India (QCI)’, consider the following statements:\n1. QCI was set up jointly by the Government of India and the Indian Industry.\n2. Chairman of QCI is appointed by the Prime Minister on the recommendations of the industry to the Government.\n\nWhich of the above statements is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1645,7 +1645,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 26,
         "subtags": []
       },
       "markBreakdown": [
@@ -1658,7 +1658,7 @@
     {
       "id": "upsc_2017_gs1_q40",
       "type": "single-choice",
-      "question": "What is the purpose of setting up of small Finance Banks (SFBs) in India?\n\n1. To supply credit to small business units.\n2. To supply credit to small and marginal farmers.\n3. To encourage young entrepreneurs to set up business particularly in rural areas.\n\nSelect the correct answer using the code given below",
+      "question": "What is the purpose of setting up of Small Finance Banks (SFBs) in India?\n\n1. To supply credit to small business units.\n2. To supply credit to small and marginal farmers.\n3. To encourage young entrepreneurs to set up business particularly in rural areas.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1742,23 +1742,23 @@
     {
       "id": "upsc_2017_gs1_q42",
       "type": "single-choice",
-      "question": "With reference to 'Unnat Jyoti by Affordable LEDs for All (UJALA)' scheme, which of the following statements is/are correct?\n\n1. It is a scheme of the Ministry of Power.\n2. LED bulbs are distributed free of cost under this scheme.\n\nSelect the correct answer using the code given below:",
+      "question": "Democracy's superior virtue lies in the fact that it calls into activity",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "the intelligence and character of ordinary men and women."
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "the methods for strengthening executive leadership."
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "a superior individual with dynamism and vision."
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "a band of dedicated party workers."
         }
       ],
       "correctAnswers": [
@@ -1771,7 +1771,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 85,
+        "mainTag": 117,
         "subtags": []
       },
       "markBreakdown": [
@@ -1784,23 +1784,23 @@
     {
       "id": "upsc_2017_gs1_q43",
       "type": "single-choice",
-      "question": "Which one of the following objectives is not embodied in the Preamble to the Constitution of India?",
+      "question": "Which of the following is a most likely consequence of implementing the 'Unified Payments Interface (UPI)'?",
       "options": [
         {
           "id": "a",
-          "text": "Liberty of thought"
+          "text": "Mobile wallets will not be necessary for online payments."
         },
         {
           "id": "b",
-          "text": "Economic liberty"
+          "text": "Digital currency will totally replace the physical currency in about two decades."
         },
         {
           "id": "c",
-          "text": "Liberty of expression"
+          "text": "FDI inflows will drastically increase."
         },
         {
           "id": "d",
-          "text": "Liberty of belief"
+          "text": "Direct transfer of subsidies to poor people will become very effective."
         }
       ],
       "correctAnswers": [
@@ -1813,7 +1813,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 55,
         "subtags": []
       },
       "markBreakdown": [
@@ -1826,23 +1826,23 @@
     {
       "id": "upsc_2017_gs1_q44",
       "type": "single-choice",
-      "question": "With reference to ‘Quality Council of India (QCI)’, consider the following statements:\n1. QCI was set up jointly by the Government of India and the India Industry\n2. Chairman of QCI is appointed by the Prime Minister on the recommendations of the industry to the Government.\n\nWhich of the above statements is/are correct?",
+      "question": "The terms 'Event Horizon', 'Singularity', 'String Theory' and 'Standard Model' are sometimes seen in the news in the context of",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "Observation and understanding of the Universe"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Study of the solar and the lunar eclipses"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "Placing satellites in the orbit of the Earth"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "Origin and evolution of living organisms on the Earth"
         }
       ],
       "correctAnswers": [
@@ -1855,7 +1855,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 73,
         "subtags": []
       },
       "markBreakdown": [
@@ -1868,7 +1868,7 @@
     {
       "id": "upsc_2017_gs1_q45",
       "type": "single-choice",
-      "question": "With reference to agriculture in India, how can the technique of `genome sequencing’, often seen in the news, be used in the immediate future?\n1. Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants.\n2. This technique helps in reducing the time required to develop new varieties of crop plants.\n3. It can be used to decipher the host-pathogen relationships in crops.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to agriculture in India, how can the technique of 'genome sequencing', often seen in the news, be used in the immediate future?\n1. Genome sequencing can be used to identify genetic markers for disease resistance and drought tolerance in various crop plants.\n2. This technique helps in reducing the time required to develop new varieties of crop plants.\n3. It can be used to decipher the host-pathogen relationships in crops.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1897,7 +1897,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 86,
+        "mainTag": 77,
         "subtags": []
       },
       "markBreakdown": [
@@ -1910,27 +1910,27 @@
     {
       "id": "upsc_2017_gs1_q46",
       "type": "single-choice",
-      "question": "Democracy’s superior virtue lies in the fact that it calls into activity",
+      "question": "The main advantage of the parliamentary form of government is that",
       "options": [
         {
           "id": "a",
-          "text": "the intelligence and character of ordinary men and women"
+          "text": "the executive and legislature work independently"
         },
         {
           "id": "b",
-          "text": "the methods for strengthening executing leadership"
+          "text": "it provides continuity of policy and is more efficient"
         },
         {
           "id": "c",
-          "text": "a superior individual with dynamism and vision"
+          "text": "the executive remains responsible to the legislature"
         },
         {
           "id": "d",
-          "text": "a band of dedicated party workers"
+          "text": "the head of the government cannot be changed without election"
         }
       ],
       "correctAnswers": [
-        "a"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1939,7 +1939,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 23,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -2023,7 +2023,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 369,
         "subtags": []
       },
       "markBreakdown": [
@@ -2040,19 +2040,19 @@
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "6"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "7"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "8"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "9"
         }
       ],
       "correctAnswers": [
@@ -2078,7 +2078,7 @@
     {
       "id": "upsc_2017_gs1_q50",
       "type": "single-choice",
-      "question": "Which of the following statements is/are true of the Fundamental Duties of an Indian citizen?\n\n1. A legislative process has been provided to enforce these duties.\n2. They are correlative to legal duties.\n\nSelect the correct answer using the code given below:",
+      "question": "The Parliament of India exercises control over the functions of the Council of Ministers through\n1. Adjournment motion\n2. Question hour\n3. Supplementary questions\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2086,15 +2086,15 @@
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "2 and 3 only"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -2107,7 +2107,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -2136,7 +2136,7 @@
         },
         {
           "id": "d",
-          "text": "Nelluru"
+          "text": "Nellore"
         }
       ],
       "correctAnswers": [
@@ -2162,15 +2162,15 @@
     {
       "id": "upsc_2017_gs1_q52",
       "type": "single-choice",
-      "question": "With reference to the role of UN-Habitat in the United Nations programme working towards a better urban future, which of the statements is/are correct?\n\n1. UN-Habitat has been mandated by the United Nations General Assembly to promote socially and environmentally sustainable towns and cities.\n2. Its partners are either governments or local urban authorities only.\n3. UN-Habitat contributes to the overall objective of the United Nations system to reduce poverty and promote access to safe drinking water and basic sanitation.\n\nSelect the correct answer using the code given below:",
+      "question": "With reference to 'Global Climate Change Alliance', which of the following statements is/are correct?\n1. It is an initiative of the European Union.\n2. It provides technical and financial support to targeted developing countries to integrate climate change into their development policies and budgets.\n3. It is coordinated by World Resources Institute (WRI) and World Business Council for Sustainable Development (WBCSD).\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1, 2 and 3"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "1 and 3 only"
+          "text": "3 only"
         },
         {
           "id": "c",
@@ -2178,11 +2178,11 @@
         },
         {
           "id": "d",
-          "text": "1 only"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
-        "b"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2191,7 +2191,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 57,
+        "mainTag": 68,
         "subtags": []
       },
       "markBreakdown": [
@@ -2204,7 +2204,7 @@
     {
       "id": "upsc_2017_gs1_q53",
       "type": "single-choice",
-      "question": "With reference to the religious history of India, consider the following statements\n1. Sautrantika and Sammitiya were the sects of Jainism.\n2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the religious history of India, consider the following statements:\n1. Sautrantika and Sammitiya were the sects of Jainism.\n2. Sarvastivadin held that the constituents of phenomena were not wholly momentary, but existed forever in a latent form.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2246,91 +2246,7 @@
     {
       "id": "upsc_2017_gs1_q54",
       "type": "single-choice",
-      "question": "The Parliament of India exercises control over the functions of the Council of Ministers through\n1. Adjournment motion\n2. Question hour\n3. Supplementary questions\n\nSelect the correct answer using the code given below",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
-          "text": "2 and 3 only"
-        },
-        {
-          "id": "c",
-          "text": "1 and 3 only"
-        },
-        {
-          "id": "d",
-          "text": "1, 2 and 3"
-        }
-      ],
-      "correctAnswers": [
-        "d"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 19,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q55",
-      "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. National Payments Corporation of India (NPCI) helps in promoting the financial inclusion in the country.\n2. NPCI has launched RuPay, a card payment scheme.\n\nWhich of the statements given above is/are correct?",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
-          "text": "2 only"
-        },
-        {
-          "id": "c",
-          "text": "Both 1 and 2"
-        },
-        {
-          "id": "d",
-          "text": "Neither 1 nor 2"
-        }
-      ],
-      "correctAnswers": [
-        "c"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 46,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q56",
-      "type": "single-choice",
-      "question": "Mediterranean Sea is a border of which of the following countries?\n1. Jordan\n2. Iraq\n3. Lebanon\n4. Syria\n\nSelect the correct answer using the code given below",
+      "question": "Mediterranean Sea is a border of which of the following countries?\n1. Jordan\n2. Iraq\n3. Lebanon\n4. Syria\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2370,9 +2286,9 @@
       ]
     },
     {
-      "id": "upsc_2017_gs1_q57",
+      "id": "upsc_2017_gs1_q55",
       "type": "single-choice",
-      "question": "Which of the following is/are the advantage/advantages of implementing the 'National Agriculture Market' scheme?\n\n1. It is a pan-India electronic trading portal for agricultural commodities.\n2. It provides the farmers access to nationwide market, with prices commensurate with the quality of their produce.\n\nSelect the correct answer using the code given below:",
+      "question": "With reference to 'National Investment and Infrastructure Fund', which of the following statements is/are correct?\n1. It is an organ of NITI Aayog.\n2. It has a corpus of ₹ 4,00,000 crore at present.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2389,132 +2305,6 @@
         {
           "id": "d",
           "text": "Neither 1 nor 2"
-        }
-      ],
-      "correctAnswers": [
-        "c"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 90,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q58",
-      "type": "single-choice",
-      "question": "Which of the following statements best describes the term 'Scheme for Sustainable Structuring of Stressed Assets (S4A)', recently seen in the news?",
-      "options": [
-        {
-          "id": "a",
-          "text": "It is a procedure for considering ecological costs of developmental schemes formulated by the Government."
-        },
-        {
-          "id": "b",
-          "text": "It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties."
-        },
-        {
-          "id": "c",
-          "text": "It is a disinvestment plan of the Government regarding Central Public Sector Undertakings."
-        },
-        {
-          "id": "d",
-          "text": "It is an important provision in The Insolvency and Bankruptcy Code recently implemented by the Government."
-        }
-      ],
-      "correctAnswers": [
-        "b"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 56,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q59",
-      "type": "single-choice",
-      "question": "With reference to 'DigiLocker', sometimes seen in the news, which of the following statements is/are correct?\n\n1. It is a digital locker system offered by the Government under Digital India Programme.\n2. It allows you to access your e-documents irrespective of your physical location.\n\nSelect the correct answer using the code given below:",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
-          "text": "2 only"
-        },
-        {
-          "id": "c",
-          "text": "Both 1 and 2"
-        },
-        {
-          "id": "d",
-          "text": "Neither 1 nor 2"
-        }
-      ],
-      "correctAnswers": [
-        "c"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 78,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q60",
-      "type": "single-choice",
-      "question": "Which one of the following is a purpose of 'UDAY', a scheme of the Government?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Providing technical and financial assistance to the farmers who have their own micro-irrigation systems"
-        },
-        {
-          "id": "b",
-          "text": "Providing electricity to every household in the country by 2018"
-        },
-        {
-          "id": "c",
-          "text": "Replacing the coal-based power plants with natural gas, nuclear, solar, wind and tidal power plants over a period of time"
-        },
-        {
-          "id": "d",
-          "text": "Providing for financial turnaround and revival of power distribution companies"
         }
       ],
       "correctAnswers": [
@@ -2527,7 +2317,217 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 51,
+        "mainTag": 42,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q56",
+      "type": "single-choice",
+      "question": "The Global Infrastructure Facility is a/an",
+      "options": [
+        {
+          "id": "a",
+          "text": "ASEAN initiative to upgrade infrastructure in Asia and financed by credit from the Asian Development Bank."
+        },
+        {
+          "id": "b",
+          "text": "World Bank collaboration that facilitates the preparation and structuring of complex infrastructure Public-Private Partnerships (PPPs) to enable mobilization of private sector and institutional investor capital."
+        },
+        {
+          "id": "c",
+          "text": "Collaboration among the major banks of the world working with the OECD and focused on expanding the set of infrastructure projects that have the potential to mobilize private investment."
+        },
+        {
+          "id": "d",
+          "text": "UNCTAD funded initiative that seeks to finance and facilitate infrastructure development in the world."
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 96,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q57",
+      "type": "single-choice",
+      "question": "For election to the Lok Sabha, a nomination paper can be filed by",
+      "options": [
+        {
+          "id": "a",
+          "text": "anyone residing in India."
+        },
+        {
+          "id": "b",
+          "text": "a resident of the constituency from which the election is to be contested."
+        },
+        {
+          "id": "c",
+          "text": "any citizen of India whose name appears in the electoral roll of a constituency."
+        },
+        {
+          "id": "d",
+          "text": "any citizen of India."
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 23,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q58",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n1. In India, the Himalayas are spread over five States only.\n2. Western Ghats are spread over five States only.\n3. Pulicat Lake is spread over two States only.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 13,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q59",
+      "type": "single-choice",
+      "question": "Biological Oxygen Demand (BOD) is a standard criterion for",
+      "options": [
+        {
+          "id": "a",
+          "text": "Measuring oxygen levels in blood"
+        },
+        {
+          "id": "b",
+          "text": "Computing oxygen levels in forest ecosystems"
+        },
+        {
+          "id": "c",
+          "text": "Pollution assay in aquatic ecosystems"
+        },
+        {
+          "id": "d",
+          "text": "Assessing oxygen levels in high altitude regions"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 69,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q60",
+      "type": "single-choice",
+      "question": "With reference to the role of UN-Habitat in the United Nations programme working towards a better urban future, which of the statements is/are correct?\n1. UN-Habitat has been mandated by the United Nations General Assembly to promote socially and environmentally sustainable towns and cities to provide adequate shelter for all.\n2. Its partners are either governments or local urban authorities only.\n3. UN-Habitat contributes to the overall objective of the United Nations system to reduce poverty and to promote access to safe drinking water and basic sanitation.\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "1, 2 and 3"
+        },
+        {
+          "id": "b",
+          "text": "1 and 3 only"
+        },
+        {
+          "id": "c",
+          "text": "2 and 3 only"
+        },
+        {
+          "id": "d",
+          "text": "1 only"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 96,
         "subtags": []
       },
       "markBreakdown": [
@@ -2569,7 +2569,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 62,
+        "mainTag": 174,
         "subtags": []
       },
       "markBreakdown": [
@@ -2582,27 +2582,27 @@
     {
       "id": "upsc_2017_gs1_q62",
       "type": "single-choice",
-      "question": "Which of the following are not necessarily the consequences of the proclamation of the President's rule in a State?\n\n1. Dissolution of the State Legislative Assembly\n2. Removal of the Council of Ministers in the State\n3. Dissolution of the local bodies\n\nSelect the correct answer using the code given below:",
+      "question": "In the context of Indian history, the principle of 'Dyarchy (diarchy)' refers to",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "Division of the central legislature into two houses."
         },
         {
           "id": "b",
-          "text": "1 and 3 only"
+          "text": "Introduction of double government i.e., Central and State governments."
         },
         {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "Having two sets of rulers; one in London and another in Delhi."
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "Division of the subjects delegated to the provinces into two categories."
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2611,7 +2611,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 20,
+        "mainTag": 358,
         "subtags": []
       },
       "markBreakdown": [
@@ -2624,91 +2624,7 @@
     {
       "id": "upsc_2017_gs1_q63",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. The Standard Mark of Bureau of Indian Standards (BIS) is mandatory for automotive tyres and tubes.\n2. AGMARK is a quality Certification Mark issued by the Food and Agriculture Organisation (FAO).\n\nWhich of the statements given above is/are correct?",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
-          "text": "2 only"
-        },
-        {
-          "id": "c",
-          "text": "Both 1 and 2"
-        },
-        {
-          "id": "d",
-          "text": "Neither 1 nor 2"
-        }
-      ],
-      "correctAnswers": [
-        "a"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 92,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q64",
-      "type": "single-choice",
-      "question": "With reference to 'Indian Ocean Dipole (IOD)' sometimes mentioned in the news while forecasting Indian monsoon, which of the following statements is/are correct?\n\n1. IOD phenomenon is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Pacific Ocean.\n2. An IOD phenomenon can influence an El Nino's impact on the monsoon.\n\nSelect the correct answer using the code given below:",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
-          "text": "2 only"
-        },
-        {
-          "id": "c",
-          "text": "Both 1 and 2"
-        },
-        {
-          "id": "d",
-          "text": "Neither 1 nor 2"
-        }
-      ],
-      "correctAnswers": [
-        "b"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 13,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q65",
-      "type": "single-choice",
-      "question": "Consider the following in respect of ‘National Career Service’:\n1. National Career Service is an initiative of the Department of Personnel and Training, Government of India\n2. National Career Service has been launched in a Mission Mode to improve the employment opportunities to uneducated youth of the country.\n\nWhich of the above statements is/are correct?",
+      "question": "Consider the following in respect of 'National Career Service':\n1. National Career Service is an initiative of the Department of Personnel and Training, Government of India.\n2. National Career Service has been launched in a Mission Mode to improve the employment opportunities to uneducated youth of the country.\nWhich of the above statements is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2748,25 +2664,25 @@
       ]
     },
     {
-      "id": "upsc_2017_gs1_q66",
+      "id": "upsc_2017_gs1_q64",
       "type": "single-choice",
-      "question": "The term 'Regional Comprehensive Economic Partnership' often appears in the news in the context of the affairs of a group of countries known as",
+      "question": "Which of the following statements best describes the term 'Scheme for Sustainable Structuring of Stressed Assets (S4A)', recently seen in the news?",
       "options": [
         {
           "id": "a",
-          "text": "G20"
+          "text": "It is a procedure for considering ecological costs of developmental schemes formulated by the Government."
         },
         {
           "id": "b",
-          "text": "ASEAN"
+          "text": "It is a scheme of RBI for reworking the financial structure of big corporate entities facing genuine difficulties."
         },
         {
           "id": "c",
-          "text": "SCO"
+          "text": "It is a disinvestment plan of the Government regarding Central Public Sector Undertakings."
         },
         {
           "id": "d",
-          "text": "SAARC"
+          "text": "It is an important provision in 'The Insolvency and Bankruptcy Code' recently implemented by the Government."
         }
       ],
       "correctAnswers": [
@@ -2779,7 +2695,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 98,
+        "mainTag": 41,
         "subtags": []
       },
       "markBreakdown": [
@@ -2790,9 +2706,9 @@
       ]
     },
     {
-      "id": "upsc_2017_gs1_q67",
+      "id": "upsc_2017_gs1_q65",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. Climate and Clean Air Coalition (CCAC) to Reduce Short Lived Climate Pollutants is a unique initiative of G20 group of countries\n2. The CCAC focuses on methane, black carbon and hydrofluorocarbons.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. Climate and Clean Air Coalition (CCAC) to Reduce Short Lived Climate Pollutants is a unique initiative of G20 group of countries.\n2. The CCAC focuses on methane, black carbon and hydrofluorocarbons.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2832,29 +2748,29 @@
       ]
     },
     {
-      "id": "upsc_2017_gs1_q68",
+      "id": "upsc_2017_gs1_q66",
       "type": "single-choice",
-      "question": "Which one of the following is not a feature of Indian federalism?",
+      "question": "With reference to 'Indian Ocean Dipole (IOD)' sometimes mentioned in the news while forecasting Indian monsoon, which of the following statements is/are correct?\n1. IOD phenomenon is characterised by a difference in sea surface temperature between tropical Western Indian Ocean and tropical Eastern Indian Ocean.\n2. An IOD phenomenon can influence an El Nino's impact on the monsoon.\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "There is an independent judiciary in India."
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "Powers have been clearly divided between the Centre and the States."
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "The federating units have been given unequal representation in the Rajya Sabha."
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "It is the result of an agreement among the federating units."
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2863,7 +2779,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -2874,7 +2790,7 @@
       ]
     },
     {
-      "id": "upsc_2017_gs1_q69",
+      "id": "upsc_2017_gs1_q67",
       "type": "single-choice",
       "question": "If you want to see gharials in their natural habitat, which one of the following is the best place to visit?",
       "options": [
@@ -2892,7 +2808,7 @@
         },
         {
           "id": "d",
-          "text": "DeeporBeel"
+          "text": "Deepor Beel"
         }
       ],
       "correctAnswers": [
@@ -2905,7 +2821,91 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q68",
+      "type": "single-choice",
+      "question": "Consider the following in respect of Indian Ocean Naval Symposium (IONS):\n1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy.\n2. IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region.\nWhich of the above statements is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 98,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q69",
+      "type": "single-choice",
+      "question": "The painting of Bodhisattva Padmapani is one of the most famous and oft-illustrated paintings at",
+      "options": [
+        {
+          "id": "a",
+          "text": "Ajanta"
+        },
+        {
+          "id": "b",
+          "text": "Badami"
+        },
+        {
+          "id": "c",
+          "text": "Bagh"
+        },
+        {
+          "id": "d",
+          "text": "Ellora"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 112,
         "subtags": []
       },
       "markBreakdown": [
@@ -2918,7 +2918,7 @@
     {
       "id": "upsc_2017_gs1_q70",
       "type": "single-choice",
-      "question": "Consider the following pairs: Traditions - Communities\n1. Chaliha Sahib Festival — Sindhis\n2. Nanda Raj JaatYatra — Gonds\n3. Wari-Warkari — Santhais Which of the pairs given above is/are correctly matched?",
+      "question": "Consider the following pairs: Traditions - Communities\n1. Chaliha Sahib Festival — Sindhis\n2. Nanda Raj Jaat Yatra — Gonds\n3. Wari-Warkari — Santhals\n\nWhich of the pairs given above is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -2960,7 +2960,7 @@
     {
       "id": "upsc_2017_gs1_q71",
       "type": "single-choice",
-      "question": "Which of the following practices can help in water conservation in agriculture?\n1. Reduced or zero tillage of the land\n2. Applying gypsum before irrigating the field\n3. Allowing crop residue to remain in the field\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following practices can help in water conservation in agriculture?\n1. Reduced or zero tillage of the land\n2. Applying gypsum before irrigating the field\n3. Allowing crop residue to remain in the field\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2989,7 +2989,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 86,
+        "mainTag": 194,
         "subtags": []
       },
       "markBreakdown": [
@@ -3002,23 +3002,23 @@
     {
       "id": "upsc_2017_gs1_q72",
       "type": "single-choice",
-      "question": "Consider the following in respect of Indian Ocean Naval Symposium (IONS):\n1. Inaugural IONS was held in India in 2015 under the chairmanship of the Indian Navy\n2. IONS is a voluntary initiative that seeks to increase maritime co-operation among navies of the littoral states of the Indian Ocean Region.\n\nWhich of the above statements is/are correct?",
+      "question": "The nation-wide 'Soil Health Card Scheme' aims at\n1. expanding the cultivable area under irrigation.\n2. enabling the banks to assess the quantum of loans to be granted to farmers on the basis of soil quality.\n3. checking the overuse of fertilizers in farmlands.\nWhich of the above statements is/are correct?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "3 only"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "2 and 3 only"
         },
         {
           "id": "d",
-          "text": "Neither 1 -nor 2"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -3031,7 +3031,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 98,
+        "mainTag": 89,
         "subtags": []
       },
       "markBreakdown": [
@@ -3073,7 +3073,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 74,
+        "mainTag": 69,
         "subtags": []
       },
       "markBreakdown": [
@@ -3086,23 +3086,23 @@
     {
       "id": "upsc_2017_gs1_q74",
       "type": "single-choice",
-      "question": "Which one of the following statements is correct about the Governor of a State in India?",
+      "question": "Organic Light Emitting Diodes (OLEDs) are used to create digital display in many devices. What are the advantages of OLED displays over Liquid Crystal displays?\n1. OLED displays can be fabricated on flexible plastic substrates.\n2. Roll-up displays embedded in clothing can be made using OLEDs.\n3. Transparent displays are possible using OLEDs.\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "In India, the same person cannot be appointed as Governor for two or more States at the same time."
+          "text": "1 and 3 only"
         },
         {
           "id": "b",
-          "text": "The Judges of the High Court of the States in India are appointed by the Governor of the State just as the Judges of the Supreme Court are appointed by the President."
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "No procedure has been laid down in the Constitution of India for the removal of a Governor from his/her post."
+          "text": "1, 2 and 3"
         },
         {
           "id": "d",
-          "text": "In the case of a Union Territory having a legislative setup, the Chief Minister is appointed by the Lt. Governor on the basis of majority support."
+          "text": "None of the above statements is correct"
         }
       ],
       "correctAnswers": [
@@ -3115,7 +3115,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 20,
+        "mainTag": 83,
         "subtags": []
       },
       "markBreakdown": [
@@ -3128,23 +3128,23 @@
     {
       "id": "upsc_2017_gs1_q75",
       "type": "single-choice",
-      "question": "'Mission Indradhanush' launched by the Government of India pertains to:",
+      "question": "Which of the following is/are famous for Sun temples?\n1. Arasavalli\n2. Amarakantak\n3. Omkareshwar\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "immunization of children and pregnant women"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "construction of smart cities across the country"
+          "text": "2 and 3 only"
         },
         {
           "id": "c",
-          "text": "India's own search for the Earth-like planets in outer space"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
-          "text": "New Educational Policy"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -3157,7 +3157,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 119,
         "subtags": []
       },
       "markBreakdown": [
@@ -3170,7 +3170,7 @@
     {
       "id": "upsc_2017_gs1_q76",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected.\n2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker’s post goes to the majority party and the Deputy Speaker’s to the Opposition.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. In the election for Lok Sabha or State Assembly, the winning candidate must get at least 50 percent of the votes polled, to be declared elected.\n2. According to the provisions laid down in the Constitution of India, in Lok Sabha, the Speaker’s post goes to the majority party and the Deputy Speaker’s to the Opposition.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3212,7 +3212,7 @@
     {
       "id": "upsc_2017_gs1_q77",
       "type": "single-choice",
-      "question": "Which of the following has/have occurred in India after its liberalization of economic policies in 1991?\n1. Share of agriculture in GDP increased enormously.\n2. Share of India’s exports in world trade increased.\n3. FDI inflows increased.\n4. India’s foreign exchange reserves increased enormously.\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following has/have occurred in India after its liberalization of economic policies in 1991?\n1. Share of agriculture in GDP increased enormously.\n2. Share of India’s exports in world trade increased.\n3. FDI inflows increased.\n4. India’s foreign exchange reserves increased enormously.\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -3241,7 +3241,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 45,
+        "mainTag": 195,
         "subtags": []
       },
       "markBreakdown": [
@@ -3254,7 +3254,133 @@
     {
       "id": "upsc_2017_gs1_q78",
       "type": "single-choice",
-      "question": "What is/are the most likely advantages of implementing 'Goods and Services Tax (GST)'?\n\n1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.\n2. It will drastically reduce the 'Current Account Deficit' of India and will enable it to increase its foreign exchange reserves.\n3. It will enormously increase the growth and size of economy of India and will enable it to overtake China in the near future.\n\nSelect the correct answer using the code given below:",
+      "question": "What is the application of Somatic Cell Nuclear Transfer Technology?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Production of biolarvicides"
+        },
+        {
+          "id": "b",
+          "text": "Manufacture of biodegradable plastics"
+        },
+        {
+          "id": "c",
+          "text": "Reproductive cloning of animals"
+        },
+        {
+          "id": "d",
+          "text": "Production of organisms free of diseases"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 77,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q79",
+      "type": "single-choice",
+      "question": "Consider the following statements:\n\n1. National Payments Corporation of India (NPCI) helps in promoting the financial inclusion in the country.\n2. NPCI has launched RuPay, a card payment scheme.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 55,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q80",
+      "type": "single-choice",
+      "question": "The term 'M-STrIPES' is sometimes seen in the news in the context of",
+      "options": [
+        {
+          "id": "a",
+          "text": "Captive breeding of Wild Fauna"
+        },
+        {
+          "id": "b",
+          "text": "Maintenance of Tiger Reserves"
+        },
+        {
+          "id": "c",
+          "text": "Indigenous Satellite Navigation System"
+        },
+        {
+          "id": "d",
+          "text": "Security of National Highways"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 70,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q81",
+      "type": "single-choice",
+      "question": "What is/are the most likely advantages of implementing 'Goods and Services Tax (GST)'?\n1. It will replace multiple taxes collected by multiple authorities and will thus create a single market in India.\n2. It will drastically reduce the 'Current Account Deficit' of India and will enable it to increase its foreign exchange reserves.\n3. It will enormously increase the growth and size of economy of India and will enable it to overtake China in the near future.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3284,132 +3410,6 @@
       "tags": [],
       "taxonomy": {
         "mainTag": 39,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q79",
-      "type": "single-choice",
-      "question": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India?\n\n1. Prohibition of traffic in human beings and forced labour\n2. Abolition of untouchability\n3. Protection of the interests of minorities\n4. Prohibition of employment of children in factories and mines\n\nSelect the correct answer using the code given below:",
-      "options": [
-        {
-          "id": "a",
-          "text": "1, 2 and 4 only"
-        },
-        {
-          "id": "b",
-          "text": "2, 3 and 4 only"
-        },
-        {
-          "id": "c",
-          "text": "1 and 4 only"
-        },
-        {
-          "id": "d",
-          "text": "1, 2, 3 and 4"
-        }
-      ],
-      "correctAnswers": [
-        "c"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 30,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q80",
-      "type": "single-choice",
-      "question": "Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government:",
-      "options": [
-        {
-          "id": "a",
-          "text": "An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all."
-        },
-        {
-          "id": "b",
-          "text": "A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day."
-        },
-        {
-          "id": "c",
-          "text": "A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people."
-        },
-        {
-          "id": "d",
-          "text": "A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline."
-        }
-      ],
-      "correctAnswers": [
-        "c"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 20,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q81",
-      "type": "single-choice",
-      "question": "With reference to the 'New Development Bank' (NDB), consider the following statements:\n\n1. It was established by the BRICS countries.\n2. The headquarters of NDB is in Shanghai.\n3. India is one of the founding members of NDB.\n\nWhich of the statements given above is/are correct?",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 and 2 only"
-        },
-        {
-          "id": "b",
-          "text": "2 and 3 only"
-        },
-        {
-          "id": "c",
-          "text": "1 and 3 only"
-        },
-        {
-          "id": "d",
-          "text": "1, 2 and 3"
-        }
-      ],
-      "correctAnswers": [
-        "d"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 41,
         "subtags": []
       },
       "markBreakdown": [
@@ -3464,7 +3464,7 @@
     {
       "id": "upsc_2017_gs1_q83",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. India has ratified the Trade Facilitation Agreement (TFA) of WTO.\n2. TFA is a part of WTO's Bali Ministerial Package of 2013.\n3. TFA came into force in January 2017.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. India has ratified the Trade Facilitation Agreement (TFA) of WTO.\n2. TFA is a part of WTO's Bali Ministerial Package of 2013.\n3. TFA came into force in January 2016.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3506,23 +3506,23 @@
     {
       "id": "upsc_2017_gs1_q84",
       "type": "single-choice",
-      "question": "With reference to 'Namami Gange Programme', which of the following statements is/are correct?\n\n1. It aims at effective abatement of pollution and conservation and rejuvenation of River Ganga.\n2. It is being implemented by the Ministry of Jal Shakti.\n\nSelect the correct answer using the code given below:",
+      "question": "What is the importance of developing Chabahar Port by India?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "India's trade with African countries will enormously increase."
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "India's relations with oil-producing Arab countries will be strengthened."
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "India will not depend on Pakistan for access to Afghanistan and Central Asia."
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "Pakistan will facilitate and protect the installation of a gas pipeline between Iraq and India."
         }
       ],
       "correctAnswers": [
@@ -3535,7 +3535,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -3548,175 +3548,7 @@
     {
       "id": "upsc_2017_gs1_q85",
       "type": "single-choice",
-      "question": "Which one of the following statements is correct?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Rights are claims of the State against the citizens."
-        },
-        {
-          "id": "b",
-          "text": "Rights are privileges which are incorporated in the Constitution of a State."
-        },
-        {
-          "id": "c",
-          "text": "Rights are claims of the citizens against the State."
-        },
-        {
-          "id": "d",
-          "text": "Rights are privileges of a few citizens against the many."
-        }
-      ],
-      "correctAnswers": [
-        "c"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 30,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q86",
-      "type": "single-choice",
-      "question": "The term ‘M-STrIPES’ is sometimes seen in the news in the context of",
-      "options": [
-        {
-          "id": "a",
-          "text": "Captive breeding of Wild Fauna"
-        },
-        {
-          "id": "b",
-          "text": "Maintenance of Tiger Reserves"
-        },
-        {
-          "id": "c",
-          "text": "Indigenous Satellite Navigation System"
-        },
-        {
-          "id": "d",
-          "text": "Security of National Highways"
-        }
-      ],
-      "correctAnswers": [
-        "b"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 70,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q87",
-      "type": "single-choice",
-      "question": "With reference to 'Unnat Bharat Abhiyan', which of the following statements is/are correct?\n\n1. It aims to connect higher educational institutions with villages for rural development.\n2. It is an initiative of the Ministry of Rural Development.\n\nSelect the correct answer using the code given below:",
-      "options": [
-        {
-          "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
-          "text": "2 only"
-        },
-        {
-          "id": "c",
-          "text": "Both 1 and 2"
-        },
-        {
-          "id": "d",
-          "text": "Neither 1 nor 2"
-        }
-      ],
-      "correctAnswers": [
-        "a"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 62,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q88",
-      "type": "single-choice",
-      "question": "What is the purpose of ‘Vidyanjali Yojana’?\n1. To enable the famous foreign educational institutions to open their campuses in India\n2. To increase the quality of education provided in government schools by taking help from the private sector and the community\n3. To encourage voluntary monetary contributions from private individuals and organizations so as to improve the infrastructure facilities for primary and secondary schools\n\nSelect the correct answer using the code given below",
-      "options": [
-        {
-          "id": "a",
-          "text": "2 only"
-        },
-        {
-          "id": "b",
-          "text": "3 only"
-        },
-        {
-          "id": "c",
-          "text": "1 and 2 only"
-        },
-        {
-          "id": "d",
-          "text": "2 and 3 only"
-        }
-      ],
-      "correctAnswers": [
-        "a"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 62,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q89",
-      "type": "single-choice",
-      "question": "In India, it is legally mandatory for which of the following to report on cyber security incidents?\n1. Service providers\n2. Data Centres\n3. Body corporate\n\nSelect the correct answer using the code given below",
+      "question": "In India, it is legally mandatory for which of the following to report on cyber security incidents?\n1. Service providers\n2. Data centres\n3. Body corporate\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3756,9 +3588,177 @@
       ]
     },
     {
+      "id": "upsc_2017_gs1_q86",
+      "type": "single-choice",
+      "question": "Right to vote and to be elected in India is a",
+      "options": [
+        {
+          "id": "a",
+          "text": "Fundamental Right"
+        },
+        {
+          "id": "b",
+          "text": "Natural Right"
+        },
+        {
+          "id": "c",
+          "text": "Constitutional Right"
+        },
+        {
+          "id": "d",
+          "text": "Legal Right"
+        }
+      ],
+      "correctAnswers": [
+        "c"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 23,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q87",
+      "type": "single-choice",
+      "question": "What is the purpose of 'evolved Laser Interferometer Space Antenna (eLISA)' project?",
+      "options": [
+        {
+          "id": "a",
+          "text": "To detect neutrinos"
+        },
+        {
+          "id": "b",
+          "text": "To detect gravitational waves"
+        },
+        {
+          "id": "c",
+          "text": "To detect the effectiveness of missile defence system"
+        },
+        {
+          "id": "d",
+          "text": "To study the effect of solar flares on our communication systems"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 84,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q88",
+      "type": "single-choice",
+      "question": "What is the purpose of ‘Vidyanjali Yojana’?\n1. To enable the famous foreign educational institutions to open their campuses in India\n2. To increase the quality of education provided in government schools by taking help from the private sector and the community\n3. To encourage voluntary monetary contributions from private individuals and organizations so as to improve the infrastructure facilities for primary and secondary schools\n\nSelect the correct answer using the code given below:",
+      "options": [
+        {
+          "id": "a",
+          "text": "2 only"
+        },
+        {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
+          "id": "c",
+          "text": "1 and 2 only"
+        },
+        {
+          "id": "d",
+          "text": "2 and 3 only"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 174,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q89",
+      "type": "single-choice",
+      "question": "What is the aim of the programme 'Unnat Bharat Abhiyan'?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Achieving 100% literacy by promoting collaboration between voluntary organizations and government's education system and local communities"
+        },
+        {
+          "id": "b",
+          "text": "Connecting institutions of higher education with local communities to address development challenges through appropriate technologies"
+        },
+        {
+          "id": "c",
+          "text": "Strengthening India's scientific research institutions in order to make India a scientific and technological power"
+        },
+        {
+          "id": "d",
+          "text": "Developing human capital by allocating special funds for health care and education of rural and urban poor, and organizing skill development programmes and vocational training for them"
+        }
+      ],
+      "correctAnswers": [
+        "b"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 174,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
       "id": "upsc_2017_gs1_q90",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The Election Commission of India is a five-member body.\n2. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections.\n3. Election Commission resolves the disputes relating to splits/mergers of recognised political parties.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Election Commission of India is a five-member body.\n2. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections.\n3. Election Commission resolves the disputes relating to splits/mergers of recognised political parties.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3787,7 +3787,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 23,
+        "mainTag": 378,
         "subtags": []
       },
       "markBreakdown": [
@@ -3816,7 +3816,7 @@
         },
         {
           "id": "d",
-          "text": "Both b) and c) stated above are correct in this context"
+          "text": "Both (b) and (c) stated above are correct in this context"
         }
       ],
       "correctAnswers": [
@@ -3829,7 +3829,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 71,
         "subtags": []
       },
       "markBreakdown": [
@@ -3842,23 +3842,23 @@
     {
       "id": "upsc_2017_gs1_q92",
       "type": "single-choice",
-      "question": "What is the purpose of Vidyanjali Yojana’?\n1. To enable the famous foreign campuses in India\n2. To increase the quality of education provided in government schools by taking help from the private sector and the community\n3. To encourage voluntary monetary contributions from private individuals and organizations so as to improve the infrastructure facilities for primary and secondary schools\n\nSelect the correct answer using the code given below",
+      "question": "In India, Judicial Review implies",
       "options": [
         {
           "id": "a",
-          "text": "2 only"
+          "text": "the power of the Judiciary to pronounce upon the constitutionality of laws and executive orders."
         },
         {
           "id": "b",
-          "text": "3 only"
+          "text": "the power of the Judiciary to question the wisdom of the laws enacted by the Legislatures."
         },
         {
           "id": "c",
-          "text": "1 and 2 only"
+          "text": "the power of the Judiciary to review all the legislative enactments before they are assented to by the President."
         },
         {
           "id": "d",
-          "text": "2 and 3 only"
+          "text": "the power of the Judiciary to review its own judgements given earlier in similar or different cases."
         }
       ],
       "correctAnswers": [
@@ -3871,7 +3871,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 51,
+        "mainTag": 161,
         "subtags": []
       },
       "markBreakdown": [
@@ -3884,7 +3884,7 @@
     {
       "id": "upsc_2017_gs1_q93",
       "type": "single-choice",
-      "question": "With reference to Indian freedom struggle, consider the following events:\n\n1. Mutiny in Royal Indian Navy Quit India Movement launched Second Round Table Conference What is the correct chronological sequence of the above events?",
+      "question": "With reference to Indian freedom struggle, consider the following events:\n1. Mutiny in Royal Indian Navy\n2. Quit India Movement launched\n3. Second Round Table Conference\n\nWhat is the correct chronological sequence of the above events?",
       "options": [
         {
           "id": "a",
@@ -3926,7 +3926,7 @@
     {
       "id": "upsc_2017_gs1_q94",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. Tax revenue as a percent of GDP of India has steadily increased in the last decade.\n2. Fiscal deficit as a percent of GDP of India has steadily increased in the last decade.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. Tax revenue as a percent of GDP of India has steadily increased in the last decade.\n2. Fiscal deficit as a percent of GDP of India has steadily increased in the last decade.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3955,7 +3955,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 38,
+        "mainTag": 39,
         "subtags": []
       },
       "markBreakdown": [
@@ -3968,23 +3968,23 @@
     {
       "id": "upsc_2017_gs1_q95",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. The Election Commission of India is a ‘ five-member body\n2. Union Ministry of Home Affairs decides the election schedule for the conduct of both general elections and bye-elections\n3. Election Commission resolves the disputes relating to splits/mergers of recognized political parties.\n\nWhich of the statements given above is/are correct?",
+      "question": "Recently there was a proposal to translocate some of the lions from their natural habitat in Gujarat to which one of the following sites?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "Corbett National Park"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Kuno Palpur Wildlife Sanctuary"
         },
         {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "Mudumalai Wildlife Sanctuary"
         },
         {
           "id": "d",
-          "text": "3 only"
+          "text": "Sariska National Park"
         }
       ],
       "correctAnswers": [
@@ -3997,7 +3997,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 23,
+        "mainTag": 70,
         "subtags": []
       },
       "markBreakdown": [
@@ -4010,65 +4010,23 @@
     {
       "id": "upsc_2017_gs1_q96",
       "type": "single-choice",
-      "question": "The Trade Disputes Act of 1929 provided for",
+      "question": "Which of the following are not necessarily the consequences of the proclamation of the President's rule in a State?\n1. Dissolution of the State Legislative Assembly\n2. Removal of the Council of Ministers in the State\n3. Dissolution of the local bodies\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "the participation of workers in the management of industries"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "arbitrary powers to the management to quell industrial disputes"
+          "text": "1 and 3 only"
         },
         {
           "id": "c",
-          "text": "an intervention by the British Court in the event of a trade dispute"
+          "text": "2 and 3 only"
         },
         {
           "id": "d",
-          "text": "a system of tribunals and a ban on strikes"
-        }
-      ],
-      "correctAnswers": [
-        "d"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 48,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2017_gs1_q97",
-      "type": "single-choice",
-      "question": "Local self-government can be best explained as an exercise in",
-      "options": [
-        {
-          "id": "a",
-          "text": "Federalism"
-        },
-        {
-          "id": "b",
-          "text": "Democratic decentralisation"
-        },
-        {
-          "id": "c",
-          "text": "Administrative delegation"
-        },
-        {
-          "id": "d",
-          "text": "Direct democracy"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -4081,7 +4039,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 27,
+        "mainTag": 379,
         "subtags": []
       },
       "markBreakdown": [
@@ -4092,25 +4050,25 @@
       ]
     },
     {
-      "id": "upsc_2017_gs1_q98",
+      "id": "upsc_2017_gs1_q97",
       "type": "single-choice",
-      "question": "With reference to Indian freedom struggle, consider the following events:\n1. Mutiny in Royal Indian Navy\n2. Quit India Movement launched\n3. Second Round Table Conference What is the correct chronological sequence of the above events?",
+      "question": "Which of the following are envisaged by the Right against Exploitation in the Constitution of India?\n\n1. Prohibition of traffic in human beings and forced labour\n2. Abolition of untouchability\n3. Protection of the interests of minorities\n4. Prohibition of employment of children in factories and mines\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1 - 2 - 3"
+          "text": "1, 2 and 4 only"
         },
         {
           "id": "b",
-          "text": "2 - 1 - 3"
+          "text": "2, 3 and 4 only"
         },
         {
           "id": "c",
-          "text": "3 - 2 - 1"
+          "text": "1 and 4 only"
         },
         {
           "id": "d",
-          "text": "3 - 1 - 2"
+          "text": "1, 2, 3 and 4"
         }
       ],
       "correctAnswers": [
@@ -4123,7 +4081,49 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 370,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2017_gs1_q98",
+      "type": "single-choice",
+      "question": "Which of the following is geographically closest to Great Nicobar?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Sumatra"
+        },
+        {
+          "id": "b",
+          "text": "Borneo"
+        },
+        {
+          "id": "c",
+          "text": "Java"
+        },
+        {
+          "id": "d",
+          "text": "Sri Lanka"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -4136,27 +4136,27 @@
     {
       "id": "upsc_2017_gs1_q99",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nWith reference to the Constitution of India, the Directive Principles of State Policy constitute limitations upon\n\n1. legislative function\n2. executive function\n\nWhich of the above statements is/are correct?",
+      "question": "Out of the following statements, choose the one that brings out the principle underlying the Cabinet form of Government:",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "An arrangement for minimizing the criticism against the Government whose responsibilities are complex and hard to carry out to the satisfaction of all."
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "A mechanism for speeding up the activities of the Government whose responsibilities are increasing day by day."
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "A mechanism of parliamentary democracy for ensuring collective responsibility of the Government to the people."
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "A device for strengthening the hands of the head of the Government whose hold over the people is in a state of decline."
         }
       ],
       "correctAnswers": [
-        "d"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -4178,23 +4178,23 @@
     {
       "id": "upsc_2017_gs1_q100",
       "type": "single-choice",
-      "question": "With reference to 'SANKALP', sometimes seen in the news, which of the following statements is/are correct?\n\n1. It is a programme of the Ministry of Skill Development and Entrepreneurship.\n2. It aims to improve short-term skill training qualitatively and quantitatively.\n3. It is a Centrally Sponsored Scheme funded by the World Bank.\n\nSelect the correct answer using the code given below:",
+      "question": "Which one of the following is not a feature of Indian federalism?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "There is an independent judiciary in India."
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Powers have been clearly divided between the Centre and the States."
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "The federating units have been given unequal representation in the Rajya Sabha."
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "It is the result of an agreement among the federating units."
         }
       ],
       "correctAnswers": [
@@ -4207,7 +4207,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 22,
         "subtags": []
       },
       "markBreakdown": [

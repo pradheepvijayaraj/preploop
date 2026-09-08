@@ -5320,7 +5320,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2014.json",
@@ -5334,7 +5334,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 49
     },
     {
       "path": "prelims-gs1/2015.json",
@@ -5376,7 +5376,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2018.json",
@@ -5390,7 +5390,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2019.json",
@@ -5418,7 +5418,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2021.json",
@@ -5432,7 +5432,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2022.json",
@@ -5460,7 +5460,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2024.json",
@@ -5474,7 +5474,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2025.json",
@@ -5488,7 +5488,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 48
     },
     {
       "path": "prelims-gs1/2026.json",
@@ -5502,7 +5502,7 @@
       "defaultDuration": 7200,
       "practiceMode": "mcq",
       "difficulty": "hard",
-      "contentVersion": 47
+      "contentVersion": 51
     }
   ]
 }

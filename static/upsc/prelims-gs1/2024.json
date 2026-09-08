@@ -11,7 +11,7 @@
     "section": "prelims-gs1",
     "sourceId": "upsc_2024_gs1",
     "practiceMode": "mcq",
-    "contentVersion": 47,
+    "contentVersion": 48,
     "taxonomyVersion": 4,
     "durationSeconds": 7200,
     "maxMarks": 200
@@ -49,14 +49,14 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 150,
         "subtags": []
       },
       "markBreakdown": [
         {
           "label": "question",
           "marks": 2.0,
-          "mainTag": 10,
+          "mainTag": 151,
           "subtags": []
         }
       ]
@@ -64,7 +64,7 @@
     {
       "id": "upsc_2024_gs1_q2",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: Many chewing gums found in the market are considered a source of environmental pollution.\nStatement-II: Many chewing gums found in the market contain plastic as an ingredient.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: Many chewing gums found in the market are considered a source of environmental pollution.\nStatement-II: Many chewing gums found in the market contain plastic as gum base.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
@@ -108,23 +108,23 @@
     {
       "id": "upsc_2024_gs1_q3",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. The atmosphere is heated more by incoming solar radiation than by terrestrial radiation.\n2. Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long wave radiation.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: The atmosphere is heated more by incoming solar radiation than by terrestrial radiation.\n\nStatement-II: Carbon dioxide and other greenhouse gases in the atmosphere are good absorbers of long wave radiation.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
-          "text": "Both Statement-1 and Statement-2 are correct and statement -2 explains statement-1"
+          "text": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I"
         },
         {
           "id": "b",
-          "text": "Both Statement-1 and Statement-2 are correct, but Statement-2 does not explains statements-1"
+          "text": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I"
         },
         {
           "id": "c",
-          "text": "Statements -1 is correct, but Statements – 2 is incorrect"
+          "text": "Statement-I is correct, but Statement-II is incorrect"
         },
         {
           "id": "d",
-          "text": "Statements-1 is incorrect, but statement-2 is correct"
+          "text": "Statement-I is incorrect, but Statement-II is correct"
         }
       ],
       "correctAnswers": [
@@ -137,7 +137,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 150,
         "subtags": []
       },
       "markBreakdown": [
@@ -154,19 +154,19 @@
       "options": [
         {
           "id": "a",
-          "text": "Both Statement-I and Statement-II are correct and Statement-II is the correct explanation for Statement-I"
+          "text": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I"
         },
         {
           "id": "b",
-          "text": "Both Statement-I and Statement-II are correct and Statement-II is not the correct explanation for Statement-I"
+          "text": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I"
         },
         {
           "id": "c",
-          "text": "Statement-I is correct but Statement-II is incorrect"
+          "text": "Statement-I is correct, but Statement-II is incorrect"
         },
         {
           "id": "d",
-          "text": "Statement-I is incorrect but Statement-II is correct"
+          "text": "Statement-I is incorrect, but Statement-II is correct"
         }
       ],
       "correctAnswers": [
@@ -179,7 +179,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 12,
+        "mainTag": 51,
         "subtags": []
       },
       "markBreakdown": [
@@ -305,7 +305,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -318,7 +318,7 @@
     {
       "id": "upsc_2024_gs1_q8",
       "type": "single-choice",
-      "question": "Consider the following countries:\n1. Finland Germany Norway Russia How\n2. North Sea",
+      "question": "Consider the following countries:\n\n1. Finland\n2. Germany\n3. Norway\n4. Russia\n\nHow many of the above countries have a border with the North Sea?",
       "options": [
         {
           "id": "a",
@@ -347,7 +347,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -360,7 +360,7 @@
     {
       "id": "upsc_2024_gs1_q9",
       "type": "single-choice",
-      "question": "Consider the following information: Waterfall Region River\n1. Dhuandhar Malwa Narmada\n2. Hundru Chota Nagpur Subarnarekha\n3. Gersoppa Western Ghats Netravati how many of the above rows is the given information correctly matched?",
+      "question": "Consider the following information:\n\n| Waterfall | Region | River |\n| --- | --- | --- |\n| 1. Dhuandhar | Malwa | Narmada |\n| 2. Hundru | Chota Nagpur | Subarnarekha |\n| 3. Gersoppa | Western Ghats | Netravati |\n\nIn how many of the above rows is the given information correctly matched?",
       "options": [
         {
           "id": "a",
@@ -389,7 +389,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -414,11 +414,11 @@
         },
         {
           "id": "c",
-          "text": "All three"
+          "text": "Only three"
         },
         {
           "id": "d",
-          "text": "All Four"
+          "text": "All four"
         }
       ],
       "correctAnswers": [
@@ -431,7 +431,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -515,7 +515,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 51,
         "subtags": []
       },
       "markBreakdown": [
@@ -528,7 +528,7 @@
     {
       "id": "upsc_2024_gs1_q13",
       "type": "single-choice",
-      "question": "Consider the following pairs: Country Animal found in its natural habitat\n1. Brazil Indri\n2. Indonesia Elk\n3. Madagascar Bonobo How many of the pairs given above are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Country | Animal found in its natural habitat |\n| --- | --- |\n| 1. Brazil | Indri |\n| 2. Indonesia | Elk |\n| 3. Madagascar | Bonobo |\n\nHow many of the pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -599,7 +599,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -643,7 +643,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 152,
         "subtags": []
       },
       "markBreakdown": [
@@ -664,7 +664,7 @@
         },
         {
           "id": "b",
-          "text": "Congo basin"
+          "text": "Congo Basin"
         },
         {
           "id": "c",
@@ -685,7 +685,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 15,
         "subtags": []
       },
       "markBreakdown": [
@@ -771,7 +771,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 78,
+        "mainTag": 83,
         "subtags": []
       },
       "markBreakdown": [
@@ -786,7 +786,7 @@
     {
       "id": "upsc_2024_gs1_q19",
       "type": "single-choice",
-      "question": "The organisms “Cicada, Froghopper and Pond skater are",
+      "question": "The organisms “Cicada, Froghopper and Pond skater” are",
       "options": [
         {
           "id": "a",
@@ -815,7 +815,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 66,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -829,7 +829,7 @@
     },
     {
       "id": "upsc_2024_gs1_q20",
-      "type": "multiple-choice",
+      "type": "single-choice",
       "question": "Consider the following plants:\n\n1. Groundnut\n2. Horse-gram\n3. Soybean\n\nHow many of the above belong to the pea family?",
       "options": [
         {
@@ -854,12 +854,12 @@
       ],
       "explanation": "",
       "marks": 2.0,
-      "negativeMarks": 0,
+      "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -894,14 +894,13 @@
         }
       ],
       "correctAnswers": [
-        "c"
       ],
-      "explanation": "",
+      "explanation": "Withdrawn by UPSC; the official answer key does not assign a correct option.",
       "marks": 2.0,
       "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
-      "tags": [],
+      "tags": ["withdrawn"],
       "taxonomy": {
         "mainTag": 70,
         "subtags": []
@@ -945,7 +944,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 156,
         "subtags": []
       },
       "markBreakdown": [
@@ -987,7 +986,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 48,
         "subtags": []
       },
       "markBreakdown": [
@@ -1044,7 +1043,7 @@
     {
       "id": "upsc_2024_gs1_q25",
       "type": "single-choice",
-      "question": "Consider the following statements regarding World Toilet Organization:\n\n1. It is one of the agencies of the United Nations.\n2. World Toilet Summit, World Toilet Day and World Toilet College are the initiatives of this organization, to inspire action to tackle the global satiation crisis.\n3. The main focus of its function is to grant founds to the least developed countries and developing countries and developing countries to achieve the end of open defecation.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements regarding World Toilet Organization:\n\n1. It is one of the agencies of the United Nations.\n2. World Toilet Summit, World Toilet Day and World Toilet College are the initiatives of this organization, to inspire action to tackle the global sanitation crisis.\n3. The main focus of its function is to grant funds to the least developed countries and developing countries to achieve the end of open defecation.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1086,7 +1085,7 @@
     {
       "id": "upsc_2024_gs1_q26",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. Lions do not have a particular breeding season.\n2. Unlike most other big cats, cheetahs do not roar.\n3. Unlike male lions, male leopards do not proclaim their territory by scent marking.\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements:\n1. Lions do not have a particular breeding season.\n2. Unlike most other big cats, cheetahs do not roar.\n3. Unlike male lions, male leopards do not proclaim their territory by scent marking.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1115,7 +1114,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -1188,7 +1187,7 @@
         },
         {
           "id": "d",
-          "text": "It is a platform with the mission of encouraging the farmers to form Framer Product Organisations or Agribusiness Consortiums, thus facilitating the access to global open markets to sell their products"
+          "text": "It is a platform with the mission of encouraging the farmers to form Farmer Product Organisations or Agribusiness Consortiums, thus facilitating the access to global open markets to sell their products"
         }
       ],
       "correctAnswers": [
@@ -1302,7 +1301,7 @@
     {
       "id": "upsc_2024_gs1_q31",
       "type": "single-choice",
-      "question": "Consider the following:\n1. Carabid\n2. Centipedes Flies Wasps Parasitoid",
+      "question": "Consider the following:\n\n1. Carabid beetles\n2. Centipedes\n3. Flies\n4. Termites\n5. Wasps\n\nParasitoid species are found in how many of the above kind of organisms?",
       "options": [
         {
           "id": "a",
@@ -1331,7 +1330,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 67,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -1346,7 +1345,7 @@
     {
       "id": "upsc_2024_gs1_q32",
       "type": "single-choice",
-      "question": "Consider the following aircraft:\n\n1. Rafael\n2. MiG-29\n3. Tejas MK-1\n\nHow many of the above are considered fighter aircraft of the Indian Air Force?",
+      "question": "Consider the following aircraft:\n\n1. Rafael\n2. MiG-29\n3. Tejas MK-1\n\nHow many of the above are considered fifth generation fighter aircraft?",
       "options": [
         {
           "id": "a",
@@ -1390,7 +1389,7 @@
     {
       "id": "upsc_2024_gs1_q33",
       "type": "single-choice",
-      "question": "With reference to Corporate Social Responsibility (CSR) rules in India, consider the following statements\n1. CSR rules specify that expenditures that benefit the company directly or its employees will not be considered as CSR activities.\n2. CSR rules do not specify minimum spending on CSR activities.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Corporate Social Responsibility (CSR) rules in India, consider the following statements:\n1. CSR rules specify that expenditures that benefit the company directly or its employees will not be considered as CSR activities.\n2. CSR rules do not specify minimum spending on CSR activities.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1432,7 +1431,7 @@
     {
       "id": "upsc_2024_gs1_q34",
       "type": "single-choice",
-      "question": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements\n1. RTGs are miniature fission reactors.\n2. RTGs are used for powering the onboard systems of spacecrafts.\n3. RTGs can use Plutonium-238, which is a by-product of weapons development.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to radioisotope thermoelectric generators (RTGs), consider the following statements:\n1. RTGs are miniature fission reactors.\n2. RTGs are used for powering the onboard systems of spacecrafts.\n3. RTGs can use Plutonium-238, which is a by-product of weapons development.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1461,7 +1460,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 81,
         "subtags": []
       },
       "markBreakdown": [
@@ -1505,7 +1504,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 73,
+        "mainTag": 80,
         "subtags": []
       },
       "markBreakdown": [
@@ -1549,7 +1548,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 74,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -1593,7 +1592,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 23,
         "subtags": []
       },
       "markBreakdown": [
@@ -1679,7 +1678,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 156,
         "subtags": []
       },
       "markBreakdown": [
@@ -1692,7 +1691,7 @@
     {
       "id": "upsc_2024_gs1_q40",
       "type": "single-choice",
-      "question": "Consider the following materials:\n1. Agricultural\n2. Corn\n3. Wastewater\n4. Wood\n\nWhich of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
+      "question": "Consider the following materials:\n\n1. Agricultural residues\n2. Corn grain\n3. Wastewater treatment sludge\n4. Wood mill waste\n\nWhich of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
       "options": [
         {
           "id": "a",
@@ -1721,7 +1720,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 56,
+        "mainTag": 85,
         "subtags": []
       },
       "markBreakdown": [
@@ -1851,7 +1850,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 77,
+        "mainTag": 69,
         "subtags": []
       },
       "markBreakdown": [
@@ -1895,7 +1894,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 43,
+        "mainTag": 42,
         "subtags": []
       },
       "markBreakdown": [
@@ -1910,7 +1909,7 @@
     {
       "id": "upsc_2024_gs1_q45",
       "type": "single-choice",
-      "question": "Consider the following information: Archaeological site State Description\n1. Chandraketugarh Odisha Trading Port town\n2. Inamgaon Maharashtra Chalcolithic site\n3. Mangadu Kerala Megalithic site\n4. Salihundam Andhra Pradesh Rock cave shrines In which of the above rows is the given information correctly matched?",
+      "question": "Consider the following information:\n\n| Archaeological site | State | Description |\n| --- | --- | --- |\n| 1. Chandraketugarh | Odisha | Trading Port town |\n| 2. Inamgaon | Maharashtra | Chalcolithic site |\n| 3. Mangadu | Kerala | Megalithic site |\n| 4. Salihundam | Andhra Pradesh | Rock-cut cave shrines |\n\nIn which of the above rows is the given information correctly matched?",
       "options": [
         {
           "id": "a",
@@ -1952,7 +1951,7 @@
     {
       "id": "upsc_2024_gs1_q46",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. In India, Non-Banking Financial Companies can access the Liquidity Adjustment Facility window of the Reserve Bank of India.\n2. In India, Foreign Institutional Investors (can) hold the Government Securities (G-Secs).\n3. In India, Stock Exchanges can offer separate trading platforms for debts.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. In India, Non-Banking Financial Companies can access the Liquidity Adjustment Facility window of the Reserve Bank of India.\n2. In India, Foreign Institutional Investors can hold the Government Securities (G-Secs).\n3. In India, Stock Exchanges can offer separate trading platforms for debts.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1996,7 +1995,7 @@
     {
       "id": "upsc_2024_gs1_q47",
       "type": "single-choice",
-      "question": "With reference to the Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM) Yojana, consider the following statements\n1. The entry age group for enrolment in the scheme is 21 to 40 years.\n2. Age specific contribution shall be made by the beneficiary.\n3. Each subscriber under the scheme shall receive a minimum pension of Rs. 3,000 per month after attaining the age of 60 years.\n4. Family pension is applicable to the spouse the unmarried daughters.",
+      "question": "With reference to the Pradhan Mantri Shram Yogi Maan-dhan (PM-SYM) Yojana, consider the following statements:\n1. The entry age group for enrolment in the scheme is 21 to 40 years.\n2. Age specific contribution shall be made by the beneficiary.\n3. Each subscriber under the scheme shall receive a minimum pension of Rs. 3,000 per month after attaining the age of 60 years.\n4. Family pension is applicable to the spouse and unmarried daughters.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2025,7 +2024,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 65,
+        "mainTag": 64,
         "subtags": []
       },
       "markBreakdown": [
@@ -2038,7 +2037,7 @@
     {
       "id": "upsc_2024_gs1_q48",
       "type": "single-choice",
-      "question": "Consider the following statements regarding:\n\n1. ‘Nari Shakti Vandan Adhiniyam’: Provisions will come into effect from 18th Lok Sabha\n2. This will be in force for 15 years after becoming an Act\n3. There are provisions for the reservation of seats for Scheduled Castes Women within the quota reserved for the Scheduled Castes.\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements regarding ‘Nari Shakti Vandan Adhiniyam’:\n\n1. Provisions will come into effect from 18th Lok Sabha\n2. This will be in force for 15 years after becoming an Act\n3. There are provisions for the reservation of seats for Scheduled Castes Women within the quota reserved for the Scheduled Castes.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2067,7 +2066,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 61,
+        "mainTag": 156,
         "subtags": []
       },
       "markBreakdown": [
@@ -2080,23 +2079,23 @@
     {
       "id": "upsc_2024_gs1_q49",
       "type": "single-choice",
-      "question": "Consider the following:\n\n1. Agricultural residues\n2. Corn grain\n3. Wastewater treatment sludge\n4. Wood mill waste\n\nWhich of the above can be used as feedstock for producing Sustainable Aviation Fuel?",
+      "question": "Who was the Provisional President of the Constituent Assembly before Dr. Rajendra Prasad took over?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "C. Rajagopalachari"
         },
         {
           "id": "b",
-          "text": "3 and 4 only"
+          "text": "Dr. B.R. Ambedkar"
         },
         {
           "id": "c",
-          "text": "1, 2, 3 and 4"
+          "text": "T.T. Krishnamachari"
         },
         {
           "id": "d",
-          "text": "1, 3 and 4 only"
+          "text": "Dr. Sachchidananda Sinha"
         }
       ],
       "correctAnswers": [
@@ -2109,7 +2108,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 56,
+        "mainTag": 525,
         "subtags": []
       },
       "markBreakdown": [
@@ -2122,7 +2121,7 @@
     {
       "id": "upsc_2024_gs1_q50",
       "type": "single-choice",
-      "question": "In which of the following are hydrogels used?\n1. Controlled drug delivery in patients\n2. Mobile air-conditioning systems\n3. Preparation of Industrial lubricants\n\nSelect the correct answer using the code given below",
+      "question": "In which of the following are hydrogels used?\n1. Controlled drug delivery in patients\n2. Mobile air-conditioning systems\n3. Preparation of industrial lubricants\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2164,7 +2163,7 @@
     {
       "id": "upsc_2024_gs1_q51",
       "type": "single-choice",
-      "question": "With reference to “water vapour”, which of the following statement is/are correct?\n1. It is a gas\n2. the amount of which decreases with altitude. Its percentage is maximum at the poles\n\nSelect the answer using the code given below",
+      "question": "With reference to “water vapour”, which of the following statements is/are correct?\n\n1. It is a gas, the amount of which decreases with altitude.\n2. Its percentage is maximum at the poles.\n\nSelect the answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2176,7 +2175,7 @@
         },
         {
           "id": "c",
-          "text": "Both 1 nor 2"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
@@ -2193,7 +2192,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -2207,7 +2206,7 @@
     },
     {
       "id": "upsc_2024_gs1_q52",
-      "type": "multiple-choice",
+      "type": "single-choice",
       "question": "With reference to the rule/rules imposed by the Reserve Bank of India while treating foreign banks, consider the following statements:\n\n1. There is no minimum capital requirement for wholly owned banking subsidiaries in India of foreign banks of a particular category.\n2. For wholly owned banking subsidiaries in India of foreign banks of a particular category, at least 50% of the board members should be Indian nationals.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
@@ -2232,7 +2231,7 @@
       ],
       "explanation": "",
       "marks": 2.0,
-      "negativeMarks": 0,
+      "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
       "tags": [],
@@ -2250,7 +2249,7 @@
     {
       "id": "upsc_2024_gs1_q53",
       "type": "single-choice",
-      "question": "In India, which of the following can trade in Corporate Bonds and Government Securities?\n1. Insurance\n2. Companies\n3. Pension\n4. Funds\n5. Retail\n6. Investors\n\nSelect the correct answer using the code given below",
+      "question": "In India, which of the following can trade in Corporate Bonds and Government Securities?\n\n1. Insurance Companies\n2. Pension Funds\n3. Retail Investors\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2279,7 +2278,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 44,
+        "mainTag": 42,
         "subtags": []
       },
       "markBreakdown": [
@@ -2292,7 +2291,7 @@
     {
       "id": "upsc_2024_gs1_q54",
       "type": "single-choice",
-      "question": "Consider the following pairs: Country Reason for being in the news\n1. Argentina Worst economic crisis\n2. Sudan War between the country’s regular army and paramilitary forces\n3. Turkey Rescinded its membership of NATO How many of the pairs given above are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Country | Reason for being in the news |\n| --- | --- |\n| 1. Argentina | Worst economic crisis |\n| 2. Sudan | War between the country’s regular army and paramilitary forces |\n| 3. Turkey | Rescinded its membership of NATO |\n\nHow many of the pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -2321,7 +2320,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -2336,7 +2335,7 @@
     {
       "id": "upsc_2024_gs1_q55",
       "type": "single-choice",
-      "question": "With reference to the sectors of the Indian economy, consider the following pairs: Economic activity Sector\n1. Storage of agricultural produce Secondary\n2. Dairy farm Primary\n3. Mineral exploration Tertiary\n4. Weaving cloth Secondary How many of the pairs given above are correctly matched?",
+      "question": "With reference to the sectors of the Indian economy, consider the following pairs:\n\n| Economic activity | Sector |\n| --- | --- |\n| 1. Storage of agricultural produce | Secondary |\n| 2. Dairy farm | Primary |\n| 3. Mineral exploration | Tertiary |\n| 4. Weaving cloth | Secondary |\n\nHow many of the pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -2365,7 +2364,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 33,
         "subtags": []
       },
       "markBreakdown": [
@@ -2398,14 +2397,13 @@
         }
       ],
       "correctAnswers": [
-        "a"
       ],
-      "explanation": "",
+      "explanation": "Withdrawn by UPSC; the official answer key does not assign a correct option.",
       "marks": 2.0,
       "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
-      "tags": [],
+      "tags": ["withdrawn"],
       "taxonomy": {
         "mainTag": 41,
         "subtags": []
@@ -2421,8 +2419,8 @@
     },
     {
       "id": "upsc_2024_gs1_q57",
-      "type": "multiple-choice",
-      "question": "Consider the following statements in respect of the digital rupee:\n\n1. It is a sovereign currency issued by the Reserve Bank of India (RBI) in alignment with its monetary policy.\n2. It appears as a liability on the RBI’s balance sheet.\n3. It is insured against inflation by its very design.\n4. It is freely convertible against commercial bank money and cash.\n\nWhich of the statements given above are correct?",
+      "type": "single-choice",
+      "question": "Consider the following statements in respect of the digital rupee:\n\n1. It is a sovereign currency issued by the Reserve Bank of India (RBI) in alignment with its monetary policy.\n2. It appears as a liability on the RBI’s balance sheet.\n3. It is insured against inflation by its very design.\n4. It is freely convertible against commercial bank money and cash.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2446,12 +2444,12 @@
       ],
       "explanation": "",
       "marks": 2.0,
-      "negativeMarks": 0,
+      "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 40,
+        "mainTag": 43,
         "subtags": []
       },
       "markBreakdown": [
@@ -2464,7 +2462,7 @@
     {
       "id": "upsc_2024_gs1_q58",
       "type": "single-choice",
-      "question": "With reference to the Ancient India, Gautama Buddha was generally known by which of the following epithets?\n1. Nayaputta\n2. Shakyamuni\n3. Tathagata\n\nSelect the correct answer using the code given below",
+      "question": "With reference to Ancient India, Gautama Buddha was generally known by which of the following epithets?\n\n1. Nayaputta\n2. Shakyamuni\n3. Tathagata\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2493,7 +2491,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -2506,7 +2504,7 @@
     {
       "id": "upsc_2024_gs1_q59",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: If the United States of America (USA) were to default on its debt, holders of US Treasury Bonds would not be able to legally demand payments.\nStatement-II: Global national debt of the USA is currently larger than that of any other country.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: If the United States of America (USA) were to default on its debt, holders of US Treasury Bonds will not be able to exercise their claims to receive payment.\nStatement-II: The USA Government debt is not backed by any hard assets, but only by the faith of the Government.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
@@ -2535,7 +2533,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 42,
         "subtags": []
       },
       "markBreakdown": [
@@ -2592,51 +2590,7 @@
     {
       "id": "upsc_2024_gs1_q61",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: The European Union's Carbon Border Adjustment Mechanism (CBAM) is designed to put a fair price on the carbon emitted during the production of carbon-intensive goods imported into the EU.\nStatement-II: CBAM is intended to encourage cleaner industrial production in non-EU countries.\n\nWhich one of the following is correct in respect of the above statements?",
-      "options": [
-        {
-          "id": "a",
-          "text": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I"
-        },
-        {
-          "id": "b",
-          "text": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I"
-        },
-        {
-          "id": "c",
-          "text": "Statement-I is correct, but Statement-II is incorrect"
-        },
-        {
-          "id": "d",
-          "text": "Statement-I is incorrect, but Statement-II is correct"
-        }
-      ],
-      "correctAnswers": [
-        "d"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 68,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0,
-          "mainTag": 68,
-          "subtags": []
-        }
-      ]
-    },
-    {
-      "id": "upsc_2024_gs1_q62",
-      "type": "single-choice",
-      "question": "With reference to revenue collection by Cornwallis, consider the following statements:\n\n1. Under the Ryotwari Settlement of revenue collection, the peasants were exempted from revenue payment in case of bad harvests or natural calamities.\n2. Under the Permanent Settlement in Bengal, if the Zamindar failed to pay his revenues to the state on or before the fixed date, he would be removed from his Zamindari.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Government of India Act, 1935, consider the following statements:\n\n1. It provided for the establishment of an All India Federation based on the union of the British Indian Provinces and Princely States.\n2. Defence and Foreign Affairs were kept under the control of the federal legislature.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2665,6 +2619,49 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
+        "mainTag": 358,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0,
+          "mainTag": 358,
+          "subtags": []
+        }
+      ]
+    },
+    {
+      "id": "upsc_2024_gs1_q62",
+      "type": "single-choice",
+      "question": "With reference to revenue collection by Cornwallis, consider the following statements:\n\n1. Under the Ryotwari Settlement of revenue collection, the peasants were exempted from revenue payment in case of bad harvests or natural calamities.\n2. Under the Permanent Settlement in Bengal, if the Zamindar failed to pay his revenues to the state on or before the fixed date, he would be removed from his Zamindari.\n\nWhich of the statements given above is/are correct?",
+      "options": [
+        {
+          "id": "a",
+          "text": "1 only"
+        },
+        {
+          "id": "b",
+          "text": "2 only"
+        },
+        {
+          "id": "c",
+          "text": "Both 1 and 2"
+        },
+        {
+          "id": "d",
+          "text": "Neither 1 nor 2"
+        }
+      ],
+      "correctAnswers": [
+      ],
+      "explanation": "Withdrawn by UPSC; the official answer key does not assign a correct option.",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": ["withdrawn"],
+      "taxonomy": {
         "mainTag": 120,
         "subtags": []
       },
@@ -2680,7 +2677,7 @@
     {
       "id": "upsc_2024_gs1_q63",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The Red Sea receives very little precipitation in any form.\n2. No water enters the Red Sea from rivers.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Red Sea receives very little precipitation in any form.\n2. No water enters the Red Sea from rivers.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2709,7 +2706,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -2795,7 +2792,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -2839,7 +2836,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -2854,7 +2851,7 @@
     {
       "id": "upsc_2024_gs1_q67",
       "type": "single-choice",
-      "question": "Which of the following is/are correct inference/inferences from isothermal maps in the month of January?\n1. The isotherms deviate to the north over the ocean and to the south over the continent. The presence of cold ocean currents\n2. Gulf Stream and North Atlantic Drift make the isotherms bend towards the north\n\nSelect the answer using the code given below",
+      "question": "Which of the following is/are correct inference/inferences from isothermal maps in the month of January?\n\n1. The isotherms deviate to the north over the ocean and to the south over the continent.\n2. The presence of cold ocean currents, Gulf Stream and North Atlantic Drift make the North Atlantic Ocean colder and the isotherms bend towards the north.\n\nSelect the answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2883,7 +2880,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -2969,7 +2966,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 118,
+        "mainTag": 99,
         "subtags": []
       },
       "markBreakdown": [
@@ -3028,7 +3025,7 @@
     {
       "id": "upsc_2024_gs1_q71",
       "type": "single-choice",
-      "question": "Which of the following statements are correct about the Constitution of India?\n1. Powers of the Municipalities are given in Part IX A of the Constitution.\n2. Emergency provisions are given in Part XVIII of the Constitution.\n3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution.\n\nSelect the answer using the code given below",
+      "question": "Which of the following statements are correct about the Constitution of India?\n1. Powers of the Municipalities are given in Part IX A of the Constitution.\n2. Emergency provisions are given in Part XVIII of the Constitution.\n3. Provisions related to the amendment of the Constitution are given in Part XX of the Constitution.\n\nSelect the answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3057,7 +3054,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 27,
         "subtags": []
       },
       "markBreakdown": [
@@ -3070,7 +3067,7 @@
     {
       "id": "upsc_2024_gs1_q72",
       "type": "single-choice",
-      "question": "Consider the following countries:\n1. Italy\n2. Japan\n3. Nigeria\n4. South Korea\n5. South Africa\n\nWhich of the above countries are frequently mentioned in the media for their low birth rates, ageing population or declining population?",
+      "question": "Consider the following countries:\n1. Italy\n2. Japan\n3. Nigeria\n4. South Korea\n5. South Africa\n\nWhich of the above countries are frequently mentioned in the media for their low birth rates, or ageing population or declining population?",
       "options": [
         {
           "id": "a",
@@ -3112,7 +3109,7 @@
     {
       "id": "upsc_2024_gs1_q73",
       "type": "single-choice",
-      "question": "With reference to the Indian Parliament, consider the following statements:\n\n1. A bill pending in the Lok Sabha lapses on its prorogation.\n2. A bill pending in the Rajya Sabha, which has not been passed by the Lok Sabha, shall not lapse on dissolution of the Lok Sabha.\n3. A bill pending in the Rajya Sabha, which has been passed by the Lok Sabha, does not lapse on dissolution of the Lok Sabha.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Indian Parliament, consider the following statements:\n\n1. A bill pending in the Lok Sabha lapses on its dissolution.\n2. A bill passed by the Lok Sabha and pending in the Rajya Sabha lapses on the dissolution of the Lok Sabha.\n3. A bill in regard to which the President of India notified his/her intention to summon the Houses to a joint sitting lapses on the dissolution of the Lok Sabha.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3158,7 +3155,7 @@
       "options": [
         {
           "id": "a",
-          "text": "the number of children born per 1000 people in the population in a year. BR"
+          "text": "the number of children born per 1000 people in the population in a year."
         },
         {
           "id": "b",
@@ -3198,7 +3195,7 @@
     {
       "id": "upsc_2024_gs1_q75",
       "type": "single-choice",
-      "question": "Which of the following statements are correct in respect of a Money Bill in the Parliament?\n1. Article 109 mentions special procedure in respect of Money Bills.\n2. A Money Bill shall not be introduced in the Council of States.\n3. The Rajya Sabha can either approve the Bill or suggest changes but cannot reject it.\n4. Amendments to a Money Bill suggested by the Rajya Sabha have to be accepted by the Lok Sabha.\n\nSelect the answer using the code given below",
+      "question": "Which of the following statements are correct in respect of a Money Bill in the Parliament?\n1. Article 109 mentions special procedure in respect of Money Bills.\n2. A Money Bill shall not be introduced in the Council of States.\n3. The Rajya Sabha can either approve the Bill or suggest changes but cannot reject it.\n4. Amendments to a Money Bill suggested by the Rajya Sabha have to be accepted by the Lok Sabha.\n\nSelect the answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3242,7 +3239,7 @@
     {
       "id": "upsc_2024_gs1_q76",
       "type": "single-choice",
-      "question": "Which of the following statements about ‘Exercise Mitra Shakti-2023’ are correct?\n1. This was a joint military exercise between India and Bangladesh.\n2. It commenced in Aundh (Pune).\n3. Joint response during counter-terrorism operation was a goal of this operation.\n4. Indian Air Force was a part of this exercise.\n\nSelect the answer using the code given below",
+      "question": "Which of the following statements about ‘Exercise Mitra Shakti-2023’ are correct?\n1. This was a joint military exercise between India and Bangladesh.\n2. It commenced in Aundh (Pune).\n3. Joint response during counter-terrorism operations was a goal of this operation.\n4. Indian Air Force was a part of this exercise.\n\nSelect the answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3330,7 +3327,7 @@
     {
       "id": "upsc_2024_gs1_q78",
       "type": "single-choice",
-      "question": "Which of the following Statements about the Ethics Committee in the Lok Sabha are correct?\n1. Initially it was an ad-how Committee.\n2. Only a Member of the Lock Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha.\n3. This Committee cannot take up any matter which is sub-judice.\n\nSelect the answer using the code given below",
+      "question": "Which of the following statements about the Ethics Committee in the Lok Sabha are correct?\n\n1. Initially it was an ad-hoc Committee.\n2. Only a Member of the Lok Sabha can make a complaint relating to unethical conduct of a member of the Lok Sabha.\n3. This Committee cannot take up any matter which is sub-judice.\n\nSelect the answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3372,23 +3369,23 @@
     {
       "id": "upsc_2024_gs1_q79",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. Thickness of the troposphere at the equator is much greater as compared to poles.\n2. At the equator, heat is transported to great heights by strong convectional corrects.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: Thickness of the troposphere at the equator is much greater as compared to poles.\n\nStatement-II: At the equator, heat is transported to great heights by strong convectional currents.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
-          "text": "Both Statement-1 and Statement-2 are correct and statement -2 explains statement-1"
+          "text": "Both Statement-I and Statement-II are correct and Statement-II explains Statement-I"
         },
         {
           "id": "b",
-          "text": "Both Statement-1 and Statement-2 are correct, but Statement-2 does not explains statements-1"
+          "text": "Both Statement-I and Statement-II are correct, but Statement-II does not explain Statement-I"
         },
         {
           "id": "c",
-          "text": "Statements -1 is correct, but Statements – 2 is incorrect"
+          "text": "Statement-I is correct, but Statement-II is incorrect"
         },
         {
           "id": "d",
-          "text": "Statements-1 is incorrect, but statement-2 is correct"
+          "text": "Statement-I is incorrect, but Statement-II is correct"
         }
       ],
       "correctAnswers": [
@@ -3418,7 +3415,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Inter-State trade and commerce is a State Subject under and commerce is a State subject under the State List"
+          "text": "Inter-State trade and commerce is a State subject under the State List"
         },
         {
           "id": "b",
@@ -3426,7 +3423,7 @@
         },
         {
           "id": "c",
-          "text": "Inter-State quarantine is a Union subject Under the Union List"
+          "text": "Inter-State quarantine is a Union subject under the Union List"
         },
         {
           "id": "d",
@@ -3443,7 +3440,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 22,
         "subtags": []
       },
       "markBreakdown": [
@@ -3468,7 +3465,7 @@
         },
         {
           "id": "c",
-          "text": "the lower prohibiting continuation of proceedings in a case"
+          "text": "the lower court prohibiting continuation of proceedings in a case."
         },
         {
           "id": "d",
@@ -3485,14 +3482,14 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 21,
         "subtags": []
       },
       "markBreakdown": [
         {
           "label": "question",
           "marks": 2.0,
-          "mainTag": 30,
+          "mainTag": 370,
           "subtags": []
         }
       ]
@@ -3500,7 +3497,7 @@
     {
       "id": "upsc_2024_gs1_q82",
       "type": "single-choice",
-      "question": "Which of the following is/are correctly matched in terms of equivalent rank in the three services of Indian Defence forces? Army Airforce Navy\n1. Brigadier Air Commodore Commander\n2. Major General Air Vice Marshal Vice Admiral\n3. Major Squadron Leader Lieutenant Commander\n4. Lieutenant Colonel Group Captain Captain\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following is/are correctly matched in terms of equivalent rank in the three services of Indian Defence forces?\n\n| Army | Airforce | Navy |\n| --- | --- | --- |\n| 1. Brigadier | Air Commodore | Commander |\n| 2. Major General | Air Vice Marshal | Vice Admiral |\n| 3. Major | Squadron Leader | Lieutenant Commander |\n| 4. Lieutenant Colonel | Group Captain | Captain |\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3573,7 +3570,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 101,
         "subtags": []
       },
       "markBreakdown": [
@@ -3586,7 +3583,7 @@
     {
       "id": "upsc_2024_gs1_q84",
       "type": "single-choice",
-      "question": "Consider the following pairs: Party Its Leader\n1. Bharatiya Jana Sangh Dr. Shyama Prasad Mukherjee\n2. Socialist Party C. Rajagopalachari\n3. Congress for Democracy Jagjivan Ram\n4. Swatantra Party Acharya Narendra Dev\n\nHow many of the above are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Party | Its Leader |\n| --- | --- |\n| 1. Bharatiya Jana Sangh | Dr. Shyama Prasad Mukherjee |\n| 2. Socialist Party | C. Rajagopalachari |\n| 3. Congress for Democracy | Jagjivan Ram |\n| 4. Swatantra Party | Acharya Narendra Dev |\n\nHow many of the above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3642,7 +3639,7 @@
         },
         {
           "id": "c",
-          "text": "Cote D’Ivoire and Ghana"
+          "text": "Côte d’Ivoire and Ghana"
         },
         {
           "id": "d",
@@ -3686,11 +3683,11 @@
         },
         {
           "id": "c",
-          "text": "3 and 4"
+          "text": "3 and 4 only"
         },
         {
           "id": "d",
-          "text": "2 and 4"
+          "text": "2 and 4 only"
         }
       ],
       "correctAnswers": [
@@ -3762,7 +3759,7 @@
     {
       "id": "upsc_2024_gs1_q88",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nStatement-I: There is instability and worsening security situation in the Sahel region of Africa.\nStatement-II: Presence of many armed groups and militias has made the Sahel region a free zone for human trafficking.\n\nWhich one of the following is correct in respect of the above statements?",
+      "question": "Consider the following statements:\n\nStatement-I: There is instability and worsening security situation in the Sahel region.\nStatement-II: There have been military takeovers/coups d’état in several countries of the Sahel region in the recent past.\n\nWhich one of the following is correct in respect of the above statements?",
       "options": [
         {
           "id": "a",
@@ -3791,7 +3788,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 104,
+        "mainTag": 101,
         "subtags": []
       },
       "markBreakdown": [
@@ -3804,7 +3801,7 @@
     {
       "id": "upsc_2024_gs1_q89",
       "type": "single-choice",
-      "question": "With reference to “Coriolis force”, which of the following statement is/are correct?\n1. It increases with increase in wind velocity.\n2. It is maximum at the poles and is absent at the equator.\n\nSelect the answer using the code given below",
+      "question": "With reference to “Coriolis force”, which of the following statement is/are correct?\n1. It increases with increase in wind velocity.\n2. It is maximum at the poles and is absent at the equator.\n\nSelect the answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3848,7 +3845,7 @@
     {
       "id": "upsc_2024_gs1_q90",
       "type": "single-choice",
-      "question": "With reference to the Digital India Land Records Modernisation Programme, consider the following statements\n1. To implement the scheme, the Central Government provides 100% funding.\n2. Under the Scheme, Cadastral Maps are digitized.\n3. An initiative has been undertaken to transliterate the Records of Rights from local language to any of the languages recognized by the Constitution of India.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to the Digital India Land Records Modernisation Programme, consider the following statements:\n1. To implement the scheme, the Central Government provides 100% funding.\n2. Under the Scheme, Cadastral Maps are digitised.\n3. An initiative has been undertaken to transliterate the Records of Rights from local language to any of the languages recognized by the Constitution of India.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3877,7 +3874,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 94,
         "subtags": []
       },
       "markBreakdown": [
@@ -3898,7 +3895,7 @@
         },
         {
           "id": "b",
-          "text": "3 and 4 only"
+          "text": "1, 3 and 4 only"
         },
         {
           "id": "c",
@@ -3932,7 +3929,7 @@
     {
       "id": "upsc_2024_gs1_q92",
       "type": "single-choice",
-      "question": "Under Which of the following Articles of the Constitution of India, has the Supreme Court of India placed the Right to Privacy?",
+      "question": "Under which of the following Articles of the Constitution of India, has the Supreme Court of India placed the Right to Privacy?",
       "options": [
         {
           "id": "a",
@@ -3974,7 +3971,7 @@
     {
       "id": "upsc_2024_gs1_q93",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. India is a member of the International Grains Council.\n2. A country needs to be a member of the International Grains Council for exporting or importing rice and wheat.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. India is a member of the International Grains Council.\n2. A country needs to be a member of the International Grains Council for exporting or importing rice and wheat.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4018,7 +4015,7 @@
     {
       "id": "upsc_2024_gs1_q94",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. It is the Governor of the State who recognizes and declares any community of that Sates as a Scheduled Tribe.\n2. A community declared as a Scheduled Tribe in a State need not be so in another State.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. It is the Governor of the State who recognizes and declares any community of that State as a Scheduled Tribe.\n2. A community declared as a Scheduled Tribe in a State need not be so in another State.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4034,7 +4031,7 @@
         },
         {
           "id": "d",
-          "text": "Neither 1 and 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -4047,7 +4044,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 60,
+        "mainTag": 278,
         "subtags": []
       },
       "markBreakdown": [
@@ -4070,7 +4067,7 @@
         },
         {
           "id": "b",
-          "text": "Crygraphy"
+          "text": "Cryptography"
         },
         {
           "id": "c",
@@ -4091,7 +4088,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 78,
         "subtags": []
       },
       "markBreakdown": [
@@ -4150,7 +4147,7 @@
     {
       "id": "upsc_2024_gs1_q97",
       "type": "single-choice",
-      "question": "With reference to the Speaker of the Lok Sabha, consider the following statements\n1. While any resolution for the removal of the Speaker of the Lok Sabha is under consideration He/She shall not preside.\n2. He/She shall not have the right to speak.\n3. He/She shall not be entitled to vote on the resolution in the first instance.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the Speaker of the Lok Sabha, consider the following statements:\n1. While any resolution for the removal of the Speaker of the Lok Sabha is under consideration He/She shall not preside.\n2. He/She shall not have the right to speak.\n3. He/She shall not be entitled to vote on the resolution in the first instance.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4170,7 +4167,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -4179,7 +4176,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -4192,7 +4189,7 @@
     {
       "id": "upsc_2024_gs1_q98",
       "type": "single-choice",
-      "question": "With reference to perfluoroalkyl and polyfluoroalkyl substances (PFAS) that are used in making many consumer products, consider the following statements:\n\n1. PFAS are found to be widespread in drinking water, food and food packaging materials.\n2. PFAS are not easily degraded in the environment.\n3. Persistent exposure to PFAS can lead to bioaccumulation in animal bodies.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to perfluoroalkyl and polyfluoroalkyl substances (PFAS) that are used in making many consumer products, consider the following statements:\n\n1. PFAS are found to be widespread in drinking water, food and food packaging materials.\n2. PFAS are not easily degraded in the environment.\n3. Persistent exposure to PFAS can lead to bioaccumulation in animal bodies.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4221,7 +4218,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 69,
         "subtags": []
       },
       "markBreakdown": [
@@ -4236,7 +4233,7 @@
     {
       "id": "upsc_2024_gs1_q99",
       "type": "single-choice",
-      "question": "With reference to physical capital in Indian economy, consider the following pairs: Items Category\n1. Farmer's plough Working capital\n2. Computer Fixed capital\n3. Yarn used by the weaver Fixed capital\n4. Petrol Working capital\n\nHow many of the above pairs are correctly matched?",
+      "question": "With reference to physical capital in Indian economy, consider the following pairs:\n\n| Items | Category |\n| --- | --- |\n| 1. Farmer's plough | Working capital |\n| 2. Computer | Fixed capital |\n| 3. Yarn used by the weaver | Fixed capital |\n| 4. Petrol | Working capital |\n\nHow many of the above pairs are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -4265,7 +4262,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 73,
+        "mainTag": 36,
         "subtags": []
       },
       "markBreakdown": [
@@ -4278,7 +4275,7 @@
     {
       "id": "upsc_2024_gs1_q100",
       "type": "single-choice",
-      "question": "With reference to the ‘Pradhan Manti Surakshit Matritva Abhiyan’, consider the following statements\n1. This scheme guarantees a minimum package of antenatal care services to women in their second and third trimesters of pregnancy and six months post-delivery health care service in any government health facility.\n2. Under this scheme, private sector health care providers of certain specialties can volunteer to provide service at nearby government health facilities.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the ‘Pradhan Mantri Surakshit Matritva Abhiyan’, consider the following statements:\n1. This scheme guarantees a minimum package of antenatal care services to women in their second and third trimesters of pregnancy and six months post-delivery health care service in any government health facility.\n2. Under this scheme, private sector health care providers of certain specialities can volunteer to provide services at nearby government health facilities.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",

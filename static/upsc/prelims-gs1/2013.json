@@ -11,7 +11,7 @@
     "section": "prelims-gs1",
     "sourceId": "upsc_2013_gs1",
     "practiceMode": "mcq",
-    "contentVersion": 47,
+    "contentVersion": 48,
     "taxonomyVersion": 4,
     "durationSeconds": 7200,
     "maxMarks": 200
@@ -49,7 +49,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 43,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -62,7 +62,7 @@
     {
       "id": "upsc_2013_gs1_q2",
       "type": "single-choice",
-      "question": "The velocity of a projectile at the initial point A is (2î + 3ĵ) m/s. Its velocity (in m/s) at point B is",
+      "question": "Which one of the following statements is correct?",
       "options": [
         {
           "id": "a",
@@ -91,7 +91,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 22,
+        "mainTag": 374,
         "subtags": []
       },
       "markBreakdown": [
@@ -104,23 +104,63 @@
     {
       "id": "upsc_2013_gs1_q3",
       "type": "single-choice",
-      "question": "Which one of the following pairs is correctly matched?\n\n1. Geographical\n2. Feature\n3. Region",
+      "question": "Which one of the following pairs is correctly matched?",
       "options": [
         {
           "id": "a",
-          "text": "Abyssinian Plateau: Arabia"
+          "text": "Abyssinian Plateau: Arabia",
+          "cells": [
+            {
+              "label": "Geographical Feature",
+              "text": "Abyssinian Plateau"
+            },
+            {
+              "label": "Region",
+              "text": "Arabia"
+            }
+          ]
         },
         {
           "id": "b",
-          "text": "Atlas Mountains: North-Western Africa"
+          "text": "Atlas Mountains: North-Western Africa",
+          "cells": [
+            {
+              "label": "Geographical Feature",
+              "text": "Atlas Mountains"
+            },
+            {
+              "label": "Region",
+              "text": "North-Western Africa"
+            }
+          ]
         },
         {
           "id": "c",
-          "text": "Guiana Highlands: South-Western Africa"
+          "text": "Guiana Highlands: South-Western Africa",
+          "cells": [
+            {
+              "label": "Geographical Feature",
+              "text": "Guiana Highlands"
+            },
+            {
+              "label": "Region",
+              "text": "South-Western Africa"
+            }
+          ]
         },
         {
           "id": "d",
-          "text": "Okavango Basin: Patagonia"
+          "text": "Okavango Basin: Patagonia",
+          "cells": [
+            {
+              "label": "Geographical Feature",
+              "text": "Okavango Basin"
+            },
+            {
+              "label": "Region",
+              "text": "Patagonia"
+            }
+          ]
         }
       ],
       "correctAnswers": [
@@ -133,7 +173,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -188,7 +228,7 @@
     {
       "id": "upsc_2013_gs1_q5",
       "type": "single-choice",
-      "question": "Recombinant DNA technology (Genetic Engineering) allows genes to be transferred\n1. across different species of plants\n2. from animals to plants\n3. from microorganisms to higher organisms\n\nSelect the correct answer using the codes given below",
+      "question": "Recombinant DNA technology (Genetic Engineering) allows genes to be transferred\n1. across different species of plants\n2. from animals to plants\n3. from microorganisms to higher organisms\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -230,7 +270,7 @@
     {
       "id": "upsc_2013_gs1_q6",
       "type": "single-choice",
-      "question": "The Chinese traveller Yuan Chwang (Hiuen Tsang) who visited India recorded the general conditions and culture of India at that time. In this context, which of the following statements is/are correct?\n1. The roads and river-routes were completely immune from robbery\n2. As regards punishment for offences, ordeals by fire, water and poison were the instruments for determining the innocence or guilt of a person\n3. The tradesmen had to pay duties at ferries and barrier stations\n\nSelect the correct answer using the codes given below",
+      "question": "The Chinese traveller Yuan Chwang (Hiuen Tsang) who visited India recorded the general conditions and culture of India at that time. In this context, which of the following statements is/are correct?\n1. The roads and river-routes were completely immune from robbery\n2. As regards punishment for offences, ordeals by fire, water and poison were the instruments for determining the innocence or guilt of a person\n3. The tradesmen had to pay duties at ferries and barrier stations\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -259,7 +299,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 5,
+        "mainTag": 334,
         "subtags": []
       },
       "markBreakdown": [
@@ -272,7 +312,7 @@
     {
       "id": "upsc_2013_gs1_q7",
       "type": "single-choice",
-      "question": "Consider the following\n1. Star tortoise\n2. Monitor lizard\n3. Pygmy hog\n4. Spider monkey\n\nWhich of the above found in India?",
+      "question": "Consider the following:\n1. Star tortoise\n2. Monitor lizard\n3. Pygmy hog\n4. Spider monkey\nWhich of the above are found in India?",
       "options": [
         {
           "id": "a",
@@ -301,7 +341,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -314,7 +354,7 @@
     {
       "id": "upsc_2013_gs1_q8",
       "type": "single-choice",
-      "question": "Which of the following can be found as pollutants in the drinking water in some parts of India?\n1. Arsenic\n2. Sorbitol\n3. Fluoride\n4. Formaldehyde\n5. Uranium\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following can be found as pollutants in the drinking water in some parts of India?\n1. Arsenic\n2. Sorbitol\n3. Fluoride\n4. Formaldehyde\n5. Uranium\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -385,7 +425,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 525,
         "subtags": []
       },
       "markBreakdown": [
@@ -427,7 +467,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 15,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -440,7 +480,7 @@
     {
       "id": "upsc_2013_gs1_q11",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. An amendment to the Constitution of India can be initiated by an introduction of a bill in the Lok Sabha only\n2. If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the legislature of all the States of India.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. An amendment to the Constitution of India can be initiated by an introduction of a bill in the Lok Sabha only\n2. If such an amendment seeks to make changes in the federal character of the Constitution, the amendment also requires to be ratified by the legislature of all the States of India.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -469,7 +509,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 156,
         "subtags": []
       },
       "markBreakdown": [
@@ -511,7 +551,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 19,
+        "mainTag": 20,
         "subtags": []
       },
       "markBreakdown": [
@@ -524,7 +564,7 @@
     {
       "id": "upsc_2013_gs1_q13",
       "type": "single-choice",
-      "question": "With reference to the usefulness of the by-products of sugar industry, which of the following statements is / are correct?\n1. Bagasse can be used as biomass fuel for the generation of energy\n2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers\n3. Molasses can be used for the production of ethanol\n\nSelect the correct answer using the codes given below",
+      "question": "With reference to the usefulness of the by-products of sugar industry, which of the following statements is / are correct?\n1. Bagasse can be used as biomass fuel for the generation of energy\n2. Molasses can be used as one of the feedstocks for the production of synthetic chemical fertilizers\n3. Molasses can be used for the production of ethanol\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -595,7 +635,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -608,7 +648,7 @@
     {
       "id": "upsc_2013_gs1_q15",
       "type": "single-choice",
-      "question": "The Narmada river flows to the west, while most other large peninsular rivers flow to the east. Why?\n1. It occupies a linear rift valley\n2. It flows between the Vindhyas and the Satpuras\n3. The land slopes to the west from Central India\n\nSelect the correct answer using the codes given below",
+      "question": "The Narmada river flows to the west, while most other large peninsular rivers flow to the east. Why?\n1. It occupies a linear rift valley\n2. It flows between the Vindhyas and the Satpuras\n3. The land slopes to the west from Central India\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -692,7 +732,7 @@
     {
       "id": "upsc_2013_gs1_q17",
       "type": "single-choice",
-      "question": "Consider the following pairs:\n1. Nokrek Bio-sphere Reserve: Garo Hills\n2. Logtak (Loktak)Lake: Barail Range\n3. Namdapha National Park: Dafla Hills\n\nWhich of the above pairs is/are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Biosphere Reserve | Location |\n| --- | --- |\n| 1. Nokrek Bio-sphere Reserve | Garo Hills |\n| 2. Logtak (Loktak) Lake | Barail Range |\n| 3. Namdapha National Park | Dafla Hills |\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -721,7 +761,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 15,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -776,7 +816,7 @@
     {
       "id": "upsc_2013_gs1_q19",
       "type": "single-choice",
-      "question": "Which of the following bodies does not/do not find mention in the Constitution?\n1. National Development Council\n2. Planning Commission\n3. Zonal Councils\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following bodies does not/do not find mention in the Constitution?\n1. National Development Council\n2. Planning Commission\n3. Zonal Councils\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -822,7 +862,7 @@
       "options": [
         {
           "id": "a",
-          "text": "the reduction of the share of the landlords from one-half of the croone-third"
+          "text": "the reduction of the share of the landlords from one-half of the crop to one-third"
         },
         {
           "id": "b",
@@ -847,7 +887,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 353,
         "subtags": []
       },
       "markBreakdown": [
@@ -1082,7 +1122,7 @@
         },
         {
           "id": "c",
-          "text": "Tahsildar /Block Development Officer / Mandai Revenue Officer"
+          "text": "Tahsildar/Block Development Officer/Mandal Revenue Officer"
         },
         {
           "id": "d",
@@ -1141,7 +1181,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -1183,7 +1223,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 371,
         "subtags": []
       },
       "markBreakdown": [
@@ -1196,7 +1236,7 @@
     {
       "id": "upsc_2013_gs1_q29",
       "type": "single-choice",
-      "question": "Due to improper / indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?\n1. Beryllium\n2. Cadmium\n3. Chromium\n4. Heptachlor\n5. Mercury\n6. Lead\n7. Plutonium\n\nSelect the correct answer using the codes given below",
+      "question": "Due to improper / indiscriminate disposal of old and used computers or their parts, which of the following are released into the environment as e-waste?\n1. Beryllium\n2. Cadmium\n3. Chromium\n4. Heptachlor\n5. Mercury\n6. Lead\n7. Plutonium\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -1322,7 +1362,7 @@
     {
       "id": "upsc_2013_gs1_q32",
       "type": "single-choice",
-      "question": "Consider the following pairs National Park River flowing through the Park\n1. Corbett National Park: Ganga\n2. Kaziranga National Park: Manas\n3. Silent Valley National Park: Kaveri\n\nWhich of the above pairs is/are correctly matched?",
+      "question": "Consider the following pairs:\n\n| National Park | River flowing through the Park |\n| --- | --- |\n| 1. Corbett National Park | Ganga |\n| 2. Kaziranga National Park | Manas |\n| 3. Silent Valley National Park | Kaveri |\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -1435,7 +1475,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -1448,7 +1488,7 @@
     {
       "id": "upsc_2013_gs1_q35",
       "type": "single-choice",
-      "question": "In which of the following States is lion-tailed macaque found in its natural habitat?\n1. Tamil Nadu\n2. Kerala\n3. Karnataka\n4. Andhra Pradesh\n\nSelect the correct answer using the codes given below",
+      "question": "In which of the following States is lion-tailed macaque found in its natural habitat?\n1. Tamil Nadu\n2. Kerala\n3. Karnataka\n4. Andhra Pradesh\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -1477,7 +1517,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -1561,7 +1601,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 117,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -1603,7 +1643,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 371,
         "subtags": []
       },
       "markBreakdown": [
@@ -1645,7 +1685,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 358,
         "subtags": []
       },
       "markBreakdown": [
@@ -1687,7 +1727,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -1704,7 +1744,7 @@
       "options": [
         {
           "id": "a",
-          "text": "all import and transactions of a during a given period normally a year"
+          "text": "all import and export transactions of a country during a given period of time, normally a year"
         },
         {
           "id": "b",
@@ -1742,7 +1782,7 @@
     {
       "id": "upsc_2013_gs1_q42",
       "type": "single-choice",
-      "question": "The Reserve Bank of India regulates the commercial banks in matters of\n1. liquidity of assets\n2. branch expansion\n3. merger of banks\n4. winding-up of banks\n\nSelect the correct answer using the codes given below",
+      "question": "The Reserve Bank of India regulates the commercial banks in matters of\n1. liquidity of assets\n2. branch expansion\n3. merger of banks\n4. winding-up of banks\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -1813,7 +1853,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -1855,7 +1895,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 46,
+        "mainTag": 38,
         "subtags": []
       },
       "markBreakdown": [
@@ -1897,7 +1937,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 327,
         "subtags": []
       },
       "markBreakdown": [
@@ -1952,7 +1992,7 @@
     {
       "id": "upsc_2013_gs1_q47",
       "type": "single-choice",
-      "question": "Which of the following statements is/are applicable to Jain doctrine?\n1. The surest way of annihilating Karma is to practice penance\n2. Every object, even the smallest particle has a soul\n3. Karma is the bane of the soul and must be ended\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following statements is/are applicable to Jain doctrine?\n1. The surest way of annihilating Karma is to practice penance\n2. Every object, even the smallest particle has a soul\n3. Karma is the bane of the soul and must be ended\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -2023,7 +2063,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 73,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -2040,19 +2080,19 @@
       "options": [
         {
           "id": "a",
-          "text": "NO2, 03 and peroxyacetyl nitrate in the presence of sunlight"
+          "text": "NO2, O3 and peroxyacetyl nitrate in the presence of sunlight"
         },
         {
           "id": "b",
-          "text": "CO, 02 and peroxyacetyl nitrate in the presence of sunlight"
+          "text": "CO, O2 and peroxyacetyl nitrate in the presence of sunlight"
         },
         {
           "id": "c",
-          "text": "CO, CO2 and N02 at low temperature"
+          "text": "CO, CO2 and NO2 at low temperature"
         },
         {
           "id": "d",
-          "text": "High concentration of N02, O3 and CO in the evening"
+          "text": "high concentration of NO2, O3 and CO in the evening"
         }
       ],
       "correctAnswers": [
@@ -2107,7 +2147,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 74,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -2191,7 +2231,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 5,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -2204,7 +2244,7 @@
     {
       "id": "upsc_2013_gs1_q53",
       "type": "single-choice",
-      "question": "With reference to the food chains in ecosystems, which of the following kinds of organism is / are known as decomposer organism/organisms?\n1. Virus\n2. Fungi\n3. Bacteria\n\nSelect the correct answer using the codes given below",
+      "question": "With reference to the food chains in ecosystems, which of the following kinds of organism is / are known as decomposer organism/organisms?\n1. Virus\n2. Fungi\n3. Bacteria\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -2233,7 +2273,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -2254,7 +2294,7 @@
         },
         {
           "id": "b",
-          "text": "rivers drain out large amounts of fresh water into the sea"
+          "text": "rivers drain out large amounts of freshwater into the sea"
         },
         {
           "id": "c",
@@ -2275,7 +2315,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 152,
         "subtags": []
       },
       "markBreakdown": [
@@ -2288,7 +2328,7 @@
     {
       "id": "upsc_2013_gs1_q55",
       "type": "single-choice",
-      "question": "Which of the following is/are unique characteristic/characteristics of equatorial forests?\n1. Presence of tall, closely set trees with crowns forming a continuous canopy\n2. Coexistence of a large number of species\n3. Presence of numerous varieties of epiphytes\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following is/are unique characteristic/characteristics of equatorial forests?\n1. Presence of tall, closely set trees with crowns forming a continuous canopy\n2. Coexistence of a large number of species\n3. Presence of numerous varieties of epiphytes\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2330,7 +2370,7 @@
     {
       "id": "upsc_2013_gs1_q56",
       "type": "single-choice",
-      "question": "Which of the following constitute Capital Account?\n1. Foreign Loans\n2. Foreign Direct Investment\n3. Private Remittances\n4. Portfolio Investment\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following constitute Capital Account?\n1. Foreign Loans\n2. Foreign Direct Investment\n3. Private Remittances\n4. Portfolio Investment\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -2359,7 +2399,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 45,
+        "mainTag": 46,
         "subtags": []
       },
       "markBreakdown": [
@@ -2456,7 +2496,7 @@
     {
       "id": "upsc_2013_gs1_q59",
       "type": "single-choice",
-      "question": "In the context of India, which of the following principles is/are implied institutionally in the parliamentary government?\n1. Members of the Cabinet are Members of the Parliament\n2. Ministers hold the office till they enjoy confidence in the Parliament\n3. Cabinet is headed by the Head of the State\n\nSelect the correct answer using the codes given below",
+      "question": "In the context of India, which of the following principles is/are implied institutionally in the parliamentary government?\n1. Members of the Cabinet are Members of the Parliament\n2. Ministers hold the office till they enjoy confidence in the Parliament\n3. Cabinet is headed by the Head of the State\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -2498,7 +2538,7 @@
     {
       "id": "upsc_2013_gs1_q60",
       "type": "single-choice",
-      "question": "The annual range of temperature in the interior of the continents is high as compared to coastal areas. What is / are the reason / reasons?\n1. Thermal difference between land and water\n2. Variation in altitude between continents and oceans\n3. Presence of strong winds in the interior\n4. Heavy rains in the interior as compared to coasts\n\nSelect the correct answer using the codes given below",
+      "question": "The annual range of temperature in the interior of the continents is high as compared to coastal areas. What is / are the reason / reasons?\n1. Thermal difference between land and water\n2. Variation in altitude between continents and oceans\n3. Presence of strong winds in the interior\n4. Heavy rains in the interior as compared to coasts\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -2527,7 +2567,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -2540,7 +2580,7 @@
     {
       "id": "upsc_2013_gs1_q61",
       "type": "single-choice",
-      "question": "Which of the following is / are the characteristic/ characteristics of Indian coal?\n1. High ash content\n2. Low sulphur content\n3. Low ash fusion temperature\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following is/are the characteristic/characteristics of Indian coal?\n1. High ash content\n2. Low sulphur content\n3. Low ash fusion temperature\n\nSelect the correct answer using the codes given below.",
       "options": [
         {
           "id": "a",
@@ -2569,7 +2609,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 16,
         "subtags": []
       },
       "markBreakdown": [
@@ -2582,7 +2622,7 @@
     {
       "id": "upsc_2013_gs1_q62",
       "type": "single-choice",
-      "question": "Which of the following statements regarding laterite soils of India are correct?\n1. They are generally red in colour\n2. They are rich In nitrogen and potash\n3. Tiley are well-developed in Rajasthan and UP\n4. Tapioca and cashew nuts grow well on these soils\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following statements regarding laterite soils of India are correct?\n1. They are generally red in colour.\n2. They are rich in nitrogen and potash.\n3. They are well-developed in Rajasthan and UP.\n4. Tapioca and cashew nuts grow well on these soils.\n\nSelect the correct answer using the codes given below.",
       "options": [
         {
           "id": "a",
@@ -2666,7 +2706,7 @@
     {
       "id": "upsc_2013_gs1_q64",
       "type": "single-choice",
-      "question": "Consider the following crops\n1. Cotton\n2. Groundnut\n3. Rice\n4. Wheat Which of these are Kharif crops?",
+      "question": "Consider the following crops\n1. Cotton\n2. Groundnut\n3. Rice\n4. Wheat\nWhich of these are Kharif crops?",
       "options": [
         {
           "id": "a",
@@ -2737,7 +2777,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -2821,7 +2861,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 52,
+        "mainTag": 53,
         "subtags": []
       },
       "markBreakdown": [
@@ -2834,7 +2874,7 @@
     {
       "id": "upsc_2013_gs1_q68",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The Council of Ministers in the Centre shall be collectively responsible to the Parliament.\n2. The Union Ministers shall hold the office during the pleasure of the President of India.\n3. The Prime Minister shall communicate to the President about the proposals for legislation.\n\nWhich of the Statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The Council of Ministers in the Centre shall be collectively responsible to the Parliament.\n2. The Union Ministers shall hold the office during the pleasure of the President of India.\n3. The Prime Minister shall communicate to the President about the proposals for legislation.\n\nWhich of the Statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2989,7 +3029,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 25,
         "subtags": []
       },
       "markBreakdown": [
@@ -3002,7 +3042,7 @@
     {
       "id": "upsc_2013_gs1_q72",
       "type": "single-choice",
-      "question": "During a thunderstorm, the thunder in the skies is produced by the\n1. meeting of cumulonimbus clouds in the sky\n2. lightning that separates the nimbus clouds\n3. violent upward movement of air and water particles\n\nSelect the correct answer using the codes given below",
+      "question": "During a thunderstorm, the thunder in the skies is produced by the\n1. meeting of cumulonimbus clouds in the sky\n2. lightning that separates the nimbus clouds\n3. violent upward movement of air and water particles\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -3031,7 +3071,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 73,
         "subtags": []
       },
       "markBreakdown": [
@@ -3044,7 +3084,7 @@
     {
       "id": "upsc_2013_gs1_q73",
       "type": "single-choice",
-      "question": "Consider the following pairs: Tribe State\n1. Limboo (Limbu): Sikkim\n2. Karbi: Himachal Pradesh\n3. Dongaria: Odisha\n4. Bonda: Tamil Nadu\n\nWhich of the above pairs are correctly matched?",
+      "question": "Consider the following pairs: Tribe State\n1. Limboo (Limbu): Sikkim\n2. Karbi: Himachal Pradesh\n3. Dongaria: Odisha\n4. Bonda: Tamil Nadu\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3073,7 +3113,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 60,
         "subtags": []
       },
       "markBreakdown": [
@@ -3157,7 +3197,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 42,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -3212,23 +3252,23 @@
     {
       "id": "upsc_2013_gs1_q77",
       "type": "single-choice",
-      "question": "Which one of the following is likely to be the most inflationary in its effect?",
+      "question": "Which one among the following industries is the maximum consumer of water in India?",
       "options": [
         {
           "id": "a",
-          "text": "Repayment of public debt"
+          "text": "Engineering"
         },
         {
           "id": "b",
-          "text": "Borrowing from the public to finance a budget deficit"
+          "text": "Paper and pulp"
         },
         {
           "id": "c",
-          "text": "Borrowing from banks to finance a budget deficit"
+          "text": "Textiles"
         },
         {
           "id": "d",
-          "text": "Creating new money to finance a budget deficit"
+          "text": "Thermal power"
         }
       ],
       "correctAnswers": [
@@ -3241,7 +3281,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 47,
+        "mainTag": 49,
         "subtags": []
       },
       "markBreakdown": [
@@ -3338,7 +3378,7 @@
     {
       "id": "upsc_2013_gs1_q80",
       "type": "single-choice",
-      "question": "Annie Besant was\n1. responsible for starting the Home Rule Movement\n2. the founder of the Theo-sophical Society\n3. once the President of the Indian National Congress\n\nSelect the correct statement/statements using the codes given below",
+      "question": "Annie Besant was\n1. responsible for starting the Home Rule Movement\n2. the founder of the Theosophical Society\n3. once the President of the Indian National Congress\n\nSelect the correct statement/statements using the codes given below.",
       "options": [
         {
           "id": "a",
@@ -3384,7 +3424,7 @@
       "options": [
         {
           "id": "a",
-          "text": "imposition restrictions the Indians of certain to carry arms by Indians"
+          "text": "imposition of certain restrictions to carry arms by the Indians"
         },
         {
           "id": "b",
@@ -3409,7 +3449,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 120,
         "subtags": []
       },
       "markBreakdown": [
@@ -3506,27 +3546,27 @@
     {
       "id": "upsc_2013_gs1_q84",
       "type": "single-choice",
-      "question": "Which of the following grants/grant direct credit assistance to rural households?\n\n1. Regional Rural Banks\n2. National Bank for Agriculture and Rural Development\n3. Land Development Banks\n\nSelect the correct answer using the codes given below:",
+      "question": "Which one of the following is likely to be the most inflationary in its effect?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "Repayment of public debt"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Borrowing from the public to finance a budget deficit"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "Borrowing from banks to finance a budget deficit"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "Creating new money to finance a budget deficit"
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3535,7 +3575,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 47,
         "subtags": []
       },
       "markBreakdown": [
@@ -3598,7 +3638,7 @@
         },
         {
           "id": "b",
-          "text": "concentration dioxide in the is increased of carbon environment"
+          "text": "concentration of carbon dioxide in the environment is increased"
         },
         {
           "id": "c",
@@ -3619,7 +3659,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -3661,7 +3701,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -3678,15 +3718,15 @@
       "options": [
         {
           "id": "a",
-          "text": "the actual between the is increased area of contact wheel and axle"
+          "text": "the actual area of contact between the wheel and axle is increased"
         },
         {
           "id": "b",
-          "text": "the effective between the is increased area of contact wheel and axle"
+          "text": "the effective area of contact between the wheel and axle is increased"
         },
         {
           "id": "c",
-          "text": "the effective between the is reduced area of contact wheel and axle"
+          "text": "the effective area of contact between the wheel and axle is reduced"
         },
         {
           "id": "d",
@@ -3884,7 +3924,7 @@
     {
       "id": "upsc_2013_gs1_q93",
       "type": "single-choice",
-      "question": "Which of the following statements is / are correct?\n1. Viruses lack enzymes necessary for the generation of energy\n2. Viruses can be cultured in any synthetic medium\n3. Viruses are transmitted from one organism to another by biological vectors only\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following statements is / are correct?\n1. Viruses lack enzymes necessary for the generation of energy\n2. Viruses can be cultured in any synthetic medium\n3. Viruses are transmitted from one organism to another by biological vectors only\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -3913,7 +3953,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 85,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -3926,7 +3966,7 @@
     {
       "id": "upsc_2013_gs1_q94",
       "type": "single-choice",
-      "question": "Which of the following leaf modifications occurs/occur in desert areas to inhibit water loss?\n1. Hard and waxy leaves\n2. Tiny leaves or no leaves\n3. Thorns instead of leaves\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following leaf modifications occurs/occur in desert areas to inhibit water loss?\n1. Hard and waxy leaves\n2. Tiny leaves or no leaves\n3. Thorns instead of leaves\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -3955,7 +3995,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -3968,7 +4008,7 @@
     {
       "id": "upsc_2013_gs1_q95",
       "type": "single-choice",
-      "question": "The known forces of nature can be divided into four classes, viz, gravity electromagnetism, weak nuclear force and strong nuclear force. with reference to them, which one of the following statements is not correct?",
+      "question": "The known forces of nature can be divided into four classes, viz., gravity, electromagnetism, weak nuclear force and strong nuclear force. With reference to them, which one of the following statements is not correct?",
       "options": [
         {
           "id": "a",
@@ -3976,7 +4016,7 @@
         },
         {
           "id": "b",
-          "text": "Electromagnetism act only on particles with an electric charge"
+          "text": "Electromagnetism acts only on particles with an electric charge"
         },
         {
           "id": "c",
@@ -3984,7 +4024,7 @@
         },
         {
           "id": "d",
-          "text": "Strong nuclear force holds protons and neutrons inside the nuclear of an atom"
+          "text": "Strong nuclear force holds protons and neutrons inside the nucleus of an atom"
         }
       ],
       "correctAnswers": [
@@ -4052,7 +4092,7 @@
     {
       "id": "upsc_2013_gs1_q97",
       "type": "single-choice",
-      "question": "Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to\n1. resist drought and increase absorptive area\n2. tolerate extremes of PH\n3. Resist disease infestation\n\nSelect the correct answer using the codes given below",
+      "question": "Mycorrhizal biotechnology has been used in rehabilitating degraded sites because mycorrhiza enables the plants to\n1. resist drought and increase absorptive area\n2. tolerate extremes of pH\n3. resist disease infestation\n\nSelect the correct answer using the codes given below.",
       "options": [
         {
           "id": "a",
@@ -4094,7 +4134,7 @@
     {
       "id": "upsc_2013_gs1_q98",
       "type": "single-choice",
-      "question": "Who among the following constitute the National Development Council?\n1. The Prime Minister\n2. The Chairman, Finance Commission\n3. Ministers of the Union Cabinet\n4. Chief Ministers of the States\n\nSelect the correct answer using the codes given below",
+      "question": "Who among the following constitute the National Development Council?\n1. The Prime Minister\n2. The Chairman, Finance Commission\n3. Ministers of the Union Cabinet\n4. Chief Ministers of the States\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -4165,7 +4205,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 34,
+        "mainTag": 303,
         "subtags": []
       },
       "markBreakdown": [
@@ -4178,7 +4218,7 @@
     {
       "id": "upsc_2013_gs1_q100",
       "type": "single-choice",
-      "question": "Which of the following grants/ grant direct credit assistance to rural households?\n1. Regional Rural Banks\n2. National Bank for Agriculture and Rural Development\n3. Land Development Banks\n\nSelect the correct anser using the codes given below",
+      "question": "Which of the following grants/ grant direct credit assistance to rural households?\n1. Regional Rural Banks\n2. National Bank for Agriculture and Rural Development\n3. Land Development Banks\n\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",

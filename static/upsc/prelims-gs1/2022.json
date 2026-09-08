@@ -20,7 +20,7 @@
     {
       "id": "upsc_2022_gs1_q1",
       "type": "single-choice",
-      "question": "\"Rapid Financing Instrument\" and \"Rapid Credit Facility\" are related to the provisions of lending by which one of the following?",
+      "question": "“Rapid Financing Instrument” and “Rapid Credit Facility” are related to the provisions of lending by which one of the following?",
       "options": [
         {
           "id": "a",
@@ -49,7 +49,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 96,
         "subtags": []
       },
       "markBreakdown": [
@@ -62,7 +62,7 @@
     {
       "id": "upsc_2022_gs1_q2",
       "type": "single-choice",
-      "question": "With reference to the Indian economy, consider the following statements:\n1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee\n2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness\n3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.\n\nWhich of the above statements are correct?",
+      "question": "With reference to the Indian economy, consider the following statements:\n1. An increase in Nominal Effective Exchange Rate (NEER) indicates the appreciation of rupee\n2. An increase in the Real Effective Exchange Rate (REER) indicates an improvement in trade competitiveness\n3. An increasing trend in domestic inflation relative to inflation in other countries is likely to cause an increasing divergence between NEER and REER.\n\nWhich of the above statements is/are correct?",
       "options": [
         {
           "id": "a",
@@ -91,7 +91,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 47,
+        "mainTag": 43,
         "subtags": []
       },
       "markBreakdown": [
@@ -104,7 +104,7 @@
     {
       "id": "upsc_2022_gs1_q3",
       "type": "single-choice",
-      "question": "With reference to the Indian economy, consider the following statements:\n1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities\n2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market\n3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to the Indian economy, consider the following statements:\n1. If the inflation is too high, Reserve Bank of India (RBI) is likely to buy government securities\n2. If the rupee is rapidly depreciating, RBI is likely to sell dollars in the market\n3. If interest rates in the USA or European Union were to fall, that is likely to induce RBI to buy dollars.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -133,7 +133,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 47,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -146,7 +146,7 @@
     {
       "id": "upsc_2022_gs1_q4",
       "type": "single-choice",
-      "question": "With reference to the \"G20 Common Framework\", consider the following statements:\n1. It is an initiative endorsed by the G20 together with the Paris Club\n2. It is an initiative to support Low Income Countries with unsustainable debt.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the “G20 Common Framework”, consider the following statements:\n1. It is an initiative endorsed by the G20 together with the Paris Club\n2. It is an initiative to support Low Income Countries with unsustainable debt.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -188,7 +188,7 @@
     {
       "id": "upsc_2022_gs1_q5",
       "type": "single-choice",
-      "question": "With reference to the Indian economy, what are the advantages of \"Inflation-Indexed Bonds (IIBs)\"?\n1. Government can reduce the coupon rates on its borrowing by way of IIBs\n2. IIBS provide protection to the investors from uncertainty regarding inflation\n3. The interest received as well as capital gains on IIBs are not taxable.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to the Indian economy, what are the advantages of \"Inflation-Indexed Bonds (IIBs)\"?\n1. Government can reduce the coupon rates on its borrowing by way of IIBs\n2. IIBs provide protection to the investors from uncertainty regarding inflation\n3. The interest received as well as capital gains on IIBs are not taxable.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -230,7 +230,7 @@
     {
       "id": "upsc_2022_gs1_q6",
       "type": "single-choice",
-      "question": "With reference to foreign-owned e-commerce firms operating in India, which of the following statements is/are correct?\n1. They can sell their own goods in addition to offering their platforms as market-places.\n2. The degree to which they can own big sellers on their platforms is limited.\n\nSelect the correct answer using the code given below",
+      "question": "With reference to foreign-owned e-commerce firms operating in India, which of the following statements is/are correct?\n1. They can sell their own goods in addition to offering their platforms as market-places.\n2. The degree to which they can own big sellers on their platforms is limited.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -250,7 +250,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -272,7 +272,7 @@
     {
       "id": "upsc_2022_gs1_q7",
       "type": "single-choice",
-      "question": "Which of the following activities constitute real sector in the economy?\n1. Farmers harvesting their crops\n2. Textile mills converting raw cotton into fabrics\n3. A commercial bank lending money to a trading company\n4. A corporate body issuing Rupee Denominated Bonds overseas\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following activities constitute real sector in the economy?\n1. Farmers harvesting their crops\n2. Textile mills converting raw cotton into fabrics\n3. A commercial bank lending money to a trading company\n4. A corporate body issuing Rupee Denominated Bonds overseas\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -301,7 +301,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 33,
         "subtags": []
       },
       "markBreakdown": [
@@ -314,7 +314,7 @@
     {
       "id": "upsc_2022_gs1_q8",
       "type": "single-choice",
-      "question": "Which one of the following situations best reflects \"Indirect Transfers\" often talked about in media recently with reference to India?",
+      "question": "Which one of the following situations best reflects “Indirect Transfers” often talked about in media recently with reference to India?",
       "options": [
         {
           "id": "a",
@@ -343,7 +343,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 45,
+        "mainTag": 39,
         "subtags": []
       },
       "markBreakdown": [
@@ -356,7 +356,7 @@
     {
       "id": "upsc_2022_gs1_q9",
       "type": "single-choice",
-      "question": "With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct?\n1. Acquiring new technology is capital expenditure\n2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure\n\nSelect the correct answer using the code given below",
+      "question": "With reference to the expenditure made by an organisation or a company, which of the following statements is/are correct?\n1. Acquiring new technology is capital expenditure\n2. Debt financing is considered capital expenditure, while equity financing is considered revenue expenditure\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -440,7 +440,7 @@
     {
       "id": "upsc_2022_gs1_q11",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. Pursuant to the report of H.N. Sanyal Committee, the Contempt Courts Act, 1971 was passed\n2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt themselves\n3. The Constitution of India defines Civil Contempt and Criminal Contempt\n4. In India, the Parliament is vested with the powers to make laws on Contempt Court.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. Pursuant to the report of H.N. Sanyal Committee, the Contempt of Courts Act, 1971 was passed.\n2. The Constitution of India empowers the Supreme Court and the High Courts to punish for contempt of themselves.\n3. The Constitution of India defines Civil Contempt and Criminal Contempt.\n4. In India, the Parliament is vested with the powers to make laws on Contempt of Court.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -469,7 +469,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 21,
         "subtags": []
       },
       "markBreakdown": [
@@ -511,7 +511,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 62,
+        "mainTag": 21,
         "subtags": []
       },
       "markBreakdown": [
@@ -524,7 +524,7 @@
     {
       "id": "upsc_2022_gs1_q13",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. A bill amending the Constitution requires a prior recommendation of the President of India\n2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent\n3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements:\n1. A bill amending the Constitution requires a prior recommendation of the President of India\n2. When a Constitution Amendment Bill is presented to the President of India, it is obligatory for the President of India to give his/her assent\n3. A Constitution Amendment Bill must be passed by both the Lok Sabha and the Rajya Sabha by a special majority and there is no provision for joint sitting.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -553,7 +553,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 156,
         "subtags": []
       },
       "markBreakdown": [
@@ -595,7 +595,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 20,
         "subtags": []
       },
       "markBreakdown": [
@@ -608,7 +608,7 @@
     {
       "id": "upsc_2022_gs1_q15",
       "type": "single-choice",
-      "question": "Which of the following is/are the exclusive power(s) of Lok Sabha?\n1. To ratify the declaration of Emergency\n2. To pass a motion of no-confidence against the Council of Ministers\n3. To impeach the President of India\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following is/are the exclusive power(s) of Lok Sabha?\n1. To ratify the declaration of Emergency\n2. To pass a motion of no-confidence against the Council of Ministers\n3. To impeach the President of India\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -637,7 +637,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 20,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -679,7 +679,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 23,
+        "mainTag": 163,
         "subtags": []
       },
       "markBreakdown": [
@@ -692,7 +692,7 @@
     {
       "id": "upsc_2022_gs1_q17",
       "type": "single-choice",
-      "question": "Consider the following statements:.\n1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India\n2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. Attorney General of India and Solicitor General of India are the only officers of the Government who are allowed to participate in the meetings of the Parliament of India\n2. According to the Constitution of India, the Attorney General of India submits his resignation when the Government which appointed him resigns.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -721,7 +721,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 19,
+        "mainTag": 20,
         "subtags": []
       },
       "markBreakdown": [
@@ -734,7 +734,7 @@
     {
       "id": "upsc_2022_gs1_q18",
       "type": "single-choice",
-      "question": "With reference to the writs issued by the Courts in India, consider the following statements:\n1. Mandamus will not lie against a private organisation unless it is entrusted with a public duty\n2. Mandamus will not lie against a Company even though it may be a Government Company\n3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to the writs issued by the Courts in India, consider the following statements:\n1. Mandamus will not lie against a private organisation unless it is entrusted with a public duty\n2. Mandamus will not lie against a Company even though it may be a Government Company\n3. Any public minded person can be a petitioner to move the Court to obtain the writ of Quo Warranto.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -805,7 +805,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 198,
         "subtags": []
       },
       "markBreakdown": [
@@ -818,7 +818,7 @@
     {
       "id": "upsc_2022_gs1_q20",
       "type": "single-choice",
-      "question": "With reference to Deputy Speaker of Lok Sabha, consider the following statements:\n1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix\n2. There is a mandatory provision that the election of a candidate, as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party\n3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings\n4. The well-established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to Deputy Speaker of Lok Sabha, consider the following statements:\n1. As per the Rules of Procedure and Conduct of Business in Lok Sabha, the election of Deputy Speaker shall be held on such date as the Speaker may fix\n2. There is a mandatory provision that the election of a candidate, as Deputy Speaker of Lok Sabha shall be from either the principal opposition party or the ruling party\n3. The Deputy Speaker has the same power as of the Speaker when presiding over the sitting of the House and no appeal lies against his rulings\n4. The well-established parliamentary practice regarding the appointment of Deputy Speaker is that the motion is moved by the Speaker and duly seconded by the Prime Minister.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -847,7 +847,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 23,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -889,7 +889,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 68,
         "subtags": []
       },
       "markBreakdown": [
@@ -902,7 +902,7 @@
     {
       "id": "upsc_2022_gs1_q22",
       "type": "single-choice",
-      "question": "\"System of Rice Intensification\" of cultivation, in which alternate wetting and drying of rice fields is practised, results in:\n1. Reduced seed requirement\n2. Reduced methane production\n3. Reduced electricity consumption\n\nSelect the correct answer using the code given below",
+      "question": "\"System of Rice Intensification\" of cultivation, in which alternate wetting and drying of rice fields is practised, results in:\n1. Reduced seed requirement\n2. Reduced methane production\n3. Reduced electricity consumption\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -931,7 +931,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 88,
+        "mainTag": 188,
         "subtags": []
       },
       "markBreakdown": [
@@ -973,7 +973,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 155,
         "subtags": []
       },
       "markBreakdown": [
@@ -1028,7 +1028,7 @@
     {
       "id": "upsc_2022_gs1_q25",
       "type": "single-choice",
-      "question": "Consider the following pairs: Peak Mountains\n1. Namcha Barwa Garhwal Himalaya\n2. Nanda Devi Kumaon Himalaya\n3. Nokrek Sikkim Himalaya Which of the pairs given above is/are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Peak | Mountains |\n|---|---|\n| 1. Namcha Barwa | Garhwal Himalaya |\n| 2. Nanda Devi | Kumaon Himalaya |\n| 3. Nokrek | Sikkim Himalaya |\n\nWhich of the pairs given above is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -1099,7 +1099,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 11,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -1112,7 +1112,7 @@
     {
       "id": "upsc_2022_gs1_q27",
       "type": "single-choice",
-      "question": "Consider the following countries:\n1. Azerbaijan\n2. Kyrgyzstan\n3. Tajikistan\n4. Turkmenistan\n5. Uzbekstan\n\nWhich of the above have borders with Afghanistan?",
+      "question": "Consider the following countries:\n1. Azerbaijan\n2. Kyrgyzstan\n3. Tajikistan\n4. Turkmenistan\n5. Uzbekistan\n\nWhich of the above have borders with Afghanistan?",
       "options": [
         {
           "id": "a",
@@ -1154,7 +1154,7 @@
     {
       "id": "upsc_2022_gs1_q28",
       "type": "single-choice",
-      "question": "With reference to India, consider the following statements:\n1. Monazite is a source of rare earths\n2. Monazite contains thorium\n3. Monazite occurs naturally in the entire Indian coastal sands in India\n4. In India, Government bodies only can process or export monazite.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to India, consider the following statements:\n1. Monazite is a source of rare earths\n2. Monazite contains thorium\n3. Monazite occurs naturally in the entire Indian coastal sands in India\n4. In India, Government bodies only can process or export monazite.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1183,7 +1183,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 17,
         "subtags": []
       },
       "markBreakdown": [
@@ -1238,7 +1238,7 @@
     {
       "id": "upsc_2022_gs1_q30",
       "type": "single-choice",
-      "question": "Consider the following pairs: Wetland/Lake Location\n1. Hokera Wetland Punjab\n2. Renuka Wetland Himachal Pradesh\n3. Rudrasagar Lake Tripura\n4. Sasthamkotta Lake Tamil Nadu How many pairs given above are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Wetland/Lake | Location |\n|---|---|\n| 1. Hokera Wetland | Punjab |\n| 2. Renuka Wetland | Himachal Pradesh |\n| 3. Rudrasagar Lake | Tripura |\n| 4. Sasthamkotta Lake | Tamil Nadu |\n\nHow many pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -1280,7 +1280,7 @@
     {
       "id": "upsc_2022_gs1_q31",
       "type": "single-choice",
-      "question": "Consider the following:\n1. Aarogya Setu\n2. COWIN\n3. DigiLocker\n4. DIKSHA\n\nWhich of the above are built on to open-source digital platforms?",
+      "question": "Consider the following:\n1. Aarogya Setu\n2. COWIN\n3. DigiLocker\n4. DIKSHA\n\nWhich of the above are built on top of open-source digital platforms?",
       "options": [
         {
           "id": "a",
@@ -1322,7 +1322,7 @@
     {
       "id": "upsc_2022_gs1_q32",
       "type": "single-choice",
-      "question": "With reference to Web\n3. 0, consider the following statements:\n1. Web 3-0 technology enables people to control their own data\n2. In Web\n3. 0 world, there can be blockchain based social networks\n3. Web 3-0 is operated by users collectively rather than a corporation.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to Web 3.0, consider the following statements:\n1. Web 3.0 technology enables people to control their own data.\n2. In Web 3.0 world, there can be blockchain-based social networks.\n3. Web 3.0 is operated by users collectively rather than a corporation.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1364,7 +1364,7 @@
     {
       "id": "upsc_2022_gs1_q33",
       "type": "single-choice",
-      "question": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\n1. SaaS buyers can customise the user interface and can change data fields\n2. SaaS users can access their data through their mobile devices\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to \"Software as a Service (SaaS)\", consider the following statements:\n1. SaaS buyers can customise the user interface and can change data fields\n2. SaaS users can access their data through their mobile devices\n3. Outlook, Hotmail and Yahoo! Mail are forms of SaaS.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1435,7 +1435,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 80,
+        "mainTag": 82,
         "subtags": []
       },
       "markBreakdown": [
@@ -1477,7 +1477,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 78,
+        "mainTag": 83,
         "subtags": []
       },
       "markBreakdown": [
@@ -1490,7 +1490,7 @@
     {
       "id": "upsc_2022_gs1_q36",
       "type": "single-choice",
-      "question": "Consider the following communication technologies:\n1. Closed-circuit Television\n2. Radio Frequency Identification\n3. Wireless Local Area Network\n\nWhich of the above are considered communication Short-Range devices/technologies?",
+      "question": "Consider the following communication technologies:\n1. Closed-circuit Television\n2. Radio Frequency Identification\n3. Wireless Local Area Network\n\nWhich of the above are considered Short-Range devices/technologies?",
       "options": [
         {
           "id": "a",
@@ -1532,7 +1532,7 @@
     {
       "id": "upsc_2022_gs1_q37",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. Biofilms can form on medical implants within human tissues\n2. Biofilms can form on food and food processing surfaces\n3. Biofilms can exhibit antibiotic resistance.\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements:\n1. Biofilms can form on medical implants within human tissues\n2. Biofilms can form on food and food processing surfaces\n3. Biofilms can exhibit antibiotic resistance.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1561,7 +1561,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -1616,7 +1616,7 @@
     {
       "id": "upsc_2022_gs1_q39",
       "type": "single-choice",
-      "question": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform\n2. Sputnik. V vaccine is manufactured using vector-based platform\n3. COVAXIN is an inactivated pathogen-based vaccine.\n\nWhich of the statements given above are correct?",
+      "question": "In the context of vaccines manufactured to prevent COVID-19 pandemic, consider the following statements:\n1. The Serum Institute of India produced COVID-19 vaccine named Covishield using mRNA platform\n2. Sputnik V vaccine is manufactured using vector-based platform\n3. COVAXIN is an inactivated pathogen based vaccine.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1645,7 +1645,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 77,
+        "mainTag": 198,
         "subtags": []
       },
       "markBreakdown": [
@@ -1658,7 +1658,7 @@
     {
       "id": "upsc_2022_gs1_q40",
       "type": "single-choice",
-      "question": "If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?\n1. GPS and navigation systems could fail\n2. Tsunamis could occur at equatorial regions\n3. Power grids could be damaged\n4. Intense auroras could occur over much of the Earth\n5. Forest fires could take place over much of the planet\n6. Orbits of the satellites could be disturbed\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted\n\nSelect the correct answer using the code given below",
+      "question": "If a major solar storm (solar flare) reaches the Earth, which of the following are the possible effects on the Earth?\n1. GPS and navigation systems could fail.\n2. Tsunamis could occur at equatorial regions\n3. Power grids could be damaged.\n4. Intense auroras could occur over much of the Earth.\n5. Forest fires could take place over much of the planet\n6. Orbits of the satellites could be disturbed.\n7. Shortwave radio communication of the aircraft flying over polar regions could be interrupted.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1687,7 +1687,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 72,
+        "mainTag": 80,
         "subtags": []
       },
       "markBreakdown": [
@@ -1700,11 +1700,11 @@
     {
       "id": "upsc_2022_gs1_q41",
       "type": "single-choice",
-      "question": "\"Climate Action Tracker\" which monitors the emission reduction pledges of different countries is a",
+      "question": "“Climate Action Tracker” which monitors the emission reduction pledges of different countries is a",
       "options": [
         {
           "id": "a",
-          "text": "Database created by coalition organisations of Research organisations"
+          "text": "Database created by coalition of research organisations"
         },
         {
           "id": "b",
@@ -1742,7 +1742,7 @@
     {
       "id": "upsc_2022_gs1_q42",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. \"The Climate Group\" is an international non-profit organization that drives climate action by building large networks and runs them\n2. The International Energy Agency in partnership with the Climate Group launched a global initiative \"EP100\"\n3. EP100 brings together leading companies committed to driving innovation in energy efficiency and increasing competitiveness while delivering on emission reduction goals\n4. Some Indian companies are members of EP100\n5. The International Energy Agency is the Secretariat to the \"Under2 Coalition\".\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements:\n1. \"The Climate Group\" is an international non-profit organization that drives climate action by building large networks and runs them.\n2. The International Energy Agency in partnership with the Climate Group launched a global initiative \"EP100\"\n3. EP100 brings together leading companies committed to driving innovation in energy efficiency and increasing competitiveness while delivering on emission reduction goals\n4. Some Indian companies are members of EP100\n5. The International Energy Agency is the Secretariat to the \"Under2 Coalition\".\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1771,7 +1771,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 68,
         "subtags": []
       },
       "markBreakdown": [
@@ -1813,7 +1813,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 72,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -1826,7 +1826,7 @@
     {
       "id": "upsc_2022_gs1_q44",
       "type": "single-choice",
-      "question": "In the context of WHO Air Quality Guidelines, consider the following statements:\n1. The 24-hour mean of PM2.5 should not exceed 15 ug/m³ and annual mean of PM2.5 should not exceed 5 µg/m³\n2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather\n3. PM10 can penetrate the lung barrier and enter the bloodstream\n4. Excessive ozone in the air can trigger asthma.\n\nWhich of the statements given above are correct?",
+      "question": "In the context of WHO Air Quality Guidelines, consider the following statements:\n1. The 24-hour mean of PM2.5 should not exceed 15 µg/m³ and annual mean of PM2.5 should not exceed 5 µg/m³\n2. In a year, the highest levels of ozone pollution occur during the periods of inclement weather\n3. PM10 can penetrate the lung barrier and enter the bloodstream\n4. Excessive ozone in the air can trigger asthma.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1868,7 +1868,7 @@
     {
       "id": "upsc_2022_gs1_q45",
       "type": "single-choice",
-      "question": "With reference to \"Gucchi\" sometimes mentioned in the news, consider the following statements:\n1. It is a fungus\n2. It grows in some Himalayan Forest areas\n3. It is commercially cultivated in the Himalayan foothills of north-eastern India.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to “Gucchi” sometimes mentioned in the news, consider the following statements:\n1. It is a fungus\n2. It grows in some Himalayan forest areas\n3. It is commercially cultivated in the Himalayan foothills of north-eastern India.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1897,7 +1897,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 72,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -1910,7 +1910,7 @@
     {
       "id": "upsc_2022_gs1_q46",
       "type": "single-choice",
-      "question": "With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties\n2. Containers made of it can be used to store any alcoholic beverage\n3. Bottles made of it can be recycled into other products\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to polyethylene terephthalate, the use of which is so widespread in our daily lives, consider the following statements:\n1. Its fibres can be blended with wool and cotton fibres to reinforce their properties\n2. Containers made of it can be used to store any alcoholic beverage\n3. Bottles made of it can be recycled into other products\n4. Articles made of it can be easily disposed of by incineration without causing greenhouse gas emissions.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1981,7 +1981,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -1994,7 +1994,7 @@
     {
       "id": "upsc_2022_gs1_q48",
       "type": "single-choice",
-      "question": "Which of the following are nitrogen-fixing plants?\n1. Alfalfa\n2. Amaranth\n3. Chickpea\n4. Clover\n5. Purslane (Kulfa)\n6. Spinach\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following are nitrogen-fixing plants?\n1. Alfalfa\n2. Amaranth\n3. Chickpea\n4. Clover\n5. Purslane (Kulfa)\n6. Spinach\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2036,7 +2036,7 @@
     {
       "id": "upsc_2022_gs1_q49",
       "type": "single-choice",
-      "question": "\"Biorock technology\" is talked about in which one of the following situations?",
+      "question": "“Biorock technology” is talked about in which one of the following situations?",
       "options": [
         {
           "id": "a",
@@ -2065,7 +2065,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 77,
+        "mainTag": 70,
         "subtags": []
       },
       "markBreakdown": [
@@ -2086,7 +2086,7 @@
         },
         {
           "id": "b",
-          "text": "Development of gardens Using genetically modified flora"
+          "text": "Development of gardens using genetically modified flora"
         },
         {
           "id": "c",
@@ -2107,7 +2107,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 72,
         "subtags": []
       },
       "markBreakdown": [
@@ -2120,7 +2120,7 @@
     {
       "id": "upsc_2022_gs1_q51",
       "type": "single-choice",
-      "question": "In the Government of India Act 1919, the functions of Provincial Government were divided into \"Reserved\" and \"Transferred\" subjects. Which of the following were treated as \"Reserved\" subjects?\n1. Administration of Justice\n2. Local Self-Government\n3. Land Revenue\n4. Police\n\nSelect the correct answer using the code given below",
+      "question": "In the Government of India Act, 1919, the functions of Provincial Government were divided into \"Reserved\" and \"Transferred\" subjects. Which of the following were treated as \"Reserved\" subjects?\n1. Administration of Justice\n2. Local Self-Government\n3. Land Revenue\n4. Police\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2149,7 +2149,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 27,
+        "mainTag": 358,
         "subtags": []
       },
       "markBreakdown": [
@@ -2162,7 +2162,7 @@
     {
       "id": "upsc_2022_gs1_q52",
       "type": "single-choice",
-      "question": "In medieval India, the term \"Fanam\" referred to",
+      "question": "In medieval India, the term \"Fanam\" referred to:",
       "options": [
         {
           "id": "a",
@@ -2204,7 +2204,7 @@
     {
       "id": "upsc_2022_gs1_q53",
       "type": "single-choice",
-      "question": "Consider the following freedom fighters:\n1. Barindra Kumar Ghosh\n2. Jogesh Chandra Chatterjee\n3. Rash Behari Bose Who of the above was/were actively associated with the Ghadar Party?",
+      "question": "Consider the following freedom fighters:\n1. Barindra Kumar Ghosh\n2. Jogesh Chandra Chatterjee\n3. Rash Behari Bose\n\nWho of the above was/were actively associated with the Ghadar Party?",
       "options": [
         {
           "id": "a",
@@ -2233,7 +2233,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 359,
         "subtags": []
       },
       "markBreakdown": [
@@ -2275,7 +2275,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 358,
         "subtags": []
       },
       "markBreakdown": [
@@ -2317,7 +2317,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 5,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -2330,7 +2330,7 @@
     {
       "id": "upsc_2022_gs1_q56",
       "type": "single-choice",
-      "question": "With reference to Indian history, consider the following pairs: Historical person - Known as\n1. Aryadeva - Jaina scholar\n2. Dignaga - Buddhist scholar\n3. Nathamuni - Vaishnava scholar How many pairs given above are correctly matched?",
+      "question": "With reference to Indian history, consider the following pairs:\n\n| Historical person | Known as |\n|---|---|\n| 1. Aryadeva | Jaina scholar |\n| 2. Dignaga | Buddhist scholar |\n| 3. Nathamuni | Vaishnava scholar |\n\nHow many pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -2359,7 +2359,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -2372,7 +2372,7 @@
     {
       "id": "upsc_2022_gs1_q57",
       "type": "single-choice",
-      "question": "With reference to Indian history, consider the following statements:\n1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji\n2. During the reign of Ala-ud-din Khalji, one Mongol assault marched uDelhi and besieged the city\n3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to Indian history, consider the following statements:\n1. The first Mongol invasion of India happened during the reign of Jalal-ud-din Khalji\n2. During the reign of Ala-ud-din Khalji, one Mongol assault marched up to Delhi and besieged the city\n3. Muhammad-bin-Tughlaq temporarily lost portions of north-west of his kingdom to Mongols.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2401,7 +2401,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 5,
+        "mainTag": 338,
         "subtags": []
       },
       "markBreakdown": [
@@ -2414,7 +2414,7 @@
     {
       "id": "upsc_2022_gs1_q58",
       "type": "single-choice",
-      "question": "With reference to Indian history, who of the following were known as \"Kulah-Daran\"?",
+      "question": "With reference to Indian history, who of the following were known as “Kulah-Daran”?",
       "options": [
         {
           "id": "a",
@@ -2456,7 +2456,7 @@
     {
       "id": "upsc_2022_gs1_q59",
       "type": "single-choice",
-      "question": "With reference to Indian history, consider the following statements:\n1. The Dutch established their factories/warehouses on the east coast on lands granted to them by Gajapati rulers\n2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate\n3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to Indian history, consider the following statements:\n1. The Dutch established their factories/warehouses on the east coast on lands granted to them by Gajapati rulers\n2. Alfonso de Albuquerque captured Goa from the Bijapur Sultanate\n3. The English East India Company established a factory at Madras on a plot of land leased from a representative of the Vijayanagara empire.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2485,7 +2485,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 349,
         "subtags": []
       },
       "markBreakdown": [
@@ -2518,7 +2518,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2527,7 +2527,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 331,
         "subtags": []
       },
       "markBreakdown": [
@@ -2540,7 +2540,7 @@
     {
       "id": "upsc_2022_gs1_q61",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. Tight monetary policy of US Federal Reserve could lead to capital flight.\n2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).\n3. Devaluation of domestic currency decreases the currency risk associated with ECBs.\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements:\n1. Tight monetary policy of U.S. Federal Reserve could lead to capital flight.\n2. Capital flight may increase the interest cost of firms with existing External Commercial Borrowings (ECBs).\n3. Devaluation of domestic currency decreases the currency risk associated with ECBs.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2560,16 +2560,15 @@
         }
       ],
       "correctAnswers": [
-        "a"
       ],
-      "explanation": "",
+      "explanation": "Withdrawn by UPSC; the official answer key does not assign a correct option.",
       "marks": 2.0,
       "negativeMarks": 0.667,
       "negativeMarksUnanswered": 0,
       "difficulty": "hard",
-      "tags": [],
+      "tags": ["withdrawn"],
       "taxonomy": {
-        "mainTag": 40,
+        "mainTag": 185,
         "subtags": []
       },
       "markBreakdown": [
@@ -2624,7 +2623,7 @@
     {
       "id": "upsc_2022_gs1_q63",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. In India credit rating agencies are regulated by the Reserve Bank of India\n2. The rating agency popularly known as ICRA is a public limited company\n3. Brickwork Ratings is an Indian credit rating agency.\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements:\n1. In India, credit rating agencies are regulated by the Reserve Bank of India\n2. The rating agency popularly known as ICRA is a public limited company\n3. Brickwork Ratings is an Indian credit rating agency.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2653,7 +2652,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 26,
         "subtags": []
       },
       "markBreakdown": [
@@ -2666,7 +2665,7 @@
     {
       "id": "upsc_2022_gs1_q64",
       "type": "single-choice",
-      "question": "With reference to the ‘Banks Board Bureau (BBB) which of the following statements are correct?\n1. The Governor of the Chairman of BBB\n2. BBB recommends for the selection of head for Public Sector Banks\n3. BBB helps the Public Sector Banks in developing strategies and capital raising plans\n\nSelect the correct answer using the code given below",
+      "question": "With reference to the “Banks Board Bureau (BBB)”, which of the following statements are correct?\n\n1. The Governor of RBI is the Chairman of BBB.\n2. BBB recommends for the selection of heads for Public Sector Banks.\n3. BBB helps the Public Sector Banks in developing strategies and capital raising plans.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2750,7 +2749,7 @@
     {
       "id": "upsc_2022_gs1_q66",
       "type": "single-choice",
-      "question": "Consider the following:\n1. Asian Infrastructure Investment Bank\n2. Missile Technology Control Regime\n3. Shanghai Cooperation Organisation Indian is a member of which of the above?",
+      "question": "Consider the following:\n1. Asian Infrastructure Investment Bank\n2. Missile Technology Control Regime\n3. Shanghai Cooperation Organisation\n\nIndia is a member of which of the above?",
       "options": [
         {
           "id": "a",
@@ -2779,7 +2778,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 181,
         "subtags": []
       },
       "markBreakdown": [
@@ -2792,7 +2791,7 @@
     {
       "id": "upsc_2022_gs1_q67",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. Vietnam has been one of the fastest-growing economies in the world in recent years\n2. Vietnam is led by a multi-party political system\n3. Vietnam’s economic growth is linked to its integration with global supply chains and focus on exports\n4. For a long time, Vietnam’s low labor costs and stable exchange rates have attracted global manufacturers\n5. Vietnam has the most productive e-service sector in the Indo-Pacific region.\n\nWhich of the statements given above are correct?",
+      "question": "Consider the following statements:\n1. Vietnam has been one of the fastest-growing economies in the world in the recent years\n2. Vietnam is led by a multi-party political system\n3. Vietnam’s economic growth is linked to its integration with global supply chains and focus on exports\n4. For a long time, Vietnam’s low labor costs and stable exchange rates have attracted global manufacturers\n5. Vietnam has the most productive e-service sector in the Indo-Pacific region.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2834,7 +2833,7 @@
     {
       "id": "upsc_2022_gs1_q68",
       "type": "single-choice",
-      "question": "In India which one of the following is responsible for maintaining for prices stability by controlling inflation?",
+      "question": "In India, which one of the following is responsible for maintaining price stability by controlling inflation?",
       "options": [
         {
           "id": "a",
@@ -2863,7 +2862,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 47,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -2876,7 +2875,7 @@
     {
       "id": "upsc_2022_gs1_q69",
       "type": "single-choice",
-      "question": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to Non-Fungible Tokens (NFTs), consider the following statements:\n1. They enable the digital representation of physical assets.\n2. They are unique cryptographic tokens that exist on a blockchain.\n3. They can be traded or exchanged at equivalency and therefore can be used as a medium of commercial transactions.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2905,7 +2904,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 73,
+        "mainTag": 55,
         "subtags": []
       },
       "markBreakdown": [
@@ -2918,7 +2917,7 @@
     {
       "id": "upsc_2022_gs1_q70",
       "type": "single-choice",
-      "question": "Consider the following pairs: Reservoirs States\n1. Ghataprabha Telangana\n2. Gandhi Sagar Madhya Pradesh\n3. Indira Sagar Andhra Pradesh\n4. Maithon Chhattisgarh How many pairs given above are not correctly matched?",
+      "question": "Consider the following pairs:\n\n| Reservoirs | States |\n|---|---|\n| 1. Ghataprabha | Telangana |\n| 2. Gandhi Sagar | Madhya Pradesh |\n| 3. Indira Sagar | Andhra Pradesh |\n| 4. Maithon | Chhattisgarh |\n\nHow many pairs given above are not correctly matched?",
       "options": [
         {
           "id": "a",
@@ -2960,7 +2959,7 @@
     {
       "id": "upsc_2022_gs1_q71",
       "type": "single-choice",
-      "question": "In India, which one of the following Compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers?",
+      "question": "In India, which one of the following compiles information on industrial disputes, closures, retrenchments and lay-offs in factories employing workers?",
       "options": [
         {
           "id": "a",
@@ -3002,7 +3001,7 @@
     {
       "id": "upsc_2022_gs1_q72",
       "type": "single-choice",
-      "question": "In India, what is the role of the Coal Controller’s Organization (CCO)?\n1. CCO is the major source of coal Statistics in Government of India\n2. It monitors progress of development of Captive Coal/ Lignite blocks\n3. It hears any objection to the Government’s notification relating to acquisition of coal-bearing areas\n4. It ensures that coal mining companies deliver the coal to end users in the prescribed time\n\nSelect the correct answer using the code given below",
+      "question": "In India, what is the role of the Coal Controller’s Organization (CCO)?\n1. CCO is the major source of coal Statistics in Government of India\n2. It monitors progress of development of Captive Coal/ Lignite blocks\n3. It hears any objection to the Government’s notification relating to acquisition of coal-bearing areas\n4. It ensures that coal mining companies deliver the coal to end users in the prescribed time\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3044,7 +3043,7 @@
     {
       "id": "upsc_2022_gs1_q73",
       "type": "single-choice",
-      "question": "If a Particular area is brought unde the Fifth Schedule of the Constitution of India, which one of the following statement best reflects the consequence of it?",
+      "question": "If a particular area is brought under the Fifth Schedule of the Constitution of India, which one of the following statements best reflects the consequence of it?",
       "options": [
         {
           "id": "a",
@@ -3052,7 +3051,7 @@
         },
         {
           "id": "b",
-          "text": "This would create a local self- governing body in that area"
+          "text": "This would create a local self-governing body in that area"
         },
         {
           "id": "c",
@@ -3060,7 +3059,7 @@
         },
         {
           "id": "d",
-          "text": "The State having such areas would be declare a Special Category State"
+          "text": "The State having such areas would be declared a Special Category State"
         }
       ],
       "correctAnswers": [
@@ -3073,7 +3072,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 278,
         "subtags": []
       },
       "markBreakdown": [
@@ -3086,7 +3085,7 @@
     {
       "id": "upsc_2022_gs1_q74",
       "type": "single-choice",
-      "question": "Consider the following statements\n1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization\n2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. The India Sanitation Coalition is a platform to promote sustainable sanitation and is funded by the Government of India and the World Health Organization\n2. The National Institute of Urban Affairs is an apex body of the Ministry of Housing and Urban Affairs in Government of India and provides innovative solutions to address the challenges of Urban India.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3115,7 +3114,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 145,
         "subtags": []
       },
       "markBreakdown": [
@@ -3170,7 +3169,7 @@
     {
       "id": "upsc_2022_gs1_q76",
       "type": "single-choice",
-      "question": "With Reference to the “United Nations Credentials Committee”, consider the following statements:\n1. It is a committee set up by the UN Security Council and works under its supervision\n2. It traditionally meets in March, June and September every year\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to the “United Nations Credentials Committee”, consider the following statements:\n1. It is a committee set up by the UN Security Council and works under its supervision\n2. It traditionally meets in March, June and September every year\n3. It assesses the credentials of all UN members before submitting a report to the General Assembly for approval.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3199,7 +3198,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 394,
         "subtags": []
       },
       "markBreakdown": [
@@ -3224,7 +3223,7 @@
         },
         {
           "id": "c",
-          "text": "It is a set of norms to be followed by the countries whose scientists undertake research studies In the North Pole and South Pole"
+          "text": "It is a set of norms to be followed by the countries whose scientists undertake research studies in the North Pole and South Pole"
         },
         {
           "id": "d",
@@ -3241,7 +3240,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 387,
         "subtags": []
       },
       "markBreakdown": [
@@ -3254,7 +3253,7 @@
     {
       "id": "upsc_2022_gs1_q78",
       "type": "single-choice",
-      "question": "With reference to the United Nations General Assembly, consider the following statements:\n1. The UN General Assembly can grant observer status in the non-member States\n2. Inter-governmental organisations can seek observer status in the UN General Assembly\n3. Permanent Observes in the UN General Assembly can maintain missions at the UN headquarters.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to the United Nations General Assembly, consider the following statements:\n1. The UN General Assembly can grant observer status to the non-member States\n2. Inter-governmental organisations can seek observer status in the UN General Assembly\n3. Permanent Observers in the UN General Assembly can maintain missions at the UN headquarters.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3283,7 +3282,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 394,
         "subtags": []
       },
       "markBreakdown": [
@@ -3296,7 +3295,7 @@
     {
       "id": "upsc_2022_gs1_q79",
       "type": "single-choice",
-      "question": "With reference to the “Tea Board” in India, consider the following statements:\n1. The Tea Board is a statutory body\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare\n3. The Tea Board’s Head Office is situated in Bengaluru\n4. The Board has overseas office at Dubai and Moscow.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to the “Tea Board” in India, consider the following statements:\n1. The Tea Board is a statutory body\n2. It is a regulatory body attached to the Ministry of Agriculture and Farmers Welfare\n3. The Tea Board’s Head Office is situated in Bengaluru\n4. The Board has overseas offices at Dubai and Moscow.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3325,7 +3324,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 86,
+        "mainTag": 26,
         "subtags": []
       },
       "markBreakdown": [
@@ -3338,7 +3337,7 @@
     {
       "id": "upsc_2022_gs1_q80",
       "type": "single-choice",
-      "question": "Which one of the following best describes the term “greenwashing:”?",
+      "question": "Which one of the following best describes the term “greenwashing”?",
       "options": [
         {
           "id": "a",
@@ -3367,7 +3366,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 56,
+        "mainTag": 50,
         "subtags": []
       },
       "markBreakdown": [
@@ -3380,7 +3379,7 @@
     {
       "id": "upsc_2022_gs1_q81",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. High clouds primarily reflect solar radiation and cool the surface of the Earth\n2. Low clouds have a high absorption of infrared radiation emanating from the Earth's surface and thus cause warming effect.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n1. High clouds primarily reflect solar radiation and cool the surface of the Earth.\n2. Low clouds have a high absorption of infrared radiation emanating from the Earth's surface and thus cause warming effect.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3409,7 +3408,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -3464,7 +3463,7 @@
     {
       "id": "upsc_2022_gs1_q83",
       "type": "single-choice",
-      "question": "Consider the following countries\n1. Armenia\n2. Azerbaijan\n3. Croatia\n4. Romania\n5. Uzbekistan\n\nWhich of the above are members of the Organization of Turkic States?",
+      "question": "Consider the following countries:\n1. Armenia\n2. Azerbaijan\n3. Croatia\n4. Romania\n5. Uzbekistan\n\nWhich of the above are members of the Organization of Turkic States?",
       "options": [
         {
           "id": "a",
@@ -3535,7 +3534,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 85,
         "subtags": []
       },
       "markBreakdown": [
@@ -3548,7 +3547,7 @@
     {
       "id": "upsc_2022_gs1_q85",
       "type": "single-choice",
-      "question": "With reference to the United Nations Convention on the Law of Sea, consider the following statements:\n1. A coastal state has the right to establish the breadth of its territorial sea ua limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention\n2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea\n3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.\n\nWhich of the statements given above are correct?",
+      "question": "With reference to the United Nations Convention on the Law of Sea, consider the following statements:\n1. A coastal state has the right to establish the breadth of its territorial sea up to a limit not exceeding 12 nautical miles, measured from baseline determined in accordance with the convention.\n2. Ships of all states, whether coastal or land-locked, enjoy the right of innocent passage through the territorial sea.\n3. The Exclusive Economic Zone shall not extend beyond 200 nautical miles from the baseline from which the breadth of the territorial sea is measured.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3577,7 +3576,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 387,
         "subtags": []
       },
       "markBreakdown": [
@@ -3606,7 +3605,7 @@
         },
         {
           "id": "d",
-          "text": "Though International Court, of Justice declared them as no man's land, some South-East Asian countries claim them"
+          "text": "Though International Court of Justice declared them as no man's land, some South-East Asian countries claim them"
         }
       ],
       "correctAnswers": [
@@ -3619,7 +3618,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 11,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -3632,7 +3631,7 @@
     {
       "id": "upsc_2022_gs1_q87",
       "type": "single-choice",
-      "question": "Consider the following pairs: Country Important reason for being in the news recently\n1. Chad Setting up of permanent military base by China\n2. Guinea Suspension of Constitution and Government by military\n3. Lebanon Severe and prolonged economic depression\n4. Tunisia Suspension of Parliament by President How many pairs given above are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Country | Important reason for being in the news recently |\n|---|---|\n| 1. Chad | Setting up of permanent military base by China |\n| 2. Guinea | Suspension of Constitution and Government by military |\n| 3. Lebanon | Severe and prolonged economic depression |\n| 4. Tunisia | Suspension of Parliament by President |\n\nHow many pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3661,7 +3660,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 19,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -3674,7 +3673,7 @@
     {
       "id": "upsc_2022_gs1_q88",
       "type": "single-choice",
-      "question": "Consider the following pairs: Region often mentioned in the news Country\n1. Anatolia Turkey\n2. Amhara Ethiopia\n3. Cabo Delgado Spain\n4. Catalonia Italy How many pairs given above are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Region often mentioned in the news | Country |\n|---|---|\n| 1. Anatolia | Turkey |\n| 2. Amhara | Ethiopia |\n| 3. Cabo Delgado | Spain |\n| 4. Catalonia | Italy |\n\nHow many pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3703,7 +3702,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -3736,7 +3735,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3745,7 +3744,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 71,
         "subtags": []
       },
       "markBreakdown": [
@@ -3800,7 +3799,7 @@
     {
       "id": "upsc_2022_gs1_q91",
       "type": "single-choice",
-      "question": "Consider the following pairs: Site of Ashoka’s major rock edicts Location in the State of\n1. Dhauli Odisha\n2. Erragudi Andhra Pradesh\n3. Jaugada Madhya Pradesh\n4. Kalsi Karnataka How many pairs given above are correctly matched",
+      "question": "Consider the following pairs:\n\nSite of Ashoka’s major rock edicts — Location in the State of\n1. Dhauli — Odisha\n2. Erragudi — Andhra Pradesh\n3. Jaugada — Madhya Pradesh\n4. Kalsi — Karnataka\n\nHow many pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3829,7 +3828,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 331,
         "subtags": []
       },
       "markBreakdown": [
@@ -3842,7 +3841,7 @@
     {
       "id": "upsc_2022_gs1_q92",
       "type": "single-choice",
-      "question": "Consider the following pairs: King Dynasty\n1. Nanuka Chandela\n2. Jayashakti Parmara\n3. Nagabhata II Gurjara-Pratihara\n4. Bhoja Rashtrakuta How many pairs given above are correctly matched",
+      "question": "Consider the following pairs:\n\nKing — Dynasty\n1. Nannuka — Chandela\n2. Jayashakti — Paramara\n3. Nagabhata II — Gurjara-Pratihara\n4. Bhoja — Rashtrakuta\n\nHow many pairs given above are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3871,7 +3870,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 336,
         "subtags": []
       },
       "markBreakdown": [
@@ -3926,7 +3925,7 @@
     {
       "id": "upsc_2022_gs1_q94",
       "type": "single-choice",
-      "question": "“Yogavasistha” was translated into Persian by Nizamuddin Panipati during the reign of",
+      "question": "“Yogavāsistha” was translated into Persian by Nizamuddin Panipati during the reign of",
       "options": [
         {
           "id": "a",
@@ -3938,7 +3937,7 @@
         },
         {
           "id": "c",
-          "text": "Shajahan"
+          "text": "Shahjahan"
         },
         {
           "id": "d",
@@ -3955,7 +3954,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 347,
         "subtags": []
       },
       "markBreakdown": [
@@ -4010,7 +4009,7 @@
     {
       "id": "upsc_2022_gs1_q96",
       "type": "single-choice",
-      "question": "The Prime Minister recently inaugurated the new Circuit House near Somanath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple?\n1. Somnath Temple is one of the Jyotirlinga shrines\n2. A description of Somnath Temple was given by Al-Biruni\n3. Pran Pratistha of Somnath Temple (installation of the present-day temple) was done by President S. Radhakrishnan\n\nSelect the correct answer using the code given below",
+      "question": "The Prime Minister recently inaugurated the new Circuit House near Somnath Temple at Veraval. Which of the following statements are correct regarding Somnath Temple?\n1. Somnath Temple is one of the Jyotirlinga shrines\n2. A description of Somnath Temple was given by Al-Biruni\n3. Pran Pratishtha of Somnath Temple (installation of the present-day temple) was done by President S. Radhakrishnan\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -4081,7 +4080,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -4123,7 +4122,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 199,
         "subtags": []
       },
       "markBreakdown": [
@@ -4136,7 +4135,7 @@
     {
       "id": "upsc_2022_gs1_q99",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\nDNA Barcoding can be a tool to:\n\n1. Assess the age of a plant or animal.\n2. Distinguish among species that look alike.\n3. Identify undesirable animal or plant materials in processed foods.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements:\n\nDNA barcoding can be a tool to:\n\n1. Assess the age of a plant or animal.\n2. Distinguish among species that look alike.\n3. Identify undesirable animal or plant materials in processed foods.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4165,7 +4164,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 67,
+        "mainTag": 77,
         "subtags": []
       },
       "markBreakdown": [
@@ -4178,7 +4177,7 @@
     {
       "id": "upsc_2022_gs1_q100",
       "type": "single-choice",
-      "question": "Consider the following:\n\n1. Carbon monoxide\n2. Nitrogen oxide\n3. Ozone\n4. Sulphur dioxide\n\nExcess of which of the above in the environment is/are cause(s) of acid rain?",
+      "question": "Consider the following:\n\n1. Carbon monoxide\n2. Nitrogen oxides\n3. Ozone\n4. Sulphur dioxide\n\nExcess of which of the above in the environment is/are cause(s) of acid rain?",
       "options": [
         {
           "id": "a",

@@ -11,7 +11,7 @@
     "section": "prelims-gs1",
     "sourceId": "upsc_2014_gs1",
     "practiceMode": "mcq",
-    "contentVersion": 47,
+    "contentVersion": 50,
     "taxonomyVersion": 4,
     "durationSeconds": 7200,
     "maxMarks": 200
@@ -20,23 +20,23 @@
     {
       "id": "upsc_2014_gs1_q1",
       "type": "single-choice",
-      "question": "The Partition of Bengal made by Lord Curzon in 1905 lasted until",
+      "question": "What are the significances of a practical approach to sugarcane production known as 'Sustainable Sugarcane Initiative'?\n1. Seed cost is very low in this compared to the conventional method of cultivation.\n2. Drip irrigation can be practiced very effectively in this.\n3. There is no application of chemical/inorganic fertilizers at all in this.\n4. The scope for intercropping is more in this compared to the conventional method of cultivation.\n\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
-          "text": "the First World War when Indian troops were needed by the British and the partition was ended"
+          "text": "1 and 3 only"
         },
         {
           "id": "b",
-          "text": "King George V abrogated Curzon’s Act at the Royal Darbar in Delhi in 1911"
+          "text": "1, 2 and 4 only"
         },
         {
           "id": "c",
-          "text": "Gandhiji launched his Civil Disobedience Movement"
+          "text": "2, 3 and 4 only"
         },
         {
           "id": "d",
-          "text": "the Partition of India, in 1947 when East Bengal became East Pakistan"
+          "text": "1, 2, 3 and 4"
         }
       ],
       "correctAnswers": [
@@ -49,7 +49,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -62,7 +62,49 @@
     {
       "id": "upsc_2014_gs1_q2",
       "type": "single-choice",
-      "question": "Which one of the following pairs of islands is separated from each other by the ‘Ten Degree Channel’?",
+      "question": "If a wetland of international importance is brought under the 'Montreux Record', what does it imply?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference"
+        },
+        {
+          "id": "b",
+          "text": "The country in which the wetland is located should enact a law to prohibit any human activity within five kilometres from the edge of the wetland"
+        },
+        {
+          "id": "c",
+          "text": "The survival of the wetland depends on the cultural practices and traditions of certain communities living in its vicinity and therefore the cultural diversity therein should not be destroyed"
+        },
+        {
+          "id": "d",
+          "text": "It is given the status of 'World Heritage Site'"
+        }
+      ],
+      "correctAnswers": [
+        "a"
+      ],
+      "explanation": "",
+      "marks": 2.0,
+      "negativeMarks": 0.667,
+      "negativeMarksUnanswered": 0,
+      "difficulty": "hard",
+      "tags": [],
+      "taxonomy": {
+        "mainTag": 182,
+        "subtags": []
+      },
+      "markBreakdown": [
+        {
+          "label": "question",
+          "marks": 2.0
+        }
+      ]
+    },
+    {
+      "id": "upsc_2014_gs1_q3",
+      "type": "single-choice",
+      "question": "Which one of the following pairs of islands is separated from each other by the Ten Degree Channel?",
       "options": [
         {
           "id": "a",
@@ -102,9 +144,9 @@
       ]
     },
     {
-      "id": "upsc_2014_gs1_q3",
+      "id": "upsc_2014_gs1_q4",
       "type": "single-choice",
-      "question": "If you travel through the Himalayas, you are likely to see which of the following plants naturally growing there?\n\n1. Oak\n2. Rhododendron\n3. Sandalwood\n\nSelect the correct answer using the code given below:",
+      "question": "Consider the following pairs:\nProgramme/Project — Ministry\n1. Drought-Prone Area Programme: Ministry of Agriculture\n2. Desert Development Programme: Ministry of Environment and Forests\n3. National Watershed Development Project for Rainfed Areas: Ministry of Rural Development\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -116,53 +158,11 @@
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
-        },
-        {
-          "id": "d",
           "text": "1, 2 and 3"
-        }
-      ],
-      "correctAnswers": [
-        "a"
-      ],
-      "explanation": "",
-      "marks": 2.0,
-      "negativeMarks": 0.667,
-      "negativeMarksUnanswered": 0,
-      "difficulty": "hard",
-      "tags": [],
-      "taxonomy": {
-        "mainTag": 15,
-        "subtags": []
-      },
-      "markBreakdown": [
-        {
-          "label": "question",
-          "marks": 2.0
-        }
-      ]
-    },
-    {
-      "id": "upsc_2014_gs1_q4",
-      "type": "single-choice",
-      "question": "Which of the following are some important pollutants released by steel industry in India?\n1. Oxides of sulphur\n2. Oxides of nitrogen\n3. Carbon monoxide\n4. Carbon dioxide\n\nSelect the correct answer using the code given below",
-      "options": [
-        {
-          "id": "a",
-          "text": "1, 3 and 4 only"
-        },
-        {
-          "id": "b",
-          "text": "2 and 3 only"
-        },
-        {
-          "id": "c",
-          "text": "1 and 4 only"
         },
         {
           "id": "d",
-          "text": "1, 2, 3 and 4"
+          "text": "None"
         }
       ],
       "correctAnswers": [
@@ -175,7 +175,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 29,
         "subtags": []
       },
       "markBreakdown": [
@@ -188,19 +188,19 @@
     {
       "id": "upsc_2014_gs1_q5",
       "type": "single-choice",
-      "question": "Consider the following pairs\n1. Dampa Tiger Reserve: Mizoram\n2. Gumti Wildlife Sanctuary: Sikkim\n3. Saramati Peak: Nagaland\n\nWhich of the above pairs is /are correctly matched?",
+      "question": "With reference to Bombay Natural History Society (BNHS), consider the following statements:\n\n1. It is an autonomous organization under the Ministry of Environment and Forests.\n2. It strives to conserve nature through action-based research, education and public awareness.\n3. It organizes and conducts nature trails and camps for the general public.\n\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "1 and 3 only"
         },
         {
           "id": "b",
-          "text": "2 and 3 only"
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "2 and 3 only"
         },
         {
           "id": "d",
@@ -217,7 +217,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 70,
         "subtags": []
       },
       "markBreakdown": [
@@ -230,23 +230,23 @@
     {
       "id": "upsc_2014_gs1_q6",
       "type": "single-choice",
-      "question": "The Ghadr (Ghadar) was a",
+      "question": "With reference to 'Global Environment Facility', which of the following statements is/are correct?",
       "options": [
         {
           "id": "a",
-          "text": "revolutionary association of Indians with headquarters at San Francisco"
+          "text": "It serves as financial mechanism for 'Convention on Biological Diversity' and 'United Nations Framework Convention on Climate Change'"
         },
         {
           "id": "b",
-          "text": "nationalist organization operating from Singapore"
+          "text": "It undertakes scientific research on environmental issues at global level"
         },
         {
           "id": "c",
-          "text": "militant organization with headquarters at Berlin"
+          "text": "It is an agency under OECD to facilitate the transfer of technology and funds to underdeveloped countries with specific aim to protect their environment"
         },
         {
           "id": "d",
-          "text": "communist movement for India’s freedom with headquarters at Tashkent"
+          "text": "None of the above"
         }
       ],
       "correctAnswers": [
@@ -259,7 +259,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 96,
         "subtags": []
       },
       "markBreakdown": [
@@ -314,23 +314,23 @@
     {
       "id": "upsc_2014_gs1_q8",
       "type": "single-choice",
-      "question": "Consider the following pairs:\n1. Hills Region Cardamom Hills\n2. Coromandel Coast Kaimur Hills\n3. Konkan Coast Mahadeo Hills\n4. Central India Mikir Hills\n5. North-East India\n\nWhich of the above pairs are correctly matched?",
+      "question": "Consider the following languages:\n1. Gujarati\n2. Kannada\n3. Telugu\n\nWhich of the above has/have been declared as 'Classical Language/Languages' by the Government?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "2 and 3"
+          "text": "3 only"
         },
         {
           "id": "c",
-          "text": "3 and 4"
+          "text": "2 and 3 only"
         },
         {
           "id": "d",
-          "text": "2 and 4"
+          "text": "Both (a) and (b)"
         }
       ],
       "correctAnswers": [
@@ -343,7 +343,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 118,
         "subtags": []
       },
       "markBreakdown": [
@@ -356,23 +356,23 @@
     {
       "id": "upsc_2014_gs1_q9",
       "type": "single-choice",
-      "question": "Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth?\n1. Volcanic action\n2. Respiration\n3. Photosynthesis\n4. Decay of organic matter\n\nSelect the correct answer using the code given below",
+      "question": "Consider the following pairs:\n\n| Protected area | State |\n| --- | --- |\n| 1. Dampa Tiger Reserve | Mizoram |\n| 2. Gumti Wildlife Sanctuary | Sikkim |\n| 3. Saramati Peak | Nagaland |\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 3 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "2 and 3 only"
         },
         {
           "id": "c",
-          "text": "1, 2 and 4 only"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
-          "text": "1, 2, 3 and 4"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -385,7 +385,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 68,
+        "mainTag": 70,
         "subtags": []
       },
       "markBreakdown": [
@@ -398,23 +398,23 @@
     {
       "id": "upsc_2014_gs1_q10",
       "type": "single-choice",
-      "question": "Which one of the following is the largest Committee of the Parliament?",
+      "question": "With reference to a conservation organization called Wetlands International, which of the following statements is/are correct?\n1. It is an intergovernmental organization formed by the countries which are signatories to Ramsar Convention.\n2. It works at the field level to develop and mobilize knowledge, and use the practical experience to advocate for better policies.\n\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
-          "text": "The Committee on Public Accounts"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "The Committee on Estimates"
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "The Committee on Public Undertakings"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "The Committee on Petitions"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -427,7 +427,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 19,
+        "mainTag": 96,
         "subtags": []
       },
       "markBreakdown": [
@@ -469,7 +469,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 98,
         "subtags": []
       },
       "markBreakdown": [
@@ -482,23 +482,23 @@
     {
       "id": "upsc_2014_gs1_q12",
       "type": "single-choice",
-      "question": "Lichens, which are capable of initiating ecological succession even on a bare rock, are actually a symbiotic association of",
+      "question": "Consider the following diseases:\n1. Diphtheria\n2. Chickenpox\n3. Smallpox\n\nWhich of the above diseases has/have been eradicated in India?",
       "options": [
         {
           "id": "a",
-          "text": "algae and bacteria"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "algae and fungi"
+          "text": "3 only"
         },
         {
           "id": "c",
-          "text": "bacteria and fungi"
+          "text": "1, 2 and 3"
         },
         {
           "id": "d",
-          "text": "fungi and mosses"
+          "text": "None"
         }
       ],
       "correctAnswers": [
@@ -511,7 +511,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 66,
+        "mainTag": 63,
         "subtags": []
       },
       "markBreakdown": [
@@ -524,7 +524,7 @@
     {
       "id": "upsc_2014_gs1_q13",
       "type": "single-choice",
-      "question": "Which of the following phenomena might have influenced the evolution of organisms?\n1. Continental drift\n2. Glacial cycles\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following phenomena might have influenced the evolution of organisms?\n1. Continental drift\n2. Glacial cycles\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -553,7 +553,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -566,7 +566,7 @@
     {
       "id": "upsc_2014_gs1_q14",
       "type": "single-choice",
-      "question": "Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?\n1. Construction of dams and barrages on rivers\n2. Increase in the population of crocodiles in rivers\n3. Getting trapped in fishing nets accidentally\n4. Use of synthetic fertilizers and other agricultural chemicals in crop-fields in the vicinity of rivers\n\nSelect the correct answer using the code given below",
+      "question": "Other than poaching, what are the possible reasons for the decline in the population of Ganges River Dolphins?\n1. Construction of dams and barrages on rivers\n2. Increase in the population of crocodiles in rivers\n3. Getting trapped in fishing nets accidentally\n4. Use of synthetic fertilizers and other agricultural chemicals in crop-fields in the vicinity of rivers\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -595,7 +595,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -608,23 +608,23 @@
     {
       "id": "upsc_2014_gs1_q15",
       "type": "single-choice",
-      "question": "With reference to Balance of Payments, which of the following constitutes/constitute the Current Account?\n1. Balance of trade\n2. Foreign assets\n3. Balance of invisibles\n4. Special Drawing Right\n\nSelect the correct answer using the code given below",
+      "question": "The Radcliffe Committee was appointed to",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "solve the problem of minorities in India"
         },
         {
           "id": "b",
-          "text": "2 and 3"
+          "text": "give effect to the Independence Bill"
         },
         {
           "id": "c",
-          "text": "1 and 3"
+          "text": "delimit the boundaries between India and Pakistan"
         },
         {
           "id": "d",
-          "text": "1, 2 and 4"
+          "text": "enquire into the riots in East Bengal"
         }
       ],
       "correctAnswers": [
@@ -637,7 +637,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 48,
+        "mainTag": 360,
         "subtags": []
       },
       "markBreakdown": [
@@ -650,7 +650,7 @@
     {
       "id": "upsc_2014_gs1_q16",
       "type": "single-choice",
-      "question": "What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?\n\n1. It enables the beneficiaries to draw their subsidies and social security benefits in their villages.\n2. It enables the beneficiaries in the rural areas to make deposits and withdrawals.\n\nSelect the correct answer using the code given below:",
+      "question": "Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?\n1. They are highly resistant to degradation in the environment.\n2. They are able to accumulate in humans and animals.\n\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
@@ -679,7 +679,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 69,
         "subtags": []
       },
       "markBreakdown": [
@@ -721,7 +721,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 15,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -734,23 +734,23 @@
     {
       "id": "upsc_2014_gs1_q18",
       "type": "single-choice",
-      "question": "Consider the following rivers:\n1. Barak\n2. Lohit\n3. Subansiri\n\nWhich of the above flows / flow through Arunachal Pradesh?",
+      "question": "Which one of the following is the largest Committee of the Parliament?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "The Committee on Public Accounts"
         },
         {
           "id": "b",
-          "text": "2 and 3 only"
+          "text": "The Committee on Estimates"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "The Committee on Public Undertakings"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "The Committee on Petitions"
         }
       ],
       "correctAnswers": [
@@ -763,7 +763,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -776,7 +776,7 @@
     {
       "id": "upsc_2014_gs1_q19",
       "type": "single-choice",
-      "question": "With reference to Bombay Natural History Society (BNHS), consider the following statements:\n1. It is an autonomous organization under the Ministry of Environment and Forests\n2. It strives to conserve nature through action-based research, education and public awareness\n3. It organizes and conducts nature trails and camps for the general public.\n\nWhich of the statements given above is/are correct?",
+      "question": "Which of the following adds/add carbon dioxide to the carbon cycle on the planet Earth?\n\n1. Volcanic action\n2. Respiration\n3. Photosynthesis\n4. Decay of organic matter\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -788,11 +788,11 @@
         },
         {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "1, 2 and 4 only"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "1, 2, 3 and 4"
         }
       ],
       "correctAnswers": [
@@ -805,7 +805,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 72,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -818,7 +818,7 @@
     {
       "id": "upsc_2014_gs1_q20",
       "type": "single-choice",
-      "question": "If you walk through countryside, you are likely to see some birds stalking alongside the cattle to seize the insects, disturbed by their movement through grasses. Which of the following is/are such bird/birds?\n1. Painted Stork\n2. Common Myna\n3. Black-necked Crane\n\nSelect the correct answer using the code given below",
+      "question": "If you walk through countryside, you are likely to see some birds stalking alongside the cattle to seize the insects, disturbed by their movement through grasses. Which of the following is/are such bird/birds?\n1. Painted Stork\n2. Common Myna\n3. Black-necked Crane\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -847,7 +847,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 112,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -860,23 +860,23 @@
     {
       "id": "upsc_2014_gs1_q21",
       "type": "single-choice",
-      "question": "In India, the problem of soil erosion is associated with which of the following?\n1. Terrace cultivation\n2. Deforestation\n3. Tropical climate\n\nSelect the correct answer using the code given below",
+      "question": "In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for:",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "Military officers"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "Village headmen"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "Specialists in Vedic rituals"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "Chiefs of craft guilds"
         }
       ],
       "correctAnswers": [
@@ -889,7 +889,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 5,
         "subtags": []
       },
       "markBreakdown": [
@@ -902,23 +902,23 @@
     {
       "id": "upsc_2014_gs1_q22",
       "type": "single-choice",
-      "question": "Turkey is located between",
+      "question": "Lichens are a symbiotic association of:",
       "options": [
         {
           "id": "a",
-          "text": "Black Sea and Caspian Sea"
+          "text": "Algae and bacteria"
         },
         {
           "id": "b",
-          "text": "Black Sea and Mediterranean Sea"
+          "text": "Algae and fungi"
         },
         {
           "id": "c",
-          "text": "Gulf of Suez and Mediterranean Sea"
+          "text": "Bacteria and fungi"
         },
         {
           "id": "d",
-          "text": "Gulf of Aqaba and Dead Sea"
+          "text": "Fungi and mosses"
         }
       ],
       "correctAnswers": [
@@ -931,7 +931,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 14,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -944,15 +944,15 @@
     {
       "id": "upsc_2014_gs1_q23",
       "type": "single-choice",
-      "question": "Which reference to Agni-IV Missile, which of the following statements is/are correct?\n1. It is a surface-to-surface missile\n2. It is fuelled by liquid propellant only\n3. It can deliver one-tonne nuclear warheads about 7500 km away\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following plants is naturally growing in the Himalayas?\n1. Oak\n2. Rhododendron\n3. Sandalwood\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "2 and 3 only"
+          "text": "3 only"
         },
         {
           "id": "c",
@@ -973,7 +973,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 81,
+        "mainTag": 15,
         "subtags": []
       },
       "markBreakdown": [
@@ -986,23 +986,23 @@
     {
       "id": "upsc_2014_gs1_q24",
       "type": "single-choice",
-      "question": "The sales tax you pay while purchasing a toothpaste is a",
+      "question": "Which of the following are some important pollutants released by steel industry in India?\n\n1. Oxides of sulphur\n2. Oxides of nitrogen\n3. Carbon monoxide\n4. Carbon dioxide\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "tax imposed by the Central Government"
+          "text": "1, 3 and 4 only"
         },
         {
           "id": "b",
-          "text": "tax imposed by the Central Government but collected by the State Government"
+          "text": "2 and 3 only"
         },
         {
           "id": "c",
-          "text": "tax imposed by the State Government but collected by the Central Government"
+          "text": "1 and 4 only"
         },
         {
           "id": "d",
-          "text": "tax imposed and collected by the State Government"
+          "text": "1, 2, 3 and 4"
         }
       ],
       "correctAnswers": [
@@ -1015,7 +1015,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 38,
+        "mainTag": 69,
         "subtags": []
       },
       "markBreakdown": [
@@ -1028,7 +1028,7 @@
     {
       "id": "upsc_2014_gs1_q25",
       "type": "single-choice",
-      "question": "Which of the following Kingdoms were associated with the life of the Buddha?\n1. Avanti\n2. Gandhara\n3. Kosala\n4. Magadha\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following Kingdoms were associated with the life of the Buddha?\n1. Avanti\n2. Gandhara\n3. Kosala\n4. Magadha\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -1057,7 +1057,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 330,
         "subtags": []
       },
       "markBreakdown": [
@@ -1112,23 +1112,23 @@
     {
       "id": "upsc_2014_gs1_q27",
       "type": "single-choice",
-      "question": "Consider the following countries:\n1. Denmark\n2. Japan\n3. Russian Federation\n4. United Kingdom\n5. United States of America\n\nWhich of the above are the members of the ‘Arctic Council ‘?",
+      "question": "The sales tax you pay while purchasing a toothpaste is a",
       "options": [
         {
           "id": "a",
-          "text": "1, 2 and 3"
+          "text": "tax imposed by the Central Government"
         },
         {
           "id": "b",
-          "text": "2, 3 and 4"
+          "text": "tax imposed by the Central Government but collected by the State Government"
         },
         {
           "id": "c",
-          "text": "1, 4 and 5"
+          "text": "tax imposed by the State Government but collected by the Central Government"
         },
         {
           "id": "d",
-          "text": "1, 3 and 5"
+          "text": "tax imposed and collected by the State Government"
         }
       ],
       "correctAnswers": [
@@ -1141,7 +1141,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 98,
+        "mainTag": 39,
         "subtags": []
       },
       "markBreakdown": [
@@ -1154,23 +1154,23 @@
     {
       "id": "upsc_2014_gs1_q28",
       "type": "single-choice",
-      "question": "With reference to a conservation organization called Wetlands International’, which of the following statements is/are correct?\n1. It is an intergovernmental organization formed by the countries which are signatories to Ramsar Convention\n2. It works at the field level to develop and mobilize knowledge, and use the practical experience to advocate for better policies\n\nSelect the correct answer using the code given below",
+      "question": "What does venture capital mean?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "A short-term capital provided to industries"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "A long-term start-up capital provided to new entrepreneurs"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "Funds provided to industries at times of incurring losses"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "Funds provided for replacement and renovation of industries"
         }
       ],
       "correctAnswers": [
@@ -1183,7 +1183,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 42,
         "subtags": []
       },
       "markBreakdown": [
@@ -1238,23 +1238,23 @@
     {
       "id": "upsc_2014_gs1_q30",
       "type": "single-choice",
-      "question": "Consider the following languages:\n1. Gujarati\n2. Kannada\n3. Telugu\n\nWhich of the above has/have been declared as ‘Classical Language / Languages’ by the Government?",
+      "question": "With reference to Balance of Payments, which of the following constitutes/constitute the Current Account?\n1. Balance of trade\n2. Foreign assets\n3. Balance of invisibles\n4. Special Drawing Right\n\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "3 only"
+          "text": "2 and 3"
         },
         {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "1 and 3"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "1, 2 and 4"
         }
       ],
       "correctAnswers": [
@@ -1267,7 +1267,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 110,
+        "mainTag": 46,
         "subtags": []
       },
       "markBreakdown": [
@@ -1309,7 +1309,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 41,
         "subtags": []
       },
       "markBreakdown": [
@@ -1322,27 +1322,27 @@
     {
       "id": "upsc_2014_gs1_q32",
       "type": "single-choice",
-      "question": "What is the significance of a practical approach to sugarcane production known as 'Sustainable Sugarcane Initiative'?\n\n1. Seed cost is very low in this compared to the conventional method of cultivation.\n2. Drip irrigation can be practiced very effectively in this.\n3. There is no application of chemical/inorganic fertilizers at all in this.\n4. The scope for intercropping is more in this compared to the conventional method of cultivation.\n\nSelect the correct answer using the code given below:",
+      "question": "What is/are the facility/facilities the beneficiaries can get from the services of Business Correspondent (Bank Saathi) in branchless areas?\n1. It enables the beneficiaries to draw their subsidies and social security benefits in their villages.\n2. It enables the beneficiaries in the rural areas to make deposits and withdrawals.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1 and 3 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "1, 2 and 4 only"
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "2, 3 and 4 only"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "1, 2, 3 and 4"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
-        "b"
+        "c"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1351,7 +1351,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 88,
+        "mainTag": 41,
         "subtags": []
       },
       "markBreakdown": [
@@ -1384,7 +1384,7 @@
         }
       ],
       "correctAnswers": [
-        "b"
+        "a"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1393,7 +1393,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -1406,23 +1406,23 @@
     {
       "id": "upsc_2014_gs1_q34",
       "type": "single-choice",
-      "question": "The national motto of India, ‘Satyameva Jayate’ inscribed below the Emblem of India is taken from",
+      "question": "The Arab Spring originally started from:",
       "options": [
         {
           "id": "a",
-          "text": "Katha Upanishad"
+          "text": "Egypt"
         },
         {
           "id": "b",
-          "text": "Chandogya Upanishad"
+          "text": "Lebanon"
         },
         {
           "id": "c",
-          "text": "Aitareya Upanishad"
+          "text": "Syria"
         },
         {
           "id": "d",
-          "text": "Mundaka Upanishad"
+          "text": "Tunisia"
         }
       ],
       "correctAnswers": [
@@ -1435,7 +1435,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 116,
+        "mainTag": 133,
         "subtags": []
       },
       "markBreakdown": [
@@ -1448,23 +1448,23 @@
     {
       "id": "upsc_2014_gs1_q35",
       "type": "single-choice",
-      "question": "Consider the following pairs:\n1. Programme\n2. Project Ministry Drought-Prone Area Programme\n3. Ministry of Agriculture Desert Development Programme\n4. Ministry of Environment and Forests National Watershed Development\n5. Ministry of Rural Development Project for Rainfed Areas\n\nWhich of the above pairs is/are correctly matched?",
+      "question": "Consider the following pairs:\n1. Denmark\n2. Japan\n3. Russian Federation\n4. United Kingdom\n5. United States of America\nWhich of the above are members of the Arctic Council?",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
-        },
-        {
-          "id": "b",
-          "text": "3 only"
-        },
-        {
-          "id": "c",
           "text": "1, 2 and 3"
         },
         {
+          "id": "b",
+          "text": "2, 3 and 4"
+        },
+        {
+          "id": "c",
+          "text": "1, 4 and 5"
+        },
+        {
           "id": "d",
-          "text": "None"
+          "text": "1, 3 and 5"
         }
       ],
       "correctAnswers": [
@@ -1477,7 +1477,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 72,
+        "mainTag": 98,
         "subtags": []
       },
       "markBreakdown": [
@@ -1519,7 +1519,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 98,
+        "mainTag": 100,
         "subtags": []
       },
       "markBreakdown": [
@@ -1532,15 +1532,15 @@
     {
       "id": "upsc_2014_gs1_q37",
       "type": "single-choice",
-      "question": "Which of the following have coral reefs?\n\n1. Andaman and Nicobar Islands\n2. Gulf of Kachchh\n3. Gulf of Mannar\n4. Sunderbans\n\nSelect the correct answer using the code given below:",
+      "question": "Which of the following is/are correct regarding Agni-IV Missile?\n1. It is a surface-to-surface missile\n2. It is fuelled by liquid propellant only\n3. It can deliver one-tonne nuclear warheads about 7500 km away\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1, 2 and 3 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "2 and 4 only"
+          "text": "2 and 3 only"
         },
         {
           "id": "c",
@@ -1548,7 +1548,7 @@
         },
         {
           "id": "d",
-          "text": "1, 2, 3 and 4"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -1561,7 +1561,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 82,
         "subtags": []
       },
       "markBreakdown": [
@@ -1687,7 +1687,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -1700,23 +1700,23 @@
     {
       "id": "upsc_2014_gs1_q41",
       "type": "single-choice",
-      "question": "If a wetland of international importance is brought under the ‘Montreux Record’, what does it imply?",
+      "question": "Which of the following have coral reefs?\n\n1. Andaman and Nicobar Islands\n2. Gulf of Kachchh\n3. Gulf of Mannar\n4. Sunderbans\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "Changes in ecological character have occurred, are occurring or are likely to occur in the wetland as a result of human interference"
+          "text": "1, 2 and 3 only"
         },
         {
           "id": "b",
-          "text": "The country in which the wetland is located should enact a law to prohibit any human activity within five kilo meters from the edge of the wetland"
+          "text": "2 and 4 only"
         },
         {
           "id": "c",
-          "text": "The survival of the wetland depends on the cultural practices and traditions of certain communities living in its vicinity and therefore the cultural diversity therein should not be destroyed"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
-          "text": "It is given the status of ‘World Heritage Site’"
+          "text": "1, 2, 3 and 4"
         }
       ],
       "correctAnswers": [
@@ -1729,7 +1729,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 96,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -1742,23 +1742,23 @@
     {
       "id": "upsc_2014_gs1_q42",
       "type": "single-choice",
-      "question": "In medieval India, the designations ‘Mahattara’ and ‘Pattakila’ were used for",
+      "question": "In India, the problem of soil erosion is associated with which of the following?\n\n1. Terrace cultivation\n2. Deforestation\n3. Tropical climate\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "military officers"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "village headmen"
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "specialists in Vedic rituals"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
-          "text": "chiefs of craft guilds"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -1771,7 +1771,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 5,
+        "mainTag": 201,
         "subtags": []
       },
       "markBreakdown": [
@@ -1784,23 +1784,23 @@
     {
       "id": "upsc_2014_gs1_q43",
       "type": "single-choice",
-      "question": "The Radcliffe Committee was appointed to",
+      "question": "The seasonal reversal of winds is the typical characteristic of",
       "options": [
         {
           "id": "a",
-          "text": "solve the problem of minorities in India"
+          "text": "Equatorial climate"
         },
         {
           "id": "b",
-          "text": "give effect to the Independence Bill"
+          "text": "Mediterranean climate"
         },
         {
           "id": "c",
-          "text": "delimit the boundaries between India and Pakistan"
+          "text": "Monsoon climate"
         },
         {
           "id": "d",
-          "text": "enquire into the riots in East Bengal"
+          "text": "All of the above climates"
         }
       ],
       "correctAnswers": [
@@ -1813,7 +1813,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -1826,7 +1826,7 @@
     {
       "id": "upsc_2014_gs1_q44",
       "type": "single-choice",
-      "question": "With reference to the cultural history of India, the term ‘Panchayatan’ refers to",
+      "question": "With reference to the cultural history of India, the term 'Panchayatan' refers to",
       "options": [
         {
           "id": "a",
@@ -1855,7 +1855,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 119,
         "subtags": []
       },
       "markBreakdown": [
@@ -1868,7 +1868,7 @@
     {
       "id": "upsc_2014_gs1_q45",
       "type": "single-choice",
-      "question": "Which of the following pairs is/are correctly matched?\n\nSpacecraft: Purpose\n\n1. Cassini-Huygens: Orbiting the Venus and transmitting data to the Earth\n2. Messenger: Mapping and investigating the Mercury\n3. Voyager 1 and 2: Exploring the outer solar system\n\nSelect the correct answer using the code given below:",
+      "question": "Consider the following rivers:\n\n1. Barak\n2. Lohit\n3. Subansiri\n\nWhich of the above flows/flow through Arunachal Pradesh?",
       "options": [
         {
           "id": "a",
@@ -1897,7 +1897,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 80,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -1910,7 +1910,7 @@
     {
       "id": "upsc_2014_gs1_q46",
       "type": "single-choice",
-      "question": "Consider the following pairs:\n\nWetlands: Confluence of rivers\n\n1. Harike Wetlands: Confluence of Beas and Satluj/Sutlej\n2. Keoladeo Ghana National Park: Confluence of Banas and Chambal\n3. Kolleru Lake: Confluence of Musi and Krishna\n\nWhich of the above pairs is/are correctly matched?",
+      "question": "Consider the following pairs:\n\nWetlands : Confluence of rivers\n1. Harike Wetlands : Confluence of Beas and Satluj/Sutlej\n2. Keoladeo Ghana National Park : Confluence of Banas and Chambal\n3. Kolleru Lake : Confluence of Musi and Krishna\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -1939,7 +1939,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -1994,23 +1994,23 @@
     {
       "id": "upsc_2014_gs1_q48",
       "type": "single-choice",
-      "question": "Brominated flame retardants are used in many household products like mattresses and upholstery. Why is there some concern about their use?\n1. They are highly resistant to degradation in the environment\n2. They are able to accumulate in humans and animals\n\nSelect the correct answer using the code given below",
+      "question": "Consider the following pairs:\n\nHills : Region\n1. Cardamom Hills : Coromandel Coast\n2. Kaimur Hills : Konkan Coast\n3. Mahadeo Hills : Central India\n4. Mikir Hills : North-East India\n\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "1 and 2"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "2 and 3"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "3 and 4"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "2 and 4"
         }
       ],
       "correctAnswers": [
@@ -2023,7 +2023,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 69,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -2036,7 +2036,7 @@
     {
       "id": "upsc_2014_gs1_q49",
       "type": "single-choice",
-      "question": "Which one of the following Schedules of the Constitution of India contains provisions regarding anti-defection?",
+      "question": "Which one of the following Schedule of the Constitution of India contains provisions regarding anti-defection?",
       "options": [
         {
           "id": "a",
@@ -2065,7 +2065,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 163,
         "subtags": []
       },
       "markBreakdown": [
@@ -2120,23 +2120,23 @@
     {
       "id": "upsc_2014_gs1_q51",
       "type": "single-choice",
-      "question": "What does venture capital mean?",
+      "question": "Turkey is located between",
       "options": [
         {
           "id": "a",
-          "text": "A short-term capital provided to industries"
+          "text": "Black Sea and Caspian Sea"
         },
         {
           "id": "b",
-          "text": "A long-term start-up capital provided to new entrepreneurs"
+          "text": "Black Sea and Mediterranean Sea"
         },
         {
           "id": "c",
-          "text": "Funds provided to industries at times of incurring losses"
+          "text": "Gulf of Suez and Mediterranean Sea"
         },
         {
           "id": "d",
-          "text": "Funds provided for replacement and renovation of industries"
+          "text": "Gulf of Aqaba and Dead Sea"
         }
       ],
       "correctAnswers": [
@@ -2149,7 +2149,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -2162,7 +2162,7 @@
     {
       "id": "upsc_2014_gs1_q52",
       "type": "single-choice",
-      "question": "What is the correct sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north?\n1. Bangkok\n2. Hanoi\n3. Jakarta\n4. Singapore\n\nSelect the correct answer using the code given below",
+      "question": "What is the correct sequence of occurrence of the following cities in South-East Asia as one proceeds from south to north?\n1. Bangkok\n2. Hanoi\n3. Jakarta\n4. Singapore\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2191,7 +2191,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 11,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -2204,7 +2204,7 @@
     {
       "id": "upsc_2014_gs1_q53",
       "type": "single-choice",
-      "question": "The scientific view is that the increase in global temperature should not exceed 2 °C above pre-industrial level. If the global temperature increases beyond 3 °C above the pre-industrial level, what can be its possible impact/impacts on the world?\n1. Terrestrial biosphere tends toward a net carbon source\n2. Widespread coral mortality will occur\n3. All the global wetlands will permanently disappear\n4. Cultivation of cereals will not be possible anywhere in the world\n\nSelect the correct answer using the code given below",
+      "question": "The scientific view is that the increase in global temperature should not exceed 2°C above pre-industrial level. If the global temperature increases beyond 3 °C above the pre-industrial level, what can be its possible impact/impacts on the world?\n1. Terrestrial biosphere tends toward a net carbon source\n2. Widespread coral mortality will occur\n3. All the global wetlands will permanently disappear\n4. Cultivation of cereals will not be possible anywhere in the world\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2246,23 +2246,23 @@
     {
       "id": "upsc_2014_gs1_q54",
       "type": "single-choice",
-      "question": "Recently, a series of uprisings of people referred to as ‘Arab Spring’ originally started from",
+      "question": "The national motto of India, 'Satyameva Jayate' inscribed below the Emblem of India is taken from",
       "options": [
         {
           "id": "a",
-          "text": "Egypt"
+          "text": "Katha Upanishad"
         },
         {
           "id": "b",
-          "text": "Lebanon"
+          "text": "Chandogya Upanishad"
         },
         {
           "id": "c",
-          "text": "Syria"
+          "text": "Aitareya Upanishad"
         },
         {
           "id": "d",
-          "text": "Tunisia"
+          "text": "Mundaka Upanishad"
         }
       ],
       "correctAnswers": [
@@ -2275,7 +2275,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 100,
+        "mainTag": 118,
         "subtags": []
       },
       "markBreakdown": [
@@ -2317,7 +2317,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 371,
         "subtags": []
       },
       "markBreakdown": [
@@ -2330,7 +2330,7 @@
     {
       "id": "upsc_2014_gs1_q56",
       "type": "single-choice",
-      "question": "What are the benefits of implementing the ‘Integrated Watershed Development Programme’?\n1. Prevention of soil runoff\n2. Linking the country’s perennial rivers with seasonal rivers\n3. Rainwater harvesting and recharge of groundwater table\n4. Regeneration of natural vegetation\n\nSelect the correct answer using the code given below",
+      "question": "What are the benefits of implementing the ‘Integrated Watershed Development Programme’?\n1. Prevention of soil runoff\n2. Linking the country’s perennial rivers with seasonal rivers\n3. Rainwater harvesting and recharge of groundwater table\n4. Regeneration of natural vegetation\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2359,7 +2359,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 95,
+        "mainTag": 194,
         "subtags": []
       },
       "markBreakdown": [
@@ -2372,7 +2372,7 @@
     {
       "id": "upsc_2014_gs1_q57",
       "type": "single-choice",
-      "question": "Which of the following are associated with ‘Planning’ in India?\n1. The Finance Commission\n2. The National Development Council\n3. The Union Ministry of Rural Development\n4. The Union Ministry of Urban Development\n5. The Parliament\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following are associated with ‘Planning’ in India?\n1. The Finance Commission\n2. The National Development Council\n3. The Union Ministry of Rural Development\n4. The Union Ministry of Urban Development\n5. The Parliament\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2401,7 +2401,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 19,
+        "mainTag": 35,
         "subtags": []
       },
       "markBreakdown": [
@@ -2414,7 +2414,7 @@
     {
       "id": "upsc_2014_gs1_q58",
       "type": "single-choice",
-      "question": "Which of the following is / are the function/functions of the Cabinet Secretariat?\n1. Preparation of agenda for Cabinet Meetings\n2. Secretarial assistance to Cabinet Committees\n3. Allocation of financial resources to the Ministries\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following is/are the function/functions of the Cabinet Secretariat?\n1. Preparation of agenda for Cabinet Meetings\n2. Secretarial assistance to Cabinet Committees\n3. Allocation of financial resources to the Ministries\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2443,7 +2443,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 19,
+        "mainTag": 20,
         "subtags": []
       },
       "markBreakdown": [
@@ -2456,7 +2456,7 @@
     {
       "id": "upsc_2014_gs1_q59",
       "type": "single-choice",
-      "question": "Consider the following statements: A Constitutional Government is one which\n1. places effective restrictions on individual liberty in the interest of State Authority\n2. places effective restrictions on the Authority of the State in the interest of individual liberty\n\nWhich of the statements given above is / are correct?",
+      "question": "Consider the following statements: A Constitutional Government is one which\n1. places effective restrictions on individual liberty in the interest of State Authority\n2. places effective restrictions on the authority of the State in the interest of individual liberty\n\nWhich of the statements given above is / are correct?",
       "options": [
         {
           "id": "a",
@@ -2485,7 +2485,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 369,
         "subtags": []
       },
       "markBreakdown": [
@@ -2498,11 +2498,11 @@
     {
       "id": "upsc_2014_gs1_q60",
       "type": "single-choice",
-      "question": "Which of the following are the discretionary powers given to the Governor of a State?\n1. Sending a report to the President of India for imposing the President’s rule\n2. Appointing the Ministers\n3. Reserving certain bills passed by the State Legislature for consideration of the President of India\n4. Making the rules to conduct the business of the State Government\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following are the discretionary powers given to the Governor of a State?\n1. Sending a report to the President of India for imposing the President’s Rule\n2. Appointing the Ministers\n3. Reserving certain bills passed by the State Legislature for consideration of the President of India\n4. Making the rules to conduct the business of the State Government\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
-          "text": "1nd 2 only"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
@@ -2527,7 +2527,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 20,
+        "mainTag": 374,
         "subtags": []
       },
       "markBreakdown": [
@@ -2611,7 +2611,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 20,
+        "mainTag": 373,
         "subtags": []
       },
       "markBreakdown": [
@@ -2653,7 +2653,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -2695,7 +2695,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -2737,7 +2737,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 85,
+        "mainTag": 75,
         "subtags": []
       },
       "markBreakdown": [
@@ -2750,23 +2750,23 @@
     {
       "id": "upsc_2014_gs1_q66",
       "type": "single-choice",
-      "question": "With reference to India’s culture and tradition, what is ‘Kalaripayattu’?",
+      "question": "In addition to fingerprint scanning, which of the following can be used in the biometric identification of a person?\n1. Iris scanning\n2. Retinal scanning\n3. Voice recognition\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
-          "text": "It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "It is an ancient style bronze and brass work still found in southern part of Coromandel area"
+          "text": "2 and 3 only"
         },
         {
           "id": "c",
-          "text": "It is an ancient form of dance-drama and a living tradition in the northern part of Malabar"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
-          "text": "It is an ancient martial art and a living tradition in some parts of South India"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -2779,7 +2779,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 111,
+        "mainTag": 83,
         "subtags": []
       },
       "markBreakdown": [
@@ -2792,7 +2792,7 @@
     {
       "id": "upsc_2014_gs1_q67",
       "type": "single-choice",
-      "question": "Which of the following statements is / are correct regarding vegetative propagation of plants?\n1. Vegetative propagation produces clonal population\n2. Vegetative propagation helps in eliminating the virus\n3. Vegetative propagation can be practiced most of the year\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following statements is / are correct regarding vegetative propagation of plants?\n1. Vegetative propagation produces clonal population\n2. Vegetative propagation helps in eliminating the virus\n3. Vegetative propagation can be practiced most of the year\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -2834,23 +2834,23 @@
     {
       "id": "upsc_2014_gs1_q68",
       "type": "single-choice",
-      "question": "Consider the following diseases\n1. Diphtheria\n2. Chickenpox\n3. Smallpox\n\nWhich of the above diseases has/have been eradicated in India?",
+      "question": "Which of the following pairs is/are correctly matched?\nSpacecraft\nPurpose\n1. Cassini-Huygens: Orbiting the Venus and transmitting data to the Earth\n2. Messenger: Mapping and investigating the Mercury\n3. Voyager 1 and 2: Exploring the outer solar system\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "1 only"
         },
         {
           "id": "b",
-          "text": "3 only"
+          "text": "2 and 3 only"
         },
         {
           "id": "c",
-          "text": "1, 2 and 3"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
-          "text": "None"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -2863,7 +2863,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 63,
+        "mainTag": 80,
         "subtags": []
       },
       "markBreakdown": [
@@ -2905,7 +2905,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 313,
         "subtags": []
       },
       "markBreakdown": [
@@ -2918,7 +2918,7 @@
     {
       "id": "upsc_2014_gs1_q70",
       "type": "single-choice",
-      "question": "Which of the following is/are the example/examples of chemical change?\n1. Crystallization of sodium chloride\n2. Melting of ice\n3. Souring of milk\n\nSelect the correct answer using the code given below",
+      "question": "Which of the following is/are the example/examples of chemical change?\n1. Crystallization of sodium chloride\n2. Melting of ice\n3. Souring of milk\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3073,7 +3073,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 86,
         "subtags": []
       },
       "markBreakdown": [
@@ -3157,7 +3157,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 21,
+        "mainTag": 19,
         "subtags": []
       },
       "markBreakdown": [
@@ -3212,23 +3212,23 @@
     {
       "id": "upsc_2014_gs1_q77",
       "type": "single-choice",
-      "question": "With reference to ‘Eco-Sensitive Zones’, which of the following statements is/are correct?\n1. Eco-Sensitive Zones are the areas that are declared under the Wildlife (Protection) Act, 1972\n2. The purpose of the declaration of Eco-Sensitive Zones is to prohibit all kinds of human activities, in those zones except agriculture\n\nSelect the correct answer using the code given below",
+      "question": "Consider the following pairs:\nNational Highway\nCities connected\n1. NH 4: Chennai and Hyderabad\n2. NH 6: Mumbai and Kolkata\n3. NH 15: Ahmedabad and Jodhpur\nWhich of the above pairs is/are correctly matched?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "1 and 2 only"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "3 only"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "1, 2 and 3"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "None"
         }
       ],
       "correctAnswers": [
@@ -3241,7 +3241,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 86,
+        "mainTag": 51,
         "subtags": []
       },
       "markBreakdown": [
@@ -3270,7 +3270,7 @@
         },
         {
           "id": "d",
-          "text": "1, 2. and 3"
+          "text": "1, 2 and 3"
         }
       ],
       "correctAnswers": [
@@ -3283,7 +3283,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 67,
+        "mainTag": 182,
         "subtags": []
       },
       "markBreakdown": [
@@ -3367,7 +3367,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -3380,27 +3380,27 @@
     {
       "id": "upsc_2014_gs1_q81",
       "type": "single-choice",
-      "question": "With reference to 'Neem Coated Urea', consider the following statements:\n\n1. The coating of urea with neem improves the efficiency of nitrogen use by plants.\n2. Neem coated urea is not used in India for agricultural purposes.\n\nWhich of the statements given above is/are correct?",
+      "question": "The Partition of Bengal made by Lord Curzon in 1905 lasted until",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
+          "text": "the First World War when Indian troops were needed by the British and the partition was ended"
         },
         {
           "id": "b",
-          "text": "2 only"
+          "text": "King George V abrogated Curzon's Act at the Royal Durbar in Delhi in 1911"
         },
         {
           "id": "c",
-          "text": "Both 1 and 2"
+          "text": "Gandhiji launched his Civil Disobedience Movement"
         },
         {
           "id": "d",
-          "text": "Neither 1 nor 2"
+          "text": "the Partition of India in 1947 when East Bengal became East Pakistan"
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3409,7 +3409,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 89,
+        "mainTag": 356,
         "subtags": []
       },
       "markBreakdown": [
@@ -3451,7 +3451,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -3510,7 +3510,7 @@
       "options": [
         {
           "id": "a",
-          "text": "22 March (or 21st March)"
+          "text": "22nd March (or 21st March)"
         },
         {
           "id": "b",
@@ -3535,7 +3535,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 116,
+        "mainTag": 3,
         "subtags": []
       },
       "markBreakdown": [
@@ -3548,19 +3548,19 @@
     {
       "id": "upsc_2014_gs1_q85",
       "type": "single-choice",
-      "question": "With reference to the Indian history of art and culture, consider the following pairs: Famous work of sculpture Site\n1. A grand image of Buddha’s Mahaparinirvana with numerous: Ajanta celestial musicians above and the sorrowful figures of his followers below\n2. A huge image of Varaha Avatar (boar incarnation) of Vishnu, as he: Mount Abu rescues Goddess Earth from the deep and chaotic waters, sculpted on rock\n3. “Arjuna’s Penance” /”Descent of Ganga” sculpted on the surface: Mamallapuram of huge boulders Which of the pairs given above is/ are correctly matched?",
+      "question": "With reference to the Indian history of art and culture, consider the following pairs:\nFamous work of sculpture\nSite\n1. A grand image of Buddha's Mahaparinirvana with numerous celestial musicians above and the sorrowful figures of his followers below: Ajanta\n2. A huge image of Varaha Avatar (boar incarnation) of Vishnu, as he rescues Goddess Earth from the deep and chaotic waters, sculpted on rock: Mount Abu\n3. 'Arjuna's Penance'/'Descent of Ganga' sculpted on the surface of huge boulders: Mamallapuram\nWhich of the pairs given above is/are correctly matched?",
       "options": [
         {
           "id": "a",
-          "text": "1 only"
-        },
-        {
-          "id": "b",
           "text": "1 and 2 only"
         },
         {
+          "id": "b",
+          "text": "3 only"
+        },
+        {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "1 and 3 only"
         },
         {
           "id": "d",
@@ -3590,23 +3590,23 @@
     {
       "id": "upsc_2014_gs1_q86",
       "type": "single-choice",
-      "question": "With reference to ‘Global Environment Facility’, which of the following statements is/are correct?",
+      "question": "The Ghadr (Ghadar) was a",
       "options": [
         {
           "id": "a",
-          "text": "It serves as financial mechanism for 'Convention on Biological Diversity' and 'United Nations Framework Convention on Climate Change'"
+          "text": "revolutionary association of Indians with headquarters at San Francisco"
         },
         {
           "id": "b",
-          "text": "It undertakes scientific research on environmental issues at global level"
+          "text": "nationalist organization operating from Singapore"
         },
         {
           "id": "c",
-          "text": "It is an agency under OECD to facilitate the transfer of technology and funds to underdeveloped countries with specific aim to protect their environment"
+          "text": "militant organization with headquarters at Berlin"
         },
         {
           "id": "d",
-          "text": "Both (a) and (b)"
+          "text": "communist movement for India's freedom with headquarters at Tashkent"
         }
       ],
       "correctAnswers": [
@@ -3619,7 +3619,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 71,
+        "mainTag": 359,
         "subtags": []
       },
       "markBreakdown": [
@@ -3632,23 +3632,23 @@
     {
       "id": "upsc_2014_gs1_q87",
       "type": "single-choice",
-      "question": "Consider the following pairs: National Highway Cities connected\n1. NH 4: Chennai and Hyderabad\n2. NH 6: Mumbai and Kolkata\n3. NH 15: Ahmadabad and Jodhpur\n\nWhich of the above pairs is/are correctly matched?",
+      "question": "With reference to India's culture and tradition, what is 'Kalaripayattu?'",
       "options": [
         {
           "id": "a",
-          "text": "1 and 2 only"
+          "text": "It is an ancient Bhakti cult of Shaivism still prevalent in some parts of South India"
         },
         {
           "id": "b",
-          "text": "3 only"
+          "text": "It is an ancient style bronze and brasswork still found in southern part of Coromandel area"
         },
         {
           "id": "c",
-          "text": "1, 2 and 3"
+          "text": "It is an ancient form of dance-drama and a living tradition in the northern part of Malabar"
         },
         {
           "id": "d",
-          "text": "None"
+          "text": "It is an ancient martial art and a living tradition in some parts of South India"
         }
       ],
       "correctAnswers": [
@@ -3661,7 +3661,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 109,
         "subtags": []
       },
       "markBreakdown": [
@@ -3674,7 +3674,7 @@
     {
       "id": "upsc_2014_gs1_q88",
       "type": "single-choice",
-      "question": "Consider the following pairs:\n1. Garba: Gujarat\n2. Mohiniattam: Odisha\n3. Yakshagana: Karnataka Which of the pairs given above is/are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Dance | State |\n| --- | --- |\n| 1. Garba | Gujarat |\n| 2. Mohiniattam | Odisha |\n| 3. Yakshagana | Karnataka |\n\nWhich of the pairs given above is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3716,7 +3716,7 @@
     {
       "id": "upsc_2014_gs1_q89",
       "type": "single-choice",
-      "question": "With reference to Buddhist history, tradition and culture in India, consider the following pairs: Famous shrine Location\n1. Tabo monastery and temple complex: Spiti Valley\n2. Lhotsava Lhakhang temple, Nako: Zanskar Valley\n3. Alchi temple complex: Ladakh Which of the pairs given above is/are correctly matched?",
+      "question": "With reference to Buddhist history, tradition and culture in India, consider the following pairs: Famous shrine Location\n1. Tabo monastery and temple complex: Spiti Valley\n2. Lhotsava Lhakhang temple, Nako: Zanskar Valley\n3. Alchi temple complex: Ladakh\nWhich of the pairs given above is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -3787,7 +3787,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 116,
         "subtags": []
       },
       "markBreakdown": [
@@ -3842,7 +3842,7 @@
     {
       "id": "upsc_2014_gs1_q92",
       "type": "single-choice",
-      "question": "What was/were the object/objects of Queen Victoria’s Proclamation (1858)?\n1. To disclaim any intention to annex Indian States\n2. To place the Indian administration under the British Crown\n3. To regulate East India Company’s trade with India\n\nSelect the correct answer using the code given below",
+      "question": "What was/were the object/objects of Queen Victoria’s Proclamation (1858)?\n1. To disclaim any intention to annex Indian States\n2. To place the Indian administration under the British Crown\n3. To regulate East India Company’s trade with India\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3892,7 +3892,7 @@
         },
         {
           "id": "b",
-          "text": "Akbar’s private chamber prayer"
+          "text": "Akbar's private prayer chamber"
         },
         {
           "id": "c",
@@ -3913,7 +3913,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 116,
+        "mainTag": 347,
         "subtags": []
       },
       "markBreakdown": [
@@ -3926,7 +3926,7 @@
     {
       "id": "upsc_2014_gs1_q94",
       "type": "single-choice",
-      "question": "In the context of food and nutritional security of India, enhancing the ‘Seed Replacement Rates’ of various crops helps in achieving the food production targets of the future. But what is/are the constraint/ constraints in its wider / greater implementation?\n1. There is no National Seeds Policy in place.\n2. There is no participation of private sector seed companies in the supply of quality seeds of vegetables and planting materials of horticultural crops.\n3. There is a demand-supply gap regarding quality seeds in case of low value and high volume crops.\n\nSelect the correct answer using the code given below",
+      "question": "In the context of food and nutritional security of India, enhancing the ‘Seed Replacement Rates’ of various crops helps in achieving the food production targets of the future. But what is/are the constraint/ constraints in its wider / greater implementation?\n1. There is no National Seeds Policy in place.\n2. There is no participation of private sector seed companies in the supply of quality seeds of vegetables and planting materials of horticultural crops.\n3. There is a demand-supply gap regarding quality seeds in case of low value and high volume crops.\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -3955,7 +3955,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 91,
+        "mainTag": 89,
         "subtags": []
       },
       "markBreakdown": [
@@ -3968,7 +3968,7 @@
     {
       "id": "upsc_2014_gs1_q95",
       "type": "single-choice",
-      "question": "In addition to fingerprint scanning, which of the following can be used in the biometric identification of a person?\n1. Iris scanning\n2. Retinal scanning\n3. Voice recognition\n\nSelect the correct answer using the code given below",
+      "question": "With reference to 'Eco-Sensitive Zones', which of the following statements is/are correct?\n1. Eco-Sensitive Zones are the areas that are declared under the Wildlife (Protection) Act, 1972.\n2. The purpose of the declaration of Eco-Sensitive Zones is to prohibit all kinds of human activities in those zones except agriculture.\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",
@@ -3976,15 +3976,15 @@
         },
         {
           "id": "b",
-          "text": "2 and 3 only"
+          "text": "2 only"
         },
         {
           "id": "c",
-          "text": "1 and 3 only"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "1, 2 and 3"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -3997,7 +3997,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 78,
+        "mainTag": 71,
         "subtags": []
       },
       "markBreakdown": [
@@ -4039,7 +4039,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 25,
         "subtags": []
       },
       "markBreakdown": [
@@ -4052,7 +4052,7 @@
     {
       "id": "upsc_2014_gs1_q97",
       "type": "single-choice",
-      "question": "Consider the following pairs:\n\nVitamin | Deficiency disease\n1. Vitamin C: Scurvy\n2. Vitamin D: Rickets\n3. Vitamin E: Night blindness\n\nWhich of the pairs given above is/are correctly matched?",
+      "question": "Consider the following pairs:\n\n| Vitamin | Deficiency disease |\n| --- | --- |\n| 1. Vitamin C | Scurvy |\n| 2. Vitamin D | Rickets |\n| 3. Vitamin E | Night blindness |\n\nWhich of the pairs given above is/are correctly matched?",
       "options": [
         {
           "id": "a",
@@ -4094,7 +4094,7 @@
     {
       "id": "upsc_2014_gs1_q98",
       "type": "single-choice",
-      "question": "There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why?\n1. They can accumulate in the environment, and contaminate water and soil\n2. They can enter the food chains\n3. They can trigger the production of free radicals\n\nSelect the correct answer using the code given below",
+      "question": "There is some concern regarding the nanoparticles of some chemical elements that are used by the industry in the manufacture of various products. Why?\n1. They can accumulate in the environment, and contaminate water and soil\n2. They can enter the food chains\n3. They can trigger the production of free radicals\n\nSelect the correct answer using the code given below:",
       "options": [
         {
           "id": "a",
@@ -4123,7 +4123,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 49,
+        "mainTag": 199,
         "subtags": []
       },
       "markBreakdown": [
@@ -4178,7 +4178,7 @@
     {
       "id": "upsc_2014_gs1_q100",
       "type": "single-choice",
-      "question": "With reference to Union Budget, which of the following is/are covered under Non-Plan Expenditure?\n1. Defence -expenditure\n2. Interest payments\n3. Salaries and pensions\n4. Subsidies\n\nSelect the correct answer using the code given below",
+      "question": "With reference to Union Budget, which of the following is/are covered under Non-Plan Expenditure?\n1. Defence expenditure\n2. Interest payments\n3. Salaries and pensions\n4. Subsidies\n\nSelect the correct answer using the code given below.",
       "options": [
         {
           "id": "a",

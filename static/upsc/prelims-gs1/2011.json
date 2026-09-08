@@ -20,7 +20,7 @@
     {
       "id": "upsc_2011_gs1_q1",
       "type": "single-choice",
-      "question": "In the Union Budget 2011-12, a full exemption from the basic customs duty was extended to the biobased asphalt (Bioasphalt). What is the importance of this material?\n1. Unlike traditional asphalt, bio-asphalt is not based on fossil fuels\n2. Bioasphalt can be made from non-renewable resources\n3. Bioasphalt can be made from organic waste materials\n4. It is eco-friendly to use Bioasphalt for surfacing of the roads.\n\nWhich of the statements given above are correct?",
+      "question": "In the Union Budget 2011-12, a full exemption from the basic customs duty was extended to the bio-based asphalt (bioasphalt). What is the importance of this material?\n1. Unlike traditional asphalt, bio-asphalt is not based on fossil fuels.\n2. Bioasphalt can be made from non-renewable resources.\n3. Bioasphalt can be made from organic waste materials.\n4. It is eco-friendly to use bioasphalt for surfacing of the roads.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -36,7 +36,7 @@
         },
         {
           "id": "d",
-          "text": "1, 2,3 and 4"
+          "text": "1, 2, 3 and 4"
         }
       ],
       "correctAnswers": [
@@ -62,7 +62,7 @@
     {
       "id": "upsc_2011_gs1_q2",
       "type": "single-choice",
-      "question": "Consider the following:-\n1. Carbon dioxide\n2. Oxides of Nitrogen\n3. Oxides of Sulphur\n\nWhich of the above is/are the emission/emissions from coal combustion at thermal power plants?",
+      "question": "Consider the following:\n1. Carbon dioxide\n2. Oxides of Nitrogen\n3. Oxides of Sulphur\nWhich of the above is/are the emission/emissions from coal combustion at thermal power plants?",
       "options": [
         {
           "id": "a",
@@ -104,7 +104,7 @@
     {
       "id": "upsc_2011_gs1_q3",
       "type": "single-choice",
-      "question": "Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such an orbit when:\n1. The orbit is geosynchronous\n2. The orbit is circular\n3. The orbit lies in the plane of the Earth's equator\n4. The orbit is at an altitude of 22,236 km\n\nSelect the correct answer using the codes given below",
+      "question": "Satellites used for telecommunication relay are kept in a geostationary orbit. A satellite is said to be in such an orbit when:\n1. The orbit is geosynchronous.\n2. The orbit is circular.\n3. The orbit lies in the plane of the Earth's equator.\n4. The orbit is at an altitude of 22,236 km.\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -146,7 +146,7 @@
     {
       "id": "upsc_2011_gs1_q4",
       "type": "single-choice",
-      "question": "India has experienced persistent and high food inflation in the recent past. What could be the reasons?\n1. Due to a gradual switchover to the cultivation of commercial crops, the area under the cultivation of food grains has steadily decreased in the last five years by about 30%\n2. As a consequence of increasing incomes, the consumption patterns of the people have undergone a significant change\n3. The food supply chain has structural constraints\n\nWhich of the statements given above are correct?",
+      "question": "India has experienced persistent and high food inflation in the recent past. What could be the reasons?\n1. Due to a gradual switchover to the cultivation of commercial crops, the area under the cultivation of food grains has steadily decreased in the last five years by about 30%.\n2. As a consequence of increasing incomes, the consumption patterns of the people have undergone a significant change.\n3. The food supply chain has structural constraints.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -188,7 +188,7 @@
     {
       "id": "upsc_2011_gs1_q5",
       "type": "single-choice",
-      "question": "At present, scientists can determine the arrangement or relative positions of genes or DNA sequences on a chromosome. How does this knowledge benefit us?\n1. It is possible to know the pedigree of livestock\n2. It is possible to understand the causes of all human diseases\n3. It is possible to develop disease-resistant animal breeds.\n\nWhich of the statements given above is/are correct?",
+      "question": "At present, scientists can determine the arrangement or relative positions of genes or DNA sequences on a chromosome. How does this knowledge benefit us?\n1. It is possible to know the pedigree of livestock.\n2. It is possible to understand the causes of all human diseases.\n3. It is possible to develop disease-resistant animal breeds.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -234,11 +234,11 @@
       "options": [
         {
           "id": "a",
-          "text": "Exports"
+          "text": "Export"
         },
         {
           "id": "b",
-          "text": "Imports"
+          "text": "Import"
         },
         {
           "id": "c",
@@ -272,7 +272,7 @@
     {
       "id": "upsc_2011_gs1_q7",
       "type": "single-choice",
-      "question": "Microbial fuel cells are considered a source of sustainable energy. Why?\n1. They use living organisms as catalysts to generate electricity from certain substrates\n2. They use a variety of inorganic materials as substrates\n3. They can be installed in waste water treatment plants to cleanse water and produce electricity.\n\nWhich of the Statements given above is/are correct?",
+      "question": "Microbial fuel cells are considered a source of sustainable energy. Why?\n1. They use living organisms as catalysts to generate electricity from certain substrates.\n2. They use a variety of inorganic materials as substrates.\n3. They can be installed in waste water treatment plants to cleanse water and produce electricity.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -385,7 +385,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 68,
+        "mainTag": 69,
         "subtags": []
       },
       "markBreakdown": [
@@ -398,7 +398,7 @@
     {
       "id": "upsc_2011_gs1_q10",
       "type": "single-choice",
-      "question": "Consider the following actions which the Government can take:\n1. Devaluing the domestic currency\n2. Reduction in the export subsidy\n3. Adopting suitable policies which attract greater FDI and more funds from FIIs.\n\nWhich of the above action/actions can help in reducing the current account deficit?",
+      "question": "Consider the following actions which the Government can take:\n1. Devaluing the domestic currency.\n2. Reduction in the export subsidy.\n3. Adopting suitable policies which attract greater FDI and more funds from FIIs.\nWhich of the above action/actions can help in reducing the current account deficit?",
       "options": [
         {
           "id": "a",
@@ -440,7 +440,7 @@
     {
       "id": "upsc_2011_gs1_q11",
       "type": "single-choice",
-      "question": "The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following?\n1. Constitution of District Planning Committees\n2. State Election Commissions to conduct all panchayat elections\n3. Establishment of State Finance Commissions\n\nSelect the correct answer using the codes given below",
+      "question": "The Constitution (Seventy-Third Amendment) Act, 1992, which aims at promoting the Panchayati Raj Institutions in the country, provides for which of the following?\n1. Constitution of District Planning Committees.\n2. State Election Commissions to conduct all panchayat elections.\n3. Establishment of State Finance Commissions.\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -460,7 +460,7 @@
         }
       ],
       "correctAnswers": [
-        "c"
+        "d"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -482,7 +482,7 @@
     {
       "id": "upsc_2011_gs1_q12",
       "type": "single-choice",
-      "question": "Two important rivers — one with its source in Jharkhand (and known by a different name in Odisha), and another, with its source in Odisha — merge at a place only a short distance from the coast of Bay of Bengal before flowing into the sea. This is an important site of wildlife and biodiversity and a protected area.\n\nWhich one of the following could be this?",
+      "question": "Two important rivers – one with its source in Jharkhand (and known by a different name in Odisha), and another, with its source in Odisha - merge at a place only a short distance from the coast of Bay of Bengal before flowing into the sea. This is an important site of wildlife and biodiversity and a protected area. Which one of the following could be this?",
       "options": [
         {
           "id": "a",
@@ -511,7 +511,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 67,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -528,7 +528,7 @@
       "options": [
         {
           "id": "a",
-          "text": "It is the impact of drastic deficiency in supply due to the failure of crops"
+          "text": "It is the impact of drastic deficiency in supply due to failure of crops"
         },
         {
           "id": "b",
@@ -536,11 +536,11 @@
         },
         {
           "id": "c",
-          "text": "It is the impact of the price levels of the previous year on the calculation of inflation rate"
+          "text": "It is the impact of the price levels of previous year on the calculation of inflation rate"
         },
         {
           "id": "d",
-          "text": "None of the statements, A, B and C, given above is correct in this context"
+          "text": "None of the statements (a), (b) and (c) given above is correct in this context"
         }
       ],
       "correctAnswers": [
@@ -566,7 +566,7 @@
     {
       "id": "upsc_2011_gs1_q14",
       "type": "single-choice",
-      "question": "India is regarded as a country With \"Demographic Dividend\". This is due to",
+      "question": "India is regarded as a country with \"Demographic Dividend\". This is due to",
       "options": [
         {
           "id": "a",
@@ -679,7 +679,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 38,
+        "mainTag": 39,
         "subtags": []
       },
       "markBreakdown": [
@@ -792,7 +792,7 @@
         },
         {
           "id": "d",
-          "text": "It is a multilateral cooperation treaty among the BRICS countries Species richness"
+          "text": "It is a multilateral cooperation treaty among the BRICS countries for the promotion of trade"
         }
       ],
       "correctAnswers": [
@@ -805,7 +805,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 97,
+        "mainTag": 182,
         "subtags": []
       },
       "markBreakdown": [
@@ -818,7 +818,7 @@
     {
       "id": "upsc_2011_gs1_q20",
       "type": "single-choice",
-      "question": "Three of the following criteria have contributed to the recognition of western Ghats-Sri Lanka and Indo-Burma regions as hotspots of biodiversity:\n1. Species richness\n2. Vegetation density\n3. Endemism\n4. Ethno-botanical importance\n5. Threat perception\n6. Adaptation of flora and fauna to warm arid humid conditions Which three of the above are correct criteria in this context?",
+      "question": "Three of the following criteria have contributed to the recognition of Western Ghats-Sri Lanka and Indo-Burma regions as hotspots of biodiversity:\n1. Species richness\n2. Vegetation density\n3. Endemism\n4. Ethno-botanical importance\n5. Threat perception\n6. Adaptation of flora and fauna to warm and humid conditions\nWhich three of the above are correct criteria in this context?",
       "options": [
         {
           "id": "a",
@@ -860,7 +860,7 @@
     {
       "id": "upsc_2011_gs1_q21",
       "type": "single-choice",
-      "question": "Human activities in the recent past have caused the increased concentration of carbon dioxide in the atmosphere, but a lot of it does not remain in the lower atmosphere because of\n1. Its escape into the outer stratosphere\n2. The photosynthesis by phytoplankton in the oceans\n3. The trapping of air in the polar ice caps\n\nWhich of the statements given above is/are correct?",
+      "question": "Human activities in the recent past have caused the increased concentration of carbon dioxide in the atmosphere, but a lot of it does not remain in the lower atmosphere because of\n1. its escape into the outer stratosphere.\n2. the photosynthesis by phytoplankton in the oceans.\n3. the trapping of air in the polar ice caps.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -872,7 +872,7 @@
         },
         {
           "id": "c",
-          "text": "2 and 3 only"
+          "text": "2 and 3"
         },
         {
           "id": "d",
@@ -902,7 +902,7 @@
     {
       "id": "upsc_2011_gs1_q22",
       "type": "single-choice",
-      "question": "In the context of ecosystem productivity, marine upwelling zones are important as they increase the marine productivity by bringing the\n1. Decomposer microorganisms to the surface\n2. Nutrients to the surface\n3. bottom-dwelling organisms to the surface.\n\nWhich of the statements given above is/are correct?",
+      "question": "In the context of ecosystem productivity, marine upwelling zones are important as they increase the marine productivity by bringing the\n1. decomposer microorganisms to the surface.\n2. nutrients to the surface.\n3. bottom-dwelling organisms to the surface.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -956,7 +956,7 @@
         },
         {
           "id": "c",
-          "text": "the rain forest species are slow- growing"
+          "text": "the rain forest species are slow-growing"
         },
         {
           "id": "d",
@@ -986,7 +986,7 @@
     {
       "id": "upsc_2011_gs1_q24",
       "type": "single-choice",
-      "question": "The Himalayan Range is very rich in species diversity. Which one among the following is the most appropriate reason for this Phenomenon?",
+      "question": "The Himalayan Range is very rich in species diversity. Which one among the following is the most appropriate reason for this phenomenon?",
       "options": [
         {
           "id": "a",
@@ -1002,7 +1002,7 @@
         },
         {
           "id": "d",
-          "text": "It has less human interference. E) None of the above/More than one of the above"
+          "text": "It has less human interference"
         }
       ],
       "correctAnswers": [
@@ -1028,7 +1028,7 @@
     {
       "id": "upsc_2011_gs1_q25",
       "type": "single-choice",
-      "question": "With reference to India, consider the following Central Acts:\n1. Import and Export (Control) Act, 1947\n2. Mining and Mineral Development (Regulation) Act, 1957\n3. Customs Act, 1962\n4. Indian Forest Act, 1927\n\nWhich of the above Acts have relevance to/bearing on the biodiversity conservation in the country?",
+      "question": "With reference to India, consider the following Central Acts:\n1. Import and Export (Control) Act, 1947\n2. Mining and Mineral Development (Regulation) Act, 1957\n3. Customs Act, 1962\n4. Indian Forest Act, 1927\nWhich of the above Acts have relevance to/bearing on the biodiversity conservation in the country?",
       "options": [
         {
           "id": "a",
@@ -1057,7 +1057,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 71,
         "subtags": []
       },
       "markBreakdown": [
@@ -1112,11 +1112,11 @@
     {
       "id": "upsc_2011_gs1_q27",
       "type": "single-choice",
-      "question": "A layer in the Earth s atmosphere called Ionosphere facilitates radio communication. Why?\n1. The presence of ozone causes the reflection of radio waves to Earth\n2. Radio waves have a very long wavelength.\n\nWhich of the statements given above is/are correct?",
+      "question": "A layer in the Earth's atmosphere called Ionosphere facilitates radio communication. Why?\n1. The presence of ozone causes the reflection of radio waves to Earth.\n2. Radio waves have a very long wavelength.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
-          "text": "1 Only"
+          "text": "1 only"
         },
         {
           "id": "b",
@@ -1154,7 +1154,7 @@
     {
       "id": "upsc_2011_gs1_q28",
       "type": "single-choice",
-      "question": "Both Foreign Direct Investment (FDI) and Foreign Institutional Investor (FII) are related to investment in a country.\n\nWhich one of the following statements best represents an important difference between the two?",
+      "question": "Both Foreign Direct Investment (FDI) and Foreign Institutional Investor (FII) are related to investment in a country. Which one of the following statements best represents an important difference between the two?",
       "options": [
         {
           "id": "a",
@@ -1238,7 +1238,7 @@
     {
       "id": "upsc_2011_gs1_q30",
       "type": "single-choice",
-      "question": "With reference to \"Aam Admi Bima Yojana\", consider the following statements:\n\n1. The member insured under the scheme must be the head of the family or an earning member of the family in a rural landless household.\n2. The member insured must be in the age group of 30 to 65 years.\n3. There is a provision for free scholarship for up to two children of the insured who are studying between classes 9 and 12.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to \"Aam Admi Bima Yojana\", consider the following statements:\n1. The member insured under the scheme must be the head of the family or an earning member of the family in a rural landless household.\n2. The member insured must be in the age group of 30 to 65 years.\n3. There is a provision for free scholarship for up to two children of the insured who are studying between classes 9 and 12.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1280,7 +1280,7 @@
     {
       "id": "upsc_2011_gs1_q31",
       "type": "single-choice",
-      "question": "In the context of global oil prices \"Brent crude oil\" is frequently referred to in the news. What does this term imply?\n1. It is a major source classification of crude oil\n2. It is sourced from the North Sea\n3. It does not contain sulphur.\n\nWhich of the statements given above is/are correct?",
+      "question": "In the context of global oil prices, \"Brent crude oil\" is frequently referred to in the news. What does this term imply?\n1. It is a major classification of crude oil.\n2. It is sourced from North Sea.\n3. It does not contain sulphur.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1309,7 +1309,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 85,
+        "mainTag": 16,
         "subtags": []
       },
       "markBreakdown": [
@@ -1334,11 +1334,11 @@
         },
         {
           "id": "c",
-          "text": "Stop the nuclear reaction"
+          "text": "Cool down the reactor"
         },
         {
           "id": "d",
-          "text": "None of the above"
+          "text": "Stop the nuclear reaction"
         }
       ],
       "correctAnswers": [
@@ -1364,7 +1364,7 @@
     {
       "id": "upsc_2011_gs1_q33",
       "type": "single-choice",
-      "question": "In India, if a religious sect/community is given the status of a national minority, what special advantages it is entitled to?\n1. It can establish and administer exclusive educational institutions\n2. The President of India automatically nominates a representative of the community to Lok Sabha\n3. It can derive benefits from the Prime Minister's 15-Point Programme.\n\nWhich of the statements given above is/are correct?",
+      "question": "In India, if a religious sect/community is given the status of a national minority, what special advantages it is entitled to?\n1. It can establish and administer exclusive educational institutions.\n2. The President of India automatically nominates a representative of the community to Lok Sabha.\n3. It can derive benefits from the Prime Minister's 15-Point Programme.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1406,7 +1406,7 @@
     {
       "id": "upsc_2011_gs1_q34",
       "type": "single-choice",
-      "question": "India is home to lakhs of persons with disabilities. What are the benefits available to them under the law?\n1. Free schooling till the age of 18 years in government-run schools\n2. Preferential allotment of land for setting up business\n3. Ramps in public buildings.\n\nWhich of the statements given above is/are correct?",
+      "question": "India is home to lakhs of persons with disabilities. What are the benefits available to them under the law?\n1. Free schooling till the age of 18 years in government-run schools.\n2. Preferential allotment of land for setting up business.\n3. Ramps in public buildings.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1435,7 +1435,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 172,
         "subtags": []
       },
       "markBreakdown": [
@@ -1448,7 +1448,7 @@
     {
       "id": "upsc_2011_gs1_q35",
       "type": "single-choice",
-      "question": "With what purpose is the Government of India promoting the concept “Mega Food Parks”?\n1. To provide good infrastructure facilities for the food processing industry\n2. To increase the processing of perishable items and reduce wastage\n3. To provide emerging and eco-friendly food processing technologies to entrepreneurs\n\nSelect the correct answer using the codes given below:",
+      "question": "With what purpose is the Government of India promoting the concept of \"Mega Food Parks\"?\n1. To provide good infrastructure facilities for the food processing industry.\n2. To increase the processing of perishable items and reduce wastage.\n3. To provide emerging and eco-friendly food processing technologies to entrepreneurs.\nSelect the correct answer using the codes given below:",
       "options": [
         {
           "id": "a",
@@ -1468,7 +1468,7 @@
         }
       ],
       "correctAnswers": [
-        "d"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -1561,7 +1561,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 38,
+        "mainTag": 186,
         "subtags": []
       },
       "markBreakdown": [
@@ -1574,7 +1574,7 @@
     {
       "id": "upsc_2011_gs1_q38",
       "type": "single-choice",
-      "question": "Microfinance is the provision of financial services to people of low-income groups. This includes both the consumers and the self-employed. The service/ services rendered under micro-finance is/are:\n1. Credit facilities\n2. Savings facilities\n3. Insurance facilities\n4. Fund Transfer facilities\n\nSelect the correct answer using the codes given below the lists",
+      "question": "Microfinance is the provision of financial services to people of low-income groups. This includes both the consumers and the self-employed. The service/services rendered under microfinance is/are:\n1. Credit facilities\n2. Savings facilities\n3. Insurance facilities\n4. Fund Transfer facilities\nSelect the correct answer using the codes given below the lists:",
       "options": [
         {
           "id": "a",
@@ -1658,7 +1658,7 @@
     {
       "id": "upsc_2011_gs1_q40",
       "type": "single-choice",
-      "question": "A company marketing food products advertises that its items do not contain trans-fats. What does this campaign signify to the customers?\n1. The food products are not made out of hydrogenated oils\n2. The food products are not made out of animal fats/ oils\n3. The oils used are not likely to damage the cardiovascular health of the consumers.\n\nWhich of the statements given above is/are correct?",
+      "question": "A company marketing food products advertises that its items do not contain trans-fats. What does this campaign signify to the customers?\n1. The food products are not made out of hydrogenated oils.\n2. The food products are not made out of animal fats/oils.\n3. The oils used are not likely to damage the cardiovascular health of the consumers.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1687,7 +1687,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 63,
         "subtags": []
       },
       "markBreakdown": [
@@ -1700,23 +1700,23 @@
     {
       "id": "upsc_2011_gs1_q41",
       "type": "single-choice",
-      "question": "Among the following, who are eligible to benefit from the \"Mahatma Gandhi National Rural Employment Guarantee Act\"?",
+      "question": "Among the following who are eligible to benefit from the \"Mahatma Gandhi National Rural Employment Guarantee Act\"?",
       "options": [
         {
           "id": "a",
-          "text": "Adult members of only the scheduled caste and scheduled tribe households only"
+          "text": "Adult members of only the scheduled caste and scheduled tribe households"
         },
         {
           "id": "b",
-          "text": "Adult members of below poverty line (BPL) households only"
+          "text": "Adult members of below poverty line (BPL) households"
         },
         {
           "id": "c",
-          "text": "Adult members of households of all backward communities only"
+          "text": "Adult members of households of all backward communities"
         },
         {
           "id": "d",
-          "text": "Adult members of any rural household"
+          "text": "Adult members of any household"
         }
       ],
       "correctAnswers": [
@@ -1729,7 +1729,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 65,
+        "mainTag": 53,
         "subtags": []
       },
       "markBreakdown": [
@@ -1742,7 +1742,7 @@
     {
       "id": "upsc_2011_gs1_q42",
       "type": "single-choice",
-      "question": "With reference to the 'Look East Policy' of India, consider the following statements:\n\n1. India wants to establish itself as an important regional player in East Asian affairs.\n2. India wants to plug the vacuum created by the termination of the Cold War.\n3. India wants to restore the historical and cultural ties with its neighbours in Southeast and East Asia.\n\nWhich of the statements given above is/are correct?",
+      "question": "With reference to \"Look East Policy\" of India, consider the following statements:\n1. India wants to establish itself as an important regional player in the East Asian affairs.\n2. India wants to plug the vacuum created by the termination of Cold War.\n3. India wants to restore the historical and cultural ties with its neighbours in Southeast and East Asia.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -1784,23 +1784,23 @@
     {
       "id": "upsc_2011_gs1_q43",
       "type": "single-choice",
-      "question": "When the annual Union Budget is m passed by the Lok Sabha,",
+      "question": "When the annual Union Budget is not passed by the Lok Sabha,",
       "options": [
         {
           "id": "a",
-          "text": "the Budget is modified ar presented again"
+          "text": "the Budget is modified and presented again"
         },
         {
           "id": "b",
-          "text": "the Budget is referred to the Rajy Sabha for suggestions"
+          "text": "the Budget is referred to the Rajya Sabha for suggestions"
         },
         {
           "id": "c",
-          "text": "the Union Finance Minister is aske to resign"
+          "text": "the Union Finance Minister is asked to resign"
         },
         {
           "id": "d",
-          "text": "the Prime Minister submits tt resignation of Council of Ministe"
+          "text": "the Prime Minister submits the resignation of Council of Ministers"
         }
       ],
       "correctAnswers": [
@@ -1813,7 +1813,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 38,
+        "mainTag": 186,
         "subtags": []
       },
       "markBreakdown": [
@@ -1855,7 +1855,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 372,
         "subtags": []
       },
       "markBreakdown": [
@@ -1884,7 +1884,7 @@
         },
         {
           "id": "d",
-          "text": "None of the statements A, B and C. given above is correct in this context"
+          "text": "None of the statements (a), (b) and (c) given above is correct in this context"
         }
       ],
       "correctAnswers": [
@@ -1897,7 +1897,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 38,
+        "mainTag": 24,
         "subtags": []
       },
       "markBreakdown": [
@@ -1910,7 +1910,7 @@
     {
       "id": "upsc_2011_gs1_q46",
       "type": "single-choice",
-      "question": "Consider the following:\n1. Right to education\n2. Right to equal access to public service\n3. Right to food.\n\nWhich of the above is/are Human Right/Rights under \"Universal Declaration of Human Rights\"?",
+      "question": "Consider the following:\n1. Right to education.\n2. Right to equal access to public service.\n3. Right to food.\nWhich of the above is/are Human Right/Human Rights under \"Universal Declaration of Human Rights\"?",
       "options": [
         {
           "id": "a",
@@ -1939,7 +1939,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 30,
+        "mainTag": 389,
         "subtags": []
       },
       "markBreakdown": [
@@ -1952,7 +1952,7 @@
     {
       "id": "upsc_2011_gs1_q47",
       "type": "single-choice",
-      "question": "There is a concern over the increase in harmful algal blooms in the seawaters of India. What could be the causative factors for this phenomenon?\n1. Discharge of nutrients from the estuaries\n2. Run-off from the land during the monsoon\n3. Upwelling in the seas\n\nSelect the Correct answer from the codes given below",
+      "question": "There is a concern over the increase in harmful algal blooms in the seawaters of India. What could be the causative factors for this phenomenon?\n1. Discharge of nutrients from the estuaries.\n2. Run-off from the land during the monsoon.\n3. Upwelling in the seas.\nSelect the correct answer from the codes given below:",
       "options": [
         {
           "id": "a",
@@ -1994,7 +1994,7 @@
     {
       "id": "upsc_2011_gs1_q48",
       "type": "single-choice",
-      "question": "Consider the following:\n1. Photosynthesis\n2. Respiration\n3. Decay of organic matter\n4. Volcanic action\n\nWhich of the above add carbon dioxide to the carbon cycle on Earth?",
+      "question": "Consider the following:\n1. Photosynthesis\n2. Respiration\n3. Decay of organic matter\n4. Volcanic action\nWhich of the above add carbon dioxide to the carbon cycle on Earth?",
       "options": [
         {
           "id": "a",
@@ -2023,7 +2023,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 68,
+        "mainTag": 66,
         "subtags": []
       },
       "markBreakdown": [
@@ -2036,7 +2036,7 @@
     {
       "id": "upsc_2011_gs1_q49",
       "type": "single-choice",
-      "question": "Recently, the USA decided to support India's membership in multi-lateral export control regimes called the \"Australia Group\" and the \"Wassenaar Arrangement\". What is the difference between them?\n1. The Australia Group is an informal arrangement which aims to allow exporting countries to minimize the risk of assisting chemical and biological weapons proliferation, whereas the Wassenaar Arrangement is a formal group under the OECD holding identical objectives\n2. The Australia Group comprises predominantly of Asian, African and North American countries, whereas the member countries of Wassenaar Arrangement are predominantly from the European Union and American continents.\n\nWhich of the statements given above is/are correct?",
+      "question": "Recently, the USA decided to support India's membership in multi-lateral export control regimes called the \"Australia Group\" and the \"Wassenaar Arrangement\". What is the difference between them?\n1. The Australia Group is an informal arrangement which aims to allow exporting countries to minimize the risk of assisting chemical and biological weapons proliferation, whereas the Wassenaar Arrangement is a formal group under the OECD holding identical objectives.\n2. The Australia Group comprises predominantly of Asian, African and North American countries, whereas the member countries of Wassenaar Arrangement are predominantly from the European Union and American continents.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2065,7 +2065,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 98,
+        "mainTag": 181,
         "subtags": []
       },
       "markBreakdown": [
@@ -2094,7 +2094,7 @@
         },
         {
           "id": "d",
-          "text": "None of the statements (a), B. and C. given above is correct"
+          "text": "None of the statements (a), (b) and (c) given above is correct"
         }
       ],
       "correctAnswers": [
@@ -2120,7 +2120,7 @@
     {
       "id": "upsc_2011_gs1_q51",
       "type": "single-choice",
-      "question": "A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area but its existence is threatened due to the destruction of its habitat.\n\nWhich one of the following could be that animal?",
+      "question": "A sandy and saline area is the natural habitat of an Indian animal species. The animal has no predators in that area but its existence is threatened due to the destruction of its habitat. Which one of the following could be that animal?",
       "options": [
         {
           "id": "a",
@@ -2149,7 +2149,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 70,
+        "mainTag": 67,
         "subtags": []
       },
       "markBreakdown": [
@@ -2162,7 +2162,7 @@
     {
       "id": "upsc_2011_gs1_q52",
       "type": "single-choice",
-      "question": "La Nina is suspected to have caused recent floods in Australia. How is La Nina different from El Nino?\n1. La Nina is characterized by unusually cold ocean temperature in the equatorial Indian Ocean, whereas El Nino is characterized by unusually warm ocean temperature in the equatorial Pacific Ocean\n2. El Nino has an adverse effect on the southwest monsoon of India, but La Nina has no effect on the monsoon climate.\n\nWhich of the statements given above is/are correct?",
+      "question": "La Nina is suspected to have caused recent floods in Australia. How is La Nina different from El Nino?\n1. La Nina is characterised by unusually cold ocean temperature in equatorial Indian Ocean whereas El Nino is characterised by unusually warm ocean temperature in the equatorial Pacific Ocean.\n2. El Nino has adverse effect on south-west monsoon of India, but La Nina has no effect on monsoon climate.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2178,7 +2178,7 @@
         },
         {
           "id": "d",
-          "text": "Neither I nor 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -2191,7 +2191,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -2204,7 +2204,7 @@
     {
       "id": "upsc_2011_gs1_q53",
       "type": "single-choice",
-      "question": "The tendency for increased litigation was visible after the introduction of the land settlement system of Lord Cornwallis in\n1793. The reason for this is normally traced to which of the following provisions?",
+      "question": "The tendency for increased litigation was visible after the introduction of the land settlement system of Lord Cornwallis in 1793. The reason for this is normally traced to which of the following provisions?",
       "options": [
         {
           "id": "a",
@@ -2266,7 +2266,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -2275,7 +2275,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -2317,7 +2317,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 354,
         "subtags": []
       },
       "markBreakdown": [
@@ -2346,7 +2346,7 @@
         },
         {
           "id": "d",
-          "text": "Both (a) and B. are convincing explanations in this context"
+          "text": "Both (a) and (b) are convincing explanations in this context"
         }
       ],
       "correctAnswers": [
@@ -2372,23 +2372,23 @@
     {
       "id": "upsc_2011_gs1_q57",
       "type": "single-choice",
-      "question": "What is the difference between Bluetooth and Wi-fi devices?",
+      "question": "What is the difference between Bluetooth and Wi-Fi devices?",
       "options": [
         {
           "id": "a",
-          "text": "Bluetooth uses 2.4GHz radio frequency band, whereas Wi-fi can use 2.4 GHz or 5 GHz frequency band"
+          "text": "Bluetooth uses 2.4 GHz radio frequency band, whereas Wi-Fi can use 2.4 GHz or 5 GHz frequency band"
         },
         {
           "id": "b",
-          "text": "Bluetooth is used for Wireless Local Area Networks (WLAN) only, whereas Wi-fi is used for Wireless Wide Area Networks (WWAN) only"
+          "text": "Bluetooth is used for Wireless Local Area Networks (WLAN) only, whereas Wi-Fi is used for Wireless Wide Area Networks (WWAN) only"
         },
         {
           "id": "c",
-          "text": "When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-fi technology is used the devices need not be in the line of sight of each other"
+          "text": "When information is transmitted between two devices using Bluetooth technology, the devices have to be in the line of sight of each other, but when Wi-Fi technology is used the devices need not be in the line of sight of each other"
         },
         {
           "id": "d",
-          "text": "The statements (a) and B. given above are correct in this context"
+          "text": "The statements (a) and (b) given above are correct in this context"
         }
       ],
       "correctAnswers": [
@@ -2414,7 +2414,7 @@
     {
       "id": "upsc_2011_gs1_q58",
       "type": "single-choice",
-      "question": "With reference to micro-irrigation, which of the following statements is/are correct?\n1. Fertilizer/nutrient loss can be reduced\n2. It is the only means of irrigation in dry land farming\n3. In some areas of farming, receding of ground water table can be checked\n\nSelect the correct answer using the codes given below",
+      "question": "With reference to micro-irrigation, which of the following statements is/are correct?\n1. Fertilizer/nutrient loss can be reduced.\n2. It is the only means of irrigation in dry land farming.\n3. In some areas of farming, receding of ground water table can be checked.\nSelect the correct answer using the codes given below :",
       "options": [
         {
           "id": "a",
@@ -2456,7 +2456,7 @@
     {
       "id": "upsc_2011_gs1_q59",
       "type": "single-choice",
-      "question": "With reference to the period of colonial rule in India, “Home Charges” formed an important part of drain of wealth from India. Which of the following funds constituted “Home Charges”?\n1. Funds used to support the India Office in London\n2. Funds used to pay salaries and pensions of British personnel engaged in India\n3. Funds used for waging wars outside India by the British\n\nSelect the correct answer using the codes given below:",
+      "question": "With reference to the period of colonial rule in India, \"Home Charges\" formed an important part of drain of wealth from India. Which of the following funds constituted \"Home Charges\"?\n1. Funds used to support the India Office in London.\n2. Funds used to pay salaries and pensions of British personnel engaged in India.\n3. Funds used for waging wars outside India by the British.\nSelect the correct answer using the codes given below :",
       "options": [
         {
           "id": "a",
@@ -2485,7 +2485,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 300,
         "subtags": []
       },
       "markBreakdown": [
@@ -2498,7 +2498,7 @@
     {
       "id": "upsc_2011_gs1_q60",
       "type": "single-choice",
-      "question": "What was the reason for Mahatma Gandhi to organize a satyagraha on behalf of the peasants of Kheda?\n\n1. The Administration did not suspend the land revenue collection in spite of a drought.\n2. The Administration proposed to introduce Permanent Settlement in Gujarat.\n\nWhich of the statements given above is/are correct?",
+      "question": "What was the reason for Mahatma Gandhi to organize a satyagraha on behalf of the peasants of Kheda?\n1. The Administration did not suspend the land revenue collection in spite of a drought.\n2. The Administration proposed to introduce Permanent Settlement in Gujarat.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2527,7 +2527,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -2540,7 +2540,7 @@
     {
       "id": "upsc_2011_gs1_q61",
       "type": "single-choice",
-      "question": "Biodiversity forms the basis for human existence in the following ways:\n1. Soil formation\n2. Prevention of soil erosion\n3. Recycling of waste\n4. Pollination of crops\n\nSelect the correct answer using the codes given below",
+      "question": "Biodiversity forms the basis for human existence in the following ways :\n1. Soil formation\n2. Prevention of soil erosion\n3. Recycling of waste\n4. Pollination of crops\nSelect the correct answer using the codes given below.",
       "options": [
         {
           "id": "a",
@@ -2586,7 +2586,7 @@
       "options": [
         {
           "id": "a",
-          "text": "Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in human body due to the lack of requisite enzymes"
+          "text": "Aspartame is as sweet as table sugar, but unlike table sugar, it is not readily oxidized in human body due to lack of requisite enzymes"
         },
         {
           "id": "b",
@@ -2611,7 +2611,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 63,
         "subtags": []
       },
       "markBreakdown": [
@@ -2653,7 +2653,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 6,
+        "mainTag": 7,
         "subtags": []
       },
       "markBreakdown": [
@@ -2666,7 +2666,7 @@
     {
       "id": "upsc_2011_gs1_q64",
       "type": "single-choice",
-      "question": "What is the difference between a CFL and an LED lamp?\n1. To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material\n2. The average life span of a CFL is much longer than that of an LED lamp\n3. A CFL is less energy-efficient as compared to an LED lamp.\n\nWhich of the statements given above is/are correct?",
+      "question": "What is the difference between a CFL and an LED lamp?\n1. To produce light, a CFL uses mercury vapour and phosphor while an LED lamp uses semi-conductor material.\n2. The average life span of a CFL is much longer than that of an LED lamp.\n3. A CFL is less energy-efficient as compared to an LED lamp.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2750,7 +2750,7 @@
     {
       "id": "upsc_2011_gs1_q66",
       "type": "single-choice",
-      "question": "A married couple adopted a male child. A few years later, twin boys were born to them. The blood group of the couple is AB positive and 0 negative. The blood group of the three sons is A positive, B positive, and 0 positive. The blood group of the adopted son is",
+      "question": "A married couple adopted a male child. A few years later, twin boys were born to them. The blood group of the couple is AB positive and O negative. The blood group of the three sons is A positive, B positive, and O positive. The blood group of the adopted son is",
       "options": [
         {
           "id": "a",
@@ -2808,7 +2808,7 @@
         },
         {
           "id": "d",
-          "text": "all the statements A., B. and C. are correct in this context"
+          "text": "All the statements (a), (b) and (c) are correct in this context"
         }
       ],
       "correctAnswers": [
@@ -2821,7 +2821,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -2838,19 +2838,19 @@
       "options": [
         {
           "id": "a",
-          "text": "running the secret Congress Radio in the wake of Quit India Movement"
+          "text": "Running the secret Congress Radio in the wake of Quit India Movement"
         },
         {
           "id": "b",
-          "text": "participating in the Second Round Table Conference"
+          "text": "Participating in the Second Round Table Conference"
         },
         {
           "id": "c",
-          "text": "leading a contingent of Indian National Army"
+          "text": "Leading a contingent of Indian National Army"
         },
         {
           "id": "d",
-          "text": "assisting in the formation of Interim Government under Pandit Jawaharlal Nehru"
+          "text": "Assisting in the formation of Interim Government under Pandit Jawaharlal Nehru"
         }
       ],
       "correctAnswers": [
@@ -2863,7 +2863,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 8,
+        "mainTag": 357,
         "subtags": []
       },
       "markBreakdown": [
@@ -2876,7 +2876,7 @@
     {
       "id": "upsc_2011_gs1_q69",
       "type": "single-choice",
-      "question": "A new optical disc format known as the Blu-ray Disc (BD) is becoming popular. In what way is it different from the traditional DVD?\n\n1. DVD supports Standard Definition video while BD supports High Definition video.\n2. Compared to a DVD, the BD format has several times more storage capacity.\n3. Thickness of BD is 2.4 mm while that of DVD is 1.2 mm.\n\nWhich of the statements given above is/are correct?",
+      "question": "A new optical disc format known as the Blu-ray Disc (BD) is becoming popular. In what way is it different from the traditional DVD?\n1. DVD supports Standard Definition video while BD supports High Definition video.\n2. Compared to a DVD, the BD format has several times more storage capacity.\n3. Thickness of BD is 2.4 mm while that of DVD is 1.2 mm.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -2918,7 +2918,7 @@
     {
       "id": "upsc_2011_gs1_q70",
       "type": "single-choice",
-      "question": "With reference to the period of Indian freedom struggle, which of the following was/were recommended by the Nehru report?\n1. Complete Independence for India\n2. Joint electorates for reservation of seats for minorities\n3. Provision of fundamental rights for the people of India in the Constitution\n\nSelect the correct answer using the codes given below",
+      "question": "With reference to the period of Indian freedom struggle, which of the following was/were recommended by the Nehru report?\n1. Complete Independence for India.\n2. Joint electorates for reservation of seats for minorities.\n3. Provision of fundamental rights for the people of India in the Constitution.\nSelect the correct answer using the codes given below :",
       "options": [
         {
           "id": "a",
@@ -3002,7 +3002,7 @@
     {
       "id": "upsc_2011_gs1_q72",
       "type": "single-choice",
-      "question": "Which one of the following is not a site for in-situ method of conservation of flora?",
+      "question": "Which one of the following is *not* a site for *in-situ* method of conservation of flora?",
       "options": [
         {
           "id": "a",
@@ -3044,7 +3044,7 @@
     {
       "id": "upsc_2011_gs1_q73",
       "type": "single-choice",
-      "question": "Consider the following statements: In India, a Metropolitan Planning Committee\n1. is constituted under the provisions of the Constitution of India\n2. prepares the draft development plans for metropolitan area\n3. has the sole responsibility for implementing Government sponsored schemes in the metropolitan area.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements :\nIn India, a Metropolitan Planning Committee\n1. is constituted under the provisions of the Constitution of India.\n2. prepares the draft development plans for metropolitan area.\n3. has the sole responsibility for implementing Government sponsored schemes in the metropolitan area.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3073,7 +3073,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 18,
+        "mainTag": 27,
         "subtags": []
       },
       "markBreakdown": [
@@ -3086,7 +3086,7 @@
     {
       "id": "upsc_2011_gs1_q74",
       "type": "single-choice",
-      "question": "Consider the following statements:\n\n1. A “vote-on-account” only deals with the expenditure in the Government’s budget, while an “interim budget” includes both expenditure and receipts.\n2. An interim budget cannot include new taxation proposals, while a vote-on-account can.\n\nWhich of the statements given above is/are correct?",
+      "question": "What is the difference between \"vote-on-account\" and \"interim budget\"?\n1. The provision of a \"vote-on-account\" is used by a regular Government, while an \"interim budget\" is a provision used by a caretaker Government.\n2. A \"vote-on-account\" only deals with the expenditure in Government's budget, while an \"interim budget\" includes both expenditure and receipts.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3106,7 +3106,7 @@
         }
       ],
       "correctAnswers": [
-        "a"
+        "b"
       ],
       "explanation": "",
       "marks": 2.0,
@@ -3115,7 +3115,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 39,
+        "mainTag": 186,
         "subtags": []
       },
       "markBreakdown": [
@@ -3144,7 +3144,7 @@
         },
         {
           "id": "d",
-          "text": "None of these"
+          "text": "It can grant loans to the central bank of a country"
         }
       ],
       "correctAnswers": [
@@ -3241,7 +3241,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 489,
         "subtags": []
       },
       "markBreakdown": [
@@ -3296,7 +3296,7 @@
     {
       "id": "upsc_2011_gs1_q79",
       "type": "single-choice",
-      "question": "The \"Red Data Books\" published by the International Union for Conservation of Nature and Natural Resources (IUCN) contain lists of\n1. Endemic plant and animal species present in the biodiversity hotspots\n2. Threatened plant and animal species\n3. Protected sites for conservation of nature and natural resources in various countries\n\nSelect the correct answer using the codes given below",
+      "question": "The \"Red Data Books\" published by the International Union for Conservation of Nature and Natural Resources (IUCN) contain lists of\n1. Endemic plant and animal species present in the biodiversity hotspots.\n2. Threatened plant and animal species.\n3. Protected sites for conservation of nature and natural resources in various countries.\nSelect the correct answer using the codes given below :",
       "options": [
         {
           "id": "a",
@@ -3338,7 +3338,7 @@
     {
       "id": "upsc_2011_gs1_q80",
       "type": "single-choice",
-      "question": "Why is the offering of \"teaser loans\" by commercial banks a cause of economic concern?\n1. The teaser loans are considered to be an aspect of sub-prime lending and banks may be exposed to the risk of defaulters in future\n2. In India, the teaser loans are mostly given to inexperienced entrepreneurs to set up manufacturing or export units.\n\nWhich of the statements given above is/ are correct?",
+      "question": "Why is the offering of \"teaser loans\" by commercial banks a cause of economic concern?\n1. The teaser loans are considered to be an aspect of sub-prime lending and banks may be exposed to the risk of defaulters in future.\n2. In India, the teaser loans are mostly given to inexperienced entrepreneurs to set up manufacturing or export units.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3409,7 +3409,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 80,
+        "mainTag": 73,
         "subtags": []
       },
       "markBreakdown": [
@@ -3422,7 +3422,7 @@
     {
       "id": "upsc_2011_gs1_q82",
       "type": "single-choice",
-      "question": "In the context of Indian economy, consider the following statements:\n1. The growth rate of GDP has steadily increased in the last five years\n2. The growth rate in per capita income has steadily increased in the last five years.\n\nWhich of the statements given above is/are correct?",
+      "question": "In the context of Indian economy, consider the following statements :\n1. The growth rate of GDP has steadily increased in the last five years.\n2. The growth rate in per capita income has steadily increased in the last five years.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3506,7 +3506,7 @@
     {
       "id": "upsc_2011_gs1_q84",
       "type": "single-choice",
-      "question": "Which of the following can aid in furthering the Government's objective of inclusive growth?\n1. Promoting Self-Help Groups\n2. Promoting Micro, small and Medium Enterprises\n3. Implementing the Right to Education Act\n\nSelect the correct answer using the codes given below",
+      "question": "Which of the following can aid in furthering the Government's objective of inclusive growth?\n1. Promoting Self-Help Groups\n2. Promoting Micro, Small and Medium Enterprises\n3. Implementing the Right to Education Act\nSelect the correct answer using the codes given below :",
       "options": [
         {
           "id": "a",
@@ -3535,7 +3535,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 62,
+        "mainTag": 184,
         "subtags": []
       },
       "markBreakdown": [
@@ -3548,7 +3548,7 @@
     {
       "id": "upsc_2011_gs1_q85",
       "type": "single-choice",
-      "question": "Why is the Government of India disinvesting its equity in the Central Public Sector Enterprises (CPSEs)?\n1. The Government intends to use the revenue earned from the disinvestment mainly to pay back the external debt\n2. The Government no longer intends to retain the management control of the CPSEs.\n\nWhich of the statements given above is/ are correct?",
+      "question": "Why is the Government of India disinvesting its equity in the Central Public Sector Enterprises (CPSEs)?\n1. The Government intends to use the revenue earned from the disinvestment mainly to pay back the external debt.\n2. The Government no longer intends to retain the management control of the CPSEs.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3564,7 +3564,7 @@
         },
         {
           "id": "d",
-          "text": "neither 1 nor 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -3590,7 +3590,7 @@
     {
       "id": "upsc_2011_gs1_q86",
       "type": "single-choice",
-      "question": "What is the difference between asteroids and comets?\n1. Asteroids are small rocky planetoids, while comets are made of ice, dust and rocky material\n2. Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury\n3. Comets show a perceptible glowing tail, while asteroids do not.\n\nWhich of the statements given above is/ are correct?",
+      "question": "What is the difference between asteroids and comets?\n1. Asteroids are small rocky planetoids, while comets are formed of frozen gases held together by rocky and metallic material.\n2. Asteroids are found mostly between the orbits of Jupiter and Mars, while comets are found mostly between Venus and Mercury.\n3. Comets show a perceptible glowing tail, while asteroids do not.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3690,7 +3690,7 @@
         },
         {
           "id": "d",
-          "text": "Mobilization of more deposits by commercial - banks"
+          "text": "Mobilization of more deposits by commercial banks"
         }
       ],
       "correctAnswers": [
@@ -3703,7 +3703,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 41,
+        "mainTag": 40,
         "subtags": []
       },
       "markBreakdown": [
@@ -3716,7 +3716,7 @@
     {
       "id": "upsc_2011_gs1_q89",
       "type": "single-choice",
-      "question": "Westerlies in southern hemisphere are stronger and persistent than in northern hemisphere. Why?\n1. Southern hemisphere has less landmass as compared to northern hemisphere\n2. Coriolis force is higher in southern hemisphere as compared to northern hemisphere.\n\nWhich of the statements given above is/are correct?",
+      "question": "Westerlies in southern hemisphere are stronger and persistent than in northern hemisphere. Why?\n1. Southern hemisphere has less landmass as compared to northern hemisphere.\n2. Coriolis force is higher in southern hemisphere as compared to northern hemisphere.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3732,7 +3732,7 @@
         },
         {
           "id": "d",
-          "text": "neither 1 nor 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -3745,7 +3745,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -3758,7 +3758,7 @@
     {
       "id": "upsc_2011_gs1_q90",
       "type": "single-choice",
-      "question": "Between India and East Asia, the navigation time and distance can be greatly reduced by which of the following?\n1. Deepening the Malacca straits between Malaysia and Indonesia\n2. Opening a new canal across the Kra isthmus between the Gulf of Siam and Andaman Sea.\n\nWhich of the statements given above is/are correct?",
+      "question": "Between India and East Asia, the navigation-time and distance can be greatly reduced by which of the following?\n1. Deepening the Malacca straits between Malaysia and Indonesia.\n2. Opening a new canal across the Kra isthmus between the Gulf of Siam and Andaman Sea.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3770,11 +3770,11 @@
         },
         {
           "id": "c",
-          "text": "Both I and 2"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "Neither I nor 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -3787,7 +3787,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 14,
         "subtags": []
       },
       "markBreakdown": [
@@ -3842,7 +3842,7 @@
     {
       "id": "upsc_2011_gs1_q92",
       "type": "single-choice",
-      "question": "Regarding the Indus Valley Civilization, consider the following statements:\n1. It was predominantly a secular civilization and the religious element, though present, did not dominate the scene\n2. During this period, cotton was used for manufacturing textiles in India.\n\nWhich of the statements given above is/are correct?",
+      "question": "Regarding the Indus Valley Civilization, consider the following statements :\n1. It was predominantly a secular civilization and the religious element, though present, did not dominate the scene.\n2. During this period, cotton was used for manufacturing textiles in India.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -3858,7 +3858,7 @@
         },
         {
           "id": "d",
-          "text": "neither 1 nor 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -3871,7 +3871,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 327,
         "subtags": []
       },
       "markBreakdown": [
@@ -3913,7 +3913,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 13,
+        "mainTag": 87,
         "subtags": []
       },
       "markBreakdown": [
@@ -3926,7 +3926,7 @@
     {
       "id": "upsc_2011_gs1_q94",
       "type": "single-choice",
-      "question": "What could be the main reasons for the formation of the African and Eurasian desert belts?\n1. It is located in the sub-tropical high-pressure cells\n2. It is under the influence of warm ocean currents.\n\nWhich of the statements given above is/are correct in this context?",
+      "question": "What could be the main reason/reasons for the formation of African and Eurasian desert belt?\n1. It is located in the sub-tropical high pressure cells.\n2. It is under the influence of warm ocean currents.\nWhich of the statements given above is/are correct in this context?",
       "options": [
         {
           "id": "a",
@@ -3942,7 +3942,7 @@
         },
         {
           "id": "d",
-          "text": "neither 1 nor 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -3955,7 +3955,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -3968,7 +3968,7 @@
     {
       "id": "upsc_2011_gs1_q95",
       "type": "single-choice",
-      "question": "The jet aircrafts fly very easily and smoothly in the lower stratosphere. What could be the appropriate explanation?\n1. There are no clouds or water vapour in the lower stratosphere\n2. There are no vertical winds in the lower stratosphere.\n\nWhich of the statements given above is/are correct in this context?",
+      "question": "The jet aircrafts fly very easily and smoothly in the lower stratosphere. What could be the appropriate explanation?\n1. There are no clouds or water vapour in the lower stratosphere.\n2. There are no vertical winds in the lower stratosphere.\nWhich of the statements given above is/are correct in this context?",
       "options": [
         {
           "id": "a",
@@ -3984,7 +3984,7 @@
         },
         {
           "id": "d",
-          "text": "neither 1 nor 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -3997,7 +3997,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 10,
+        "mainTag": 151,
         "subtags": []
       },
       "markBreakdown": [
@@ -4010,7 +4010,7 @@
     {
       "id": "upsc_2011_gs1_q96",
       "type": "single-choice",
-      "question": "Consider the following statements:\n1. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes\n2. Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.\n\nWhich of the statements given above is/are correct?",
+      "question": "Consider the following statements :\n1. Biodiversity is normally greater in the lower latitudes as compared to the higher latitudes.\n2. Along the mountain gradients, biodiversity is normally greater in the lower altitudes as compared to the higher altitudes.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4022,11 +4022,11 @@
         },
         {
           "id": "c",
-          "text": "Both I and 2"
+          "text": "Both 1 and 2"
         },
         {
           "id": "d",
-          "text": "Neither 1 and 2"
+          "text": "Neither 1 nor 2"
         }
       ],
       "correctAnswers": [
@@ -4094,7 +4094,7 @@
     {
       "id": "upsc_2011_gs1_q98",
       "type": "single-choice",
-      "question": "A state in India has the following characteristics:\n1. Its northern part is arid and semiarid\n2. Its central part produces cotton\n3. Cultivation of cash crops is predominant over food crops. Which one of the following states has all of the above characteristics?",
+      "question": "A state in India has the following characteristics :\n1. Its northern part is arid and semi-arid.\n2. Its central part produces cotton.\n3. Cultivation of cash crops is predominant over food crops.\nWhich one of the following states has all of the above characteristics?",
       "options": [
         {
           "id": "a",
@@ -4123,7 +4123,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 92,
+        "mainTag": 13,
         "subtags": []
       },
       "markBreakdown": [
@@ -4136,7 +4136,7 @@
     {
       "id": "upsc_2011_gs1_q99",
       "type": "single-choice",
-      "question": "What is a \"Virtual Private Network\"?",
+      "question": "What is \"Virtual Private Network\"?",
       "options": [
         {
           "id": "a",
@@ -4178,7 +4178,7 @@
     {
       "id": "upsc_2011_gs1_q100",
       "type": "single-choice",
-      "question": "The \"dharma\" and \"rita\" depict a central idea of ancient Vedic civilization of India. In this context, consider the following statements:\n1. Dharma was a conception of obligations and of the discharge of one's duties to oneself and to others\n2. Rita was the fundamental moral law governing the functioning of the universe and all it contained.\n\nWhich of the statements given above is/ are correct?",
+      "question": "The \"dharma\" and \"rita\" depict a central idea of ancient Vedic civilization of India. In this context, consider the following statements :\n1. Dharma was a conception of obligations and of the discharge of one's duties to oneself and to others.\n2. Rita was the fundamental moral law governing the functioning of the universe and all it contained.\nWhich of the statements given above is/are correct?",
       "options": [
         {
           "id": "a",
@@ -4207,7 +4207,7 @@
       "difficulty": "hard",
       "tags": [],
       "taxonomy": {
-        "mainTag": 4,
+        "mainTag": 329,
         "subtags": []
       },
       "markBreakdown": [
