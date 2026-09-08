@@ -78,10 +78,12 @@ mod tests {
                     crate::backend::types::QuestionOption {
                         id: "a".to_string(),
                         text: "A".to_string(),
+                        cells: Vec::new(),
                     },
                     crate::backend::types::QuestionOption {
                         id: "b".to_string(),
                         text: "B".to_string(),
+                        cells: Vec::new(),
                     },
                 ]),
                 correct_answers: vec!["a".to_string()],

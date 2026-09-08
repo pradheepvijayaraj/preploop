@@ -69,10 +69,12 @@ fn validate_mark_breakdown_taxonomy(
 }
 
 const MARK_SUM_TOLERANCE: f64 = 1e-9;
+/// Shared by import validation and commands that address stored questions.
+pub const MAX_IDENTIFIER_CHARS: usize = 256;
 
 /// Parse and validate a question bank JSON string.
 ///
-/// Returns `Ok(QuestionBank)` if valid, or `Err(Vec<String>)` with
+/// Returns `Ok(QuestionBank)` if valid, or structured validation errors with
 /// all validation errors.  Used by `import_question_bank` in commands.rs.
 pub fn parse_question_bank_json(json_content: &str) -> Result<QuestionBank, Vec<ValidationError>> {
     let bank = deserialize_question_bank(json_content)?;
@@ -96,12 +98,17 @@ pub fn parse_question_bank_json(json_content: &str) -> Result<QuestionBank, Vec<
 fn deserialize_question_bank(json_content: &str) -> Result<QuestionBank, Vec<ValidationError>> {
     let mut deserializer = serde_json::Deserializer::from_str(json_content);
 
-    serde_path_to_error::deserialize(&mut deserializer).map_err(|error| {
+    let bank = serde_path_to_error::deserialize(&mut deserializer).map_err(|error| {
         let path = error.path().to_string();
         let message = error.inner().to_string();
 
         vec![ValidationError::new(path, message)]
-    })
+    })?;
+    // Deserializing one value does not ensure the input ends after it.
+    deserializer
+        .end()
+        .map_err(|error| vec![ValidationError::new("$", error.to_string())])?;
+    Ok(bank)
 }
 
 /// Semantic validation of a parsed question bank struct.
@@ -205,6 +212,12 @@ fn validate_question_bank(bank: &QuestionBank) -> Vec<ValidationError> {
                 "Question ID is required",
             ));
         }
+        if question.id.chars().count() > MAX_IDENTIFIER_CHARS {
+            errors.push(ValidationError::new(
+                format!("{base}.id"),
+                format!("Question ID must be at most {MAX_IDENTIFIER_CHARS} characters"),
+            ));
+        }
         if !seen_question_ids.insert(question.id.clone()) {
             errors.push(ValidationError::new(
                 format!("{base}.id"),
@@ -217,7 +230,8 @@ fn validate_question_bank(bank: &QuestionBank) -> Vec<ValidationError> {
                 "Question text is required",
             ));
         }
-        if question.correct_answers.is_empty() {
+        let is_withdrawn = question.tags.iter().any(|tag| tag == "withdrawn");
+        if question.correct_answers.is_empty() && !is_withdrawn {
             errors.push(ValidationError::new(
                 format!("{base}.correctAnswers"),
                 "At least one correct answer is required",
@@ -314,6 +328,8 @@ fn validate_question_bank(bank: &QuestionBank) -> Vec<ValidationError> {
             }
 
             let mut seen_option_ids = std::collections::HashSet::new();
+            let mut expected_cell_labels: Option<Vec<&str>> = None;
+            let uses_option_cells = options.iter().any(|option| !option.cells.is_empty());
             for (option_index, option) in options.iter().enumerate() {
                 if option.id.trim().is_empty() {
                     errors.push(ValidationError::new(
@@ -330,6 +346,38 @@ fn validate_question_bank(bank: &QuestionBank) -> Vec<ValidationError> {
                     errors.push(ValidationError::new(
                         format!("{base}.options[{option_index}].text"),
                         "Option text is required",
+                    ));
+                }
+                if !option.cells.is_empty() {
+                    let labels = option
+                        .cells
+                        .iter()
+                        .map(|cell| cell.label.trim())
+                        .collect::<Vec<_>>();
+                    if labels.iter().any(|label| label.is_empty()) {
+                        errors.push(ValidationError::new(
+                            format!("{base}.options[{option_index}].cells"),
+                            "Option-table cell labels cannot be empty",
+                        ));
+                    }
+                    if option.cells.iter().any(|cell| cell.text.trim().is_empty()) {
+                        errors.push(ValidationError::new(
+                            format!("{base}.options[{option_index}].cells"),
+                            "Option-table cell text cannot be empty",
+                        ));
+                    }
+                    match &expected_cell_labels {
+                        Some(expected) if expected != &labels => errors.push(ValidationError::new(
+                            format!("{base}.options[{option_index}].cells"),
+                            "All tabular options must use the same cell labels in the same order",
+                        )),
+                        None => expected_cell_labels = Some(labels),
+                        Some(_) => {}
+                    }
+                } else if uses_option_cells {
+                    errors.push(ValidationError::new(
+                        format!("{base}.options[{option_index}].cells"),
+                        "All options must provide cells when an option table is used",
                     ));
                 }
             }
@@ -351,7 +399,8 @@ fn validate_question_bank(bank: &QuestionBank) -> Vec<ValidationError> {
         if matches!(
             question.question_type,
             super::types::QuestionType::SingleChoice
-        ) && question.correct_answers.len() != 1
+        ) && !is_withdrawn
+            && question.correct_answers.len() != 1
         {
             errors.push(ValidationError::new(
                 format!("{base}.correctAnswers"),
@@ -476,6 +525,23 @@ mod tests {
     }
 
     #[test]
+    fn rejects_trailing_json_values_and_garbage_but_allows_whitespace() {
+        let json = valid_bank_json().to_string();
+        assert!(parse_question_bank_json(&format!("{json} \n\t")).is_ok());
+        for suffix in ["{}", "null", "unexpected"] {
+            assert!(parse_question_bank_json(&format!("{json} {suffix}")).is_err());
+        }
+    }
+
+    #[test]
+    fn imported_question_ids_must_fit_the_answer_command_contract() {
+        let mut value = valid_bank_json();
+        value["questions"][0]["id"] = json!("q".repeat(257));
+        let errors = parse_question_bank_json(&value.to_string()).unwrap_err();
+        assert!(errors.iter().any(|error| error.path == "questions[0].id"));
+    }
+
+    #[test]
     fn semantic_validation_aggregates_independent_failures() {
         let mut value = valid_bank_json();
         value["metadata"]["name"] = json!(" ");
@@ -510,6 +576,30 @@ mod tests {
     }
 
     #[test]
+    fn option_tables_require_complete_consistent_labelled_cells() {
+        let mut value = valid_bank_json();
+        value["questions"][0]["options"][0]["cells"] = json!([
+            { "label": "Feature", "text": "Atlas Mountains" },
+            { "label": "Region", "text": "North-Western Africa" }
+        ]);
+        value["questions"][0]["options"][1]["cells"] = json!([
+            { "label": "Feature", "text": "Okavango Basin" },
+            { "label": "Area", "text": "Patagonia" }
+        ]);
+
+        let errors = parse_question_bank_json(&value.to_string()).unwrap_err();
+        assert!(errors
+            .iter()
+            .any(|error| error.message.contains("same cell labels in the same order")));
+
+        value["questions"][0]["options"][1]["cells"] = json!([]);
+        let errors = parse_question_bank_json(&value.to_string()).unwrap_err();
+        assert!(errors
+            .iter()
+            .any(|error| error.message.contains("All options must provide cells")));
+    }
+
+    #[test]
     fn numerical_and_fill_blank_allow_multiple_acceptable_answers() {
         let mut value = valid_bank_json();
         value["metadata"]["totalQuestions"] = json!(2);
@@ -531,6 +621,15 @@ mod tests {
                 "negativeMarks": 0
             }
         ]);
+
+        assert!(parse_question_bank_json(&value.to_string()).is_ok());
+    }
+
+    #[test]
+    fn withdrawn_choice_question_allows_an_empty_answer_key() {
+        let mut value = valid_bank_json();
+        value["questions"][0]["correctAnswers"] = json!([]);
+        value["questions"][0]["tags"] = json!(["withdrawn"]);
 
         assert!(parse_question_bank_json(&value.to_string()).is_ok());
     }

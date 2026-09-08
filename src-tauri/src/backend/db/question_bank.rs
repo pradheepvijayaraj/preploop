@@ -1042,10 +1042,12 @@ mod bundled_sync_tests {
                     QuestionOption {
                         id: "a".to_string(),
                         text: "A".to_string(),
+                        cells: Vec::new(),
                     },
                     QuestionOption {
                         id: "b".to_string(),
                         text: "B".to_string(),
+                        cells: Vec::new(),
                     },
                 ]),
                 correct_answers: vec!["a".to_string()],

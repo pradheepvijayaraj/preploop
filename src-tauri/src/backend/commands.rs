@@ -24,12 +24,12 @@ use super::types::{
     TestStatus, ToggleFlagArgs, UpdateTimeArgs, ValidationError,
 };
 use super::validation;
+use super::validation::MAX_IDENTIFIER_CHARS;
 
 const MAX_IMPORT_JSON_BYTES: usize = 16 * 1024 * 1024;
 const MAX_SEARCH_QUERY_CHARS: usize = 512;
 const MAX_SEARCH_SECTIONS: usize = 32;
 const MAX_SEARCH_SECTION_CHARS: usize = 128;
-const MAX_IDENTIFIER_CHARS: usize = 256;
 const MAX_ANSWER_JSON_BYTES: usize = 1024 * 1024;
 const MAX_BUNDLED_CATALOG_KEYS: usize = 4096;
 

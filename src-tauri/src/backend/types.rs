@@ -101,6 +101,16 @@ string_enum! {
 pub struct QuestionOption {
     pub id: String,
     pub text: String,
+    /// Optional labelled cells for answer choices printed as a table.
+    #[serde(default, skip_serializing_if = "Vec::is_empty")]
+    pub cells: Vec<QuestionOptionCell>,
+}
+
+#[derive(Debug, Clone, Serialize, Deserialize)]
+#[serde(rename_all = "camelCase")]
+pub struct QuestionOptionCell {
+    pub label: String,
+    pub text: String,
 }
 
 /// Marks assigned to a paper subquestion.  This is presentation metadata and

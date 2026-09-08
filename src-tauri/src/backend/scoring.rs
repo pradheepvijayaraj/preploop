@@ -210,6 +210,10 @@ pub fn build_review_items(
 /// - `None` for unanswered (applies negative_marks_unanswered penalty).
 /// - `Some(true/false)` for answered (applies marks or negative_marks).
 fn evaluate_question(question: &Question, user_answer: Option<&JsonValue>) -> (Option<bool>, f64) {
+    if question.tags.iter().any(|tag| tag == "withdrawn") {
+        return (Some(true), question.marks);
+    }
+
     match user_answer.filter(|answer| !is_empty_answer(answer)) {
         None => (None, -question.negative_marks_unanswered),
         Some(answer) => {
@@ -351,6 +355,7 @@ mod tests {
             options: Some(vec![QuestionOption {
                 id: "a".to_string(),
                 text: "A".to_string(),
+                cells: Vec::new(),
             }]),
             correct_answers: vec!["a".to_string()],
             explanation: String::new(),
@@ -446,6 +451,19 @@ mod tests {
         assert_eq!(
             evaluate_question(&item, Some(&serde_json::json!(["a", "a"]))),
             (Some(false), -0.5)
+        );
+    }
+
+    #[test]
+    fn withdrawn_question_awards_full_marks_without_an_answer() {
+        let mut item = question("withdrawn");
+        item.tags.push("withdrawn".to_string());
+        item.correct_answers.clear();
+
+        assert_eq!(evaluate_question(&item, None), (Some(true), 2.0));
+        assert_eq!(
+            evaluate_question(&item, Some(&serde_json::json!("b"))),
+            (Some(true), 2.0)
         );
     }
 
