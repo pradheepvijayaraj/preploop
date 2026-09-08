@@ -32,11 +32,13 @@
     Array.from({ length: navigatorTileCount }, (_, index) => index),
   );
 
-  const answeredCount = $derived(answers.size);
-  const unansweredCount = $derived(
-    Math.max(questions.length - answers.size, 0),
+  const answeredCount = $derived(
+    questions.filter((question) => answers.has(question.id)).length,
   );
-  const flaggedCount = $derived(flags.size);
+  const unansweredCount = $derived(questions.length - answeredCount);
+  const flaggedCount = $derived(
+    questions.filter((question) => flags.has(question.id)).length,
+  );
   let navigatorScrollElement = $state<HTMLDivElement | null>(null);
 
   function getQuestionState(
@@ -108,6 +110,7 @@
 
       <div
         class="question-navigator__legend"
+        role="group"
         aria-label="Question status legend"
       >
         <div class="question-navigator__legend-item">
