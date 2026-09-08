@@ -6,6 +6,22 @@
  */
 import type { QuestionReviewItem, TestResult } from "$lib/types";
 import { invokeBackend } from "$lib/services/backend";
+import { toggleFlag } from "$lib/services/test-session";
+
+export interface ReviewFlagUpdate {
+  questionId: string;
+  isFlagged: boolean;
+}
+
+export async function toggleReviewItemFlag(
+  attemptId: string,
+  questionId: string,
+): Promise<ReviewFlagUpdate> {
+  return {
+    questionId,
+    isFlagged: await toggleFlag(attemptId, questionId),
+  };
+}
 
 export async function calculateTestResult(
   attemptId: string,

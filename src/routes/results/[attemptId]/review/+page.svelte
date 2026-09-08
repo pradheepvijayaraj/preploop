@@ -6,9 +6,12 @@
   import { Button } from "$lib/components/ui/button";
   import QuestionFooter from "$lib/components/question-footer.svelte";
   import type { QuestionReviewItem, StoredQuestionBank } from "$lib/types";
-  import { toggleFlag as toggleFlagService } from "$lib/services/test-session";
   import { loadResultContext } from "$lib/services/result-loader";
-  import { getQuestionReview, filterReviewItems } from "$lib/services/scoring";
+  import {
+    getQuestionReview,
+    filterReviewItems,
+    toggleReviewItemFlag,
+  } from "$lib/services/scoring";
   import { logError } from "$lib/services/logger";
   import { withLoadingTimeout } from "$lib/services/loading-timeout";
   import { safeResultReturnTo } from "$lib/services/result-navigation";
@@ -146,14 +149,12 @@
 
   async function toggleReviewFlag() {
     if (!currentItem) return;
+    const questionId = currentItem.question.id;
     try {
-      const nextFlagged = await toggleFlagService(
-        attemptId,
-        currentItem.question.id,
-      );
+      const update = await toggleReviewItemFlag(attemptId, questionId);
       reviewItems = reviewItems.map((item) =>
-        item.question.id === currentItem.question.id
-          ? { ...item, isFlagged: nextFlagged }
+        item.question.id === update.questionId
+          ? { ...item, isFlagged: update.isFlagged }
           : item,
       );
     } catch (error) {
