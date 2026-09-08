@@ -469,7 +469,7 @@ pub fn finalize_submission(
                  WHEN ?5 IS NULL THEN time_remaining
                  ELSE MIN(time_remaining, duration, ?5)
              END
-         WHERE id = ?6 AND status = ?7",
+         WHERE id = ?6 AND status IN (?7, ?8)",
             params![
                 TestStatus::Completed.as_str(),
                 completed_at,
@@ -477,13 +477,14 @@ pub fn finalize_submission(
                 max_score,
                 time_remaining,
                 attempt_id,
-                TestStatus::InProgress.as_str()
+                TestStatus::InProgress.as_str(),
+                TestStatus::Paused.as_str()
             ],
         )
         .stringify_err()?;
     if changed == 0 {
         return Err(LoopError::invalid_state(
-            "Cannot submit: attempt is not in progress",
+            "Cannot submit: attempt is not active",
         ));
     }
     Ok(())

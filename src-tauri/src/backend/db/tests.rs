@@ -1377,15 +1377,6 @@ mod tests {
         );
         crate::backend::db::attempt::pause_test(&conn, &attempt_id, 480).unwrap();
         assert!(crate::backend::db::attempt::pause_test(&conn, &attempt_id, 499).is_err());
-        assert!(crate::backend::db::attempt::finalize_submission(
-            &conn,
-            &attempt_id,
-            0.0,
-            2.0,
-            crate::backend::db::now_ms(),
-            None,
-        )
-        .is_err());
         assert!(crate::backend::db::attempt::toggle_flag(&conn, &attempt_id, "q-1").is_err());
         assert!(
             crate::backend::db::attempt::fetch_responses_by_attempt_id(&conn, &attempt_id).unwrap()
@@ -1421,6 +1412,39 @@ mod tests {
         );
         assert!(crate::backend::db::attempt::toggle_flag(&conn, &attempt_id, "q-1").unwrap());
         assert!(!crate::backend::db::attempt::toggle_flag(&conn, &attempt_id, "q-1").unwrap());
+    }
+
+    #[test]
+    fn paused_attempt_can_be_submitted() {
+        let mut conn = setup_conn();
+        let bank_id = import_question_bank(&mut conn, &sample_bank()).unwrap();
+        let attempt_id = crate::backend::db::attempt::create_test_attempt(
+            &mut conn,
+            &bank_id,
+            crate::backend::types::TestMode::Test,
+            None,
+        )
+        .unwrap();
+
+        crate::backend::db::attempt::pause_test(&conn, &attempt_id, 480).unwrap();
+        crate::backend::db::attempt::finalize_submission(
+            &conn,
+            &attempt_id,
+            0.0,
+            2.0,
+            crate::backend::db::now_ms(),
+            Some(480),
+        )
+        .unwrap();
+
+        let submitted = crate::backend::db::attempt::fetch_test_attempt(&conn, &attempt_id)
+            .unwrap()
+            .unwrap();
+        assert_eq!(
+            submitted.status,
+            crate::backend::types::TestStatus::Completed
+        );
+        assert_eq!(submitted.time_remaining, 480);
     }
 
     #[test]
