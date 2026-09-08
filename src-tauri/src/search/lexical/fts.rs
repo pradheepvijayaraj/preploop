@@ -62,7 +62,7 @@ impl LexicalSearch {
         if query.terms().len() == 1 {
             let t = &query.terms()[0];
             let char_count = t.chars().count();
-            if char_count >= 4 {
+            if char_count >= 4 && t.chars().all(char::is_alphabetic) {
                 let root: String = t.chars().take(4).collect();
                 let fallback_expr = format!("\"{}\"*", root.replace('"', "\"\""));
                 let fallback_hits =
@@ -312,5 +312,16 @@ mod tests {
         let hits4 = LexicalSearch::search(&conn, &q1, &legacy_tag_filter, 10).unwrap();
         assert_eq!(hits4.len(), 1);
         assert_eq!(hits4[0].question_id, "q1");
+
+        // Alphabetic typos retain the broad four-character recovery, while
+        // numeric queries preserve exact identity instead of matching a year prefix.
+        let typo = FtsQueryBuilder::build("constituton").unwrap();
+        let typo_hits = LexicalSearch::search(&conn, &typo, &SearchFilter::default(), 10).unwrap();
+        assert_eq!(typo_hits[0].question_id, "q1");
+
+        let numeric = FtsQueryBuilder::build("20230").unwrap();
+        let numeric_hits =
+            LexicalSearch::search(&conn, &numeric, &SearchFilter::default(), 10).unwrap();
+        assert!(numeric_hits.is_empty());
     }
 }
