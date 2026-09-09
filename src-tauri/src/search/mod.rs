@@ -5,12 +5,15 @@
 //!
 //! CPU-first. No platform-specific code in this module tree.
 
+pub mod control;
 pub mod embedding;
 pub mod filters;
 pub mod indexing;
 pub mod lexical;
 pub mod metrics;
 pub mod ranking;
+#[cfg(test)]
+mod regressions;
 pub mod request;
 pub mod response;
 pub mod service;

@@ -2,6 +2,21 @@
 
 use crate::search::filters::SearchFilter;
 
+#[derive(Clone)]
+pub struct SearchOptions {
+    pub semantic: bool,
+    pub cancellation: crate::search::control::SearchCancellation,
+}
+
+impl Default for SearchOptions {
+    fn default() -> Self {
+        Self {
+            semantic: true,
+            cancellation: Default::default(),
+        }
+    }
+}
+
 /// A normalised search request from the UI.
 #[derive(Debug, Clone)]
 pub struct SearchRequest {

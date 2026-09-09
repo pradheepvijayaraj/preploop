@@ -188,6 +188,16 @@ export interface QuestionSearchResponse {
   searchedQuestions: number;
   totalMatches: number;
   results: QuestionSearchResult[];
+  correctedQuery: string | null;
+  originalSpellingQuery: string | null;
+  highlightTerms: SearchTerm[];
+  spellingAlternatives: string[];
+  semanticStatus: "pending" | "available" | "unavailable" | "notRequested";
+}
+
+export interface SearchTerm {
+  text: string;
+  prefix: boolean;
 }
 
 // ── Settings ──────────────────────────────────────────────────────

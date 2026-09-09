@@ -43,7 +43,7 @@ pub use question_bank::{
 pub(crate) use search::{capture_search_rebuild, commit_search_rebuild, prepare_search_rebuild};
 pub use search::{
     invalidate_search_index, prepare_question_search, question_main_tags, question_taxonomy_tags,
-    search_questions_cached, SearchIndexState,
+    SearchIndexState,
 };
 pub use settings::{load_settings, save_settings};
 
@@ -53,8 +53,8 @@ pub(crate) type DbResult<T> = LoopResult<T>;
 /// Shared database handle stored in Tauri state (#13 / #21).
 ///
 /// Wraps a single `rusqlite::Connection` behind a `Mutex` so that all
-/// commands share the same connection instead of opening a new one on
-/// every invocation.  SQLite writes are inherently serialised, so a
+/// commands share the same writer. Search uses a separate WAL read snapshot
+/// so embedding inference does not block writes. SQLite writes are serialised, so a
 /// mutex is the correct synchronisation primitive here.
 #[derive(Clone)]
 pub struct DbState(pub Arc<Mutex<Connection>>);

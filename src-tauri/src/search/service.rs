@@ -2,22 +2,24 @@
 
 use rusqlite::Connection;
 use std::collections::HashMap;
-use std::sync::{Arc, OnceLock, RwLock};
+use std::sync::{Arc, OnceLock};
 
 use crate::search::embedding::engine::EmbeddingEngine;
-use crate::search::lexical::fts::LexicalSearch;
+use crate::search::lexical::fts::{LexicalHit, LexicalSearch};
 use crate::search::lexical::query_builder::FtsQueryBuilder;
 use crate::search::ranking::boosts::apply_exact_match_boosts;
 use crate::search::ranking::rrf::{reciprocal_rank_fusion, SearchTuning};
-use crate::search::request::SearchRequest;
-use crate::search::response::{MatchStrength, SearchHit, SearchResponse};
+use crate::search::ranking::topic_evidence::TopicEvidence;
+use crate::search::request::{SearchOptions, SearchRequest};
+use crate::search::response::{MatchStrength, SearchHit, SearchResponse, SemanticStatus};
 use crate::search::vector::traits::VectorSearch;
 
 /// Central search coordinator combining SQLite FTS5 lexical search and dense vector search.
 pub struct SearchService {
     embedding_engine: Option<Arc<dyn EmbeddingEngine>>,
-    vector_index: Arc<RwLock<Option<Arc<dyn VectorSearch>>>>,
+    vector_index: Option<Arc<dyn VectorSearch>>,
     vocabulary: OnceLock<SearchVocabulary>,
+    topic_evidence: OnceLock<TopicEvidence>,
     tuning: SearchTuning,
 }
 
@@ -52,8 +54,9 @@ impl SearchService {
     ) -> Self {
         Self {
             embedding_engine,
-            vector_index: Arc::new(RwLock::new(vector_index)),
+            vector_index,
             vocabulary: OnceLock::new(),
+            topic_evidence: OnceLock::new(),
             tuning: SearchTuning::default(),
         }
     }
@@ -79,6 +82,16 @@ impl SearchService {
         conn: &Connection,
         request: &SearchRequest,
     ) -> Result<SearchResponse, String> {
+        self.search_with_options(conn, request, &SearchOptions::default())
+    }
+
+    pub fn search_with_options(
+        &self,
+        conn: &Connection,
+        request: &SearchRequest,
+        options: &SearchOptions,
+    ) -> Result<SearchResponse, String> {
+        options.cancellation.check()?;
         // 1. Return immediately on blank / whitespace query (no model load, 0 ms latency)
         if request.is_empty() {
             return Ok(SearchResponse::default());
@@ -92,13 +105,43 @@ impl SearchService {
         let candidate_limit = limit.max(self.tuning.lexical_fusion_window);
         let mut effective_filters = request.filters.clone();
         if effective_filters.has_constraints() {
-            effective_filters.allowed_search_ids = Some(Arc::new(resolve_allowed_search_ids(
-                conn,
-                &effective_filters,
-            )?));
+            // Resolve the intersection once. Subsequent FTS/correction lookups
+            // and the vector scan need only this shared eligibility set.
+            effective_filters = crate::search::filters::SearchFilter {
+                allowed_search_ids: Some(Arc::new(resolve_allowed_search_ids(
+                    conn,
+                    &effective_filters,
+                )?)),
+                ..Default::default()
+            };
+        }
+        if effective_filters
+            .allowed_search_ids
+            .as_ref()
+            .is_some_and(|ids| ids.is_empty())
+        {
+            return Ok(SearchResponse::default());
         }
 
-        // Exact taxonomy query shortcut
+        let Some(compiled) = FtsQueryBuilder::build(&request.query) else {
+            return Ok(SearchResponse::default());
+        };
+        let required_ids = LexicalSearch::required_phrase_ids(conn, &compiled, &effective_filters)
+            .map_err(|error| error.to_string())?;
+        if let Some(ids) = &required_ids {
+            let allowed = ids
+                .iter()
+                .copied()
+                .filter(|id| effective_filters.allows_search_id(*id))
+                .collect();
+            effective_filters.allowed_search_ids = Some(Arc::new(allowed));
+            if ids.is_empty() {
+                return Ok(SearchResponse::default());
+            }
+        }
+
+        // Taxonomy contributes candidates; it never replaces literal retrieval.
+        let mut taxonomy_hits = Vec::new();
         let trimmed_query = request.query.trim();
         let normalized_query = trimmed_query.to_lowercase().replace(" and ", " & ");
 
@@ -117,7 +160,7 @@ impl SearchService {
         let is_subtag: bool = conn
             .query_row(
                 "SELECT 1 FROM question_taxonomy t, json_each(t.subtags_json) j
-                 WHERE j.value = ?1 LIMIT 1",
+                 WHERE LOWER(j.value) = LOWER(?1) LIMIT 1",
                 rusqlite::params![trimmed_query],
                 |_| Ok(true),
             )
@@ -198,20 +241,14 @@ impl SearchService {
                 if !effective_filters.allows_search_id(search_id as u64) {
                     continue;
                 }
-                hits.push(SearchHit {
+                hits.push(LexicalHit {
                     search_id,
                     question_id: row.get(1).map_err(|e| e.to_string())?,
-                    score: 1.0,
-                    match_strength: MatchStrength::Strong,
-                    lexical_match: true,
-                    semantic_match: false,
+                    score: 0.0,
+                    relaxed: false,
                 });
             }
-            return Ok(SearchResponse {
-                hits,
-                semantic_available: false,
-                ..Default::default()
-            });
+            taxonomy_hits.extend(hits);
         }
 
         if is_subtag {
@@ -220,7 +257,7 @@ impl SearchService {
                  FROM search_documents d
                  JOIN question_taxonomy t ON t.question_id = d.question_id
                  WHERE EXISTS (
-                    SELECT 1 FROM json_each(t.subtags_json) j WHERE j.value = ?1
+                    SELECT 1 FROM json_each(t.subtags_json) j WHERE LOWER(j.value) = LOWER(?1)
                  )",
             );
             let mut params_vec: Vec<Box<dyn rusqlite::ToSql>> = Vec::new();
@@ -251,111 +288,145 @@ impl SearchService {
                 if !effective_filters.allows_search_id(search_id as u64) {
                     continue;
                 }
-                hits.push(SearchHit {
+                hits.push(LexicalHit {
                     search_id,
                     question_id: row.get(1).map_err(|e| e.to_string())?,
-                    score: 1.0,
-                    match_strength: MatchStrength::Strong,
-                    lexical_match: true,
-                    semantic_match: false,
+                    score: 0.0,
+                    relaxed: false,
                 });
             }
-            return Ok(SearchResponse {
-                hits,
-                semantic_available: false,
-                ..Default::default()
-            });
+            taxonomy_hits.extend(hits);
         }
 
         // 2. Lexical retrieval via SQLite FTS5
-        let compiled_fts = FtsQueryBuilder::build(&request.query);
-        let query_term_count = compiled_fts
-            .as_ref()
-            .map(|query| query.terms().len())
-            .unwrap_or(1);
-        let exact_numeric_pairs = extract_exact_numeric_pairs(&request.query);
-        let mut lexical_hits = if let Some(ref fts_query) = compiled_fts {
-            let original =
-                LexicalSearch::search(conn, fts_query, &effective_filters, candidate_limit)
-                    .map_err(|e| format!("Lexical search failed: {e}"))?;
-            if let Some(corrected_query) = self.corrected_query(conn, fts_query)? {
-                if let Some(corrected_fts) = FtsQueryBuilder::build(&corrected_query) {
-                    let mut corrected = LexicalSearch::search(
-                        conn,
-                        &corrected_fts,
-                        &effective_filters,
-                        candidate_limit,
-                    )
-                    .map_err(|e| format!("Corrected lexical search failed: {e}"))?;
-                    let mut seen = corrected
-                        .iter()
-                        .map(|hit| hit.search_id)
-                        .collect::<std::collections::HashSet<_>>();
-                    for hit in original {
-                        if seen.insert(hit.search_id) && corrected.len() < candidate_limit {
-                            corrected.push(hit);
-                        }
-                    }
-                    corrected
-                } else {
-                    original
-                }
-            } else {
-                original
+        let mut spelling_alternatives = Vec::new();
+        let mut ranking_query = compiled.clone();
+        let query_term_count = compiled.word_patterns().len();
+        let mut lexical_hits =
+            LexicalSearch::search(conn, &compiled, &effective_filters, candidate_limit)
+                .map_err(|error| format!("Lexical search failed: {error}"))?;
+        if !lexical_hits.iter().any(|hit| !hit.relaxed) && taxonomy_hits.is_empty() {
+            let (recovered, alternatives) =
+                self.recover_query(conn, &compiled, &effective_filters)?;
+            spelling_alternatives = alternatives;
+            if let Some(corrected) = recovered {
+                lexical_hits =
+                    LexicalSearch::search(conn, &corrected, &effective_filters, candidate_limit)
+                        .map_err(|error| format!("Corrected lexical search failed: {error}"))?;
+                ranking_query = corrected;
             }
+        }
+
+        let taxonomy_ids = taxonomy_hits
+            .iter()
+            .map(|hit| hit.search_id)
+            .collect::<std::collections::HashSet<_>>();
+        for hit in &mut lexical_hits {
+            if taxonomy_ids.contains(&hit.search_id) {
+                hit.relaxed = false;
+            }
+        }
+        let mut seen = lexical_hits
+            .iter()
+            .map(|hit| hit.search_id)
+            .collect::<std::collections::HashSet<_>>();
+        lexical_hits.extend(
+            taxonomy_hits
+                .into_iter()
+                .filter(|hit| seen.insert(hit.search_id)),
+        );
+        if let Some(ids) = &required_ids {
+            lexical_hits.retain(|hit| ids.contains(&(hit.search_id as u64)));
+        }
+        options.cancellation.check()?;
+
+        // A complete topic word has broader intent than a specific phrase or
+        // a prefix still being typed. Real lexical evidence establishes that
+        // the topic exists in this scope; a high semantic activation floor
+        // must not switch off all related concepts for it.
+        let broad_topic_query = if lexical_hits.iter().any(|hit| !hit.relaxed)
+            && ranking_query.terms().len() == 1
+            && !ranking_query.is_phrase(0)
+            && ranking_query.terms()[0].chars().count() >= 3
+            && ranking_query.terms()[0].chars().all(char::is_alphabetic)
+        {
+            // No wildcard: `silv` is not yet the complete word `silver`.
+            let exact = FtsQueryBuilder::build_with_options(
+                &ranking_query.terms()[0],
+                &crate::search::lexical::query_builder::FtsQueryOptions {
+                    enable_prefix_matching: false,
+                    ..Default::default()
+                },
+            )
+            .expect("the compiled topic contains a word");
+            !LexicalSearch::search(conn, &exact, &effective_filters, 1)
+                .map_err(|error| format!("Topic lookup failed: {error}"))?
+                .is_empty()
         } else {
-            Vec::new()
+            false
         };
 
         // 3. Semantic retrieval via dense vector index
         let mut semantic_hits = Vec::new();
-        let mut semantic_available = false;
-        let mut semantic_rejected_query = false;
-        let mut semantic_strong_cutoff = None;
+        let exact_only = compiled.entirely_quoted();
+        let semantic_enabled = options.semantic && !exact_only && spelling_alternatives.is_empty();
+        let mut semantic_status = if exact_only || !spelling_alternatives.is_empty() {
+            SemanticStatus::NotRequested
+        } else if !options.semantic
+            && self.embedding_engine.is_some()
+            && self.vector_index.is_some()
+        {
+            SemanticStatus::Pending
+        } else {
+            SemanticStatus::Unavailable
+        };
+        let semantic_query = if ranking_query != compiled {
+            ranking_query.display_text()
+        } else {
+            request.query.clone()
+        };
+        let exact_numeric_pairs = extract_exact_numeric_pairs(&semantic_query);
 
-        if let Some(engine) = &self.embedding_engine {
-            let index_guard = self
-                .vector_index
-                .read()
-                .map_err(|e| format!("Lock error: {e}"))?;
-            if let Some(index) = index_guard.as_ref() {
+        if let Some(engine) = self.embedding_engine.as_ref().filter(|_| semantic_enabled) {
+            if let Some(index) = &self.vector_index {
                 // Generate query embedding (lazy-loads Granite on first call)
-                match engine.embed_query(&request.query) {
+                match engine.embed_query_cancellable(&semantic_query, &options.cancellation) {
                     Ok(query_vec) => {
+                        options.cancellation.check()?;
                         match index.search(
                             &query_vec,
                             &effective_filters,
                             limit.max(self.tuning.semantic_fusion_window),
                         ) {
                             Ok(hits) => {
+                                semantic_status = SemanticStatus::Available;
                                 let max_sim = hits.first().map(|h| h.score).unwrap_or(0.0);
                                 let has_primary_lexical =
                                     lexical_hits.iter().any(|hit| !hit.relaxed);
-                                let has_domain_anchor = query_has_taxonomy_anchor(&request.query);
-                                let threshold = if has_primary_lexical || has_domain_anchor {
+                                let has_domain_anchor = query_has_taxonomy_anchor(&semantic_query);
+                                let threshold = if broad_topic_query {
+                                    self.tuning.semantic_candidate_floor
+                                } else if has_primary_lexical || has_domain_anchor {
                                     self.tuning.semantic_floor_with_lexical
                                 } else {
                                     self.tuning.semantic_floor_without_lexical
                                 };
                                 if max_sim >= threshold {
-                                    let related_margin = semantic_related_margin(
-                                        query_term_count,
-                                        has_primary_lexical,
-                                        &self.tuning,
-                                    );
+                                    let related_margin = if broad_topic_query {
+                                        self.tuning.semantic_topic_margin
+                                    } else {
+                                        semantic_related_margin(
+                                            query_term_count,
+                                            has_primary_lexical,
+                                            &self.tuning,
+                                        )
+                                    };
                                     let candidate_threshold = (max_sim - related_margin)
                                         .max(self.tuning.semantic_candidate_floor);
-                                    semantic_strong_cutoff = Some(
-                                        (max_sim - self.tuning.semantic_strong_margin)
-                                            .max(candidate_threshold),
-                                    );
                                     semantic_hits = hits
                                         .into_iter()
                                         .filter(|hit| hit.score >= candidate_threshold)
                                         .collect();
-                                    semantic_available = true;
-                                } else {
-                                    semantic_rejected_query = true;
                                 }
                             }
                             Err(e) => {
@@ -364,44 +435,71 @@ impl SearchService {
                         }
                     }
                     Err(e) => {
+                        options.cancellation.check()?;
                         log::warn!("Query embedding error (falling back to lexical): {e}");
                     }
                 }
             }
         }
 
-        // Broad lexical recovery must not legitimize an unrelated query just
-        // because two incidental words occur in one question. If Granite is
-        // available and rejects the query, retain only primary all-term or
-        // typo-prefix lexical matches.
-        if semantic_rejected_query {
-            lexical_hits.retain(|hit| !hit.relaxed);
+        options.cancellation.check()?;
+        // Every semantic candidate needs independent topic evidence, regardless
+        // of query length. A broad category alone is not sufficient.
+        if !semantic_hits.is_empty() {
+            if self.topic_evidence.get().is_none() {
+                match TopicEvidence::load(conn) {
+                    Ok(evidence) => {
+                        let _ = self.topic_evidence.set(evidence);
+                    }
+                    Err(error) => {
+                        log::warn!("Topic evidence unavailable; retaining literal results: {error}")
+                    }
+                }
+            }
+            let evidence_query = match stemmed_evidence_query(conn, &ranking_query) {
+                Ok(query) => Some(query),
+                Err(error) => {
+                    log::warn!(
+                        "Topic query tokenization failed; retaining literal results: {error}"
+                    );
+                    None
+                }
+            };
+            if let (Some(evidence), Some(evidence_query)) =
+                (self.topic_evidence.get(), evidence_query)
+            {
+                evidence.retain_supported(
+                    &mut semantic_hits,
+                    &lexical_hits,
+                    &evidence_query,
+                    &effective_filters,
+                );
+            } else {
+                let primary_ids = lexical_hits
+                    .iter()
+                    .filter(|hit| !hit.relaxed)
+                    .map(|hit| hit.search_id as u64)
+                    .collect::<std::collections::HashSet<_>>();
+                semantic_hits.retain(|hit| primary_ids.contains(&hit.search_id));
+                semantic_status = SemanticStatus::Unavailable;
+            }
         }
 
-        // When no semantic index is available, relaxed OR-term matches are
-        // not evidence of relevance on their own.  Keep only exhaustive
-        // lexical matches so an unrelated multi-word query cannot surface a
-        // random question merely because one incidental word occurs in it.
-        if !semantic_available && !query_has_taxonomy_anchor(trimmed_query) {
-            lexical_hits.retain(|hit| !hit.relaxed);
-        }
-
-        // A relaxed OR-term lexical hit is useful for recall only when the
-        // semantic model independently supports it. Primary all-term lexical
-        // matches remain exhaustive and are never removed here.
-        if semantic_available {
-            let semantic_ids = semantic_hits
-                .iter()
-                .map(|hit| hit.search_id as i64)
-                .collect::<std::collections::HashSet<_>>();
-            lexical_hits.retain(|hit| !hit.relaxed || semantic_ids.contains(&hit.search_id));
-        }
+        // Relaxed lexical matches need retained semantic evidence. Primary
+        // all-term matches remain exhaustive even when semantic search fails.
+        let semantic_ids = semantic_hits
+            .iter()
+            .map(|hit| hit.search_id as i64)
+            .collect::<std::collections::HashSet<_>>();
+        lexical_hits.retain(|hit| !hit.relaxed || semantic_ids.contains(&hit.search_id));
 
         // 4. If neither returned results, return empty response
         if lexical_hits.is_empty() && semantic_hits.is_empty() {
             return Ok(SearchResponse {
                 hits: Vec::new(),
-                semantic_available,
+                interpreted_query: Some(ranking_query),
+                semantic_status,
+                spelling_alternatives,
                 ..Default::default()
             });
         }
@@ -450,7 +548,7 @@ impl SearchService {
         );
 
         // 7. Exact match boosts
-        apply_exact_match_boosts(&mut fused, &request.query, &text_map);
+        let literal_matches = apply_exact_match_boosts(&mut fused, &ranking_query, &text_map);
 
         let primary_lexical_scores = lexical_hits
             .iter()
@@ -462,7 +560,6 @@ impl SearchService {
             .copied()
             .fold(0.0_f32, f32::max);
         let strong_lexical_cutoff = strongest_lexical_score * 0.35;
-        let has_primary_lexical = !primary_lexical_scores.is_empty();
         let lexical_ids = lexical_hits
             .iter()
             .map(|hit| hit.search_id)
@@ -482,26 +579,22 @@ impl SearchService {
                     primary_lexical_scores.get(&fused_hit.search_id).copied();
                 let strong_lexical =
                     primary_lexical_match.is_some_and(|score| score >= strong_lexical_cutoff);
-                let strong_semantic = semantic_score.is_some_and(|score| {
-                    semantic_strong_cutoff.is_some_and(|cutoff| score >= cutoff)
-                });
                 let numeric_constraints_supported = exact_numeric_pairs.is_empty()
                     || text_map.get(&fused_hit.search_id).is_some_and(|text| {
                         exact_numeric_pairs
                             .iter()
                             .all(|pair| contains_exact_token_pair(text, pair))
                     });
-                // For short queries with exact lexical evidence elsewhere, a
-                // semantic-only neighbour is context, not a strong answer.
-                // Descriptive queries and semantic-only queries retain the
-                // model's ability to establish strong conceptual matches.
-                let semantic_can_establish_strength =
-                    strong_semantic && (!has_primary_lexical || query_term_count >= 3);
-                let match_strength = if core_ids.contains(&fused_hit.search_id)
-                    && numeric_constraints_supported
-                    && (strong_lexical
-                        || (primary_lexical_match.is_some() && semantic_match)
-                        || semantic_can_establish_strength)
+                // A literal phrase remains decisive even when document length
+                // pushes its initial BM25 rank beyond the fusion window.
+                let literal_lexical = primary_lexical_match.is_some()
+                    && literal_matches.contains(&fused_hit.search_id);
+                let match_strength = if numeric_constraints_supported
+                    && (literal_lexical
+                        || taxonomy_ids.contains(&fused_hit.search_id)
+                        || (core_ids.contains(&fused_hit.search_id)
+                            && (strong_lexical
+                                || (primary_lexical_match.is_some() && semantic_match))))
                 {
                     MatchStrength::Strong
                 } else {
@@ -536,9 +629,12 @@ impl SearchService {
             hits.truncate(limit);
         }
 
+        options.cancellation.check()?;
         Ok(SearchResponse {
             hits,
-            semantic_available,
+            interpreted_query: Some(ranking_query),
+            semantic_status,
+            spelling_alternatives,
             ..Default::default()
         })
     }
@@ -550,61 +646,72 @@ impl SearchService {
         query: &str,
         sections: Option<&[String]>,
     ) -> Result<crate::backend::types::QuestionSearchResponse, String> {
-        let trimmed = query.trim();
-        let get_searched_count = |sections: &[String]| -> usize {
-            if sections.is_empty() {
-                conn.query_row("SELECT COUNT(*) FROM search_documents", [], |r| {
-                    r.get::<_, i64>(0).map(|c| c as usize)
-                })
-                .unwrap_or(0)
-            } else {
-                let placeholders: Vec<String> = sections.iter().map(|_| "?".to_string()).collect();
-                let sql = format!(
-                    "SELECT COUNT(*) FROM search_documents WHERE section IN ({})",
-                    placeholders.join(",")
-                );
-                let param_refs: Vec<&dyn rusqlite::ToSql> =
-                    sections.iter().map(|s| s as &dyn rusqlite::ToSql).collect();
-                conn.query_row(&sql, param_refs.as_slice(), |r| {
-                    r.get::<_, i64>(0).map(|c| c as usize)
-                })
-                .unwrap_or(0)
-            }
-        };
+        self.execute_question_search_with_options(conn, query, sections, &SearchOptions::default())
+    }
 
+    pub fn execute_question_search_with_options(
+        &self,
+        conn: &Connection,
+        query: &str,
+        sections: Option<&[String]>,
+        options: &SearchOptions,
+    ) -> Result<crate::backend::types::QuestionSearchResponse, String> {
+        options.cancellation.check()?;
+        let trimmed = query.trim();
         let mut filters = crate::search::filters::SearchFilter::default();
         if let Some(sec_slice) = sections {
             filters.sections = sec_slice.to_vec();
         }
 
-        let total_searched = get_searched_count(&filters.sections);
+        let mut count_sql = String::from("SELECT COUNT(*) FROM search_documents d WHERE 1 = 1");
+        let mut count_values = Vec::new();
+        filters
+            .append_sql(&mut count_sql, &mut count_values)
+            .map_err(|error| error.to_string())?;
+        let total_searched = conn
+            .query_row(
+                &count_sql,
+                rusqlite::params_from_iter(count_values.iter()),
+                |row| row.get::<_, i64>(0),
+            )
+            .map_err(|error| format!("Could not count searchable questions: {error}"))?
+            as usize;
 
-        if trimmed.is_empty() {
+        if trimmed.is_empty() || total_searched == 0 {
             return Ok(crate::backend::types::QuestionSearchResponse {
                 query: query.to_string(),
                 searched_questions: total_searched,
                 total_matches: 0,
                 results: Vec::new(),
+                corrected_query: None,
+                original_spelling_query: None,
+                highlight_terms: Vec::new(),
+                spelling_alternatives: Vec::new(),
+                semantic_status: SemanticStatus::NotRequested,
             });
         }
 
         let request = SearchRequest {
             query: query.to_string(),
-            filters: filters.clone(),
+            filters,
             // The UI asks retrieval to evaluate the complete active scope.
             // Relevance thresholds, not a fixed top-K, determine result count.
             limit: total_searched.max(1),
         };
 
-        let response = self.search(conn, &request)?;
-        if response.hits.is_empty() {
-            return Ok(crate::backend::types::QuestionSearchResponse {
-                query: query.to_string(),
-                searched_questions: total_searched,
-                total_matches: 0,
-                results: Vec::new(),
-            });
-        }
+        let response = self.search_with_options(conn, &request, options)?;
+        let original = FtsQueryBuilder::build(query);
+        let interpreted = response.interpreted_query.as_ref().or(original.as_ref());
+        let corrected_query = interpreted
+            .zip(original.as_ref())
+            .filter(|(effective, original)| effective.terms() != original.terms())
+            .map(|(effective, _)| effective.display_text());
+        let original_spelling_query = corrected_query
+            .as_ref()
+            .and_then(|_| original.as_ref().map(|query| query.exact_spelling_text()));
+        let highlight_terms = interpreted
+            .map(|query| query.word_patterns())
+            .unwrap_or_default();
 
         let search_ids: Vec<i64> = response.hits.iter().map(|h| h.search_id).collect();
         let mut hydrated_map = hydrate_search_documents(conn, &search_ids)?;
@@ -650,14 +757,62 @@ impl SearchService {
             searched_questions: total_searched,
             total_matches: results.len(),
             results,
+            corrected_query,
+            original_spelling_query,
+            highlight_terms,
+            spelling_alternatives: response.spelling_alternatives,
+            semantic_status: response.semantic_status,
         })
+    }
+
+    fn recover_query(
+        &self,
+        conn: &Connection,
+        query: &crate::search::lexical::query_builder::CompiledFtsQuery,
+        filters: &crate::search::filters::SearchFilter,
+    ) -> Result<
+        (
+            Option<crate::search::lexical::query_builder::CompiledFtsQuery>,
+            Vec<String>,
+        ),
+        String,
+    > {
+        let mut prefixes = (0..query.terms().len())
+            .map(|index| query.is_prefix(index))
+            .collect::<Vec<_>>();
+        for (index, term) in query.terms().iter().enumerate() {
+            // Recover unfinished earlier words only after the original query
+            // fails. Real words, short fragments, identities and quotes retain
+            // their meaning. All terms must still match in the active scope.
+            if !prefixes[index]
+                && !query.is_phrase(index)
+                && term.chars().count() >= 3
+                && term.chars().all(char::is_alphabetic)
+                && !LexicalSearch::term_exists(conn, &query.term_match(index))
+                    .map_err(|error| error.to_string())?
+            {
+                prefixes[index] = true;
+            }
+        }
+        let expanded = query.with_prefixes(prefixes);
+        if expanded != *query && has_primary_match(conn, &expanded, filters)? {
+            return Ok((Some(expanded), Vec::new()));
+        }
+        self.corrected_query(conn, &expanded, filters)
     }
 
     fn corrected_query(
         &self,
         conn: &Connection,
         query: &crate::search::lexical::query_builder::CompiledFtsQuery,
-    ) -> Result<Option<String>, String> {
+        filters: &crate::search::filters::SearchFilter,
+    ) -> Result<
+        (
+            Option<crate::search::lexical::query_builder::CompiledFtsQuery>,
+            Vec<String>,
+        ),
+        String,
+    > {
         let vocabulary = if let Some(vocabulary) = self.vocabulary.get() {
             vocabulary
         } else {
@@ -668,54 +823,163 @@ impl SearchService {
                 .ok_or_else(|| "Failed to initialize search vocabulary".to_string())?
         };
 
+        // Keep several plausible spellings until the whole query is checked.
+        // A frequent dictionary neighbour may be wrong for these other words
+        // or this scope. Bound both the candidate set and SQL work per query.
         let mut changed = false;
-        let corrected = query
-            .terms()
-            .iter()
-            .map(|term| {
-                let normalized = term.to_lowercase();
-                if normalized.contains(' ')
-                    || normalized.chars().count() < 4
-                    || normalized.chars().any(|character| character.is_numeric())
-                    || vocabulary.exact.contains(&normalized)
-                {
-                    return term.clone();
+        let mut candidates = vec![(Vec::new(), 0usize, 0usize)];
+        for (index, term) in query.terms().iter().enumerate() {
+            let normalized = term.to_lowercase();
+            if query.is_phrase(index)
+                || normalized.chars().count() < 4
+                || normalized.chars().count() > 64
+                || normalized.chars().any(|character| character.is_numeric())
+                || vocabulary.exact.contains(&normalized)
+                || LexicalSearch::term_exists(conn, &query.term_match(index))
+                    .map_err(|error| error.to_string())?
+            {
+                for (terms, _, _) in &mut candidates {
+                    terms.push(term.clone());
                 }
+                continue;
+            }
 
-                let max_distance = if normalized.chars().count() >= 8 {
-                    2
-                } else {
-                    1
-                };
-                let length = normalized.chars().count();
-                let correction = (length.saturating_sub(max_distance)..=length + max_distance)
-                    .filter_map(|candidate_length| {
-                        vocabulary.terms_by_length.get(&candidate_length)
-                    })
-                    .flatten()
-                    .filter_map(|(candidate, frequency)| {
-                        let distance = bounded_edit_distance(&normalized, candidate, max_distance)?;
-                        Some((distance, std::cmp::Reverse(*frequency), candidate))
-                    })
-                    .min_by(|left, right| {
-                        left.0
-                            .cmp(&right.0)
-                            .then_with(|| left.1.cmp(&right.1))
-                            .then_with(|| left.2.cmp(right.2))
-                    })
-                    .map(|(_, _, candidate)| candidate.clone());
+            let max_distance = if normalized.chars().count() >= 8 {
+                2
+            } else {
+                1
+            };
+            let length = normalized.chars().count();
+            let mut corrections = (length.saturating_sub(max_distance)..=length + max_distance)
+                .filter_map(|candidate_length| vocabulary.terms_by_length.get(&candidate_length))
+                .flatten()
+                .filter_map(|(candidate, frequency)| {
+                    let distance = bounded_edit_distance(&normalized, candidate, max_distance)?;
+                    Some((distance, std::cmp::Reverse(*frequency), candidate))
+                })
+                .collect::<Vec<_>>();
+            corrections.sort_unstable_by(|left, right| {
+                left.0
+                    .cmp(&right.0)
+                    .then_with(|| left.1.cmp(&right.1))
+                    .then_with(|| left.2.cmp(right.2))
+            });
+            corrections.truncate(8);
+            if corrections.is_empty() {
+                for (terms, _, _) in &mut candidates {
+                    terms.push(term.clone());
+                }
+                continue;
+            }
+            changed = true;
+            candidates = candidates
+                .into_iter()
+                .flat_map(|(terms, distance, frequency)| {
+                    corrections.iter().map(
+                        move |(edit_distance, std::cmp::Reverse(count), correction)| {
+                            let mut terms = terms.clone();
+                            terms.push((*correction).clone());
+                            (terms, distance + edit_distance, frequency + count)
+                        },
+                    )
+                })
+                .collect();
+            candidates.sort_unstable_by(|left, right| {
+                left.1
+                    .cmp(&right.1)
+                    .then_with(|| right.2.cmp(&left.2))
+                    .then_with(|| left.0.cmp(&right.0))
+            });
+            candidates.truncate(24);
+        }
+        let mut supported = Vec::new();
+        let mut best_distance = None;
+        if changed {
+            for (terms, distance, _) in candidates {
+                if best_distance.is_some_and(|best| distance > best) {
+                    break;
+                }
+                let corrected = query.with_terms(terms);
+                if has_primary_match(conn, &corrected, filters)? {
+                    best_distance = Some(distance);
+                    supported.push(corrected);
+                }
+            }
+        }
+        if supported.len() == 1 {
+            Ok((supported.pop(), Vec::new()))
+        } else {
+            Ok((
+                None,
+                supported
+                    .into_iter()
+                    .take(4)
+                    .map(|query| query.display_text())
+                    .collect(),
+            ))
+        }
+    }
+}
 
-                if let Some(correction) = correction {
-                    changed = true;
-                    correction
+/// Ask the same tokenizer as the index for query stems; prefix guesses do not
+/// account for substitutions such as `economy` -> `economi`.
+fn stemmed_evidence_query(
+    conn: &Connection,
+    query: &crate::search::lexical::query_builder::CompiledFtsQuery,
+) -> Result<crate::search::lexical::query_builder::CompiledFtsQuery, String> {
+    conn.execute_batch(
+        "CREATE VIRTUAL TABLE IF NOT EXISTS temp.search_query_tokens
+        USING fts5(word, tokenize='porter unicode61');
+        CREATE VIRTUAL TABLE IF NOT EXISTS temp.search_query_stems
+        USING fts5vocab('temp', 'search_query_tokens', 'instance');
+        DELETE FROM temp.search_query_tokens;",
+    )
+    .map_err(|error| error.to_string())?;
+    for (index, term) in query.terms().iter().enumerate() {
+        conn.execute(
+            "INSERT INTO temp.search_query_tokens(rowid, word) VALUES (?1, ?2)",
+            rusqlite::params![index as i64 + 1, term],
+        )
+        .map_err(|error| error.to_string())?;
+    }
+    let mut statement = conn
+        .prepare("SELECT doc, term FROM temp.search_query_stems ORDER BY doc, offset")
+        .map_err(|error| error.to_string())?;
+    let rows = statement
+        .query_map([], |row| {
+            Ok((row.get::<_, i64>(0)?, row.get::<_, String>(1)?))
+        })
+        .map_err(|error| error.to_string())?;
+    let mut stems = vec![Vec::new(); query.terms().len()];
+    for row in rows {
+        let (document, term) = row.map_err(|error| error.to_string())?;
+        if let Some(words) = stems.get_mut((document - 1) as usize) {
+            words.push(term);
+        }
+    }
+    Ok(query.with_terms(
+        stems
+            .into_iter()
+            .zip(query.terms())
+            .map(|(words, original)| {
+                if words.is_empty() {
+                    original.clone()
                 } else {
-                    term.clone()
+                    words.join(" ")
                 }
             })
-            .collect::<Vec<_>>();
+            .collect(),
+    ))
+}
 
-        Ok(changed.then(|| corrected.join(" ")))
-    }
+fn has_primary_match(
+    conn: &Connection,
+    query: &crate::search::lexical::query_builder::CompiledFtsQuery,
+    filters: &crate::search::filters::SearchFilter,
+) -> Result<bool, String> {
+    LexicalSearch::search(conn, query, filters, 1)
+        .map(|hits| hits.iter().any(|hit| !hit.relaxed))
+        .map_err(|error| error.to_string())
 }
 
 fn hydrate_search_documents(
@@ -786,7 +1050,7 @@ fn load_search_vocabulary(conn: &Connection) -> Result<SearchVocabulary, String>
     // every source document each time a service cache is initialized.
     conn.execute_batch(
         "CREATE VIRTUAL TABLE IF NOT EXISTS temp.question_fts_vocabulary
-         USING fts5vocab('main', 'question_fts', 'row');",
+         USING fts5vocab('main', 'question_literal_fts', 'row');",
     )
     .map_err(|error| error.to_string())?;
     let mut stmt = conn
@@ -829,6 +1093,7 @@ fn bounded_edit_distance(left: &str, right: &str, maximum: usize) -> Option<usiz
     }
     let mut previous = (0..=right.len()).collect::<Vec<_>>();
     let mut current = vec![0; right.len() + 1];
+    let mut before_previous = previous.clone();
     for (left_index, left_character) in left.iter().enumerate() {
         current[0] = left_index + 1;
         let mut row_minimum = current[0];
@@ -838,11 +1103,20 @@ fn bounded_edit_distance(left: &str, right: &str, maximum: usize) -> Option<usiz
             current[right_index + 1] = (current[right_index] + 1)
                 .min(previous[right_index + 1] + 1)
                 .min(substitution);
+            if left_index > 0
+                && right_index > 0
+                && left_character == &right[right_index - 1]
+                && &left[left_index - 1] == right_character
+            {
+                current[right_index + 1] =
+                    current[right_index + 1].min(before_previous[right_index - 1] + 1);
+            }
             row_minimum = row_minimum.min(current[right_index + 1]);
         }
         if row_minimum > maximum {
             return None;
         }
+        std::mem::swap(&mut before_previous, &mut previous);
         std::mem::swap(&mut previous, &mut current);
     }
     (previous[right.len()] <= maximum).then_some(previous[right.len()])
@@ -988,99 +1262,15 @@ fn resolve_allowed_search_ids(
     filters: &crate::search::filters::SearchFilter,
 ) -> Result<std::collections::HashSet<u64>, String> {
     let mut sql = String::from("SELECT d.search_id FROM search_documents d WHERE 1 = 1");
-    let mut values: Vec<Box<dyn rusqlite::ToSql>> = Vec::new();
-
-    fn append_in_clause(
-        sql: &mut String,
-        values: &mut Vec<Box<dyn rusqlite::ToSql>>,
-        column: &str,
-        items: &[String],
-    ) {
-        if items.is_empty() {
-            return;
-        }
-        let start = values.len() + 1;
-        let placeholders = (0..items.len())
-            .map(|offset| format!("?{}", start + offset))
-            .collect::<Vec<_>>()
-            .join(",");
-        sql.push_str(&format!(" AND {column} IN ({placeholders})"));
-        values.extend(
-            items
-                .iter()
-                .cloned()
-                .map(|value| Box::new(value) as Box<dyn rusqlite::ToSql>),
-        );
-    }
-
-    append_in_clause(&mut sql, &mut values, "d.section", &filters.sections);
-    append_in_clause(&mut sql, &mut values, "d.stage", &filters.stages);
-    append_in_clause(&mut sql, &mut values, "d.paper", &filters.papers);
-    append_in_clause(&mut sql, &mut values, "d.bank_id", &filters.banks);
-
-    if let Some((min_year, max_year)) = filters.years {
-        let first = values.len() + 1;
-        sql.push_str(&format!(" AND d.year BETWEEN ?{first} AND ?{}", first + 1));
-        values.push(Box::new(min_year as i64));
-        values.push(Box::new(max_year as i64));
-    }
-
-    if !filters.tags.is_empty() {
-        let mut clauses = Vec::new();
-        for tag in &filters.tags {
-            if let Some(alias) = crate::taxonomy::legacy_main_tag_alias(tag) {
-                let mut alias_clauses = Vec::new();
-                if !alias.main_tags.is_empty() {
-                    let start = values.len() + 1;
-                    let placeholders = (0..alias.main_tags.len())
-                        .map(|offset| format!("?{}", start + offset))
-                        .collect::<Vec<_>>()
-                        .join(",");
-                    alias_clauses.push(format!("d.main_tag IN ({placeholders})"));
-                    values.extend(
-                        alias
-                            .main_tags
-                            .iter()
-                            .cloned()
-                            .map(|value| Box::new(value) as Box<dyn rusqlite::ToSql>),
-                    );
-                }
-                if !alias.sections.is_empty() {
-                    let start = values.len() + 1;
-                    let placeholders = (0..alias.sections.len())
-                        .map(|offset| format!("?{}", start + offset))
-                        .collect::<Vec<_>>()
-                        .join(",");
-                    alias_clauses.push(format!("d.section IN ({placeholders})"));
-                    values.extend(
-                        alias
-                            .sections
-                            .iter()
-                            .cloned()
-                            .map(|value| Box::new(value) as Box<dyn rusqlite::ToSql>),
-                    );
-                }
-                clauses.push(format!("({})", alias_clauses.join(" OR ")));
-            } else {
-                let parameter = values.len() + 1;
-                clauses.push(format!(
-                    "(d.main_tag = ?{parameter} OR EXISTS (\
-                     SELECT 1 FROM question_taxonomy t, json_each(t.subtags_json) j \
-                     WHERE t.question_id = d.question_id AND j.value = ?{parameter}))"
-                ));
-                values.push(Box::new(tag.clone()));
-            }
-        }
-        sql.push_str(&format!(" AND ({})", clauses.join(" OR ")));
-    }
-
-    let params = values
-        .iter()
-        .map(|value| value.as_ref())
-        .collect::<Vec<_>>();
+    let mut values = Vec::new();
+    filters
+        .append_sql(&mut sql, &mut values)
+        .map_err(|error| error.to_string())?;
     let mut stmt = conn.prepare(&sql).map_err(|error| error.to_string())?;
     let rows = stmt
-        .query_map(params.as_slice(), |row| row.get::<_, i64>(0))
+        .query_map(rusqlite::params_from_iter(values.iter()), |row| {
+            row.get::<_, i64>(0)
+        })
         .map_err(|error| error.to_string())?;
 
     rows.map(|row| row.map(|id| id as u64).map_err(|error| error.to_string()))
@@ -1097,32 +1287,32 @@ fn fetch_candidate_metadata(
         return Ok((HashMap::new(), HashMap::new()));
     }
 
-    let placeholders: Vec<String> = search_ids.iter().map(|_| "?".to_string()).collect();
-    let sql = format!(
-        "SELECT search_id, question_id, question, options_text
-         FROM search_documents WHERE search_id IN ({})",
-        placeholders.join(",")
-    );
-
-    let mut stmt = conn.prepare(&sql).map_err(|e| e.to_string())?;
-    let params_refs: Vec<&dyn rusqlite::ToSql> = search_ids
-        .iter()
-        .map(|id| id as &dyn rusqlite::ToSql)
-        .collect();
-
-    let mut rows = stmt
-        .query(params_refs.as_slice())
-        .map_err(|e| e.to_string())?;
     let mut id_map = HashMap::new();
     let mut text_map = HashMap::new();
+    for batch in search_ids.chunks(HYDRATION_BATCH_SIZE) {
+        let placeholders: Vec<String> = batch.iter().map(|_| "?".to_string()).collect();
+        let sql = format!(
+            "SELECT search_id, question_id, question, options_text
+         FROM search_documents WHERE search_id IN ({})",
+            placeholders.join(",")
+        );
 
-    while let Some(row) = rows.next().map_err(|e| e.to_string())? {
-        let sid: i64 = row.get(0).map_err(|e| e.to_string())?;
-        let qid: String = row.get(1).map_err(|e| e.to_string())?;
-        let question: String = row.get(2).map_err(|e| e.to_string())?;
-        let options: String = row.get(3).map_err(|e| e.to_string())?;
-        id_map.insert(sid, qid);
-        text_map.insert(sid, format!("{question} {options}"));
+        let mut stmt = conn.prepare(&sql).map_err(|e| e.to_string())?;
+        let params_refs: Vec<&dyn rusqlite::ToSql> =
+            batch.iter().map(|id| id as &dyn rusqlite::ToSql).collect();
+
+        let mut rows = stmt
+            .query(params_refs.as_slice())
+            .map_err(|e| e.to_string())?;
+
+        while let Some(row) = rows.next().map_err(|e| e.to_string())? {
+            let sid: i64 = row.get(0).map_err(|e| e.to_string())?;
+            let qid: String = row.get(1).map_err(|e| e.to_string())?;
+            let question: String = row.get(2).map_err(|e| e.to_string())?;
+            let options: String = row.get(3).map_err(|e| e.to_string())?;
+            id_map.insert(sid, qid);
+            text_map.insert(sid, format!("{question} {options}"));
+        }
     }
 
     Ok((id_map, text_map))
@@ -1187,6 +1377,8 @@ mod tests {
 
     #[test]
     fn bounded_edit_distance_accepts_typo_but_rejects_unrelated_word() {
+        assert_eq!(bounded_edit_distance("silvre", "silver", 1), Some(1));
+        assert_eq!(bounded_edit_distance("notcie", "notice", 1), Some(1));
         assert_eq!(bounded_edit_distance("parliment", "parliament", 2), Some(1));
         assert_eq!(
             bounded_edit_distance("enviroment", "environment", 2),
@@ -1294,6 +1486,271 @@ mod tests {
     }
 
     #[test]
+    fn recovery_checks_context_scope_and_preserves_explicit_words() {
+        let conn = Connection::open_in_memory().unwrap();
+        run_migrations(&conn).unwrap();
+        conn.execute("INSERT INTO question_banks (id, name, exam, metadata, total_questions, difficulty, default_duration, imported_at)
+            VALUES ('b', 'Bank', 'UPSC', '{}', 8, 'medium', 60, 1)", []).unwrap();
+        for (id, question, section) in [
+            (
+                "river",
+                "River conservation protects ecosystems.",
+                "prelims-gs1",
+            ),
+            (
+                "rider",
+                "Rider rider rider rider conservation.",
+                "mains-gs2",
+            ),
+            (
+                "notice",
+                "Silver Notice traces criminal assets.",
+                "prelims-gs1",
+            ),
+            (
+                "law",
+                "Parliament accountability and constitutional amendments.",
+                "prelims-gs1",
+            ),
+            ("art", "Art criticism", "prelims-gs1"),
+            ("artisan", "Artisans history", "prelims-gs1"),
+            ("numeric", "Article 201 protects rights.", "prelims-gs1"),
+            (
+                "boundaries",
+                "Silver. nitrate | Silver; nebula",
+                "mains-gs2",
+            ),
+        ] {
+            conn.execute(
+                "INSERT INTO questions (id, bank_id, type, question, correct_answers, marks)
+                VALUES (?1, 'b', 'single', ?2, '[]', 1)",
+                rusqlite::params![id, question],
+            )
+            .unwrap();
+            conn.execute("INSERT INTO search_documents (question_id, question, bank_id, bank_name, section, content_fingerprint)
+                VALUES (?1, ?2, 'b', 'Bank', ?3, X'0102030405060708')", rusqlite::params![id, question, section]).unwrap();
+        }
+        let service = SearchService::new(None, None);
+        for (query, expected) in [
+            ("silv not", "notice"),
+            ("silv notcie", "notice"),
+            ("parli acc", "law"),
+            ("constit amend", "law"),
+            ("riber conservation", "river"),
+        ] {
+            let response = service
+                .execute_question_search(&conn, query, Some(&["prelims-gs1".into()]))
+                .unwrap();
+            assert_eq!(response.results[0].question_id, expected, "{query}");
+            assert_eq!(
+                response.results[0].match_strength,
+                MatchStrength::Strong,
+                "{query}"
+            );
+        }
+        let corrected = service
+            .execute_question_search(&conn, "riber conservation", Some(&["prelims-gs1".into()]))
+            .unwrap();
+        assert_eq!(
+            corrected.corrected_query.as_deref(),
+            Some("river conservation")
+        );
+        assert!(service
+            .execute_question_search(
+                &conn,
+                corrected.original_spelling_query.as_deref().unwrap(),
+                None
+            )
+            .unwrap()
+            .corrected_query
+            .is_none());
+        let other_scope = service
+            .execute_question_search(&conn, "riber conservation", Some(&["mains-gs2".into()]))
+            .unwrap();
+        assert_eq!(
+            other_scope.corrected_query.as_deref(),
+            Some("rider conservation")
+        );
+        let ambiguous = service
+            .execute_question_search(&conn, "riber conservation", None)
+            .unwrap();
+        assert!(ambiguous.corrected_query.is_none());
+        assert_eq!(ambiguous.semantic_status, SemanticStatus::NotRequested);
+        assert_eq!(ambiguous.spelling_alternatives.len(), 2);
+        assert!(ambiguous
+            .spelling_alternatives
+            .contains(&"river conservation".into()));
+        assert!(ambiguous
+            .spelling_alternatives
+            .contains(&"rider conservation".into()));
+        for query in [
+            "art history",
+            "\"silv\" not",
+            "si not",
+            "article 20",
+            "riber zzzzzzzz",
+        ] {
+            let response = service.execute_question_search(&conn, query, None).unwrap();
+            assert!(response.results.is_empty(), "over-broadened {query}");
+            assert!(
+                response.corrected_query.is_none(),
+                "unsupported correction: {query}"
+            );
+        }
+        let completion = service
+            .execute_question_search(&conn, "silv n", Some(&["prelims-gs1".into()]))
+            .unwrap();
+        assert!(completion
+            .results
+            .iter()
+            .any(|hit| hit.question_id == "notice"));
+        assert!(completion.corrected_query.is_none());
+        assert!(completion.highlight_terms.iter().all(|term| term.prefix));
+        let boundaries = service
+            .execute_question_search(&conn, "silver n", Some(&["mains-gs2".into()]))
+            .unwrap();
+        assert!(!boundaries.results.is_empty());
+    }
+
+    #[test]
+    fn literal_typing_typos_and_options_work_without_a_semantic_model() {
+        let conn = Connection::open_in_memory().unwrap();
+        run_migrations(&conn).unwrap();
+        conn.execute("INSERT INTO question_banks (id, name, exam, metadata, total_questions, difficulty, default_duration, imported_at)
+            VALUES ('b', 'Bank', 'UPSC', '{}', 4, 'medium', 60, 1)", []).unwrap();
+        for (id, question, options, section) in [
+            (
+                "notice",
+                "INTERPOL Silver Notice traces criminal assets. International cooperation.",
+                "",
+                "prelims-gs1",
+            ),
+            (
+                "scattered",
+                "Silver deposits. Notice the metal.",
+                "",
+                "prelims-gs1",
+            ),
+            (
+                "options",
+                "Identify the global institution.",
+                "World Organization",
+                "prelims-gs1",
+            ),
+            ("excluded", "Silver Notice", "", "mains-gs2"),
+        ] {
+            conn.execute(
+                "INSERT INTO questions (id, bank_id, type, question, correct_answers, marks)
+                VALUES (?1, 'b', 'single', ?2, '[]', 1)",
+                rusqlite::params![id, question],
+            )
+            .unwrap();
+            conn.execute("INSERT INTO search_documents (question_id, question, options_text, bank_id, bank_name, section, content_fingerprint)
+                VALUES (?1, ?2, ?3, 'b', 'Bank', ?4, X'0102030405060708')", rusqlite::params![id, question, options, section]).unwrap();
+        }
+        let service = SearchService::new(None, None);
+        for query in [
+            "silver n",
+            "silv not",
+            "silv notcie",
+            "silver no",
+            "silver not",
+            "silver noti",
+            "silver notic",
+            "silver notice",
+            "silver/notice",
+            "silver—notice",
+            "silver,notice",
+            "silver  notice",
+            "SILVER NOTICE",
+            "silver notice ***",
+            "“silver notice”",
+            "\"silver n",
+            "silvre notice",
+            "silver notcie",
+            "\"silver notice\" crimnal",
+            "international c",
+            "international co",
+            "international coop",
+            "international cooper",
+        ] {
+            let response = service
+                .execute_question_search(&conn, query, Some(&["prelims-gs1".into()]))
+                .unwrap();
+            assert_eq!(
+                response.results.first().map(|hit| hit.question_id.as_str()),
+                Some("notice"),
+                "{query}"
+            );
+            assert_eq!(
+                response.results[0].match_strength,
+                MatchStrength::Strong,
+                "{query}"
+            );
+            assert!(response
+                .results
+                .iter()
+                .all(|hit| hit.section == "prelims-gs1"));
+        }
+        for query in [
+            "world o",
+            "world or",
+            "world org",
+            "world organ",
+            "world organi",
+            "world organizat",
+        ] {
+            let response = service.execute_question_search(&conn, query, None).unwrap();
+            assert_eq!(response.results[0].question_id, "options", "{query}");
+        }
+        for query in ["silvzzzz", "\"silvre notice\"", "silver 20250", "***"] {
+            assert!(
+                service
+                    .execute_question_search(&conn, query, None)
+                    .unwrap()
+                    .results
+                    .is_empty(),
+                "{query}"
+            );
+        }
+        for query in ["international n", "silver not", "world organizat"] {
+            assert!(
+                service
+                    .corrected_query(
+                        &conn,
+                        &FtsQueryBuilder::build(query).unwrap(),
+                        &SearchFilter::default()
+                    )
+                    .unwrap()
+                    .0
+                    .is_none(),
+                "valid stem or prefix was corrected: {query}"
+            );
+        }
+
+        // A long question with the literal phrase must still outrank hundreds
+        // of short questions containing the two words in unrelated positions.
+        for index in 0..320 {
+            let id = format!("distractor-{index}");
+            conn.execute(
+                "INSERT INTO questions (id, bank_id, type, question, correct_answers, marks)
+                VALUES (?1, 'b', 'single', 'Silver deposits. Notice the metal.', '[]', 1)",
+                [&id],
+            )
+            .unwrap();
+            conn.execute("INSERT INTO search_documents (question_id, question, bank_id, bank_name, section, content_fingerprint)
+                VALUES (?1, 'Silver deposits. Notice the metal.', 'b', 'Bank', 'prelims-gs1', X'0102030405060708')", [&id]).unwrap();
+        }
+        let response = service
+            .execute_question_search(&conn, "silver notice", Some(&["prelims-gs1".into()]))
+            .unwrap();
+        assert_eq!(
+            response.results[0].question_id, "notice",
+            "literal phrase was buried beyond the fusion window"
+        );
+    }
+
+    #[test]
     fn test_search_service_empty_query_returns_immediately() {
         let conn = Connection::open_in_memory().unwrap();
         run_migrations(&conn).unwrap();
@@ -1307,7 +1764,7 @@ mod tests {
 
         let resp = service.search(&conn, &req).unwrap();
         assert!(resp.hits.is_empty());
-        assert!(!resp.semantic_available);
+        assert_eq!(resp.semantic_status, SemanticStatus::NotRequested);
     }
 
     #[test]
@@ -1347,7 +1804,7 @@ mod tests {
         let resp = service.search(&conn, &req).unwrap();
         assert_eq!(resp.hits.len(), 1);
         assert_eq!(resp.hits[0].question_id, "q1");
-        assert!(!resp.semantic_available);
+        assert_eq!(resp.semantic_status, SemanticStatus::Unavailable);
     }
 
     #[test]

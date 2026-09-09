@@ -17,8 +17,9 @@
 //! # Thread safety
 //!
 //! `LlamaCppEmbeddingEngine` is `Send + Sync`. Concurrent callers share a
-//! single `Mutex<Option<LoadedModel>>`. Because embedding a single query takes only a
-//! few milliseconds on CPU, lock contention is negligible at interactive use.
+//! single `Mutex<Option<LoadedModel>>`. Superseded requests stop waiting and
+//! skip inference. The published binding cannot interrupt an active decode;
+//! that decode finishes, then its cancelled result is discarded.
 //!
 //! # CPU baseline
 //!
@@ -37,6 +38,7 @@ use llama_cpp_2::model::params::LlamaModelParams;
 use llama_cpp_2::model::LlamaModel;
 
 use super::engine::{l2_normalize, Embedding, EmbeddingEngine, EmbeddingError};
+use crate::search::control::SearchCancellation;
 
 /// The expected embedding dimension for Granite R2 Q8_0.
 const GRANITE_R2_DIMS: usize = 384;
@@ -83,6 +85,7 @@ struct LoadedModel {
     backend: Arc<LlamaBackend>,
     model: LlamaModel,
     n_threads: i32,
+    gpu_offload: bool,
 }
 
 // ---------------------------------------------------------------------------
@@ -144,13 +147,36 @@ impl LlamaCppEmbeddingEngine {
     where
         F: FnOnce(&LoadedModel) -> Result<R, EmbeddingError>,
     {
+        self.with_model_cancellable(&Default::default(), f)
+    }
+
+    fn with_model_cancellable<F, R>(
+        &self,
+        cancellation: &crate::search::control::SearchCancellation,
+        f: F,
+    ) -> Result<R, EmbeddingError>
+    where
+        F: FnOnce(&LoadedModel) -> Result<R, EmbeddingError>,
+    {
         // SAFETY INVARIANT: every operation that can touch `LoadedModel`,
         // including model loading and inference, must stay inside this lock.
         // Do not expose `LoadedModel` or add an unlocked fast path.
-        let mut guard = self.inner.lock().map_err(|_| {
-            EmbeddingError::Inference("embedding engine mutex poisoned".to_string())
-        })?;
+        let mut guard = loop {
+            cancellation.check().map_err(EmbeddingError::Inference)?;
+            match self.inner.try_lock() {
+                Ok(guard) => break guard,
+                Err(std::sync::TryLockError::WouldBlock) => {
+                    std::thread::sleep(std::time::Duration::from_millis(2));
+                }
+                Err(std::sync::TryLockError::Poisoned(_)) => {
+                    return Err(EmbeddingError::Inference(
+                        "embedding engine mutex poisoned".into(),
+                    ));
+                }
+            }
+        };
 
+        cancellation.check().map_err(EmbeddingError::Inference)?;
         if guard.is_none() {
             #[cfg(debug_assertions)]
             eprintln!(
@@ -161,10 +187,19 @@ impl LlamaCppEmbeddingEngine {
             // First call — load backend and model now.
             let backend = get_or_init_backend()?;
 
-            let model_params = LlamaModelParams::default().with_n_gpu_layers(self.n_gpu_layers);
+            let loading_cancellation = cancellation.clone();
+            let model_params = LlamaModelParams::default()
+                .with_n_gpu_layers(self.n_gpu_layers)
+                .with_progress_callback(move |_| !loading_cancellation.is_cancelled());
 
             let model = LlamaModel::load_from_file(&backend, &self.gguf_path, &model_params)
-                .map_err(|e| EmbeddingError::ModelLoad(format!("{e}")))?;
+                .map_err(|e| {
+                    if cancellation.is_cancelled() {
+                        EmbeddingError::Inference("Search cancelled".into())
+                    } else {
+                        EmbeddingError::ModelLoad(format!("{e}"))
+                    }
+                })?;
             #[cfg(debug_assertions)]
             eprintln!("Embedding model loaded successfully");
 
@@ -172,10 +207,14 @@ impl LlamaCppEmbeddingEngine {
                 backend,
                 model,
                 n_threads: self.n_threads,
+                gpu_offload: self.n_gpu_layers > 0,
             });
         }
 
-        f(guard.as_ref().unwrap())
+        cancellation.check().map_err(EmbeddingError::Inference)?;
+        let result = f(guard.as_ref().unwrap())?;
+        cancellation.check().map_err(EmbeddingError::Inference)?;
+        Ok(result)
     }
 
     // ------------------------------------------------------------------
@@ -185,23 +224,14 @@ impl LlamaCppEmbeddingEngine {
     fn encode_texts(
         loaded: &LoadedModel,
         texts: &[&str],
+        cancellation: &SearchCancellation,
     ) -> Result<Vec<Embedding>, EmbeddingError> {
+        cancellation.check().map_err(EmbeddingError::Inference)?;
         let model = &loaded.model;
         let backend = &loaded.backend;
-        let n_threads = loaded.n_threads;
-
-        // Build context configured for embedding (CLS pooling, embeddings=true).
-        let ctx_params = LlamaContextParams::default()
-            .with_n_ctx(Some(NonZeroU32::new(CTX_SIZE).unwrap()))
-            .with_n_batch(CTX_SIZE)
-            // Encoder models cannot split one sequence across micro-batches.
-            .with_n_ubatch(CTX_SIZE)
-            .with_embeddings(true)
-            .with_n_threads(n_threads)
-            .with_n_threads_batch(n_threads);
 
         let mut ctx = model
-            .new_context(backend, ctx_params)
+            .new_context(backend, embedding_context_params(loaded))
             .map_err(|e| EmbeddingError::Inference(format!("context init: {e}")))?;
 
         let mut embeddings: Vec<Embedding> = Vec::with_capacity(texts.len());
@@ -210,6 +240,7 @@ impl LlamaCppEmbeddingEngine {
         // For batch embedding (Phase 6 worker) we can extend this to
         // submit multiple sequences per llama_decode call.
         for text in texts {
+            cancellation.check().map_err(EmbeddingError::Inference)?;
             // Tokenise (add BOS, no EOS for embedding models).
             let tokens = model
                 .str_to_token(text, llama_cpp_2::model::AddBos::Always)
@@ -231,8 +262,13 @@ impl LlamaCppEmbeddingEngine {
             }
 
             ctx.clear_kv_cache();
-            ctx.decode(&mut batch)
-                .map_err(|e| EmbeddingError::Inference(format!("decode: {e}")))?;
+            cancellation.check().map_err(EmbeddingError::Inference)?;
+            let decoded = ctx.decode(&mut batch);
+            // The published binding has no inference-abort hook. Let this
+            // decode finish, then reject superseded work before reading its
+            // output or starting another text. Retain the loaded model.
+            cancellation.check().map_err(EmbeddingError::Inference)?;
+            decoded.map_err(|e| EmbeddingError::Inference(format!("decode: {e}")))?;
 
             // CLS pooling — embeddings_seq_ith returns the pooled vector.
             let raw = ctx
@@ -256,19 +292,42 @@ impl LlamaCppEmbeddingEngine {
     }
 }
 
+fn embedding_context_params(loaded: &LoadedModel) -> LlamaContextParams {
+    LlamaContextParams::default()
+        .with_n_ctx(Some(NonZeroU32::new(CTX_SIZE).unwrap()))
+        .with_n_batch(CTX_SIZE)
+        // Encoder models cannot split one sequence across micro-batches.
+        .with_n_ubatch(CTX_SIZE)
+        .with_embeddings(true)
+        .with_n_threads(loaded.n_threads)
+        .with_n_threads_batch(loaded.n_threads)
+        // Offline tools may explicitly opt into GPU offload; interactive
+        // search keeps both model layers and context operations on the CPU.
+        .with_offload_kqv(loaded.gpu_offload)
+        .with_op_offload(loaded.gpu_offload)
+}
+
 impl EmbeddingEngine for LlamaCppEmbeddingEngine {
+    fn embed_query_cancellable(
+        &self,
+        text: &str,
+        cancellation: &crate::search::control::SearchCancellation,
+    ) -> Result<Embedding, EmbeddingError> {
+        if text.trim().is_empty() {
+            return Err(EmbeddingError::EmptyInput);
+        }
+        self.with_model_cancellable(cancellation, |loaded| {
+            let mut embeddings = Self::encode_texts(loaded, &[text], cancellation)?;
+            Ok(embeddings.remove(0))
+        })
+    }
+
     fn dimensions(&self) -> usize {
         GRANITE_R2_DIMS
     }
 
     fn embed_query(&self, text: &str) -> Result<Embedding, EmbeddingError> {
-        if text.trim().is_empty() {
-            return Err(EmbeddingError::EmptyInput);
-        }
-        self.with_model(|loaded| {
-            let mut vecs = Self::encode_texts(loaded, &[text])?;
-            Ok(vecs.remove(0))
-        })
+        self.embed_query_cancellable(text, &SearchCancellation::default())
     }
 
     fn embed_documents(&self, texts: &[String]) -> Result<Vec<Embedding>, EmbeddingError> {
@@ -276,13 +335,14 @@ impl EmbeddingEngine for LlamaCppEmbeddingEngine {
             return Ok(vec![]);
         }
         let refs: Vec<&str> = texts.iter().map(String::as_str).collect();
-        self.with_model(|loaded| Self::encode_texts(loaded, &refs))
+        self.with_model(|loaded| Self::encode_texts(loaded, &refs, &SearchCancellation::default()))
     }
 }
 
 // SAFETY: llama.cpp's model/backend handles are not `Sync`. They are stored in
-// `inner` and can only be created or accessed by `with_model`, which holds the
-// mutex for the complete inference call. No reference to `LoadedModel` escapes
+// `inner` and can only be created or accessed by `with_model_cancellable`
+// (also used by `with_model`), which holds the mutex throughout inference and
+// context cleanup. No reference to `LoadedModel` escapes
 // that closure. If this access pattern changes, these impls must be revisited.
 unsafe impl Send for LlamaCppEmbeddingEngine {}
 unsafe impl Sync for LlamaCppEmbeddingEngine {}
@@ -290,6 +350,89 @@ unsafe impl Sync for LlamaCppEmbeddingEngine {}
 #[cfg(test)]
 mod tests {
     use super::*;
+
+    #[test]
+    fn cancelled_inference_result_is_discarded_and_model_stays_usable() {
+        let path = Path::new(env!("CARGO_MANIFEST_DIR")).join("models/granite-r2-q8_0.gguf");
+        let engine = LlamaCppEmbeddingEngine::new(path)
+            .unwrap()
+            .with_n_threads(1);
+        let cancellation = SearchCancellation::default();
+        let result = engine.with_model_cancellable(&cancellation, |loaded| {
+            let embeddings = LlamaCppEmbeddingEngine::encode_texts(
+                loaded,
+                &["How does water conservation protect river ecosystems?"],
+                &cancellation,
+            )?;
+            // Deterministically model cancellation as inference completes,
+            // before its result can escape the engine. This does not assert
+            // interruption of the native decode.
+            cancellation.cancel();
+            Ok(embeddings)
+        });
+        assert!(
+            matches!(result, Err(EmbeddingError::Inference(message)) if message == "Search cancelled")
+        );
+        assert!(cancellation.is_cancelled());
+        assert!(
+            engine.inner.lock().unwrap().is_some(),
+            "retain the loaded model after cancellation"
+        );
+        let next = engine.embed_query("River conservation").unwrap();
+        assert_eq!(next.len(), GRANITE_R2_DIMS);
+        assert!(next.iter().all(|value| value.is_finite()));
+        let norm = next.iter().map(|value| value * value).sum::<f32>().sqrt();
+        assert!((norm - 1.0).abs() < 1e-4);
+    }
+
+    #[test]
+    fn superseded_waiter_returns_before_busy_model_is_released() {
+        let engine = Arc::new(LlamaCppEmbeddingEngine {
+            gguf_path: PathBuf::from("must-not-be-opened.gguf"),
+            n_threads: 1,
+            n_gpu_layers: 0,
+            inner: Mutex::new(None),
+        });
+        let guard = engine.inner.lock().unwrap();
+        let cancellation = SearchCancellation::default();
+        let (started_tx, started_rx) = std::sync::mpsc::channel();
+        let (result_tx, result_rx) = std::sync::mpsc::channel();
+        let waiting_engine = Arc::clone(&engine);
+        let waiting_cancellation = cancellation.clone();
+        let waiter = std::thread::spawn(move || {
+            started_tx.send(()).unwrap();
+            let result = waiting_engine.embed_query_cancellable("water", &waiting_cancellation);
+            result_tx.send(result).unwrap();
+        });
+        started_rx.recv().unwrap();
+        cancellation.cancel();
+        let result = result_rx.recv_timeout(std::time::Duration::from_secs(2));
+        // Release the lock before asserting so a failure cannot strand a
+        // worker. A successful result arrived while the model was still busy.
+        drop(guard);
+        waiter.join().unwrap();
+        assert!(
+            matches!(result, Ok(Err(EmbeddingError::Inference(message))) if message == "Search cancelled")
+        );
+        assert!(engine.inner.lock().unwrap().is_none());
+    }
+
+    #[test]
+    fn cancelled_request_does_not_start_loading_or_inference() {
+        let engine = LlamaCppEmbeddingEngine {
+            gguf_path: PathBuf::from("must-not-be-opened.gguf"),
+            n_threads: 1,
+            n_gpu_layers: 0,
+            inner: Mutex::new(None),
+        };
+        let cancellation = SearchCancellation::default();
+        cancellation.cancel();
+        assert!(
+            matches!(engine.embed_query_cancellable("water", &cancellation),
+            Err(EmbeddingError::Inference(message)) if message == "Search cancelled")
+        );
+        assert!(engine.inner.lock().unwrap().is_none());
+    }
 
     #[test]
     fn engine_remains_send_and_sync_for_shared_search_services() {

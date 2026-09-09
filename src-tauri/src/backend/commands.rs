@@ -199,6 +199,14 @@ fn require_completed(attempt: &TestAttempt) -> LoopResult<()> {
 }
 
 fn validate_search_args(args: &SearchQuestionsArgs) -> LoopResult<()> {
+    if let Some(client) = &args.client_id {
+        validate_identifier("Search client", client)?;
+    }
+    if args.client_id.is_some() != args.request_id.is_some() {
+        return Err(LoopError::invalid_input(
+            "Search client and revision must be provided together",
+        ));
+    }
     if args.query.chars().count() > MAX_SEARCH_QUERY_CHARS {
         return Err(LoopError::invalid_input(format!(
             "Search query must be at most {MAX_SEARCH_QUERY_CHARS} characters"
@@ -596,16 +604,68 @@ pub async fn search_questions(
     db: State<'_, DbState>,
     search_index: State<'_, SearchIndexState>,
     args: SearchQuestionsArgs,
+    on_progress: tauri::ipc::Channel<super::types::QuestionSearchResponse>,
 ) -> LoopResult<super::types::QuestionSearchResponse> {
     validate_search_args(&args)?;
+    let cancellation = if let (Some(client), Some(revision)) = (&args.client_id, args.request_id) {
+        search_index
+            .requests
+            .begin(client, revision)
+            .map_err(LoopError::unavailable)?
+    } else {
+        Default::default()
+    };
     let db = db.inner().clone();
     let search_index = search_index.inner().clone();
     tauri::async_runtime::spawn_blocking(move || {
-        let c = conn(&db)?;
-        db::search_questions_cached(&c, &search_index, &args.query, args.sections.as_deref())
+        cancellation.check().map_err(LoopError::unavailable)?;
+        let (c, service) = db::search::prepare_question_search_snapshot(&db, &search_index)?;
+        {
+            let preview = service
+                .execute_question_search_with_options(
+                    &c,
+                    &args.query,
+                    args.sections.as_deref(),
+                    &crate::search::request::SearchOptions {
+                        semantic: false,
+                        cancellation: cancellation.clone(),
+                    },
+                )
+                .map_err(LoopError::internal)?;
+            cancellation.check().map_err(LoopError::unavailable)?;
+            if preview.semantic_status != crate::search::response::SemanticStatus::Pending {
+                return Ok(preview);
+            }
+            // A disconnected window no longer needs this search.
+            on_progress.send(preview).map_err(LoopError::internal)?;
+        }
+        cancellation.check().map_err(LoopError::unavailable)?;
+        service
+            .execute_question_search_with_options(
+                &c,
+                &args.query,
+                args.sections.as_deref(),
+                &crate::search::request::SearchOptions {
+                    semantic: true,
+                    cancellation,
+                },
+            )
+            .map_err(LoopError::internal)
     })
     .await
     .map_err(LoopError::internal)?
+}
+
+#[tauri::command]
+pub fn cancel_question_search(
+    search_index: State<'_, SearchIndexState>,
+    args: super::types::CancelQuestionSearchArgs,
+) -> LoopResult<()> {
+    validate_identifier("Search client", &args.client_id)?;
+    search_index
+        .requests
+        .cancel_before(&args.client_id, args.request_id)
+        .map_err(LoopError::internal)
 }
 
 /// Initialize the validated search index and perform one real model inference.
@@ -980,18 +1040,21 @@ mod tests {
         let long_query = SearchQuestionsArgs {
             query: "x".repeat(MAX_SEARCH_QUERY_CHARS + 1),
             sections: None,
+            ..Default::default()
         };
         assert!(validate_search_args(&long_query).is_err());
 
         let too_many_sections = SearchQuestionsArgs {
             query: "polity".to_string(),
             sections: Some(vec!["section".to_string(); MAX_SEARCH_SECTIONS + 1]),
+            ..Default::default()
         };
         assert!(validate_search_args(&too_many_sections).is_err());
 
         assert!(validate_search_args(&SearchQuestionsArgs {
             query: "polity".to_string(),
             sections: Some(vec!["prelims-gs1".to_string()]),
+            ..Default::default()
         })
         .is_ok());
     }

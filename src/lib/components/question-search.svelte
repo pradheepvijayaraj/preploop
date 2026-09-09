@@ -1,6 +1,6 @@
 <script lang="ts">
   import { onDestroy, onMount, tick } from "svelte";
-  import MathText from "$lib/components/math-text.svelte";
+  import SearchText from "$lib/components/search-text.svelte";
   import ScrollIndicator from "$lib/components/scroll-indicator.svelte";
   import { Button } from "$lib/components/ui/button";
   import {
@@ -8,7 +8,10 @@
     DialogContent,
     DialogTitle,
   } from "$lib/components/ui/dialog";
-  import { searchQuestions } from "$lib/services/question-search";
+  import {
+    cancelQuestionSearch,
+    searchQuestions,
+  } from "$lib/services/question-search";
   import type {
     QuestionSearchResponse,
     QuestionSearchResult,
@@ -37,25 +40,69 @@
   }: Props = $props();
 
   let query = $state("");
+  let originalSpellingRequest = $state<{
+    inputValue: string;
+    searchValue: string;
+  } | null>(null);
   let response = $state<QuestionSearchResponse | null>(null);
   let isSearching = $state(false);
+  let isComposing = $state(false);
   let error = $state<string | null>(null);
   let inputElement = $state<HTMLInputElement | null>(null);
   let resultsScrollElement = $state<HTMLElement | null>(null);
   let searchTimer: ReturnType<typeof setTimeout> | null = null;
   let requestGeneration = 0;
-  let requestInFlight = false;
-  let queuedSearch: PendingSearch | null = null;
+  let searchClientId = "";
   let activeScopeKey = "";
   let wasOpen = false;
 
   const trimmedQuery = $derived(query.trim());
+  // The backend quotes terms to suppress spelling recovery. Keep that syntax
+  // out of the editable text, and apply it only to the unchanged original input.
+  const searchQuery = $derived(
+    originalSpellingRequest?.inputValue === query
+      ? originalSpellingRequest.searchValue
+      : trimmedQuery,
+  );
   const sectionKey = $derived(sections.join("\u001f"));
   const showResultsPanel = $derived(
     trimmedQuery.length >= 2 && (response !== null || error !== null),
   );
+  const currentResponse = $derived(response?.query.trim() === searchQuery);
+  const highlightTerms = $derived(response?.highlightTerms ?? []);
+
+  function useOriginalSpelling() {
+    if (!currentResponse || !response?.originalSpellingQuery) return;
+    originalSpellingRequest = {
+      inputValue: query,
+      searchValue: response.originalSpellingQuery,
+    };
+    inputElement?.focus();
+  }
+
+  function correctionLabel(corrected: string): string {
+    const originalWords = query.match(/[\p{L}\p{N}]+/gu) ?? [];
+    let wordIndex = 0;
+    return corrected.replace(/[\p{L}\p{N}]+/gu, (word) => {
+      const original = originalWords[wordIndex++];
+      if (!original) return word;
+      if (original === original.toLowerCase()) return word.toLowerCase();
+      if (original === original.toUpperCase()) return word.toUpperCase();
+
+      // Preserve title case and mixed capitalization without changing the
+      // actual query or the normalized spelling used by the search service.
+      const originalLetters = Array.from(original);
+      return Array.from(word, (letter, index) => {
+        const source = originalLetters[index];
+        return source && source !== source.toLowerCase()
+          ? letter.toUpperCase()
+          : letter.toLowerCase();
+      }).join("");
+    });
+  }
 
   function handleGlobalKeydown(event: KeyboardEvent) {
+    if (event.isComposing || isComposing) return;
     if (
       enabled &&
       (event.metaKey || event.ctrlKey) &&
@@ -102,6 +149,7 @@
       );
     }
 
+    originalSpellingRequest = null;
     query = query.slice(0, deleteStart) + query.slice(deleteEnd);
     void tick().then(() => {
       input?.focus();
@@ -111,7 +159,11 @@
 
   function resetPendingSearch() {
     requestGeneration += 1;
-    queuedSearch = null;
+    if (searchClientId) {
+      void cancelQuestionSearch(searchClientId, requestGeneration).catch(() => {
+        // Generation checks still reject stale replies if cancellation fails.
+      });
+    }
     if (searchTimer) {
       clearTimeout(searchTimer);
       searchTimer = null;
@@ -119,57 +171,82 @@
   }
 
   function queueSearch(request: PendingSearch) {
-    // Keep at most one queued request while SQLite finishes the current one.
-    // Newer input replaces older input instead of building an IPC backlog.
-    queuedSearch = request;
-    if (!requestInFlight) {
-      void drainSearchQueue();
+    if (!searchClientId) searchClientId = crypto.randomUUID();
+    void runSearch(request);
+  }
+
+  async function runSearch(current: PendingSearch) {
+    let settled = false;
+    let accepted = false;
+    const isCurrent = () =>
+      current.generation === requestGeneration &&
+      searchQuery === current.value &&
+      sectionKey === current.scopeKey;
+    async function accept(next: QuestionSearchResponse) {
+      if (!isCurrent() || next.query.trim() !== current.value) return;
+      const firstReply = !accepted;
+      const scroller = resultsScrollElement;
+      const viewportTop = scroller?.getBoundingClientRect().top ?? 0;
+      const anchor =
+        !firstReply && scroller && scroller.scrollTop > 0
+          ? Array.from(
+              scroller.querySelectorAll<HTMLElement>("[data-question-id]"),
+            ).find((item) => item.getBoundingClientRect().bottom > viewportTop)
+          : undefined;
+      const anchorOffset = anchor
+        ? anchor.getBoundingClientRect().top - viewportTop
+        : 0;
+      accepted = true;
+      response = next;
+      error = null;
+      await tick();
+      // Semantic completion must not pull a reader back to the top.
+      if (firstReply && isCurrent() && resultsScrollElement) {
+        resultsScrollElement.scrollTop = 0;
+      } else if (anchor && isCurrent() && resultsScrollElement) {
+        const retained = Array.from(
+          resultsScrollElement.querySelectorAll<HTMLElement>(
+            "[data-question-id]",
+          ),
+        ).find((item) => item.dataset.questionId === anchor.dataset.questionId);
+        if (retained) {
+          resultsScrollElement.scrollTop +=
+            retained.getBoundingClientRect().top -
+            resultsScrollElement.getBoundingClientRect().top -
+            anchorOffset;
+        }
+      }
+    }
+    try {
+      const next = await searchQuestions(current.value, current.sections, {
+        clientId: searchClientId,
+        requestId: current.generation,
+        onProgress: (preview) => {
+          if (!settled) void accept(preview);
+        },
+      });
+      settled = true;
+      await accept(next);
+    } catch (caught) {
+      settled = true;
+      if (!isCurrent()) return;
+      if (accepted && response?.query.trim() === current.value) {
+        // Preserve usable keyword results if the second phase cannot complete.
+        response = { ...response, semanticStatus: "unavailable" };
+      } else {
+        response = null;
+        error =
+          caught instanceof Error ? caught.message : "Search is unavailable";
+      }
+    } finally {
+      if (isCurrent()) isSearching = false;
     }
   }
 
-  async function drainSearchQueue() {
-    requestInFlight = true;
-    let lastGeneration = -1;
-
-    try {
-      while (queuedSearch) {
-        const current = queuedSearch;
-        queuedSearch = null;
-        lastGeneration = current.generation;
-
-        try {
-          const next = await searchQuestions(current.value, current.sections);
-          if (
-            current.generation !== requestGeneration ||
-            query.trim() !== current.value ||
-            sectionKey !== current.scopeKey
-          ) {
-            continue;
-          }
-          response = next;
-          error = null;
-          await tick();
-          if (
-            current.generation === requestGeneration &&
-            query.trim() === current.value &&
-            sectionKey === current.scopeKey &&
-            resultsScrollElement
-          ) {
-            resultsScrollElement.scrollTop = 0;
-          }
-        } catch (caught) {
-          if (current.generation !== requestGeneration) continue;
-          response = null;
-          error =
-            caught instanceof Error ? caught.message : "Search is unavailable";
-        }
-      }
-    } finally {
-      requestInFlight = false;
-      if (lastGeneration === requestGeneration) {
-        isSearching = false;
-      }
-    }
+  function chooseSpelling(value: string) {
+    originalSpellingRequest = null;
+    query = correctionLabel(value);
+    inputElement?.focus();
   }
 
   function optionsFitSingleRow(result: QuestionSearchResult): boolean {
@@ -191,7 +268,9 @@
     if (dialogOpen && !wasOpen) {
       void tick().then(() => inputElement?.focus());
     } else if (!dialogOpen && wasOpen) {
+      originalSpellingRequest = null;
       query = "";
+      isComposing = false;
       response = null;
       error = null;
       isSearching = false;
@@ -202,7 +281,7 @@
   });
 
   $effect(() => {
-    const value = trimmedQuery;
+    const value = searchQuery;
     const dialogOpen = open;
     const scopeKey = sectionKey;
     const scopedSections = [...sections];
@@ -214,7 +293,7 @@
       response = null;
     }
 
-    if (!dialogOpen || value.length < 2) {
+    if (!dialogOpen || isComposing || value.length < 2) {
       isSearching = false;
       error = null;
       if (value.length < 2) {
@@ -226,15 +305,21 @@
     const generation = requestGeneration;
     isSearching = true;
     error = null;
-    searchTimer = setTimeout(() => {
-      searchTimer = null;
-      queueSearch({
-        value,
-        generation,
-        sections: scopedSections,
-        scopeKey,
-      });
-    }, 140);
+    const request = {
+      value,
+      generation,
+      sections: scopedSections,
+      scopeKey,
+    };
+    if (originalSpellingRequest?.inputValue === query) {
+      // A deliberate retry is ready to run; debounce only ongoing typing.
+      queueSearch(request);
+    } else {
+      searchTimer = setTimeout(() => {
+        searchTimer = null;
+        queueSearch(request);
+      }, 140);
+    }
 
     return () => {
       if (searchTimer) {
@@ -273,12 +358,12 @@
     closeOnInteractOutside={true}
     preventScroll={false}
     showCloseButton={false}
-    class="top-[clamp(5.5rem,13vh,8.5rem)] flex w-[calc(100%-2rem)] max-w-5xl translate-y-0 flex-col gap-2 border-0 bg-transparent p-0 shadow-none"
+    class="top-[clamp(5.5rem,13vh,8.5rem)] flex w-[calc(100%-2rem)] max-w-5xl translate-y-0 flex-col gap-2 border-0 bg-transparent p-0 shadow-none [--ui-label-size:0.8125rem]"
   >
     <DialogTitle class="sr-only">Search {scopeLabel}</DialogTitle>
 
     <div
-      class="flex h-[3.25rem] w-full items-center gap-3 border border-border bg-popover px-4 shadow-[0_16px_48px_rgba(0,0,0,0.14)] transition-[border-color,box-shadow] duration-150 focus-within:border-foreground/28 focus-within:shadow-[0_20px_60px_rgba(0,0,0,0.2)] dark:shadow-[0_20px_60px_rgba(0,0,0,0.42)] dark:focus-within:shadow-[0_24px_72px_rgba(0,0,0,0.52)]"
+      class="flex h-14 w-full items-center gap-3 border border-border bg-popover px-4 shadow-[0_16px_48px_rgba(0,0,0,0.14)] transition-[border-color,box-shadow] duration-150 focus-within:border-foreground/28 focus-within:shadow-[0_20px_60px_rgba(0,0,0,0.2)] dark:shadow-[0_20px_60px_rgba(0,0,0,0.42)] dark:focus-within:shadow-[0_24px_72px_rgba(0,0,0,0.52)]"
       aria-busy={isSearching}
     >
       {#if isSearching}
@@ -294,7 +379,10 @@
         id="question-search-input"
         bind:this={inputElement}
         bind:value={query}
-        class="h-full min-w-0 flex-1 bg-transparent text-[0.98rem] font-medium tracking-[-0.012em] text-foreground outline-none placeholder:font-normal placeholder:text-muted-foreground/48"
+        oninput={() => (originalSpellingRequest = null)}
+        oncompositionstart={() => (isComposing = true)}
+        oncompositionend={() => (isComposing = false)}
+        class="h-full min-w-0 flex-1 bg-transparent text-lg font-medium tracking-[-0.012em] text-foreground outline-none placeholder:font-normal placeholder:text-muted-foreground/48"
         placeholder="Search"
         autocomplete="off"
         spellcheck="false"
@@ -304,13 +392,96 @@
     {#if showResultsPanel}
       <section
         id="question-search-results"
+        aria-busy={isSearching}
         class="relative flex max-h-[65dvh] min-h-0 w-full animate-in flex-col overflow-hidden border border-border bg-popover shadow-[0_24px_70px_rgba(0,0,0,0.16)] fade-in-0 slide-in-from-top-1 duration-150 dark:shadow-[0_28px_80px_rgba(0,0,0,0.45)]"
-        aria-live="polite"
       >
+        {#if response && !error}
+          <p role="status" class="sr-only">
+            {#if !currentResponse || response.semanticStatus === "pending"}
+              Updating results…
+            {:else}
+              {`${response.totalMatches.toLocaleString()} ${response.totalMatches === 1 ? "match" : "matches"} in ${scopeLabel}`}
+            {/if}
+          </p>
+          <!-- Keep the correction with the displayed results until the retry
+               replaces both. Editing the visible query still hides it. -->
+          {#if response.query.trim() === trimmedQuery && response.correctedQuery}
+            <div
+              class="flex shrink-0 flex-wrap items-baseline gap-x-3 gap-y-0 px-4 pt-2 sm:px-5"
+            >
+              <p
+                class="ui-small-label min-w-0 break-words text-muted-foreground/75"
+              >
+                Results for <span
+                  class="text-base font-medium normal-case tracking-normal text-foreground/85"
+                  >“{correctionLabel(response.correctedQuery)}”</span
+                >
+              </p>
+              {#if response.originalSpellingQuery}
+                <button
+                  type="button"
+                  class="ui-button-text group min-h-7 min-w-0 max-w-full cursor-pointer break-words py-1 text-left text-muted-foreground/75 transition-colors enabled:hover:text-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring disabled:cursor-wait"
+                  aria-label={`Search for “${trimmedQuery}” without spelling correction`}
+                  disabled={!currentResponse}
+                  onclick={useOriginalSpelling}
+                >
+                  <span class="mr-3 text-muted-foreground/35" aria-hidden="true"
+                    >·</span
+                  >Search
+                  <span
+                    class="text-base font-medium normal-case tracking-normal underline decoration-foreground/25 underline-offset-4 group-hover:decoration-foreground/60"
+                    >“{trimmedQuery}”</span
+                  >
+                </button>
+              {/if}
+            </div>
+          {/if}
+          {#if currentResponse && response.spellingAlternatives.length > 0}
+            <div
+              class="flex shrink-0 flex-wrap items-baseline gap-x-3 gap-y-1 px-4 pt-2 sm:px-5"
+            >
+              <span class="ui-small-label text-muted-foreground/75"
+                >Did you mean</span
+              >
+              {#each response.spellingAlternatives as alternative}
+                <button
+                  type="button"
+                  class="min-h-7 cursor-pointer break-words text-base font-medium text-foreground/85 underline decoration-foreground/25 underline-offset-4 hover:decoration-foreground/60 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-ring"
+                  onclick={() => chooseSpelling(alternative)}
+                  >“{correctionLabel(alternative)}”</button
+                >
+              {/each}
+            </div>
+          {/if}
+          {#if currentResponse && response.semanticStatus === "unavailable"}
+            <p
+              class="ui-small-label px-4 pt-3 font-medium leading-relaxed text-muted-foreground/75 sm:px-5"
+            >
+              Related search unavailable. Showing keyword matches.
+            </p>
+          {/if}
+        {/if}
         {#if error}
-          <p class="px-5 py-4 text-sm text-destructive">{error}</p>
+          <p role="alert" class="px-5 py-4 text-base text-destructive">
+            {error}
+          </p>
         {:else if response?.results.length === 0}
-          <p class="px-5 py-4 text-sm text-muted-foreground">No results</p>
+          <div class="space-y-2 px-4 py-5 sm:px-5">
+            <h2 class="ui-small-label text-foreground/80">
+              {response.semanticStatus === "pending"
+                ? "Searching…"
+                : "No results"}
+            </h2>
+            <p
+              class="ui-small-label font-medium leading-relaxed text-muted-foreground/75"
+            >
+              {response.semanticStatus === "pending"
+                ? "Looking for related questions."
+                : response.spellingAlternatives.length > 0
+                  ? "Choose a spelling above or edit your search"
+                  : "Try fewer words or a broader topic"}
+            </p>
+          </div>
         {:else if response}
           <div
             bind:this={resultsScrollElement}
@@ -320,7 +491,7 @@
               {#each response.results as result, index (result.questionId)}
                 {#if index === 0 || response.results[index - 1]?.matchStrength !== result.matchStrength}
                   <div
-                    class="px-1 pb-1 pt-1 text-[0.61rem] font-bold uppercase tracking-[0.14em] text-muted-foreground/48"
+                    class="ui-small-label px-1 pb-1 pt-1 text-muted-foreground/60"
                   >
                     {result.matchStrength === "strong"
                       ? "Strong matches"
@@ -333,24 +504,25 @@
                   ></div>
                 {/if}
                 <article
+                  data-question-id={result.questionId}
                   class="grid gap-3 px-4 py-4 [content-visibility:auto] [contain-intrinsic-size:auto_10rem] sm:grid-cols-[7.25rem_minmax(0,1fr)] sm:gap-6 sm:px-5"
                 >
-                  <div class="flex items-baseline gap-2 sm:block">
+                  <div class="flex flex-wrap items-baseline gap-2 sm:block">
                     {#if result.year}
                       <p
-                        class="text-[0.84rem] font-semibold tabular-nums tracking-[-0.01em] text-foreground/78"
+                        class="text-base font-semibold tabular-nums tracking-[-0.01em] text-foreground/78"
                       >
                         {result.year}
                       </p>
                     {/if}
                     <p
-                      class="text-[0.62rem] font-bold uppercase tracking-[0.13em] text-muted-foreground/50 sm:mt-1.5"
+                      class="text-xs font-bold uppercase tracking-[0.13em] text-muted-foreground/50 sm:mt-1.5"
                     >
                       {resultContext(result)}
                     </p>
                     {#if result.questionNumber != null}
                       <p
-                        class="text-[0.62rem] font-bold uppercase tracking-[0.13em] text-muted-foreground/38 sm:mt-1"
+                        class="text-xs font-bold uppercase tracking-[0.13em] text-muted-foreground/38 sm:mt-1"
                       >
                         Q {result.questionNumber}
                       </p>
@@ -358,28 +530,41 @@
                   </div>
 
                   <div class="min-w-0">
-                    <MathText
+                    <SearchText
                       text={result.question}
-                      class="text-[0.94rem] font-medium leading-[1.52] tracking-[-0.008em] text-foreground/88"
+                      terms={highlightTerms}
+                      class="text-lg font-medium leading-[1.55] tracking-[-0.008em] text-foreground/88"
                     />
 
                     {#if result.options.length > 0}
                       <ol
-                        class={`mt-3 grid grid-cols-1 gap-x-6 gap-y-1 text-[0.82rem] leading-relaxed text-foreground/66 sm:grid-cols-2 ${optionsFitSingleRow(result) ? "lg:grid-cols-4" : ""}`}
+                        class={`mt-3 grid grid-cols-1 gap-x-6 gap-y-1 text-base leading-relaxed text-foreground/66 sm:grid-cols-2 ${optionsFitSingleRow(result) ? "lg:grid-cols-4" : ""}`}
                       >
                         {#each result.options as option}
                           <li
-                            class={`grid min-w-0 grid-cols-[auto_minmax(0,1fr)] items-baseline gap-1.5 ${optionsFitSingleRow(result) ? "lg:whitespace-nowrap" : ""}`}
+                            class="grid min-w-0 grid-cols-[auto_minmax(0,1fr)] items-baseline gap-1.5"
                           >
                             <span
                               class="font-semibold uppercase text-muted-foreground/48"
                             >
                               ({option.id})
                             </span>
-                            <MathText text={option.text} />
+                            <SearchText
+                              text={option.text}
+                              terms={highlightTerms}
+                            />
                           </li>
                         {/each}
                       </ol>
+                    {/if}
+                    {#if result.semanticMatch && !result.lexicalMatch}
+                      <p
+                        class="mt-2 text-[length:var(--ui-label-size)] text-muted-foreground"
+                      >
+                        Related by meaning{result.mainTag
+                          ? ` · ${result.mainTag}`
+                          : ""}
+                      </p>
                     {/if}
                   </div>
                 </article>

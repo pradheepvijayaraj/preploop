@@ -22,12 +22,24 @@ pub enum MatchStrength {
     Related,
 }
 
+#[derive(Debug, Default, Clone, Copy, PartialEq, Eq, serde::Serialize, serde::Deserialize)]
+#[serde(rename_all = "camelCase")]
+pub enum SemanticStatus {
+    Pending,
+    Available,
+    Unavailable,
+    #[default]
+    NotRequested,
+}
+
 /// Full response from a search request.
 #[derive(Debug, Default)]
 pub struct SearchResponse {
     pub hits: Vec<SearchHit>,
-    /// Whether the semantic engine was available for this query.
-    pub semantic_available: bool,
+    /// The lexical interpretation actually supported by documents in this scope.
+    pub interpreted_query: Option<crate::search::lexical::query_builder::CompiledFtsQuery>,
+    pub semantic_status: SemanticStatus,
+    pub spelling_alternatives: Vec<String>,
     #[cfg(debug_assertions)]
     pub metrics: SearchMetrics,
 }

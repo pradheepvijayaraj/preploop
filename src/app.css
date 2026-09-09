@@ -446,12 +446,10 @@
     @apply text-[0.92rem] leading-none font-bold uppercase tracking-[0.2em] text-foreground/88;
   }
 
-  .ui-small-label {
-    @apply text-[0.72rem] font-bold uppercase tracking-[0.18em];
-  }
-
+  .ui-small-label,
   .ui-button-text {
-    @apply text-[0.72rem] font-bold uppercase tracking-[0.18em];
+    @apply font-bold uppercase tracking-[0.18em];
+    font-size: var(--ui-label-size, 0.72rem);
   }
 }
 

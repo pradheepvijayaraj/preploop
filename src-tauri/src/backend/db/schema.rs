@@ -48,6 +48,10 @@ const MIGRATIONS: &[Migration] = &[
         run: migrate_v6_mark_breakdown,
         requires_foreign_keys_off: false,
     },
+    Migration {
+        run: migrate_v7_literal_search,
+        requires_foreign_keys_off: false,
+    },
 ];
 const SCHEMA_VERSION: i64 = MIGRATIONS.len() as i64;
 
@@ -122,6 +126,35 @@ fn apply_migration(conn: &Connection, migration: Migration, version: i64) -> DbR
 }
 
 // ── Migrations ──────────────────────────────────────────────────────────
+
+/// Preserve surface words for typing completion. Porter stems are useful for
+/// word forms, but `international` -> `intern` loses prefixes like `internat`.
+/// Build from existing documents atomically; future imports, edits and deletes
+/// update both indexes in the same SQLite transaction.
+fn migrate_v7_literal_search(conn: &Connection) -> DbResult<()> {
+    conn.execute_batch(
+        "CREATE VIRTUAL TABLE IF NOT EXISTS question_literal_fts USING fts5(
+            question, options_text, main_tag, subtags_text,
+            content='search_documents', content_rowid='search_id',
+            tokenize='unicode61', prefix='1 2 3'
+         );
+         CREATE TRIGGER IF NOT EXISTS search_literal_ai AFTER INSERT ON search_documents BEGIN
+            INSERT INTO question_literal_fts(rowid, question, options_text, main_tag, subtags_text)
+            VALUES (new.search_id, new.question, new.options_text, new.main_tag, new.subtags_text);
+         END;
+         CREATE TRIGGER IF NOT EXISTS search_literal_ad AFTER DELETE ON search_documents BEGIN
+            INSERT INTO question_literal_fts(question_literal_fts, rowid, question, options_text, main_tag, subtags_text)
+            VALUES ('delete', old.search_id, old.question, old.options_text, old.main_tag, old.subtags_text);
+         END;
+         CREATE TRIGGER IF NOT EXISTS search_literal_au AFTER UPDATE ON search_documents BEGIN
+            INSERT INTO question_literal_fts(question_literal_fts, rowid, question, options_text, main_tag, subtags_text)
+            VALUES ('delete', old.search_id, old.question, old.options_text, old.main_tag, old.subtags_text);
+            INSERT INTO question_literal_fts(rowid, question, options_text, main_tag, subtags_text)
+            VALUES (new.search_id, new.question, new.options_text, new.main_tag, new.subtags_text);
+         END;
+         INSERT INTO question_literal_fts(question_literal_fts) VALUES ('rebuild');",
+    ).stringify_err()
+}
 
 /// V1: initial schema (all core tables).
 ///

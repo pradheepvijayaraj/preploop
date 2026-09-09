@@ -23,6 +23,28 @@ pub struct LexicalHit {
 pub struct LexicalSearch;
 
 impl LexicalSearch {
+    /// Quoted phrases must match surface text, including during semantic fallback.
+    pub fn required_phrase_ids(
+        conn: &Connection,
+        query: &CompiledFtsQuery,
+        filters: &SearchFilter,
+    ) -> Result<Option<HashSet<u64>>> {
+        query
+            .required_phrases_match()
+            .map(|expression| {
+                Self::search_index(
+                    conn,
+                    "question_literal_fts",
+                    &expression,
+                    filters,
+                    i64::MAX as usize,
+                    false,
+                )
+                .map(|hits| hits.into_iter().map(|hit| hit.search_id as u64).collect())
+            })
+            .transpose()
+    }
+
     /// Executes an FTS5 search using the compiled match expression and optional structured filters.
     pub fn search(
         conn: &Connection,
@@ -54,26 +76,18 @@ impl LexicalSearch {
                 }
             }
         }
-        if !hits.is_empty() {
-            return Ok(hits);
-        }
+        Ok(hits)
+    }
 
-        // Typo fallback only for single-word queries (e.g. "parliment" -> "parl*")
-        if query.terms().len() == 1 {
-            let t = &query.terms()[0];
-            let char_count = t.chars().count();
-            if char_count >= 4 && t.chars().all(char::is_alphabetic) {
-                let root: String = t.chars().take(4).collect();
-                let fallback_expr = format!("\"{}\"*", root.replace('"', "\"\""));
-                let fallback_hits =
-                    Self::search_match_str(conn, &fallback_expr, filters, limit, false)?;
-                if !fallback_hits.is_empty() {
-                    return Ok(fallback_hits);
-                }
-            }
-        }
-
-        Ok(Vec::new())
+    /// Use SQLite's own tokenizers when deciding whether a term is a typo.
+    /// The Porter vocabulary contains stems, not the user's surface words.
+    pub fn term_exists(conn: &Connection, expression: &str) -> Result<bool> {
+        conn.query_row(
+            "SELECT EXISTS(SELECT 1 FROM question_literal_fts WHERE question_literal_fts MATCH ?1)
+                 OR EXISTS(SELECT 1 FROM question_fts WHERE question_fts MATCH ?1)",
+            [expression],
+            |row| row.get(0),
+        )
     }
 
     fn search_match_str(
@@ -83,147 +97,57 @@ impl LexicalSearch {
         limit: usize,
         relaxed: bool,
     ) -> Result<Vec<LexicalHit>> {
-        let mut sql = String::from(
+        // Keep the established stemmed ordering, then recover literal prefixes
+        // that stemming erased. Exact phrase boosts rank these after fusion.
+        let mut hits =
+            Self::search_index(conn, "question_fts", match_expr, filters, limit, relaxed)?;
+        let literal = Self::search_index(
+            conn,
+            "question_literal_fts",
+            match_expr,
+            filters,
+            limit,
+            relaxed,
+        )?;
+        let mut seen = hits.iter().map(|hit| hit.search_id).collect::<HashSet<_>>();
+        for hit in literal {
+            if seen.insert(hit.search_id) {
+                hits.push(hit);
+            }
+        }
+        Ok(hits)
+    }
+
+    fn search_index(
+        conn: &Connection,
+        index: &str,
+        match_expr: &str,
+        filters: &SearchFilter,
+        limit: usize,
+        relaxed: bool,
+    ) -> Result<Vec<LexicalHit>> {
+        let mut sql = format!(
             "SELECT
                 d.search_id,
                 d.question_id,
-                -bm25(question_fts) AS score
-            FROM question_fts f
+                -bm25({index}) AS score
+            FROM {index} f
             JOIN search_documents d ON d.search_id = f.rowid
-            WHERE question_fts MATCH ?1",
+            WHERE {index} MATCH ?1",
         );
 
-        let mut param_idx = 2;
-        let mut filter_clauses = Vec::new();
-
-        // Optional section filter
-        if !filters.sections.is_empty() {
-            let placeholders: Vec<String> = (0..filters.sections.len())
-                .map(|i| format!("?{}", param_idx + i))
-                .collect();
-            filter_clauses.push(format!("d.section IN ({})", placeholders.join(",")));
-            param_idx += filters.sections.len();
-        }
-
-        // Optional stage filter
-        if !filters.stages.is_empty() {
-            let placeholders: Vec<String> = (0..filters.stages.len())
-                .map(|i| format!("?{}", param_idx + i))
-                .collect();
-            filter_clauses.push(format!("d.stage IN ({})", placeholders.join(",")));
-            param_idx += filters.stages.len();
-        }
-
-        // Optional paper filter
-        if !filters.papers.is_empty() {
-            let placeholders: Vec<String> = (0..filters.papers.len())
-                .map(|i| format!("?{}", param_idx + i))
-                .collect();
-            filter_clauses.push(format!("d.paper IN ({})", placeholders.join(",")));
-            param_idx += filters.papers.len();
-        }
-
-        // Optional banks filter
-        if !filters.banks.is_empty() {
-            let placeholders: Vec<String> = (0..filters.banks.len())
-                .map(|i| format!("?{}", param_idx + i))
-                .collect();
-            filter_clauses.push(format!("d.bank_id IN ({})", placeholders.join(",")));
-            param_idx += filters.banks.len();
-        }
-
-        // Optional year range filter
-        if filters.years.is_some() {
-            filter_clauses.push(format!(
-                "d.year >= ?{} AND d.year <= ?{}",
-                param_idx,
-                param_idx + 1
-            ));
-            param_idx += 2;
-        }
-
-        if !filters.tags.is_empty() {
-            let mut clauses = Vec::new();
-            for tag in &filters.tags {
-                if let Some(alias) = crate::taxonomy::legacy_main_tag_alias(tag) {
-                    let mut alias_clauses = Vec::new();
-                    if !alias.main_tags.is_empty() {
-                        let placeholders = (0..alias.main_tags.len())
-                            .map(|offset| format!("?{}", param_idx + offset))
-                            .collect::<Vec<_>>()
-                            .join(",");
-                        alias_clauses.push(format!("d.main_tag IN ({placeholders})"));
-                        param_idx += alias.main_tags.len();
-                    }
-                    if !alias.sections.is_empty() {
-                        let placeholders = (0..alias.sections.len())
-                            .map(|offset| format!("?{}", param_idx + offset))
-                            .collect::<Vec<_>>()
-                            .join(",");
-                        alias_clauses.push(format!("d.section IN ({placeholders})"));
-                        param_idx += alias.sections.len();
-                    }
-                    clauses.push(format!("({})", alias_clauses.join(" OR ")));
-                } else {
-                    let parameter = param_idx;
-                    clauses.push(format!(
-                        "(d.main_tag = ?{parameter} OR EXISTS (\
-                         SELECT 1 FROM question_taxonomy t, json_each(t.subtags_json) j \
-                         WHERE t.question_id = d.question_id AND j.value = ?{parameter}))"
-                    ));
-                    param_idx += 1;
-                }
-            }
-            filter_clauses.push(format!("({})", clauses.join(" OR ")));
-        }
-
-        for clause in filter_clauses {
-            sql.push_str(" AND ");
-            sql.push_str(&clause);
-        }
-
-        sql.push_str(" ORDER BY score DESC LIMIT ?");
-        sql.push_str(&param_idx.to_string());
+        let mut values = vec![rusqlite::types::Value::Text(match_expr.to_string())];
+        filters.append_sql(&mut sql, &mut values)?;
+        sql.push_str(&format!(
+            " ORDER BY score DESC, d.search_id ASC LIMIT ?{}",
+            values.len() + 1
+        ));
+        values.push(rusqlite::types::Value::Integer(
+            i64::try_from(limit).unwrap_or(i64::MAX),
+        ));
 
         let mut stmt = conn.prepare(&sql)?;
-
-        let mut params_vec: Vec<Box<dyn rusqlite::ToSql>> = Vec::new();
-        params_vec.push(Box::new(match_expr.to_string()));
-
-        for sec in &filters.sections {
-            params_vec.push(Box::new(sec.clone()));
-        }
-        for stg in &filters.stages {
-            params_vec.push(Box::new(stg.clone()));
-        }
-        for ppr in &filters.papers {
-            params_vec.push(Box::new(ppr.clone()));
-        }
-        for bnk in &filters.banks {
-            params_vec.push(Box::new(bnk.clone()));
-        }
-        if let Some((min_year, max_year)) = filters.years {
-            params_vec.push(Box::new(min_year as i64));
-            params_vec.push(Box::new(max_year as i64));
-        }
-        for tag in &filters.tags {
-            if let Some(alias) = crate::taxonomy::legacy_main_tag_alias(tag) {
-                params_vec.extend(
-                    alias
-                        .main_tags
-                        .iter()
-                        .chain(alias.sections.iter())
-                        .cloned()
-                        .map(|value| Box::new(value) as Box<dyn rusqlite::ToSql>),
-                );
-            } else {
-                params_vec.push(Box::new(tag.clone()));
-            }
-        }
-        params_vec.push(Box::new(limit as i64));
-
-        let param_refs: Vec<&dyn rusqlite::ToSql> = params_vec.iter().map(|b| b.as_ref()).collect();
-        let mut rows = stmt.query(param_refs.as_slice())?;
+        let mut rows = stmt.query(rusqlite::params_from_iter(values.iter()))?;
         let mut hits = Vec::new();
 
         while let Some(row) = rows.next()? {
@@ -244,6 +168,91 @@ mod tests {
     use super::*;
     use crate::backend::db::schema::run_migrations;
     use crate::search::lexical::query_builder::FtsQueryBuilder;
+
+    #[test]
+    fn bundled_corpus_keeps_literal_matches_through_typing_and_punctuation() {
+        // Exercise the production tokenizer against one source phrase per
+        // eligible question, including every prefix of its second word.
+        let conn = Connection::open_in_memory().unwrap();
+        conn.execute_batch(
+            "CREATE VIRTUAL TABLE question_fts USING fts5(question, tokenize='porter unicode61', prefix='2 3'); CREATE VIRTUAL TABLE question_literal_fts USING fts5(question, tokenize='unicode61', prefix='1 2 3');",
+        ).unwrap();
+        let root = std::path::Path::new(env!("CARGO_MANIFEST_DIR")).join("../static/upsc");
+        let catalog: serde_json::Value =
+            serde_json::from_str(&std::fs::read_to_string(root.join("catalog.json")).unwrap())
+                .unwrap();
+        let mut cases = Vec::new();
+        let mut documents = 0;
+        for paper in catalog["papers"].as_array().unwrap() {
+            let bank: crate::backend::types::QuestionBank = serde_json::from_str(
+                &std::fs::read_to_string(root.join(paper["path"].as_str().unwrap())).unwrap(),
+            )
+            .unwrap();
+            for question in bank.questions {
+                documents += 1;
+                conn.execute(
+                    "INSERT INTO question_fts(rowid, question) VALUES (?1, ?2)",
+                    rusqlite::params![documents, question.question],
+                )
+                .unwrap();
+                conn.execute(
+                    "INSERT INTO question_literal_fts(rowid, question) VALUES (?1, ?2)",
+                    rusqlite::params![documents, question.question],
+                )
+                .unwrap();
+                let words = question
+                    .question
+                    .split(|c: char| !c.is_alphanumeric())
+                    .collect::<Vec<_>>();
+                if let Some(pair) = words.windows(2).find(|pair| {
+                    pair.iter().all(|word| {
+                        word.len() >= 4 && word.chars().all(|c| c.is_ascii_alphabetic())
+                    })
+                }) {
+                    cases.push((
+                        documents,
+                        question.id,
+                        pair[0].to_string(),
+                        pair[1].to_string(),
+                    ));
+                }
+            }
+        }
+        let mut lookup = conn.prepare(
+            "SELECT EXISTS(SELECT 1 FROM question_fts WHERE question_fts MATCH ?1 AND rowid = ?2) OR EXISTS(SELECT 1 FROM question_literal_fts WHERE question_literal_fts MATCH ?1 AND rowid = ?2)",
+        ).unwrap();
+        let mut tested = 0;
+        let mut failures = Vec::new();
+        for (rowid, id, first, second) in &cases {
+            let mut queries = (1..=second.len())
+                .map(|length| format!("{first} {}", &second[..length]))
+                .collect::<Vec<_>>();
+            queries.extend(
+                ["/", "—", ",", "-", "_", "\t", "  "]
+                    .map(|separator| format!("{first}{separator}{second}")),
+            );
+            for query in queries {
+                tested += 1;
+                let compiled = FtsQueryBuilder::build(&query).unwrap();
+                let found: bool = lookup
+                    .query_row(rusqlite::params![compiled.as_fts_match(), rowid], |row| {
+                        row.get(0)
+                    })
+                    .unwrap();
+                if !found {
+                    failures.push(format!("{id}: {query}"));
+                }
+            }
+        }
+        println!("Literal typing audit: {documents} documents, {} sampled phrases, {tested} queries, {} misses", cases.len(), failures.len());
+        assert!(cases.len() > 4_000);
+        assert!(
+            failures.is_empty(),
+            "{} misses; examples: {:?}",
+            failures.len(),
+            &failures[..failures.len().min(20)]
+        );
+    }
 
     #[test]
     fn test_fts5_lexical_search_flow() {
@@ -313,11 +322,11 @@ mod tests {
         assert_eq!(hits4.len(), 1);
         assert_eq!(hits4[0].question_id, "q1");
 
-        // Alphabetic typos retain the broad four-character recovery, while
-        // numeric queries preserve exact identity instead of matching a year prefix.
+        // Lexical retrieval does not broaden arbitrary typos to four letters.
+        // Vocabulary-based correction is tested through SearchService.
         let typo = FtsQueryBuilder::build("constituton").unwrap();
         let typo_hits = LexicalSearch::search(&conn, &typo, &SearchFilter::default(), 10).unwrap();
-        assert_eq!(typo_hits[0].question_id, "q1");
+        assert!(typo_hits.is_empty());
 
         let numeric = FtsQueryBuilder::build("20230").unwrap();
         let numeric_hits =

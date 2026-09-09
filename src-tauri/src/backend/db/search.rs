@@ -16,7 +16,9 @@ use crate::search::vector::traits::VectorSearch;
 
 use super::DbResult;
 use crate::backend::error::LoopError;
-use crate::backend::types::{Question, QuestionSearchResponse};
+use crate::backend::types::Question;
+#[cfg(test)]
+use crate::backend::types::QuestionSearchResponse;
 
 struct SearchDocumentSnapshot {
     search_id: u64,
@@ -46,6 +48,7 @@ pub(crate) enum PreparedSearchRebuild {
 /// Lightweight wrapper for managed search index state.
 #[derive(Clone)]
 pub struct SearchIndexState {
+    pub(crate) requests: Arc<crate::search::control::SearchRequests>,
     service: Arc<RwLock<Option<Arc<crate::search::service::SearchService>>>>,
     embedding_engine:
         Arc<RwLock<Option<Arc<dyn crate::search::embedding::engine::EmbeddingEngine>>>>,
@@ -63,6 +66,7 @@ impl SearchIndexState {
         bundled_vector_path: Option<PathBuf>,
     ) -> Self {
         Self {
+            requests: Arc::new(Default::default()),
             service: Arc::new(RwLock::new(None)),
             embedding_engine: Arc::new(RwLock::new(None)),
             model_path,
@@ -161,6 +165,7 @@ impl Default for SearchIndexState {
     }
 }
 
+#[cfg(test)]
 pub fn search_questions_cached(
     conn: &Connection,
     state: &SearchIndexState,
@@ -173,6 +178,43 @@ pub fn search_questions_cached(
     let service = prepare_question_search(conn, state)?;
 
     Ok(service.execute_question_search(conn, query, sections)?)
+}
+
+/// Keep one consistent WAL snapshot for this search without holding the app's
+/// database mutex during inference, hydration, or streaming results.
+pub(crate) fn prepare_question_search_snapshot(
+    db: &super::DbState,
+    state: &SearchIndexState,
+) -> DbResult<(Connection, Arc<crate::search::service::SearchService>)> {
+    let writer =
+        db.0.lock()
+            .map_err(|_| LoopError::internal("Database mutex was poisoned"))?;
+    let path = writer
+        .path()
+        .filter(|path| !path.is_empty())
+        .map(PathBuf::from)
+        .ok_or_else(|| LoopError::internal("Search requires a persisted database"))?;
+    let connection = Connection::open_with_flags(
+        path,
+        rusqlite::OpenFlags::SQLITE_OPEN_READ_ONLY | rusqlite::OpenFlags::SQLITE_OPEN_NO_MUTEX,
+    )
+    .stringify_err()?;
+    connection
+        .busy_timeout(std::time::Duration::from_secs(5))
+        .stringify_err()?;
+    connection
+        .execute_batch("BEGIN DEFERRED TRANSACTION")
+        .stringify_err()?;
+    // Pin the snapshot and its service together before a corpus mutation can
+    // invalidate the cache. Only setup holds the writer, never inference.
+    connection
+        .query_row("SELECT COUNT(*) FROM search_documents", [], |row| {
+            row.get::<_, i64>(0)
+        })
+        .stringify_err()?;
+    let service = prepare_question_search(&connection, state)?;
+    drop(writer);
+    Ok((connection, service))
 }
 
 /// Initialize and cache the search service without performing model inference.
@@ -598,6 +640,48 @@ mod rebuild_tests {
     use crate::backend::db::schema::run_migrations;
     use crate::search::vector::format::{VectorRecord, VECTOR_DIMS};
     use crate::search::vector::traits::VectorSearch;
+
+    #[test]
+    fn search_snapshot_releases_writer_and_keeps_a_consistent_view() {
+        let directory =
+            std::env::temp_dir().join(format!("preploop_search_snapshot_{}", uuid::Uuid::new_v4()));
+        std::fs::create_dir_all(&directory).unwrap();
+        let writer = Connection::open(directory.join("search.sqlite")).unwrap();
+        writer.execute_batch("PRAGMA journal_mode = WAL;").unwrap();
+        run_migrations(&writer).unwrap();
+        writer.execute_batch("CREATE TABLE snapshot_marker (value INTEGER); INSERT INTO snapshot_marker VALUES (1);").unwrap();
+        let db = super::super::DbState(Arc::new(std::sync::Mutex::new(writer)));
+        let state = SearchIndexState::new(None, directory.join("index"), None);
+        let (snapshot, service) = prepare_question_search_snapshot(&db, &state).unwrap();
+        {
+            let writer =
+                db.0.try_lock()
+                    .expect("search must not retain the app database mutex");
+            writer
+                .execute("UPDATE snapshot_marker SET value = 2", [])
+                .unwrap();
+            invalidate_search_index(&state).unwrap();
+        }
+        assert_eq!(
+            snapshot
+                .query_row("SELECT value FROM snapshot_marker", [], |row| row
+                    .get::<_, i64>(0))
+                .unwrap(),
+            1
+        );
+        // Read-only main DB connections still need writable temp FTS tables.
+        snapshot.execute_batch("CREATE VIRTUAL TABLE temp.search_test_tokens USING fts5(word); INSERT INTO temp.search_test_tokens VALUES ('water');").unwrap();
+        let (next, next_service) = prepare_question_search_snapshot(&db, &state).unwrap();
+        assert!(!Arc::ptr_eq(&service, &next_service));
+        assert_eq!(
+            next.query_row("SELECT value FROM snapshot_marker", [], |row| row
+                .get::<_, i64>(0))
+                .unwrap(),
+            2
+        );
+        drop((snapshot, next, service, next_service, state, db));
+        std::fs::remove_dir_all(directory).unwrap();
+    }
 
     fn pending_jobs(conn: &Connection) -> i64 {
         conn.query_row(

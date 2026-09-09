@@ -32,6 +32,19 @@ pub trait EmbeddingEngine: Send + Sync {
     /// Returns an L2-normalised vector of length `self.dimensions()`.
     fn embed_query(&self, text: &str) -> Result<Embedding, EmbeddingError>;
 
+    /// Reject superseded work. Interrupting an active native inference is
+    /// engine-dependent; cancellation does not guarantee immediate preemption.
+    fn embed_query_cancellable(
+        &self,
+        text: &str,
+        cancellation: &crate::search::control::SearchCancellation,
+    ) -> Result<Embedding, EmbeddingError> {
+        cancellation.check().map_err(EmbeddingError::Inference)?;
+        let embedding = self.embed_query(text)?;
+        cancellation.check().map_err(EmbeddingError::Inference)?;
+        Ok(embedding)
+    }
+
     /// Produce embeddings for a batch of document texts.
     ///
     /// Returns one `Embedding` per input text, in the same order.

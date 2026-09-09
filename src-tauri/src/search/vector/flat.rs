@@ -22,10 +22,16 @@ use super::traits::{VectorHit, VectorSearch};
 use crate::search::filters::SearchFilter;
 
 /// Helper for maintaining a bounded min-heap of top-k items.
-#[derive(Debug, Clone, PartialEq)]
+#[derive(Debug, Clone)]
 struct MinHeapItem {
     search_id: u64,
     score: f32,
+}
+
+impl PartialEq for MinHeapItem {
+    fn eq(&self, other: &Self) -> bool {
+        self.cmp(other) == Ordering::Equal
+    }
 }
 
 impl Eq for MinHeapItem {}
@@ -38,11 +44,12 @@ impl PartialOrd for MinHeapItem {
 
 impl Ord for MinHeapItem {
     fn cmp(&self, other: &Self) -> Ordering {
-        // Reverse order so BinaryHeap behaves as a Min-Heap by score
-        self.score
-            .partial_cmp(&other.score)
-            .unwrap_or(Ordering::Equal)
-            .reverse()
+        // The worst retained hit is at the root: lowest score, then highest ID.
+        // Use this same order within chunks and when merging them.
+        other
+            .score
+            .total_cmp(&self.score)
+            .then_with(|| self.search_id.cmp(&other.search_id))
     }
 }
 
@@ -139,16 +146,6 @@ impl FlatExactVectorIndex {
         Self::open(path)
     }
 
-    /// Create an in-memory/tempfile vector index directly from records.
-    pub fn from_records(records: &[VectorRecord]) -> Result<Self, String> {
-        let temp_path = std::env::temp_dir().join(format!(
-            "preploop_vec_{}_{}.bin",
-            std::process::id(),
-            records.len()
-        ));
-        Self::write_new(&temp_path, 1, "bundled", records)
-    }
-
     /// Returns the underlying file path.
     pub fn path(&self) -> &Path {
         &self.path
@@ -201,11 +198,15 @@ impl VectorSearch for FlatExactVectorIndex {
                 query.len()
             ));
         }
+        if query.iter().any(|value| !value.is_finite()) {
+            return Err("Query embedding contains a non-finite value".into());
+        }
         if limit == 0 || self.header.record_count == 0 {
             return Ok(Vec::new());
         }
 
         let num_records = self.header.record_count as usize;
+        let limit = limit.min(num_records);
         let mmap_slice = &self.mmap[HEADER_SIZE..HEADER_SIZE + num_records * RECORD_SIZE];
 
         // For small indexes (< 4000 questions), process directly on single thread to avoid thread scheduling overhead.
@@ -241,12 +242,13 @@ impl VectorSearch for FlatExactVectorIndex {
 
                     let score = dot * inverse_norm;
 
+                    let item = MinHeapItem { search_id, score };
                     if local_heap.len() < limit {
-                        local_heap.push(MinHeapItem { search_id, score });
+                        local_heap.push(item);
                     } else if let Some(min_item) = local_heap.peek() {
-                        if score > min_item.score {
+                        if item < *min_item {
                             local_heap.pop();
-                            local_heap.push(MinHeapItem { search_id, score });
+                            local_heap.push(item);
                         }
                     }
                 }
@@ -259,7 +261,7 @@ impl VectorSearch for FlatExactVectorIndex {
                         if h1.len() < limit {
                             h1.push(item);
                         } else if let Some(min_item) = h1.peek() {
-                            if item.score > min_item.score {
+                            if item < *min_item {
                                 h1.pop();
                                 h1.push(item);
                             }
@@ -294,6 +296,39 @@ mod tests {
 
     fn temp_vector_path(label: &str) -> PathBuf {
         std::env::temp_dir().join(format!("test_vec_{label}_{}.bin", uuid::Uuid::new_v4()))
+    }
+
+    #[test]
+    fn equal_scores_keep_the_lowest_ids_across_scan_chunks() {
+        let path = temp_vector_path("ties");
+        let mut query = vec![0.0; VECTOR_DIMS];
+        query[0] = 1.0;
+        // The preferred IDs occur last, including beyond the first scan chunk.
+        let records = (1..=16_400)
+            .rev()
+            .map(|id| VectorRecord::from_embedding(id, 0, 0, &query).unwrap())
+            .collect::<Vec<_>>();
+        let index = FlatExactVectorIndex::write_new(&path, 1, "test", &records).unwrap();
+        let hits = index.search(&query, &SearchFilter::default(), 3).unwrap();
+        assert_eq!(
+            hits.iter().map(|hit| hit.search_id).collect::<Vec<_>>(),
+            vec![1, 2, 3]
+        );
+        drop(index);
+        std::fs::remove_file(path).unwrap();
+    }
+
+    #[test]
+    fn non_finite_query_embeddings_are_rejected() {
+        let path = temp_vector_path("nonfinite");
+        let index = FlatExactVectorIndex::write_new(&path, 1, "test", &[sample_record()]).unwrap();
+        for invalid in [f32::NAN, f32::INFINITY, f32::NEG_INFINITY] {
+            let mut query = vec![0.0; VECTOR_DIMS];
+            query[0] = invalid;
+            assert!(index.search(&query, &SearchFilter::default(), 10).is_err());
+        }
+        drop(index);
+        std::fs::remove_file(path).unwrap();
     }
 
     #[test]

@@ -29,6 +29,7 @@ export const BACKEND_COMMANDS = {
   save_answer: "save_answer",
   save_settings: "save_settings",
   search_questions: "search_questions",
+  cancel_question_search: "cancel_question_search",
   sync_bundled_question_bank: "sync_bundled_question_bank",
   submit_test: "submit_test",
   toggle_flag: "toggle_flag",
@@ -87,6 +88,7 @@ function validateBackendResult(command: BackendCommand, value: unknown): void {
       "resume_test",
       "update_time_remaining",
       "warm_question_search",
+      "cancel_question_search",
     ].includes(command)
   )
     return;
@@ -147,12 +149,18 @@ function validateBackendResult(command: BackendCommand, value: unknown): void {
 export async function invokeBackend<T>(
   command: BackendCommand,
   args?: Record<string, unknown>,
+  channels?: Record<string, unknown>,
 ): Promise<T> {
   // Commands with a payload expose one `args` parameter; argument-free
   // commands omit the envelope. Centralizing that distinction prevents
   // individual services from nesting a payload incorrectly.
   try {
-    const result: unknown = await invoke(command, args ? { args } : undefined);
+    const payload = channels
+      ? { args, ...channels }
+      : args
+        ? { args }
+        : undefined;
+    const result: unknown = await invoke(command, payload);
     validateBackendResult(command, result);
     return result as T;
   } catch (error) {

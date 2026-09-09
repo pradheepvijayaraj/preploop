@@ -112,6 +112,7 @@ pub fn run() {
             backend::commands::get_question_bank,
             backend::commands::get_question_bank_with_questions,
             backend::commands::search_questions,
+            backend::commands::cancel_question_search,
             backend::commands::warm_question_search,
             backend::commands::delete_question_bank,
             backend::commands::create_test_attempt,

@@ -57,7 +57,8 @@ mod tests {
         assert!(response
             .results
             .windows(2)
-            .all(|pair| pair[0].similarity >= pair[1].similarity));
+            .all(|pair| pair[0].match_strength != pair[1].match_strength
+                || pair[0].similarity >= pair[1].similarity));
     }
 
     fn sample_bank() -> QuestionBank {
@@ -132,7 +133,7 @@ mod tests {
                 |row| Ok((row.get(0)?, row.get(1)?, row.get(2)?)),
             )
             .unwrap();
-        assert_eq!(rows, (1, 1, 6));
+        assert_eq!(rows, (1, 1, 7));
         assert!(conn
             .execute("INSERT INTO schema_version (id, version) VALUES (2, 6)", [])
             .is_err());
@@ -157,7 +158,7 @@ mod tests {
                 |row| row.get(0),
             )
             .unwrap();
-        assert_eq!(version, 6);
+        assert_eq!(version, 7);
         let mark_breakdown_columns: i64 = conn
             .query_row(
                 "SELECT COUNT(*) FROM pragma_table_info('questions') WHERE name = 'mark_breakdown'",
@@ -166,6 +167,50 @@ mod tests {
             )
             .unwrap();
         assert_eq!(mark_breakdown_columns, 1);
+    }
+
+    #[test]
+    fn literal_search_upgrade_backfills_and_tracks_document_mutations() {
+        let mut conn = setup_conn();
+        import_question_bank(&mut conn, &sample_bank()).unwrap();
+        conn.execute(
+            "UPDATE search_documents SET question = 'International cooperation'",
+            [],
+        )
+        .unwrap();
+        // Recreate the state of a populated v6 database before upgrading.
+        conn.execute_batch(
+            "DROP TRIGGER search_literal_ai; DROP TRIGGER search_literal_ad;
+            DROP TRIGGER search_literal_au; DROP TABLE question_literal_fts;
+            UPDATE schema_version SET version = 6 WHERE id = 1;",
+        )
+        .unwrap();
+        run_migrations(&conn).unwrap();
+        run_migrations(&conn).unwrap();
+        let count = |query: &str| {
+            conn.query_row(
+                "SELECT COUNT(*) FROM question_literal_fts WHERE question_literal_fts MATCH ?1",
+                [query],
+                |row| row.get::<_, i64>(0),
+            )
+            .unwrap()
+        };
+        assert_eq!(count("internat*"), 1);
+        conn.execute("UPDATE search_documents SET question = 'Silver Notice'", [])
+            .unwrap();
+        assert_eq!(count("internat*"), 0);
+        assert_eq!(count("silver n*"), 1);
+        // Rollback must undo the index mutation as well as the source change.
+        conn.execute_batch(
+            "BEGIN; UPDATE search_documents SET question = 'Blue Notice'; ROLLBACK;",
+        )
+        .unwrap();
+        assert_eq!(count("silver n*"), 1);
+        assert_eq!(count("blue n*"), 0);
+        conn.execute_batch("INSERT INTO question_literal_fts(question_literal_fts, rank) VALUES ('integrity-check', 1);").unwrap();
+        conn.execute("DELETE FROM search_documents", []).unwrap();
+        assert_eq!(count("silver n*"), 0);
+        conn.execute_batch("INSERT INTO question_literal_fts(question_literal_fts, rank) VALUES ('integrity-check', 1);").unwrap();
     }
 
     #[test]
@@ -216,7 +261,7 @@ mod tests {
                 |row| row.get(0),
             )
             .unwrap();
-        assert_eq!(version_after_retry, 6);
+        assert_eq!(version_after_retry, 7);
         for object in ["search_documents", "question_fts", "search_index_jobs"] {
             let count: i64 = conn
                 .query_row(
@@ -407,53 +452,49 @@ mod tests {
         assert_eq!(tagged_documents, indexed_documents);
         let search_index = SearchIndexState::default();
 
-        // Exact taxonomy labels are exhaustive filters. Their result counts
-        // come from the typed taxonomy stored on each bundled question.
+        // Taxonomy matches remain exhaustive, while literal matches under
+        // other tags are also eligible. Text searches do not imply a tag filter.
         for (main_tag, expected) in &main_tag_counts {
-            let response = search_questions_cached(&conn, &search_index, main_tag, None).unwrap();
-            assert_eq!(
-                response.results.len(),
-                *expected,
-                "incomplete {main_tag} result set"
-            );
-            assert_eq!(response.total_matches, *expected);
-            assert!(response
-                .results
-                .iter()
-                .all(|result| result.main_tag == *main_tag));
-            assert!(response.results.iter().all(|result| {
-                result.match_strength == MatchStrength::Strong
-                    && result.lexical_match
-                    && !result.semantic_match
-            }));
+            for query in [main_tag.clone(), main_tag.to_lowercase()] {
+                let response = search_questions_cached(&conn, &search_index, &query, None).unwrap();
+                let tagged = response
+                    .results
+                    .iter()
+                    .filter(|result| result.main_tag == *main_tag)
+                    .collect::<Vec<_>>();
+                assert_eq!(
+                    tagged.len(),
+                    *expected,
+                    "incomplete {query} taxonomy coverage"
+                );
+                assert_eq!(response.total_matches, response.results.len());
+                assert!(tagged
+                    .iter()
+                    .all(|result| result.match_strength == MatchStrength::Strong
+                        && result.lexical_match));
+            }
         }
 
         for (subtag, expected) in &subtag_counts {
-            // A few essay dimensions intentionally reuse a plain-language
-            // label that is also a main tag (for example, "Culture"). The
-            // exact-query shortcut gives the main tag precedence, so those
-            // ambiguous labels are covered by the main-tag loop above.
-            if main_tag_counts.contains_key(subtag) {
-                continue;
-            }
-            let response = search_questions_cached(&conn, &search_index, subtag, None).unwrap();
-            assert_eq!(
-                response.results.len(),
-                *expected,
-                "incomplete {subtag} result set"
-            );
-            assert_eq!(response.total_matches, *expected);
-            assert!(response.results.iter().all(|result| {
-                result
-                    .subtags
+            // A label shared by a main tag and a subtag includes both groups.
+            for query in [subtag.clone(), subtag.to_lowercase()] {
+                let response = search_questions_cached(&conn, &search_index, &query, None).unwrap();
+                let tagged = response
+                    .results
                     .iter()
-                    .any(|result_subtag| result_subtag == subtag)
-            }));
-            assert!(response.results.iter().all(|result| {
-                result.match_strength == MatchStrength::Strong
-                    && result.lexical_match
-                    && !result.semantic_match
-            }));
+                    .filter(|result| result.subtags.contains(subtag))
+                    .collect::<Vec<_>>();
+                assert_eq!(
+                    tagged.len(),
+                    *expected,
+                    "incomplete {query} subtag coverage"
+                );
+                assert_eq!(response.total_matches, response.results.len());
+                assert!(tagged
+                    .iter()
+                    .all(|result| result.match_strength == MatchStrength::Strong
+                        && result.lexical_match));
+            }
         }
 
         for (section, tag_counts) in &section_main_tag_counts {
@@ -462,12 +503,19 @@ mod tests {
                 let response =
                     search_questions_cached(&conn, &search_index, main_tag, Some(&sections))
                         .unwrap();
-                assert_eq!(response.results.len(), *expected);
-                assert_eq!(response.total_matches, *expected);
+                assert_eq!(
+                    response
+                        .results
+                        .iter()
+                        .filter(|result| result.main_tag == *main_tag)
+                        .count(),
+                    *expected
+                );
+                assert_eq!(response.total_matches, response.results.len());
                 assert!(response
                     .results
                     .iter()
-                    .all(|result| { result.section == *section && result.main_tag == *main_tag }));
+                    .all(|result| result.section == *section));
             }
         }
 
@@ -480,13 +528,31 @@ mod tests {
             .iter()
             .map(|tag| main_tag_counts.get(tag).copied().unwrap_or_default())
             .sum::<usize>();
-        assert_eq!(normalized_taxonomy_query.results.len(), expected_polity);
-        assert!(normalized_taxonomy_query.results.iter().all(|result| {
-            polity_alias
-                .main_tags
+        assert_eq!(
+            normalized_taxonomy_query
+                .results
                 .iter()
-                .any(|tag| tag == &result.main_tag)
-        }));
+                .filter(|result| polity_alias
+                    .main_tags
+                    .iter()
+                    .any(|tag| tag == &result.main_tag))
+                .count(),
+            expected_polity
+        );
+
+        for (query, outside_tag_id) in [
+            ("parliament", "upsc_2025_mains_gs2_q12"),
+            ("climate change", "upsc_2018_mains_essay_q1"),
+        ] {
+            let response = search_questions_cached(&conn, &search_index, query, None).unwrap();
+            assert!(
+                response
+                    .results
+                    .iter()
+                    .any(|result| result.question_id == outside_tag_id),
+                "literal match outside the taxonomy was lost: {query}"
+            );
+        }
 
         let response =
             search_questions_cached(&conn, &search_index, "climate change", None).unwrap();
@@ -506,12 +572,160 @@ mod tests {
         assert_eq!(reused_index.searched_questions, expected_questions);
         assert!(!reused_index.results.is_empty());
 
+        // The reported question must remain visible throughout typing in the
+        // real hybrid stack as well as in the lexical-only regression tests.
+        for query in [
+            "silver",
+            "silver n",
+            "silv not",
+            "silv notcie",
+            "silver no",
+            "silver not",
+            "silver noti",
+            "silver notic",
+            "silver notice",
+            "silver/notice",
+            "silvre notice",
+        ] {
+            let started = std::time::Instant::now();
+            let response =
+                search_questions_cached(&conn, &search_index, query, Some(&["prelims-gs1".into()]))
+                    .unwrap();
+            println!(
+                "Hybrid typing sample: {query:?}, {:.2} ms, {} results",
+                started.elapsed().as_secs_f64() * 1000.0,
+                response.total_matches
+            );
+            let position = response
+                .results
+                .iter()
+                .position(|hit| hit.question_id == "upsc_2026_gs1_q37");
+            assert!(position.is_some(), "reported question disappeared: {query}");
+            if query != "silver" {
+                assert!(
+                    position.unwrap() < 5,
+                    "reported phrase lost rank for {query}: {position:?}"
+                );
+            }
+            assert_confidence_groups_are_ordered(&response);
+        }
+
+        // Broad topic searches must use the embedding model for discovery,
+        // even when a literal word match already exists. These independently
+        // chosen neighbours do not need to repeat the searched word.
+        for (query, related_ids) in [
+            (
+                "silver",
+                &["upsc_2021_gs1_q17", "upsc_2023_gs1_q78", "upsc_2023_gs1_q7"][..],
+            ),
+            ("lithium", &["upsc_2023_gs1_q37", "upsc_2012_gs1_q86"][..]),
+            ("gold", &["upsc_2012_gs1_q86"][..]),
+            ("copper", &["upsc_2023_gs1_q37"][..]),
+            (
+                "photosynthesis",
+                &["upsc_2018_gs1_q65", "upsc_2025_gs1_q40"][..],
+            ),
+        ] {
+            let response =
+                search_questions_cached(&conn, &search_index, query, Some(&["prelims-gs1".into()]))
+                    .unwrap();
+            assert_confidence_groups_are_ordered(&response);
+            assert_eq!(response.results[0].match_strength, MatchStrength::Strong);
+            assert!(response.results[0].lexical_match);
+            for id in related_ids {
+                let hit = response
+                    .results
+                    .iter()
+                    .find(|hit| hit.question_id == *id)
+                    .unwrap_or_else(|| panic!("semantic neighbour {id} missing for {query}"));
+                assert!(hit.semantic_match, "{query}: {id} did not use embeddings");
+                assert!(
+                    !hit.lexical_match,
+                    "{query}: {id} must exercise semantic-only recall"
+                );
+                assert_eq!(hit.match_strength, MatchStrength::Related, "{query}: {id}");
+            }
+            println!(
+                "Topic discovery sample: {query}, {} strong, {} related",
+                response
+                    .results
+                    .iter()
+                    .filter(|hit| hit.match_strength == MatchStrength::Strong)
+                    .count(),
+                response
+                    .results
+                    .iter()
+                    .filter(|hit| hit.match_strength == MatchStrength::Related)
+                    .count()
+            );
+        }
+
+        // Broad minerals terminology and cosine proximity alone do not connect
+        // these questions to the query. Each remains a Strong literal match for
+        // its actual subject; cobalt also has semantic battery-topic coverage above.
+        for (query, unrelated_id, subject) in [
+            ("silver", "upsc_2026_gs1_q60", "rare earth elements"),
+            ("gold", "upsc_2023_gs1_q37", "cobalt"),
+        ] {
+            let response =
+                search_questions_cached(&conn, &search_index, query, Some(&["prelims-gs1".into()]))
+                    .unwrap();
+            assert!(!response
+                .results
+                .iter()
+                .any(|hit| hit.question_id == unrelated_id));
+            let on_topic = search_questions_cached(
+                &conn,
+                &search_index,
+                subject,
+                Some(&["prelims-gs1".into()]),
+            )
+            .unwrap();
+            assert!(on_topic.results.iter().any(|hit| {
+                hit.question_id == unrelated_id
+                    && hit.lexical_match
+                    && hit.match_strength == MatchStrength::Strong
+            }));
+        }
+
         let water = search_questions_cached(&conn, &search_index, "water", None).unwrap();
         assert_confidence_groups_are_ordered(&water);
         assert!(water
             .results
             .iter()
             .all(|result| result.question_id != "upsc_2013_csat_q13"));
+        // Similar cosine scores are not sufficient: these abstract prompts
+        // have no topical connection to water, while dams must remain related.
+        let unrelated_essays = [
+            "upsc_2025_mains_essay_q3",
+            "upsc_2025_mains_essay_q1",
+            "upsc_2021_mains_essay_q6",
+            "upsc_2009_mains_essay_q4",
+            "upsc_2003_mains_essay_q3",
+            "upsc_1996_mains_essay_q5",
+            "upsc_2025_mains_essay_q7",
+        ];
+        let default_sections = [
+            "prelims-gs1",
+            "mains-essay",
+            "mains-gs1",
+            "mains-gs2",
+            "mains-gs3",
+            "mains-gs4",
+        ]
+        .map(str::to_string);
+        for sections in [None, Some(default_sections.as_slice())] {
+            let scoped_water =
+                search_questions_cached(&conn, &search_index, "water", sections).unwrap();
+            assert!(scoped_water
+                .results
+                .iter()
+                .all(|result| !unrelated_essays.contains(&result.question_id.as_str())));
+            assert!(scoped_water
+                .results
+                .iter()
+                .any(|result| result.question_id == "upsc_2023_mains_gs3_q7"));
+        }
         assert!(water
             .results
             .windows(2)

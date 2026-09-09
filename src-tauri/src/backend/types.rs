@@ -328,6 +328,11 @@ pub struct QuestionSearchResponse {
     pub searched_questions: usize,
     pub total_matches: usize,
     pub results: Vec<QuestionSearchResult>,
+    pub corrected_query: Option<String>,
+    pub original_spelling_query: Option<String>,
+    pub highlight_terms: Vec<crate::search::lexical::query_builder::SearchTerm>,
+    pub spelling_alternatives: Vec<String>,
+    pub semantic_status: crate::search::response::SemanticStatus,
 }
 
 #[derive(Debug, Clone, Serialize, Deserialize, PartialEq, Eq)]
@@ -498,11 +503,20 @@ pub struct BankIdArgs {
     pub bank_id: String,
 }
 
-#[derive(Debug, Clone, Deserialize)]
+#[derive(Debug, Default, Clone, Deserialize)]
 #[serde(rename_all = "camelCase")]
 pub struct SearchQuestionsArgs {
     pub query: String,
     pub sections: Option<Vec<String>>,
+    pub client_id: Option<String>,
+    pub request_id: Option<u64>,
+}
+
+#[derive(Debug, Clone, Deserialize)]
+#[serde(rename_all = "camelCase")]
+pub struct CancelQuestionSearchArgs {
+    pub client_id: String,
+    pub request_id: u64,
 }
 
 #[derive(Debug, Clone, Deserialize)]

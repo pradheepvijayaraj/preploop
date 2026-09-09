@@ -28,6 +28,9 @@ pub struct SearchTuning {
     pub semantic_single_term_margin: f32,
     /// Tighter semantic-only band for short queries with lexical evidence.
     pub semantic_with_lexical_margin: f32,
+    /// Broader discovery band for a complete, corpus-supported topic word.
+    /// These additional semantic neighbours remain Related to literal hits.
+    pub semantic_topic_margin: f32,
     /// Recall band for three-term queries with lexical evidence.
     pub semantic_with_lexical_multi_margin: f32,
     /// Recall band for descriptive queries with lexical evidence.
@@ -36,8 +39,6 @@ pub struct SearchTuning {
     pub semantic_multi_term_margin: f32,
     /// Wider margin for descriptive queries whose relevant paraphrases vary.
     pub semantic_descriptive_margin: f32,
-    /// Inner cosine band considered a strong semantic match.
-    pub semantic_strong_margin: f32,
     /// Absolute lower bound applied after the query-level activation check.
     pub semantic_candidate_floor: f32,
 }
@@ -55,11 +56,11 @@ impl Default for SearchTuning {
             semantic_floor_without_lexical: 0.85,
             semantic_single_term_margin: 0.08,
             semantic_with_lexical_margin: 0.05,
+            semantic_topic_margin: 0.085,
             semantic_with_lexical_multi_margin: 0.07,
             semantic_with_lexical_descriptive_margin: 0.09,
             semantic_multi_term_margin: 0.10,
             semantic_descriptive_margin: 0.10,
-            semantic_strong_margin: 0.04,
             semantic_candidate_floor: 0.75,
         }
     }
