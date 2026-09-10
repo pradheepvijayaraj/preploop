@@ -12,6 +12,7 @@ use std::sync::{Arc, RwLock};
 use rusqlite::Connection;
 
 use crate::backend::error::ResultExt;
+use crate::search::vector::reuse::ReusedVectorIndex;
 use crate::search::vector::traits::VectorSearch;
 
 use super::DbResult;
@@ -104,27 +105,22 @@ impl SearchIndexState {
                 return Some(engine.clone());
             }
         }
-        let engine = self
-            .model_path
-            .as_ref()
-            .filter(|path| path.exists())
-            .and_then(|path| {
-                crate::search::embedding::llama_cpp::LlamaCppEmbeddingEngine::new(path)
-                    .ok()
-                    .map(|engine| {
-                        Arc::new(engine)
-                            as Arc<dyn crate::search::embedding::engine::EmbeddingEngine>
-                    })
-            })?;
+        let path = self.model_path.as_ref()?;
+        let engine = match crate::search::embedding::llama_cpp::LlamaCppEmbeddingEngine::new(path) {
+            Ok(engine) => {
+                Arc::new(engine) as Arc<dyn crate::search::embedding::engine::EmbeddingEngine>
+            }
+            Err(error) => {
+                log::warn!("Could not initialize the search embedding model: {error}");
+                return None;
+            }
+        };
         let mut slot = self.embedding_engine.write().ok()?;
         Some(slot.get_or_insert_with(|| engine.clone()).clone())
     }
 
     fn bundled_vector_index(&self) -> Option<crate::search::vector::flat::FlatExactVectorIndex> {
-        let path = self
-            .bundled_vector_path
-            .as_ref()
-            .filter(|path| path.exists())?;
+        let path = self.bundled_vector_path.as_ref()?;
         let manifest_path = path.parent()?.join("manifest.json");
         match crate::search::vector::flat::FlatExactVectorIndex::open_with_manifest(
             path,
@@ -259,18 +255,25 @@ pub fn create_default_search_service(
     conn: &Connection,
     state: &SearchIndexState,
 ) -> Arc<crate::search::service::SearchService> {
-    // A record's search_id is a SQLite row ID. Never apply a generation built
-    // for another database ordering; degrade to lexical search and rebuild.
-    let vector_index = state
-        .active_vector_index()
-        .or_else(|| state.bundled_vector_index())
-        .filter(|index| vector_index_matches_database(conn, index))
-        .or_else(|| {
-            state
-                .bundled_vector_index()
-                .filter(|index| vector_index_matches_database(conn, index))
-        })
-        .map(|index| Arc::new(index) as Arc<dyn crate::search::vector::traits::VectorSearch>);
+    // The shipped IDs belong to the build-time corpus, not this installation.
+    // Bind by content before retrieval so updates, imports and archived paper
+    // revisions cannot attach a vector to the wrong question or disable all
+    // semantic search while a few new documents await embedding.
+    let vector_index = match document_fingerprints(conn) {
+        Ok(documents) => {
+            let sources = state
+                .active_vector_index()
+                .into_iter()
+                .chain(state.bundled_vector_index())
+                .collect();
+            let index = ReusedVectorIndex::new(sources, &documents);
+            (index.count() > 0).then(|| Arc::new(index) as Arc<dyn VectorSearch>)
+        }
+        Err(error) => {
+            log::warn!("Could not bind search vectors to the database: {error}");
+            None
+        }
+    };
 
     let engine = state.embedding_engine();
 
@@ -280,38 +283,39 @@ pub fn create_default_search_service(
     ))
 }
 
-fn matching_record_count(
-    index: &crate::search::vector::flat::FlatExactVectorIndex,
-    fingerprints: &HashMap<u64, u64>,
-) -> usize {
-    let record_count = crate::search::vector::traits::VectorSearch::count(index);
-    (0..record_count)
-        .filter_map(|record_index| index.get_record(record_index).ok())
-        .filter(|record| fingerprints.get(&record.search_id) == Some(&record.fingerprint))
-        .count()
-}
-
+#[cfg(test)]
 fn vector_index_matches_database(
     conn: &Connection,
     index: &crate::search::vector::flat::FlatExactVectorIndex,
 ) -> bool {
-    let Ok(mut stmt) = conn.prepare("SELECT search_id, content_fingerprint FROM search_documents")
-    else {
-        return false;
-    };
-    let Ok(rows) = stmt.query_map([], |row| {
-        Ok((row.get::<_, i64>(0)? as u64, row.get::<_, Vec<u8>>(1)?))
-    }) else {
-        return false;
-    };
-    let fingerprints = rows
-        .flatten()
-        .filter_map(|(search_id, bytes)| {
-            let fingerprint = u64::from_le_bytes(bytes.as_slice().try_into().ok()?);
-            Some((search_id, fingerprint))
-        })
-        .collect::<HashMap<_, _>>();
+    document_fingerprints(conn)
+        .is_ok_and(|documents| vector_index_matches_documents(index, &documents))
+}
 
+fn document_fingerprints(conn: &Connection) -> DbResult<HashMap<u64, u64>> {
+    let mut stmt = conn
+        .prepare("SELECT search_id, content_fingerprint FROM search_documents")
+        .stringify_err()?;
+    let rows = stmt
+        .query_map([], |row| {
+            Ok((row.get::<_, i64>(0)? as u64, row.get::<_, Vec<u8>>(1)?))
+        })
+        .stringify_err()?;
+    rows.map(|row| {
+        let (id, bytes) = row.stringify_err()?;
+        let fingerprint = bytes
+            .as_slice()
+            .try_into()
+            .map_err(|_| LoopError::internal("Invalid search content fingerprint"))?;
+        Ok((id, u64::from_le_bytes(fingerprint)))
+    })
+    .collect()
+}
+
+fn vector_index_matches_documents(
+    index: &crate::search::vector::flat::FlatExactVectorIndex,
+    fingerprints: &HashMap<u64, u64>,
+) -> bool {
     if index.count() != fingerprints.len() {
         return false;
     }
@@ -319,7 +323,7 @@ fn vector_index_matches_database(
     let mut seen_search_ids = std::collections::HashSet::with_capacity(index.count());
     index.record_metadata().all(|(search_id, fingerprint)| {
         seen_search_ids.insert(search_id) && fingerprints.get(&search_id) == Some(&fingerprint)
-    })
+    }) && index.reusable_record_metadata().count() == index.count()
 }
 
 /// Copy the canonical search rows while holding SQLite, then release the
@@ -389,55 +393,36 @@ pub(crate) fn prepare_search_rebuild(
 ) -> DbResult<PreparedSearchRebuild> {
     let active_index = state.active_vector_index();
     let bundled_index = state.bundled_vector_index();
-    let has_compatible_active_index = active_index.is_some();
     let fingerprints = snapshot
         .documents
         .iter()
         .map(|document| (document.search_id, document.fingerprint))
         .collect::<HashMap<_, _>>();
-    let seed_index = match (active_index, bundled_index) {
-        (Some(active), Some(bundled)) => {
-            if matching_record_count(&bundled, &fingerprints)
-                > matching_record_count(&active, &fingerprints)
-            {
-                Some(bundled)
-            } else {
-                Some(active)
-            }
-        }
-        (Some(active), None) => Some(active),
-        (None, Some(bundled)) => Some(bundled),
-        (None, None) => None,
-    };
-    let mut existing = seed_index
-        .as_ref()
-        .and_then(|index| index.records().ok())
-        .unwrap_or_default()
-        .into_iter()
-        .map(|record| (record.search_id, record))
-        .collect::<HashMap<_, _>>();
-
-    let mut records = Vec::new();
-    let mut pending = Vec::new();
-    for document in snapshot.documents {
-        if let Some(record) = existing.remove(&document.search_id) {
-            if record.fingerprint == document.fingerprint {
-                records.push(record);
-                continue;
-            }
-        }
-        pending.push((document.search_id, document.fingerprint, document.text));
-    }
-
-    if has_compatible_active_index
-        && pending.is_empty()
-        && existing.is_empty()
-        && snapshot.queued_jobs == 0
+    if snapshot.queued_jobs == 0
+        && active_index
+            .as_ref()
+            .is_some_and(|index| vector_index_matches_documents(index, &fingerprints))
     {
         return Ok(PreparedSearchRebuild::Noop {
             epoch: snapshot.epoch,
         });
     }
+
+    let reusable = ReusedVectorIndex::new(
+        active_index.into_iter().chain(bundled_index).collect(),
+        &fingerprints,
+    );
+    let mut records = reusable.records()?;
+    let reused_ids = records
+        .iter()
+        .map(|record| record.search_id)
+        .collect::<std::collections::HashSet<_>>();
+    let pending = snapshot
+        .documents
+        .into_iter()
+        .filter(|document| !reused_ids.contains(&document.search_id))
+        .map(|document| (document.search_id, document.fingerprint, document.text))
+        .collect::<Vec<_>>();
 
     if !pending.is_empty() {
         let engine = state.embedding_engine().ok_or_else(|| {
@@ -463,12 +448,25 @@ pub(crate) fn prepare_search_rebuild(
     }
     records.sort_unstable_by_key(|record| record.search_id);
 
-    let next_generation = seed_index
-        .as_ref()
-        .map(|index| {
-            crate::search::vector::traits::VectorSearch::generation(index).saturating_add(1)
-        })
-        .unwrap_or(1);
+    // Never replace a mapped generation, including an abandoned generation
+    // left by an older process. Windows cannot delete memory-mapped files.
+    let mut next_generation = reusable
+        .generation()
+        .checked_add(1)
+        .ok_or_else(|| LoopError::internal("Search generation number exhausted"))?;
+    while state
+        .index_dir
+        .join(format!("generation-{next_generation:03}"))
+        .exists()
+        || state
+            .index_dir
+            .join(format!("generation-{next_generation:03}.tmp"))
+            .exists()
+    {
+        next_generation = next_generation
+            .checked_add(1)
+            .ok_or_else(|| LoopError::internal("Search generation number exhausted"))?;
+    }
     let generation = crate::search::indexing::generation::GenerationManager::stage_generation(
         &state.index_dir,
         next_generation,
@@ -633,6 +631,10 @@ pub fn semantic_tag_coverage(conn: &Connection) -> DbResult<(usize, usize)> {
         .stringify_err()?;
     Ok((tagged, total))
 }
+
+#[cfg(test)]
+#[path = "search_lifecycle_tests.rs"]
+mod lifecycle_tests;
 
 #[cfg(test)]
 mod rebuild_tests {

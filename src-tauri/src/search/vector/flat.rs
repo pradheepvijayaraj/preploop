@@ -175,6 +175,29 @@ impl FlatExactVectorIndex {
             (search_id, fingerprint)
         })
     }
+
+    /// Locations of live embeddings, independent of their original row IDs.
+    pub(crate) fn reusable_record_metadata(&self) -> impl Iterator<Item = (usize, u64)> + '_ {
+        (0..self.count()).filter_map(|index| {
+            let offset = HEADER_SIZE + index * RECORD_SIZE;
+            let record = &self.mmap[offset..offset + 24];
+            let flags = u32::from_le_bytes(record[20..24].try_into().unwrap());
+            if flags & super::format::FLAG_STALE != 0 {
+                return None;
+            }
+            Some((index, u64::from_le_bytes(record[8..16].try_into().unwrap())))
+        })
+    }
+
+    pub(super) fn search_with_ids(
+        &self,
+        query: &[f32],
+        filters: &SearchFilter,
+        limit: usize,
+        record_ids: &[Vec<u64>],
+    ) -> Result<Vec<VectorHit>, String> {
+        self.scan(query, filters, limit, Some(record_ids))
+    }
 }
 
 impl VectorSearch for FlatExactVectorIndex {
@@ -192,6 +215,18 @@ impl VectorSearch for FlatExactVectorIndex {
         filters: &SearchFilter,
         limit: usize,
     ) -> Result<Vec<VectorHit>, String> {
+        self.scan(query, filters, limit, None)
+    }
+}
+
+impl FlatExactVectorIndex {
+    fn scan(
+        &self,
+        query: &[f32],
+        filters: &SearchFilter,
+        limit: usize,
+        record_ids: Option<&[Vec<u64>]>,
+    ) -> Result<Vec<VectorHit>, String> {
         if query.len() != VECTOR_DIMS {
             return Err(format!(
                 "Query dimension mismatch: expected {VECTOR_DIMS}, got {}",
@@ -206,7 +241,8 @@ impl VectorSearch for FlatExactVectorIndex {
         }
 
         let num_records = self.header.record_count as usize;
-        let limit = limit.min(num_records);
+        let bound_count = record_ids.map_or(num_records, |ids| ids.iter().map(Vec::len).sum());
+        let limit = limit.min(bound_count);
         let mmap_slice = &self.mmap[HEADER_SIZE..HEADER_SIZE + num_records * RECORD_SIZE];
 
         // For small indexes (< 4000 questions), process directly on single thread to avoid thread scheduling overhead.
@@ -215,7 +251,8 @@ impl VectorSearch for FlatExactVectorIndex {
 
         let top_candidates: BinaryHeap<MinHeapItem> = mmap_slice
             .par_chunks(chunk_size * RECORD_SIZE)
-            .map(|chunk_bytes| {
+            .enumerate()
+            .map(|(chunk_index, chunk_bytes)| {
                 let records_in_chunk = chunk_bytes.len() / RECORD_SIZE;
                 let mut local_heap: BinaryHeap<MinHeapItem> = BinaryHeap::with_capacity(limit + 1);
 
@@ -228,7 +265,10 @@ impl VectorSearch for FlatExactVectorIndex {
                     }
 
                     let search_id = u64::from_le_bytes(rec_bytes[0..8].try_into().unwrap());
-                    if !filters.allows_search_id(search_id) {
+                    let ids = record_ids.map_or(std::slice::from_ref(&search_id), |mapping| {
+                        mapping[chunk_index * chunk_size + i].as_slice()
+                    });
+                    if !ids.iter().any(|&id| filters.allows_search_id(id)) {
                         continue;
                     }
                     let inverse_norm = f32::from_le_bytes(rec_bytes[16..20].try_into().unwrap());
@@ -242,13 +282,15 @@ impl VectorSearch for FlatExactVectorIndex {
 
                     let score = dot * inverse_norm;
 
-                    let item = MinHeapItem { search_id, score };
-                    if local_heap.len() < limit {
-                        local_heap.push(item);
-                    } else if let Some(min_item) = local_heap.peek() {
-                        if item < *min_item {
-                            local_heap.pop();
+                    for &search_id in ids.iter().filter(|&&id| filters.allows_search_id(id)) {
+                        let item = MinHeapItem { search_id, score };
+                        if local_heap.len() < limit {
                             local_heap.push(item);
+                        } else if let Some(min_item) = local_heap.peek() {
+                            if item < *min_item {
+                                local_heap.pop();
+                                local_heap.push(item);
+                            }
                         }
                     }
                 }
